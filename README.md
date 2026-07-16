@@ -65,11 +65,11 @@ Feeds fail independently — one dead source never breaks the build. The build o
 
 ## Things worth knowing
 
-- **Schedule drift:** GitHub's cron can run a few minutes late at busy times. The ticker shows the actual build time.
+- **Schedule drift:** GitHub's cron can run a few minutes late at busy times.
 - **Scheduled-workflow sleep:** GitHub disables cron workflows in repos with no activity for 60 days. The data commits normally keep it alive, but if GitHub emails you about it, one click re-enables.
 - **Retention:** change `RETENTION_DAYS` in [build.js](build.js).
 - **Cadence:** change the cron in [.github/workflows/build.yml](.github/workflows/build.yml) *and* the "every four hours" copy in [lib/render.js](lib/render.js) if you alter it.
 
 ## Brand
 
-The identity is **Honours Even** — chalk paper, ink, pitch green, old gold; Newsreader for headlines. A nil-all draw favours nobody: no club, no agenda, every side of the story. The green ticker is the one inheritance from the teletext concept; language chips mark world sources in their own tongue.
+The identity is **Honours Even** — chalk paper, ink, pitch green, old gold; Newsreader for headlines. A nil-all draw favours nobody: no club, no agenda, every side of the story. Language chips mark world sources in their own tongue.
