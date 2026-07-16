@@ -1,6 +1,54 @@
 {
  "stories": [
   {
+   "id": "ee27383d49a6",
+   "title": "From risk of death to the oldest man at World Cup",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5yz5nnx2jro",
+   "snippet": "How Craig Gordon's career - which ended today - had been a series of comebacks and the 43-year-old's World Cup inclusion for Scotland seemed an impossible dream only a few months ago.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "lang": "en",
+   "section": "world",
+   "published": "2026-07-16T10:16:51.000Z",
+   "firstSeen": "2026-07-16T10:27:30.420Z"
+  },
+  {
+   "id": "5cc625cad67e",
+   "title": "Shankland not feeling pressure at Rangers",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c77gld14ke7o",
+   "snippet": "Lawrence Shankland does not feel \"too much pressure\" to establish himself at Rangers as he has \"always wanted to prove myself\".",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "lang": "en",
+   "section": "world",
+   "published": "2026-07-16T10:08:52.000Z",
+   "firstSeen": "2026-07-16T10:27:30.420Z"
+  },
+  {
+   "id": "1da765f3da52",
+   "title": "MLS return storylines: Berhalter’s future, Son’s goal drought and what’s next for Messi?",
+   "link": "https://www.theguardian.com/football/2026/jul/16/mls-return-storylines-messi-son-berhalter",
+   "snippet": "The league is back in play after a six-week pause for the World Cup. We spotlight seven players to watch after their stints with their national teams The 2026 MLS season resumes Thursday, cleverly holding its return on the days between the…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "lang": "en",
+   "section": "world",
+   "published": "2026-07-16T10:00:35.000Z",
+   "firstSeen": "2026-07-16T10:27:30.420Z"
+  },
+  {
+   "id": "007378218798",
+   "title": "Giuliano Simeone si commuove parlando di Messi: \"Ha 39 anni, eppure...\"",
+   "link": "https://video.gazzetta.it/calcio/video-inghilterra-argentina-giuliano-simeone-si-commuove-parlando-di-messi/2f842bfe-79ab-4b28-ac1a-36f08a8e2xlk",
+   "snippet": "Dopo la vittoria dell'Argentina nella semifinale del Mondiale contro l'Inghilterra, Giuliano Simeone si è commosso parlando di Messi e della sua voglia di competere ad altri livelli nonostante l'età e i tantissimi trofei già vinti in…",
+   "source": "Gazzetta dello Sport",
+   "sourceId": "gazzetta",
+   "lang": "it",
+   "section": "world",
+   "published": "2026-07-16T10:00:34.000Z",
+   "firstSeen": "2026-07-16T10:27:30.420Z"
+  },
+  {
    "id": "0d2617ba52c9",
    "title": "England player ratings: Spence shines but Bellingham, Rice and Kane fail to deliver",
    "link": "https://www.skysports.com/football/news/12040/13562938/england-vs-argentina-player-ratings-djed-spence-shines-for-three-lions-but-jude-bellingham-declan-rice-and-harry-kane-fail-to-deliver",
@@ -121,6 +169,18 @@
    "firstSeen": "2026-07-16T10:00:02.679Z"
   },
   {
+   "id": "65512ebdad3c",
+   "title": "El Sevilla retrasa todo lo que puede su decisión sobre Patrik Mercado",
+   "link": "https://www.mundodeportivo.com/futbol/sevilla/20260716/1004207025/sevilla-retrasa-decision-sobre-patrik-mercado.html",
+   "snippet": "El Sevilla FC tiene un espinoso asunto entre manos que de alguna manera condiciona toda la planificación además en medio de una crisis económica galopante. El club cerró, en una gestión de Antonio Cordón, un acuerdo con el Independiente…",
+   "source": "Mundo Deportivo",
+   "sourceId": "mundo-deportivo",
+   "lang": "es",
+   "section": "world",
+   "published": "2026-07-16T09:56:20.000Z",
+   "firstSeen": "2026-07-16T10:27:30.420Z"
+  },
+  {
    "id": "a8c75440bf13",
    "title": "Icardi, idea low cost per la Serie A dopo l'addio al Galatasaray dell'ex bomber dell'Inter",
    "link": "https://www.gazzetta.it/Calciomercato/16-07-2026/icardi-lascia-il-galatasaray-puo-interessare-il-mercato-della-serie-a.shtml",
@@ -131,6 +191,30 @@
    "section": "world",
    "published": "2026-07-16T09:56:11.000Z",
    "firstSeen": "2026-07-16T10:00:02.679Z"
+  },
+  {
+   "id": "d7cafb4f9ddd",
+   "title": "Los partidos contra el Birmingham City y el Gamper, por Barça Play",
+   "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004207023/partidos-birmingham-city-gamper-barca-play.html",
+   "snippet": "La pretemporada del Barça acaba de arrancar y la plantilla se encamina ya hacia la gira en Inglaterra. Del 27 de julio al 3 de agosto, la plantilla hará un stage en St. George’s Park (Inglaterra) y aunque se estrenará el viernes 24 de…",
+   "source": "Mundo Deportivo",
+   "sourceId": "mundo-deportivo",
+   "lang": "es",
+   "section": "world",
+   "published": "2026-07-16T09:54:24.000Z",
+   "firstSeen": "2026-07-16T10:27:30.420Z"
+  },
+  {
+   "id": "b426c7719b8c",
+   "title": "\"No sé si por ego, o por orgullo, tenía la espinita clavada de devolver el cariño\"",
+   "link": "https://www.mundodeportivo.com/futbol/ud-las-palmas/20260716/1004207024/no-ego-orgullo-tenia-espinita-clavada-devolver-carino.html",
+   "snippet": "El jugador cántabro Sergio Ruiz manifestó este jueves, en su presentación oficial con la UD Las Palmas, que quiere \"volver a disfrutar jugando al fútbol\" y el equipo amarillo, al que regresa cuatro años y medio después, es el \"mejor sitio…",
+   "source": "Mundo Deportivo",
+   "sourceId": "mundo-deportivo",
+   "lang": "es",
+   "section": "world",
+   "published": "2026-07-16T09:50:35.000Z",
+   "firstSeen": "2026-07-16T10:27:30.420Z"
   },
   {
    "id": "a7825d30f57a",
@@ -145,6 +229,18 @@
    "firstSeen": "2026-07-16T10:00:02.679Z"
   },
   {
+   "id": "6a217d144039",
+   "title": "Mercato : libre depuis son départ de Lille, Aïssa Mandi s'engage pour deux saisons à Levante",
+   "link": "https://www.lequipe.fr/Football/Actualites/Mercato-libre-depuis-son-depart-de-lille-aissa-mandi-s-engage-pour-deux-saisons-a-levante/1704726",
+   "snippet": "Après la fin de son aventure à Lille, Aïssa Mandi retrouve la Liga. Le défenseur algérien de 34 ans a signé un contrat de deux ans avec Levante.",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-16T09:45:03.000Z",
+   "firstSeen": "2026-07-16T10:27:30.420Z"
+  },
+  {
    "id": "8652ae531836",
    "title": "World Cup 2026: Tuchel takes blame amid speculation over England future; Argentina players criticised for banner – live",
    "link": "https://www.theguardian.com/football/live/2026/jul/16/world-cup-2026-argentina-break-england-hearts-and-head-for-final-with-spain-live",
@@ -157,6 +253,18 @@
    "firstSeen": "2026-07-16T10:00:02.679Z"
   },
   {
+   "id": "a6955502a18d",
+   "title": "Brentford conservera son nouveau maillot jusqu'en 2027-2028",
+   "link": "https://www.lequipe.fr/Football/Actualites/Brentford-conservera-son-nouveau-maillot-jusqu-en-2027-2028/1704723",
+   "snippet": "Dans une volonté de rendre ses produits plus accessibles et en mettant en avant une démarche écologique, Brentford a annoncé mercredi que son nouveau maillot serait porté jusqu'à la fin de la saison 2027-2028. Un geste à rebours de la…",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-16T09:41:28.000Z",
+   "firstSeen": "2026-07-16T10:27:30.420Z"
+  },
+  {
    "id": "b701b69033c0",
    "title": "Piers Mogan arrasador com Argentina após polémico cartaz: «Idiotas sem classe!»",
    "link": "https://www.record.pt/internacional/competicoes-de-selecoes/mundial/mundial-2026/detalhe/piers-mogan-arrasador-com-argentina-apos-polemico-cartaz-idiotas-sem-classe",
@@ -167,6 +275,18 @@
    "section": "world",
    "published": "2026-07-16T09:41:17.000Z",
    "firstSeen": "2026-07-16T10:00:02.679Z"
+  },
+  {
+   "id": "f3a58b5192c3",
+   "title": "El nuevo dueño del Real Zaragoza ahonda en el vínculo con el Atlético de Madrid",
+   "link": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260716/1004207020/nuevo-dueno-real-zaragoza-ahonda-vinculo-atletico-madrid.html",
+   "snippet": "La plataforma de inversión A.GAIN, que tiene participaciones en clubes de distintos países, entre ellos el Atlético de Madrid y el Racing de Santander, será el accionista mayoritario del Real Zaragoza, según anunció este jueves el club…",
+   "source": "Mundo Deportivo",
+   "sourceId": "mundo-deportivo",
+   "lang": "es",
+   "section": "world",
+   "published": "2026-07-16T09:40:45.000Z",
+   "firstSeen": "2026-07-16T10:27:30.420Z"
   },
   {
    "id": "a8fd287483c0",
@@ -193,6 +313,30 @@
    "firstSeen": "2026-07-16T10:00:02.679Z"
   },
   {
+   "id": "316a09e8a46c",
+   "title": "Los nombres que el Málaga tiene en su agenda",
+   "link": "https://www.mundodeportivo.com/futbol/malaga/20260716/1004207021/nombres-malaga-agenda.html",
+   "snippet": "El Málaga necesita reforzar algunos puestos tras las tres operaciones que ha hecho hasta el momento, las renovaciones de Einar Galilea y Eneko Jauegui y la incorporación a coste cero de Fernando Calero, que vuelve al club en cuya cantera…",
+   "source": "Mundo Deportivo",
+   "sourceId": "mundo-deportivo",
+   "lang": "es",
+   "section": "world",
+   "published": "2026-07-16T09:36:56.000Z",
+   "firstSeen": "2026-07-16T10:27:30.420Z"
+  },
+  {
+   "id": "8a2cde6a7904",
+   "title": "El Levante refuerza la zaga con Aïssa Mandi",
+   "link": "https://www.mundodeportivo.com/futbol/levante/20260716/1004207015/levante-refuerza-zaga-aissa-mandi.html",
+   "snippet": "El Levante ha oficializado la incorporación del central argelino Aïssa Mandi para las próximas dos campañas, según anunció el club valenciano este jueves.",
+   "source": "Mundo Deportivo",
+   "sourceId": "mundo-deportivo",
+   "lang": "es",
+   "section": "world",
+   "published": "2026-07-16T09:36:00.000Z",
+   "firstSeen": "2026-07-16T10:27:30.420Z"
+  },
+  {
    "id": "2c2e5a5f4ed8",
    "title": "Le LOSC effectuera un stage de cinq jours en Allemagne début août",
    "link": "https://www.lequipe.fr/Football/Actualites/Le-losc-effectuera-un-stage-de-cinq-jours-en-allemagne-debut-aout/1704719",
@@ -203,6 +347,42 @@
    "section": "world",
    "published": "2026-07-16T09:35:49.000Z",
    "firstSeen": "2026-07-16T10:00:02.679Z"
+  },
+  {
+   "id": "40006a3f6150",
+   "title": "Giuliano Simeone, sobre la final ante España: \"Ahora tenemos que ir con todo\"",
+   "link": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260716/1004207016/giuliano-simeone-sobre-final-espana.html",
+   "snippet": "Giuliano Simeone, titular este miércoles en la victoria de Argentina por 2-1 ante Inglaterra en las semifinales del Mundial 2026, destacó la entrega de su equipo para revertir el resultado y ya se mostró enfocado para la final del próximo…",
+   "source": "Mundo Deportivo",
+   "sourceId": "mundo-deportivo",
+   "lang": "es",
+   "section": "world",
+   "published": "2026-07-16T09:31:48.000Z",
+   "firstSeen": "2026-07-16T10:27:30.420Z"
+  },
+  {
+   "id": "81fbedf0fd2f",
+   "title": "Así es la tercera equipación del Sevilla 26-27",
+   "link": "https://www.mundodeportivo.com/futbol/sevilla/20260716/1004207013/asi-tercera-equipacion-sevilla-26-27.html",
+   "snippet": "El Sevilla FC ha presentado este jueves la tercera y última equipación oficial de cara a la temporada 26-27. Después de las clásicas primera y segunda equipaciones, de color blanco y rojo, respectivamente, tanto la entidad como el…",
+   "source": "Mundo Deportivo",
+   "sourceId": "mundo-deportivo",
+   "lang": "es",
+   "section": "world",
+   "published": "2026-07-16T09:31:37.000Z",
+   "firstSeen": "2026-07-16T10:27:30.420Z"
+  },
+  {
+   "id": "b332796473b2",
+   "title": "El desprecio de Meunier al Valencia: \"Siempre quieres luchar por títulos\"",
+   "link": "https://www.mundodeportivo.com/futbol/valencia/20260716/1004207018/desprecio-meunier-valencia-siempre-quieres-luchar-titulos.html",
+   "snippet": "El Valencia se ha quedado sin uno de los refuerzos que tenía prácticamente cerrados para este mercado de verano y, encima, en una demarcación prioritaria como el lateral derecho. El belga Thomas Meunier, que se encontraba libre desde el…",
+   "source": "Mundo Deportivo",
+   "sourceId": "mundo-deportivo",
+   "lang": "es",
+   "section": "world",
+   "published": "2026-07-16T09:31:26.000Z",
+   "firstSeen": "2026-07-16T10:27:30.420Z"
   },
   {
    "id": "d6eca61a0d45",
