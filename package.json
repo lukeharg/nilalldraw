@@ -1,0 +1,17 @@
+{
+  "name": "nilalldraw",
+  "version": "1.0.0",
+  "description": "NilAllDraw — football news, honours even. Static aggregator for nilalldraw.com.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.js",
+    "serve": "npx serve dist"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

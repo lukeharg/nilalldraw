@@ -1,0 +1,107 @@
+{
+  "comment": "Curated sources. Section-specific feeds are listed before general ones so a story that appears in both lands in its specific section (dedupe keeps the first sighting). linkFilter keeps only items whose URL contains the substring.",
+  "feeds": [
+    {
+      "id": "bbc-premier-league",
+      "name": "BBC Sport",
+      "lang": "en",
+      "section": "premier-league",
+      "url": "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml"
+    },
+    {
+      "id": "guardian-premier-league",
+      "name": "The Guardian",
+      "lang": "en",
+      "section": "premier-league",
+      "url": "https://www.theguardian.com/football/premierleague/rss"
+    },
+    {
+      "id": "bbc-champions-league",
+      "name": "BBC Sport",
+      "lang": "en",
+      "section": "champions-league",
+      "url": "https://feeds.bbci.co.uk/sport/football/champions-league/rss.xml"
+    },
+    {
+      "id": "guardian-champions-league",
+      "name": "The Guardian",
+      "lang": "en",
+      "section": "champions-league",
+      "url": "https://www.theguardian.com/football/championsleague/rss"
+    },
+    {
+      "id": "bbc-football",
+      "name": "BBC Sport",
+      "lang": "en",
+      "section": "world",
+      "url": "https://feeds.bbci.co.uk/sport/football/rss.xml"
+    },
+    {
+      "id": "guardian-football",
+      "name": "The Guardian",
+      "lang": "en",
+      "section": "world",
+      "url": "https://www.theguardian.com/football/rss"
+    },
+    {
+      "id": "sky-sports",
+      "name": "Sky Sports",
+      "lang": "en",
+      "section": "world",
+      "url": "https://www.skysports.com/rss/12040",
+      "linkFilter": "/football/"
+    },
+    {
+      "id": "fourfourtwo",
+      "name": "FourFourTwo",
+      "lang": "en",
+      "section": "world",
+      "url": "https://www.fourfourtwo.com/feeds/all"
+    },
+    {
+      "id": "football-italia",
+      "name": "Football Italia",
+      "lang": "en",
+      "section": "world",
+      "url": "https://football-italia.net/feed/"
+    },
+    {
+      "id": "marca",
+      "name": "Marca",
+      "lang": "es",
+      "section": "world",
+      "url": "https://e00-marca.uecdn.es/rss/futbol/primera-division.xml"
+    },
+    {
+      "id": "mundo-deportivo",
+      "name": "Mundo Deportivo",
+      "lang": "es",
+      "section": "world",
+      "url": "https://www.mundodeportivo.com/feed/rss/futbol"
+    },
+    {
+      "id": "gazzetta",
+      "name": "Gazzetta dello Sport",
+      "lang": "it",
+      "section": "world",
+      "url": "https://www.gazzetta.it/dynamic-feed/rss/section/last.xml",
+      "linkFilter": ["calcio"],
+      "linkExclude": ["/scommesse/"]
+    },
+    {
+      "id": "lequipe",
+      "name": "L'Équipe",
+      "lang": "fr",
+      "section": "world",
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/"
+    },
+    {
+      "id": "record",
+      "name": "Record",
+      "lang": "pt",
+      "section": "world",
+      "url": "https://www.record.pt/rss",
+      "linkFilter": ["/futebol/", "/internacional/", "/mercado/"]
+    }
+  ]
+}
