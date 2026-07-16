@@ -169,6 +169,9 @@ async function main() {
     console.error("Every feed failed — refusing to publish an empty edition.");
     process.exit(1);
   }
+  // rss-parser leaves sockets open (undestroyed requests on timeout/redirect),
+  // which keeps the event loop alive forever; everything is written by now.
+  process.exit(0);
 }
 
 main().catch((err) => {
