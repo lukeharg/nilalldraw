@@ -1,6 +1,810 @@
 {
  "stories": [
   {
+   "id": "e07c16079023",
+   "title": "La valoración de Terzic sobre sus tres primeros partidos al frente del Athletic",
+   "link": "https://www.mundodeportivo.com/futbol/athletic-bilbao/20260723/1004209345/valoracion-terzic-sobre-tres-primeros-partidos-frente-athletic.html",
+   "snippet": "El nuevo Athletic de Edin Terzic va dando pasos para llegar en la mejor condición posible al primer partido de la temporada 2026-27, el 22 de agosto contra el Sevilla en San Mamés. Hasta ahora, los leones han jugado tres amistosos con…",
+   "source": "Mundo Deportivo",
+   "sourceId": "mundo-deportivo",
+   "lang": "es",
+   "section": "world",
+   "published": "2026-07-23T08:59:00.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "4a03bf58a74a",
+   "title": "El Atlético refuerza a su filial con un experimentado guardameta que obliga a salidas",
+   "link": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260723/1004209343/atletico-refuerza-filial-experimentado-guardameta-obliga-salidas.html",
+   "snippet": "El filial del Atlético de Madrid, el Atlético Madrileño, intentará el asalto a la Segunda división con muchas caras nuevas. La última en confirmarse, la del Ander Astralaga, quien defenderá la portería del cuadro colchonero hasta el 30 de…",
+   "source": "Mundo Deportivo",
+   "sourceId": "mundo-deportivo",
+   "lang": "es",
+   "section": "world",
+   "published": "2026-07-23T08:54:57.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "43c610b2caf0",
+   "title": "Francia anuncia la fecha en la que presentará a su nuevo seleccionador sin decir su nombre",
+   "link": "https://www.mundodeportivo.com/futbol/fichajes/20260723/1004209339/francia-anuncia-fecha-presentara-nuevo-seleccionador-decir-nombre.html",
+   "snippet": "La Federación Francesa de Fútbol (FFF) celebrará una rueda de prensa el martes 28 de julio a las 11:00 horas para presentar a los medios de comunicación al \"próximo seleccionador de la selección francesa\", según ha anunciado este organismo…",
+   "source": "Mundo Deportivo",
+   "sourceId": "mundo-deportivo",
+   "lang": "es",
+   "section": "world",
+   "published": "2026-07-23T08:53:20.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "9e789a24b028",
+   "title": "La FFF annonce une conférence de presse mardi 28 juillet pour introniser Zinédine Zidane comme nouveau sélectionneur de l'équipe de France",
+   "link": "https://www.lequipe.fr/Football/Actualites/La-fff-annonce-une-conference-de-presse-mardi-28-juillet-pour-introniser-zinedine-zidane-comme-nouveau-selectionneur-de-l-equipe-de-france/1706471",
+   "snippet": "Le nom du prochain sélectionneur de l'équipe de France va être officiellement dévoilé mardi prochain à 11 heures au plus tard. La Fédération française a annoncé la tenue d'une conférence de presse pour confirmer Zinédine Zidane comme…",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-23T08:48:40.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "e64838e1b391",
+   "title": "Malagò coy on Guardiola, rules out Italy announcement today",
+   "link": "https://football-italia.net/malago-coy-guardiola-no-italy-announcement/",
+   "snippet": "FIGC President Giovanni Malagò suggests there will be no announcement today regarding the new Italy...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "lang": "en",
+   "section": "world",
+   "published": "2026-07-23T08:41:52.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "1bda6a4b43fb",
+   "title": "\"Il caso Balogun non finisca sotto al tappeto\": reclamo della Norvegia sulla telefonata Trump-Infantno",
+   "link": "https://www.gazzetta.it/Calcio/Mondiali/23-07-2026/balogun-norvegia-ricorso.shtml",
+   "snippet": "L'annuncio al Times della numero uno della Federazione, Klaveness, che ha annunciato un esposto al comitato etico Fifa: \"Aggirare le regole mette a repentaglio l'intero gioco\"",
+   "source": "Gazzetta dello Sport",
+   "sourceId": "gazzetta",
+   "lang": "it",
+   "section": "world",
+   "published": "2026-07-23T08:35:47.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "df3f76a59072",
+   "title": "«Une chance d'avoir Griezmann» pour Maxime Crépeau, coéquipier du Français.",
+   "link": "https://www.lequipe.fr/Football/Video/Mls-c-est-une-chance-d-avoir-griezmann-confie-maxime-crepeau-son-coequipier-a-orlando/20238086",
+   "snippet": "",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-23T08:35:00.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "f821cf3c391e",
+   "title": "Fútbol o póker: Neymar desata un nuevo escándalo en el Santos",
+   "link": "https://www.mundodeportivo.com/futbol/internacional/20260723/1004209335/futbol-poker-neymar-desata-nuevo-escandalo-santos.html",
+   "snippet": "Tal como anticipó en exclusiva MD, Neymar decidió finamente volver al Santos y cumplir su contrato. Es por eso que el viernes pasado reapareció por Vila Belmir para empezar con trabajos internos (academia/gimnasio) y no jugar de inmediato.",
+   "source": "Mundo Deportivo",
+   "sourceId": "mundo-deportivo",
+   "lang": "es",
+   "section": "world",
+   "published": "2026-07-23T08:33:30.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "62aae23b9837",
+   "title": "El Athletic presenta su tercera equipación para la temporada 26-27",
+   "link": "https://www.mundodeportivo.com/futbol/athletic-bilbao/20260723/1004209336/athletic-presenta-tercera-equipacion-temporada-26-27.html",
+   "snippet": "El Athletic ha hecha pública la tercera equipación para la temporada que comenzará dentro de un mes con el partido ante el Sevilla en San Mamés. La nueva camiseta es de color azul celeste e incorpora líneas blancas oblicuas y horizontales…",
+   "source": "Mundo Deportivo",
+   "sourceId": "mundo-deportivo",
+   "lang": "es",
+   "section": "world",
+   "published": "2026-07-23T08:32:49.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "66acddac415f",
+   "title": "Festa bem portuguesa em St. Gallen: «O Benfica vai jogar em casa»",
+   "link": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/festa-bem-portuguesa-em-st-gallen-o-benfica-vai-jogar-em-casa",
+   "snippet": "Presidente da Casa do Benfica de Rorschach prevê enchente no estádio",
+   "source": "Record",
+   "sourceId": "record",
+   "lang": "pt",
+   "section": "world",
+   "published": "2026-07-23T08:31:42.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "da247ecdd2ee",
+   "title": "LIVE Chi sarà il ct dell'Italia? Oggi Maldini e Malagò a Milano per l'assemblea di Lega",
+   "link": "https://www.gazzetta.it/Calcio/Nazionale/23-07-2026/ct-italia-malago-maldini-club-diretta.shtml",
+   "snippet": "Tanti i temi che saranno affrontati in Assemblea oggi: dal nuovo corso della Nazionale al campionato che inizierà tra un mese",
+   "source": "Gazzetta dello Sport",
+   "sourceId": "gazzetta",
+   "lang": "it",
+   "section": "world",
+   "published": "2026-07-23T08:28:34.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "7c7cf306c11f",
+   "title": "El Atlético Madrileño arranca, estos son los jugadores a las órdenes de Torres",
+   "link": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260723/1004209330/atletico-madrileno-arranca-son-jugadores-ordenes-torres.html",
+   "snippet": "El nuevo proyecto del Atlético Madrileño ya camina de forma oficial. Este mismo jueves 23 de julio, el plantel se ha calzado las botas en el Centro Deportivo de Alcalá de Henares para arrancar los entrenamientos estivales. No hay tiempo…",
+   "source": "Mundo Deportivo",
+   "sourceId": "mundo-deportivo",
+   "lang": "es",
+   "section": "world",
+   "published": "2026-07-23T08:22:53.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "ef3b32bad4b3",
+   "title": "Mercado a mexer: siga todos os rumores e confirmações",
+   "link": "https://www.record.pt/mercado/detalhe/20260723-080346-mercado-a-mexer-siga-todos-os-rumores-e-confirmacoes",
+   "snippet": "Acompanhe as movimentações em Portugal e nos principais campeonatos",
+   "source": "Record",
+   "sourceId": "record",
+   "lang": "pt",
+   "section": "world",
+   "published": "2026-07-23T08:22:00.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "ecef9f506267",
+   "title": "Benfica lembra adeptos que se encontra \"sob pena suspensa\" e deixa apelo sobre comportamento",
+   "link": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/benfica-lembra-adeptos-que-se-encontra-sob-pena-suspensa-e-deixa-apelo-sobre-comportamento",
+   "snippet": "Águias defrontam St. Gallen esta quinta-feira (19H) para a Liga Europa",
+   "source": "Record",
+   "sourceId": "record",
+   "lang": "pt",
+   "section": "world",
+   "published": "2026-07-23T08:19:00.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "a2c623bf0394",
+   "title": "Cagliari, Pisacane blinda Caprile: “È uno dei nostri leader”",
+   "link": "https://www.cagliaricalcio-news.it/calciomercato/mercato-cagliari/pisacane-blinda-caprile-spero-di-iniziare-il-campionato-con-lui-tra-i-pali/?intcmp=gazzanet-cagliaricalcionews",
+   "snippet": "Il mister dei \"casteddu\" vuole il portiere ex Napoli a tutti i costi",
+   "source": "Gazzetta dello Sport",
+   "sourceId": "gazzetta",
+   "lang": "it",
+   "section": "world",
+   "published": "2026-07-23T08:15:03.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "bb835b9d79c8",
+   "title": "Stankovic al fantacalcio: quotazione e statistiche del nuovo centrocampista dell'Inter",
+   "link": "https://www.gazzetta.it/calcio/fantanews/consigli-fantacalcio/centrocampisti-consigliati/23-07-2026/stankovic-fantacalcio-quotazione-statistiche-nuovo-centrocampista-inter.shtml",
+   "snippet": "I nerazzurri hanno esercitato l'opzione di riacquisto per il serbo, versando 23 milioni nelle casse del Bruges. Ecco i suoi numeri nelle competizioni principali",
+   "source": "Gazzetta dello Sport",
+   "sourceId": "gazzetta",
+   "lang": "it",
+   "section": "world",
+   "published": "2026-07-23T08:15:02.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "26a658eaf600",
+   "title": "Quel bilan pour les grands joueurs devenus sélectionneurs ?",
+   "link": "https://www.lequipe.fr/Football/Article/Maradona-platini-van-basten-comme-zidane-et-deschamps-ces-grands-joueurs-devenus-selectionneurs/1706393",
+   "snippet": "",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-23T08:15:00.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "eb4f87897e52",
+   "title": "Liberali al fantacalcio: quotazione e statistiche del nuovo centrocampista del Como",
+   "link": "https://www.gazzetta.it/calcio/fantanews/consigli-fantacalcio/centrocampisti-consigliati/23-07-2026/liberali-fantacalcio-quotazione-statistiche-nuovo-centrocampista-como.shtml",
+   "snippet": "Dopo l'ultima stagione in B con il Catanzaro, il classe 2007 arriva nella squadra di Fabregas. Ecco i suoi numeri",
+   "source": "Gazzetta dello Sport",
+   "sourceId": "gazzetta",
+   "lang": "it",
+   "section": "world",
+   "published": "2026-07-23T08:14:43.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "0c30e5c9d0c2",
+   "title": "Gonçalo Ramos al fantacalcio: quotazione e statistiche del nuovo attaccante del Milan",
+   "link": "https://www.gazzetta.it/calcio/fantanews/consigli-fantacalcio/attaccanti-consigliati/23-07-2026/goncalo-ramos-fantacalcio-quotazione-statistiche-nuovo-attaccante-milan.shtml",
+   "snippet": "Dopo tre stagioni in Ligue 1 con la maglia del Psg, il portoghese approda in rossonero. Ecco i suoi numeri nelle competizioni principali",
+   "source": "Gazzetta dello Sport",
+   "sourceId": "gazzetta",
+   "lang": "it",
+   "section": "world",
+   "published": "2026-07-23T08:14:03.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "cf3b40b46c8e",
+   "title": "Fazzini al fantacalcio: quotazione e statistiche del nuovo centrocampista del Cagliari",
+   "link": "https://www.gazzetta.it/calcio/fantanews/consigli-fantacalcio/centrocampisti-consigliati/23-07-2026/fazzini-fantacalcio-quotazione-statistiche-nuovo-centrocampista-cagliari.shtml",
+   "snippet": "Dopo l'ultima stagione complicata con la Fiorentina, il classe 2003 vuole rilanciarsi in rossoblù con Pisacane. Ecco i suoi numeri",
+   "source": "Gazzetta dello Sport",
+   "sourceId": "gazzetta",
+   "lang": "it",
+   "section": "world",
+   "published": "2026-07-23T08:13:50.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "3c9d15aa7a91",
+   "title": "Politano: \"Napoli, l'Arezzo è la nostra bestia nera. Allegri diverso da Conte per un aspetto...\"",
+   "link": "https://www.calcionapoli1926.it/ultimissime-calcio-napoli/politano-a-sky-piano-piano-faremo-meglio-allegri-con-lui-siamo-contenti/?intcmp=gazzanet-calcionapoli1926",
+   "snippet": "L'esterno azzurro racconta come sta andando il ritiro",
+   "source": "Gazzetta dello Sport",
+   "sourceId": "gazzetta",
+   "lang": "it",
+   "section": "world",
+   "published": "2026-07-23T08:13:44.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "5d88df465cc3",
+   "title": "Newspaper reveals Guardiola’s salary request to become Italy coach",
+   "link": "https://football-italia.net/newspaper-guardiola-salary-request-italy-coach/",
+   "snippet": "According to La Gazzetta dello Sport, Pep Guardiola has demanded a €20m-a-year salary to become...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "lang": "en",
+   "section": "world",
+   "published": "2026-07-23T08:07:28.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "7f77acd13688",
+   "title": "Football Quiz! Can you name every Ballon d'Or winner to have won the World Cup?",
+   "link": "https://www.fourfourtwo.com/quiz/football-quiz-can-you-name-every-ballon-dor-winner-to-have-won-the-world-cup",
+   "snippet": "Football? Completed it mate",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "lang": "en",
+   "section": "world",
+   "published": "2026-07-23T08:00:00.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "2045a54d5c09",
+   "title": "Anthony Gordon ya se deja ver por Barcelona antes de incorporarse al equipo de Flick",
+   "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004209321/anthony-gordon-deja-ver-barcelona-incorporarse-equipo-flick.html",
+   "snippet": "Anthony Gordon ya ha comenzado a familiarizarse con la que será su nueva casa. El fichaje del FC Barcelona fue visto en las céntricas calles de la ciudad apenas unos días después de finalizar su participación en el Mundial con Inglaterra,…",
+   "source": "Mundo Deportivo",
+   "sourceId": "mundo-deportivo",
+   "lang": "es",
+   "section": "world",
+   "published": "2026-07-23T07:54:54.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "2ccc371e6859",
+   "title": "Ruiz & Gavi's reward for World Cup win... 150kg of tomatoes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cvg840jye74o",
+   "snippet": "Spain's Fabian Ruiz and Gavi receive their body weight in tomatoes when they return to their hometown Los Palacios y Villafranca.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "lang": "en",
+   "section": "world",
+   "published": "2026-07-23T07:54:03.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "e061aeed2c10",
+   "title": "La grosse boulette du gardien de l'Inter Miami, Rocco Rios Novo, qui concède l'ouverture du score contre Chicago",
+   "link": "https://www.lequipe.fr/Football/Actualites/La-grosse-boulette-du-gardien-de-l-inter-miami-rocco-rios-novo-qui-concede-l-ouverture-du-score-contre-chicago/1706467",
+   "snippet": "L'Inter Miami a concédé l'ouverture du score mercredi soir lors de la 17e journée de MLS face à Chicago, avant de s'imposer (3-2). Le gardien floridien Rocco Rios Novo a complètement manqué la réception d'une passe en retrait, laissant le…",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-23T07:51:40.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "3fd60842ee41",
+   "title": "Rodri, prochain gros coup du Real Madrid ?",
+   "link": "https://www.lequipe.fr/Football/Article/Le-real-madrid-prepare-son-prochain-gros-coup-au-mercato-piste-rodri-est-dispose-a-rejoindre-l-equipe-de-jose-mourinho/1706440",
+   "snippet": "",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-23T07:38:00.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "74a2b70f6719",
+   "title": "Altas y renovaciones",
+   "link": "https://www.mundodeportivo.com/futbol/futbol-catala/20260723/1004209315/altas-renovaciones.html",
+   "snippet": "CARTAGENA: El atacante de banda izquierda Toni Villa, tras su larga estancia en el Valladolid, pasó por el Girona y acabó luego en el Eibar. El joven delantero norteamericano, Boston Benjamín Billups de 20 años vuelve al Efesé en calidad…",
+   "source": "Mundo Deportivo",
+   "sourceId": "mundo-deportivo",
+   "lang": "es",
+   "section": "world",
+   "published": "2026-07-23T07:37:04.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "12bb65fd15d3",
+   "title": "Casemiro «enthousiaste» d'aider Lionel Messi",
+   "link": "https://www.lequipe.fr/Football/Video/Mls-casemiro-enthousiaste-a-l-idee-d-aider-lionel-messi/20238083",
+   "snippet": "",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-23T07:37:00.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "f9e3699f355a",
+   "title": "Today’s Papers – Guardiola down to the wire, furious Spalletti",
+   "link": "https://football-italia.net/todays-papers-guardiola-wire-spalletti-fury/",
+   "snippet": "La Gazzetta dello Sport Pep down to the wire: If he says no, Serie A...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "lang": "en",
+   "section": "world",
+   "published": "2026-07-23T07:35:23.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "dbcbf52e5b1c",
+   "title": "De Zerbi sorride: golazo di Mateus Fernandes al debutto con il Tottenham",
+   "link": "https://video.gazzetta.it/calcio/video-golazo-di-mateus-fernandes-al-debutto-con-il-tottenham-de-zerbi-sorride/7595818d-a63f-423d-a86d-874f5433dxlk",
+   "snippet": "Mateus Fernandes ha impiegato appena tre minuti per presentarsi al Tottenham: al debutto nel precampionato contro l’MK Dons, il nuovo acquisto da 99 milioni ha segnato un gol spettacolare, una volée da fuori area che ha lasciato tutti…",
+   "source": "Gazzetta dello Sport",
+   "sourceId": "gazzetta",
+   "lang": "it",
+   "section": "world",
+   "published": "2026-07-23T07:33:52.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "700f5bd7056a",
+   "title": "El Cornellà no tiene margen de error",
+   "link": "https://www.mundodeportivo.com/futbol/futbol-catala/20260723/1004209314/cornella-no-margen-error.html",
+   "snippet": "Con el soporte que supone la nueva sociedad que encabeza Leo Messi, el Cornellà no puede fallar en un intento de recuperar las categorías pérdidas, ya que incluso llegó a optar, hasta en tres ocasiones, por un puesto en la Liga…",
+   "source": "Mundo Deportivo",
+   "sourceId": "mundo-deportivo",
+   "lang": "es",
+   "section": "world",
+   "published": "2026-07-23T07:33:14.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "d26052b831ef",
+   "title": "La increíble pifia del portero del Inter Miami que ha dado la vuelta al mundo",
+   "link": "https://www.mundodeportivo.com/futbol/internacional/major-league-soccer/20260723/1004209310/pifia.html",
+   "snippet": "Los focos del encuentro de la MLS entre el Inter Miami y los Chicago Fire estaban puestos en el debut del exdelantero del FC Barcelona Robert Lewandowski con el equipo de la 'ciudad del viento'. Ese estreno quedó eclipsado por la derrota…",
+   "source": "Mundo Deportivo",
+   "sourceId": "mundo-deportivo",
+   "lang": "es",
+   "section": "world",
+   "published": "2026-07-23T07:27:14.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "b156e45b0c4d",
+   "title": "Cible du Real Madrid cet été, Rodri va se faire opérer du dos, sa date de retour n'est pas connue",
+   "link": "https://www.lequipe.fr/Football/Actualites/Cible-du-real-madrid-cet-ete-rodri-va-se-faire-operer-du-dos-sa-date-de-retour-n-est-pas-connue/1706463",
+   "snippet": "Sacré champion du monde avec l'Espagne dimanche (victoire 1-0 a.p. contre l'Argentine), Rodri va désormais se faire opérer du dos selon The Athletic. La date de retour du capitaine de la Roja est pour l'heure inconnue.",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-23T07:20:13.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "23d63d19c2a1",
+   "title": "JULES BREACH: Mexico fully embraced the World Cup and showed how passionate, emotional and seriously loud the fans are",
+   "link": "https://www.fourfourtwo.com/competition/jules-breach-mexico-fully-embraced-the-world-cup-and-showed-how-passionate-emotional-and-seriously-loud-the-fans-are",
+   "snippet": "The TV presenter reveals why covering World Cup games in Mexico was utterly unforgettable",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "lang": "en",
+   "section": "world",
+   "published": "2026-07-23T07:15:00.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "6943406d6ac8",
+   "title": "Per Rogers 137 milioni, ma allora quanto vale Yamal? Così la Premier sta alterando il mercato",
+   "link": "https://www.gazzetta.it/Calciomercato/23-07-2026/premier-mercato-commento-cugini-gazzetta.shtml",
+   "snippet": "Il trequartista passato dall'Aston Villa al Chelsea è il terzo calciatore di questa estate a superare la soglia dei 100 milioni dopo Anderson e Tonali. Per aggirare il fair play basta pagare una multa, ma poi...",
+   "source": "Gazzetta dello Sport",
+   "sourceId": "gazzetta",
+   "lang": "it",
+   "section": "world",
+   "published": "2026-07-23T07:12:19.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "2d49d9c04705",
+   "title": "'Rangers lead chase for Sturm's Fosso' - gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c07rk8g00y8o",
+   "snippet": "Rangers are reportedly leading the chase to sign Ryan Fosso from Sturm Graz, while Dundee United's Will Ferry is linked with Celtic and Aberdeen are said to want Hibernian's Chris Cadden.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "lang": "en",
+   "section": "world",
+   "published": "2026-07-23T07:09:23.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "6190e72fe54a",
+   "title": "Cruzeiro de Artur Jorge vence Internacional com golo de ex-Sporting e dá 'salto' no Brasileirão",
+   "link": "https://www.record.pt/internacional/paises/brasil/detalhe/cruzeiro-de-artur-jorge-vence-internacional-com-golo-de-ex-sporting-e-da-salto-no-brasileirao",
+   "snippet": "Matheus Pereira decisivo no duelo da 19.ª jornada, que deixa a a formação de Belo Horizonte no 7.º lugar; Victor Gabriel foi expulso aos 59'",
+   "source": "Record",
+   "sourceId": "record",
+   "lang": "pt",
+   "section": "world",
+   "published": "2026-07-23T07:08:43.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "3f7729c88247",
+   "title": "Flamengo de Leonardo Jardim goleia Chapecoense no regresso ao Brasileirão",
+   "link": "https://www.record.pt/internacional/paises/brasil/detalhe/flamengo-de-leonardo-jardim-goleia-chapecoense-no-regresso-ao-brasileirao",
+   "snippet": "Pedro em grande destaque com um 'bis'",
+   "source": "Record",
+   "sourceId": "record",
+   "lang": "pt",
+   "section": "world",
+   "published": "2026-07-23T07:00:44.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "c0a633c4e4ec",
+   "title": "How LNZ Cherkasy become a wartime success story with few modern parallels",
+   "link": "https://www.theguardian.com/football/2026/jul/23/lnz-cherkasy-have-become-a-force-in-ukrainian-football",
+   "snippet": "Ukrainian club were in fourth tier in 2021 but, despite war with Russia, will contest European qualifiers for first time It is time for set-piece training at LNZ Cherkasy’s smart, shiny training facility. “Arsenal!” one player says with a…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "lang": "en",
+   "section": "world",
+   "published": "2026-07-23T07:00:39.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "26dfdea2b009",
+   "title": "Don’t like the result? Don’t worry, sport no longer ends on the field of play | Jonathan Liew",
+   "link": "https://www.theguardian.com/sport/2026/jul/23/sport-fairness-fifa-world-cup-2026-fia-motor-sport-golf-open-championship",
+   "snippet": "From the wrong headset in an F2 garage to Fifa overturning a red card, we are in a landscape where fairness is the enemy A funny and very small thing happened at the Formula Two race at Spa on Sunday. Noel León, of Campos Racing, carved…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "lang": "en",
+   "section": "world",
+   "published": "2026-07-23T07:00:38.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "cd3b7c6a600b",
+   "title": "‘A surprising success’: US, Mexico and Canada fans on hosting the World Cup",
+   "link": "https://www.theguardian.com/football/2026/jul/23/surprising-success-us-mexico-canada-fans-hosting-world-cup-joy-love-hope-fun-prices-politics",
+   "snippet": "The joy, love, hope and fun provided by fans outweighed the commercialism, extortionate prices and ugly politics This summer has been so vibrant and full of life. I had my doubts but, as the World Cup approached and Boston got ready to…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "lang": "en",
+   "section": "world",
+   "published": "2026-07-23T07:00:37.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "3e34c36ae46e",
+   "title": "Listen: Will Hibs & Well deliver in Europe? Is McInnes ban fair?",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p0c9v1",
+   "snippet": "Hibs and Motherwell begin their European campaigns. Can both progress?",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "lang": "en",
+   "section": "world",
+   "published": "2026-07-23T07:00:00.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "3ac22f5088a0",
+   "title": "La Gazzetta: el dineral que habría pedido Guardiola para entrenar a Italia",
+   "link": "https://www.mundodeportivo.com/futbol/fichajes/20260723/1004209304/gazzetta-millonada-habria-pedido-guardiola-provocar-no-italia.html",
+   "snippet": "La posibilidad de que Pep Guardiola se convirtiera en seleccionador de Italia volvió a ponerse de actualidad después de que el presidente de la Federación Italiana, Giovanni Malagò, reconociera que ha habido contactos con el de Santpedor,…",
+   "source": "Mundo Deportivo",
+   "sourceId": "mundo-deportivo",
+   "lang": "es",
+   "section": "world",
+   "published": "2026-07-23T06:57:41.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "41a4deeb9fcc",
+   "title": "La fédération norvégienne va porter plainte auprès de la FIFA concernant l'intervention de Donald Trump dans l'affaire Balogun",
+   "link": "https://www.lequipe.fr/Football/Actualites/La-federation-norvegienne-va-porter-plainte-aupres-de-la-fifa-concernant-l-intervention-de-donald-trump-dans-l-affaire-balogun/1706461",
+   "snippet": "Lise Klaveness, présidente de la fédération norvégienne (NFF), a annoncé ce jeudi que l'instance allait porter plainte auprès de la FIFA. La NFF refuse que l'intervention de Donald Trump dans l'affaire de l'annulation de la suspension de…",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-23T06:56:41.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "946f5bbae3e7",
+   "title": "Sporting tem Djibril Gueye referenciado e pode avançar com proposta",
+   "link": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/sporting-tem-djibril-gueye-referenciado-e-pode-avancar-com-proposta",
+   "snippet": "Defesa-central esquerdino de 19 anos em evidência no Leganés",
+   "source": "Record",
+   "sourceId": "record",
+   "lang": "pt",
+   "section": "world",
+   "published": "2026-07-23T06:51:00.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "6df7c09f461a",
+   "title": "Napoli, emergenza in difesa: Allegri vuole il suo pupillo Gatti, il ds Manna ha altre due opzioni",
+   "link": "https://www.gazzetta.it/Calcio/Calciomercato/Napoli/23-07-2026/napoli-gatti-juve-allegri-mercato.shtml",
+   "snippet": "Buongiorno starà fuori tre mesi, Beukema non è ancora pronto: gli azzurri devono snellire una rosa extralarge ma sono pronti a correre ai ripari",
+   "source": "Gazzetta dello Sport",
+   "sourceId": "gazzetta",
+   "lang": "it",
+   "section": "world",
+   "published": "2026-07-23T06:44:45.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "8c803c1d7388",
+   "title": "Lewandowski inicia su aventura americana sin olvidar al Barça",
+   "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004209298/lewandowski-inicia-aventura-americana-olvidar-barca.html",
+   "snippet": "Robert Lewandowski ya defiende otros colores, pero su historia reciente sigue escribiéndose con tintes y recuerdos blaugranas. El delantero polaco dejó una profunda huella en el FC Barcelona durante cuatro temporadas y antes de emprender…",
+   "source": "Mundo Deportivo",
+   "sourceId": "mundo-deportivo",
+   "lang": "es",
+   "section": "world",
+   "published": "2026-07-23T06:36:59.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "0d016695e9d9",
+   "title": "Et si les contraintes financières étaient une bonne nouvelle pour l'OM ?",
+   "link": "https://www.lequipe.fr/Football/Article/L-om-contraint-de-moins-depenser-sur-ce-mercato-et-si-c-etait-finalement-une-bonne-nouvelle-pour-la-saison-a-venir/1706366",
+   "snippet": "",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-23T06:36:00.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "2a77a1ef6997",
+   "title": "Las notas del Atlético de Madrid en el Mundial",
+   "link": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260723/1004209305/notas-atletico-madrid-mundial.html",
+   "snippet": "Pasados ya unos pocos días, con el reposo de la España campeona del mundo y un récord histórico del Atlético de Madrid en la final del torneo, el club colchonero hace balance.",
+   "source": "Mundo Deportivo",
+   "sourceId": "mundo-deportivo",
+   "lang": "es",
+   "section": "world",
+   "published": "2026-07-23T06:34:18.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "89b62cccdb00",
+   "title": "Dove vedere Darderi-Martinez, tutto lo sport in tv di giovedì 23 luglio",
+   "link": "https://www.gazzetta.it/spettacolo-tv-gossip/storie/23-07-2026/dove-vedere-darderi-bronzetti-spiteri-sport-in-tv-23-luglio/calcio.shtml",
+   "snippet": "Tra gli appuntamenti da non perdere la sfida Bronzetti-Spiteri al torneo di Palermo",
+   "source": "Gazzetta dello Sport",
+   "sourceId": "gazzetta",
+   "lang": "it",
+   "section": "world",
+   "published": "2026-07-23T06:28:45.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "3ac965696b82",
+   "title": "Riquelme: \"He venido mejor de lo que me fui\"",
+   "link": "https://www.mundodeportivo.com/futbol/betis/20260723/1004209300/riquelme-he-venido-mejor-me.html",
+   "snippet": "Rodrigo Riquelme, autor del gol de la victoria del Real Betis en el Trofeo Colombino ante el Recreativo de Huelva (0-1), se mostró satisfecho con las sensaciones ofrecidas por el equipo y asegura que ha regresado de las vacaciones en un…",
+   "source": "Mundo Deportivo",
+   "sourceId": "mundo-deportivo",
+   "lang": "es",
+   "section": "world",
+   "published": "2026-07-23T06:22:59.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "b736d7b5c13d",
+   "title": "Pour son premier match en MLS avec Orlando, Antoine Griezmann marque d'entrée",
+   "link": "https://www.lequipe.fr/Football/Actualites/Pour-son-premier-match-en-mls-avec-orlando-antoine-griezmann-marque-d-entree/1706460",
+   "snippet": "Pour ses débuts en MLS, Antoine Griezmann a marqué d'entrée avec sa nouvelle équipe d'Orlando, qui s'est largement imposée (4-0) sur la pelouse de San José, dans la nuit de mercredi à jeudi. Avec ce but, l'ancien joueur de l'Atlético de…",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-23T06:21:29.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "583a68c4ce42",
+   "title": "La fédération argentine dément que son président ait été inquiété par la justice américaine",
+   "link": "https://www.lequipe.fr/Football/Actualites/La-federation-argentine-dement-que-son-president-ait-ete-inquiete-par-la-justice-americaine/1706459",
+   "snippet": "Claudio Tapia, le président de la fédération argentine de football, ne serait pas dans le viseur de la justice américaine. C'est ce qu'a affirmé l'AFA elle-même alors que plusieurs médias argentins ont évoqué l'existence d'une citation à…",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-23T06:20:48.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "77d4eb91787b",
+   "title": "Changements d'entraîneurs : un incroyable record durant cette intersaison en Ligue 1",
+   "link": "https://www.lequipe.fr/Football/Actualites/Changements-d-entraineurs-vers-un-record-durant-cette-intersaison-en-ligue-1/1679707",
+   "snippet": "Cette intersaison a donné lieu à un nombre record de changements d'entraîneurs sur les bancs de la Ligue 1 au XXIe siècle. Sur les 16 clubs déjà présents dans l'élite la saison écoulée, 12 ont opté pour un autre technicien.",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-23T06:15:00.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "98bc3a297154",
+   "title": "Los futbolistas levantan el paro y vuelve la actividad en Uruguay",
+   "link": "https://www.mundodeportivo.com/futbol/internacional/20260723/1004209297/futbolistas-levantan-paro-vuelve-actividad-uruguay.html",
+   "snippet": "La Mutual Uruguaya de Futbolistas Profesionales levantó este miércoles el paro que mantenía desde el fin de semana como medida de presión para obtener \"garantías de seguridad y protección\" a los jugadores, y anunció que la actividad…",
+   "source": "Mundo Deportivo",
+   "sourceId": "mundo-deportivo",
+   "lang": "es",
+   "section": "world",
+   "published": "2026-07-23T06:11:51.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "969099bdd862",
+   "title": "Pourquoi le marché des entraîneurs est aussi frénétique",
+   "link": "https://www.lequipe.fr/Football/Article/-c-est-fini-les-projets-de-deux-a-trois-ans-que-l-on-connaissait-avant-les-entraineurs-de-ligue-1-ont-eux-aussi-la-bougeotte-sur-leurs-bancs/1706323",
+   "snippet": "",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-23T06:10:00.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "a7a8b80d3c03",
+   "title": "Rodri se rapproche de son rêve de jouer au Real Madrid",
+   "link": "https://www.lequipe.fr/Football/Video/Transferts-rodri-se-rapproche-de-son-reve-merengue/20238079",
+   "snippet": "",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-23T06:09:00.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "8e1d35e8f7fd",
+   "title": "Griezmann se estrena con gol y victoria en la MLS",
+   "link": "https://www.mundodeportivo.com/futbol/internacional/major-league-soccer/20260723/1004209296/griezmann-estrena-gol-victoria-mls.html",
+   "snippet": "El delantero francés Antoine Griezmann se estrenó este miércoles en la MLS con un tanto en el contundente triunfo del Orlando City por 0-4 ante el San Jose Earthquakes.",
+   "source": "Mundo Deportivo",
+   "sourceId": "mundo-deportivo",
+   "lang": "es",
+   "section": "world",
+   "published": "2026-07-23T06:01:54.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "12ac4b52b69c",
+   "title": "Mourinho quiere a su 'Özil 2.0'",
+   "link": "https://www.mundodeportivo.com/futbol/real-madrid/20260723/1004209200/mourinho-quiere-oezil-2-0.html",
+   "snippet": "Cuando Arda Güler fichó por el Real Madrid, allá por el verano de 2023 a cambio de 30 millones, muchos vieron reflejada en el jugador turco la figura de Mesut Özil, un jugador que enamoró al madridismo pese a que solo estuvo tres…",
+   "source": "Mundo Deportivo",
+   "sourceId": "mundo-deportivo",
+   "lang": "es",
+   "section": "world",
+   "published": "2026-07-23T06:00:00.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "3bc47de182bf",
+   "title": "Quickfire Football Quiz 165: Can you answer 10 questions in 90 seconds?",
+   "link": "https://www.fourfourtwo.com/quiz/quickfire-football-quiz-165-can-you-answer-10-questions-in-90-seconds",
+   "snippet": "Keep it tight for the first 45",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "lang": "en",
+   "section": "world",
+   "published": "2026-07-23T06:00:00.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "a61200ab91db",
+   "title": "\"Es verdad que estamos en conversaciones con Almada\"",
+   "link": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260723/1004209291/verdad-conversaciones-almada.html",
+   "snippet": "El centrocampista argentino del Atlético de Madrid Thiago Almada está negociando su incorporación al Flamengo, anunció el director del departamento de fútbol del club brasileño, José Boto.",
+   "source": "Mundo Deportivo",
+   "sourceId": "mundo-deportivo",
+   "lang": "es",
+   "section": "world",
+   "published": "2026-07-23T05:50:48.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "87f5d4095437",
+   "title": "Who am I? Guess Premier League star No 3",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5yw3yv2jxgo",
+   "snippet": "Will you get today's player in as few attempts as possible?",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "lang": "en",
+   "section": "premier-league",
+   "published": "2026-07-23T05:46:44.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "c06bcdbe4276",
+   "title": "Dani Olmo em exclusivo a Record: «Portugal foi um dos rivais mais exigentes no Mundial»",
+   "link": "https://www.record.pt/internacional/competicoes-de-selecoes/mundial/mundial-2026/detalhe/dani-olmo-em-exclusivo-a-record-portugal-foi-um-dos-adversarios-mais-exigentes-no-mundial",
+   "snippet": "Médio do Barcelona revela os segredos da Espanha para a conquista do Campeonato do Mundo",
+   "source": "Record",
+   "sourceId": "record",
+   "lang": "pt",
+   "section": "world",
+   "published": "2026-07-23T05:42:00.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "af5a2d2f6890",
+   "title": "3-2: Luis Suárez amarga el estreno de Lewandowski en la MLS",
+   "link": "https://www.mundodeportivo.com/futbol/internacional/major-league-soccer/20260723/1004209288/3-2-luis-suarez-amarga-estreno-lewandowski-mls-inter-miami-messi.html",
+   "snippet": "Un doblete de Luis Suárez amargó este miércoles el debut con Chicago Fire del polaco Robert Lewandowski en un partido de la Major League Soccer (MLS) que acabó con victoria del Inter Miami por 3-2.",
+   "source": "Mundo Deportivo",
+   "sourceId": "mundo-deportivo",
+   "lang": "es",
+   "section": "world",
+   "published": "2026-07-23T05:25:56.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "c451bec113da",
+   "title": "Gustavo Varela em Itália",
+   "link": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/gustavo-varela-em-italia",
+   "snippet": "Avançado ruma ao Monza",
+   "source": "Record",
+   "sourceId": "record",
+   "lang": "pt",
+   "section": "world",
+   "published": "2026-07-23T05:21:00.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "a5175cde47e6",
+   "title": "One month, two record transfers - why English midfielders are in demand",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cr596gzy8j3o",
+   "snippet": "Elliot Anderson and Morgan Rogers both sold for record transfer fees, so why are English midfielders so in demand?",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "lang": "en",
+   "section": "premier-league",
+   "published": "2026-07-23T05:15:52.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
    "id": "69c084daca6d",
    "title": "Manu tenta agarrar oportunidade",
    "link": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/manu-tenta-agarrar-oportunidade",
@@ -83,6 +887,18 @@
    "section": "world",
    "published": "2026-07-23T05:00:00.000Z",
    "firstSeen": "2026-07-23T05:11:03.279Z"
+  },
+  {
+   "id": "fffbe7778f33",
+   "title": "Au coeur d'une Ligue 1 qui consume ses entraîneurs, Luis Enrique et Digard font office d'exceptions",
+   "link": "https://www.lequipe.fr/Football/Actualites/Au-coeur-d-une-ligue-1-qui-consume-ses-entraineurs-luis-enrique-et-digard-font-office-d-exceptions/1706318",
+   "snippet": "L'entraîneur du PSG et celui du Havre sont les deux seuls à être sur le banc de la même équipe de Ligue 1 depuis au moins deux ans.",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-23T05:00:00.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
   },
   {
    "id": "06f5cccbe56d",
@@ -361,6 +1177,18 @@
    "firstSeen": "2026-07-23T00:51:29.571Z"
   },
   {
+   "id": "9d95c741864b",
+   "title": "« N'Golo Kanté voulait représenter le Mali » : l'attaquant anglais Jamie Vardy dévoile les hésitations de son ancien coéquipier",
+   "link": "https://www.lequipe.fr/Football/Actualites/-n-golo-kante-voulait-representer-le-mali-l-attaquant-anglais-jamie-vardy-devoile-les-hesitations-de-son-ancien-coequipier/1706456",
+   "snippet": "Champion du monde avec l'équipe de France en 2018, N'Golo Kanté aurait pourtant pu connaître un tout autre destin international. Son ancien partenaire de Leicester, Jamie Vardy, a révélé que le milieu de terrain souhaitait initialement…",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-22T22:24:48.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
    "id": "6e304389ec1c",
    "title": "Adeyemi & Gordon: presión y vértigo para el Barça",
    "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004207247/adeyemi-gordon-presion-vertigo-barca.html",
@@ -445,6 +1273,18 @@
    "firstSeen": "2026-07-23T00:51:29.571Z"
   },
   {
+   "id": "7a60854b72bd",
+   "title": "Michel Der Zakarian sur le futur de Mostafa Mohamed au FC Nantes : « Il sera avec la réserve jusqu'à la fin du mercato »",
+   "link": "https://www.lequipe.fr/Football/Actualites/Michel-der-zakarian-sur-le-futur-de-mostafa-mohamed-au-fc-nantes-il-sera-avec-la-reserve-jusqu-a-la-fin-du-mercato/1706451",
+   "snippet": "Après le match nul en amical du FC Nantes (1-1) ce mercredi face à La Roche-sur-Yon (L3), l'entraîneur des Canaris Michel Der Zakarian a évoqué le retour de Mostafa Mohamed à l'entraînement, près d'un mois après la reprise. L'attaquant…",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-22T21:59:47.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
    "id": "2045f3de2c30",
    "title": "Fiorentina, Grosso: \"Kean? Mi piacerebbe averlo, però...\"",
    "link": "https://video.gazzetta.it/calcio/video-fiorentina-grosso-kean-mi-piacerebbe-averlo-pero/065df399-dbdc-4a44-9b7d-8d5d9ba93xlk",
@@ -467,6 +1307,18 @@
    "section": "world",
    "published": "2026-07-22T21:47:02.000Z",
    "firstSeen": "2026-07-23T00:51:29.571Z"
+  },
+  {
+   "id": "acfaee0ee483",
+   "title": "Mercato : la MLS ouvre une enquête sur la signature de Casemiro à l'Inter Miami",
+   "link": "https://www.lequipe.fr/Football/Actualites/Mercato-la-mls-ouvre-une-enquete-sur-la-signature-de-casemiro-avec-l-inter-miami/1706449",
+   "snippet": "La MLS a indiqué ce mercredi avoir ouvert une enquête sur le transfert de Casemiro à l'Inter Miami. Le Brésilien a rejoint le club floridien alors que ses droits de découverte du Championnat nord-américain appartenaient au Los Angeles…",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-22T21:46:02.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
   },
   {
    "id": "61bb1e42caa9",
@@ -565,6 +1417,18 @@
    "firstSeen": "2026-07-23T00:51:29.571Z"
   },
   {
+   "id": "97fb6ed13efb",
+   "title": "Un Ballon d'Or a-t-il déjà été sacré après une saison blanche ?",
+   "link": "https://www.lequipe.fr/Football/Actualites/Un-ballon-d-or-a-t-il-deja-ete-sacre-apres-une-saison-sans-titre/1706317",
+   "snippet": "",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-22T20:55:00.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
    "id": "7df01d4188df",
    "title": "Satriano y Zaid Romero pescan en el Heliodoro el segundo triunfo azulón",
    "link": "https://www.marca.com/futbol/primera-division/2026/07/22/satriano-zaid-romero-pescan-heliodoro-segundo-triunfo-azulon.html",
@@ -587,6 +1451,18 @@
    "section": "world",
    "published": "2026-07-22T20:47:07.000Z",
    "firstSeen": "2026-07-23T00:51:29.571Z"
+  },
+  {
+   "id": "239cefe4de7c",
+   "title": "Les nouvelles règles ont-elles porté leurs fruits ?",
+   "link": "https://www.lequipe.fr/Football/Actualites/Plus-de-temps-de-jeu-moins-de-fautes-et-des-buteurs-efficaces-les-nouvelles-regles-de-la-fifa-ont-elles-porte-leurs-fruits-a-la-coupe-du-monde/1706382",
+   "snippet": "",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-22T20:45:00.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
   },
   {
    "id": "588b48a4e75a",
@@ -685,6 +1561,18 @@
    "firstSeen": "2026-07-22T20:30:52.962Z"
   },
   {
+   "id": "b25ef7fef2bb",
+   "title": "Le défenseur de l'Algérie Aïssa Mandi annonce sa retraite internationale",
+   "link": "https://www.lequipe.fr/Football/Actualites/Le-defenseur-de-l-algerie-aissa-mandi-annonce-sa-retraite-internationale/1706429",
+   "snippet": "Quelques jours après Riyad Mahrez, Aïssa Mandi (122 sélections) a lui aussi annoncé sa retraite internationale. Le défenseur de 34 ans tourne la page après plus d'une décennie sous le maillot des Fennecs, conclue par une dernière Coupe du…",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-22T20:20:41.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
    "id": "79843598d539",
    "title": "Villa agree loan deal for Chelsea winger Garnacho",
    "link": "https://www.bbc.co.uk/sport/football/articles/cly9nrel0pyo",
@@ -755,6 +1643,18 @@
    "section": "world",
    "published": "2026-07-22T20:08:00.000Z",
    "firstSeen": "2026-07-22T20:30:52.962Z"
+  },
+  {
+   "id": "569a74921a70",
+   "title": "Hugo Oliveira, l'entraîneur qui veut mettre le gardien au centre du jeu",
+   "link": "https://www.lequipe.fr/Football/Article/D-abord-gardien-puis-entraineur-des-gardiens-qui-a-fait-eclore-ederson-et-jan-oblak-hugo-oliveira-entend-placer-ce-poste-au-centre-de-sa-tactique-a-strasbourg/1706336",
+   "snippet": "",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-22T20:07:00.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
   },
   {
    "id": "7add2f1bb338",
@@ -1045,6 +1945,30 @@
    "firstSeen": "2026-07-22T20:30:52.962Z"
   },
   {
+   "id": "e129786dce93",
+   "title": "La Coupe du monde en France en 2038, est-ce envisageable ?",
+   "link": "https://www.lequipe.fr/Football/Article/La-coupe-du-monde-2038-en-france-un-horizon-lointain-et-une-candidature-qui-ne-sera-pas-forcement-possible/1706199",
+   "snippet": "",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-22T19:06:00.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "6d29fabebd48",
+   "title": "Angers lance sa préparation avec une victoire contre Les Herbiers, pensionnaire de National",
+   "link": "https://www.lequipe.fr/Football/Actualites/Angers-lance-sa-preparation-avec-une-victoire-contre-les-herbiers-pensionnaire-de-national/1706413",
+   "snippet": "Un temps accroché par les Herbiers (N1), Angers s'est finalement imposé grâce à un doublé de Jim Allevinah pour lancer sa préparation par une victoire (3-1).",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-22T19:05:28.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
    "id": "35c574770f12",
    "title": "Trossard, Ramos, Dumfries: 10 transfers you may have missed during the World Cup",
    "link": "https://www.theguardian.com/football/2026/jul/22/trossard-ramos-dumfries-10-transfers-you-may-have-missed-during-the-world-cup",
@@ -1163,6 +2087,18 @@
    "section": "world",
    "published": "2026-07-22T18:38:35.000Z",
    "firstSeen": "2026-07-22T20:30:52.962Z"
+  },
+  {
+   "id": "005dd0af1ab9",
+   "title": "Amicaux de Ligue 2 : Metz domine Sochaux, Nantes et Reims accrochés",
+   "link": "https://www.lequipe.fr/Football/Actualites/Amicaux-de-ligue-2-metz-domine-sochaux-nantes-et-reims-accroches/1706409",
+   "snippet": "Tous deux relégués en Ligue 2 durant l'intersaison, Metz et Nantes jouaient en amical ce mercredi. Les Grenats se sont imposés face à Sochaux (4-1), tandis que les Canaris ont été accrochés, comme Reims en parallèle.",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-22T18:26:18.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
   },
   {
    "id": "313bf9dcc27a",
@@ -1285,6 +2221,30 @@
    "firstSeen": "2026-07-22T20:30:52.962Z"
   },
   {
+   "id": "5bae1b28ba58",
+   "title": "Brest s'incline face à Al-Wakrah et reste en quête de son premier succès estival",
+   "link": "https://www.lequipe.fr/Football/Actualites/Brest-s-incline-face-a-al-wakrah-et-reste-en-quete-de-son-premier-succes-estival/1706404",
+   "snippet": "Le Stade Brestois a concédé sa première défaite de la préparation en s'inclinant contre le club qatari d'Al-Wakrah (2-0), ce mercredi à Lamballe. Dominateurs dans le jeu, les hommes de Julien Lachuer ont payé leur manque de réalisme et…",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-22T17:59:40.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "b280b726f071",
+   "title": "Le Mans décroche la première victoire de sa préparation en contrôlant Versailles",
+   "link": "https://www.lequipe.fr/Football/Actualites/Le-mans-decroche-la-premiere-victoire-de-sa-preparation-en-controlant-versailles/1706403",
+   "snippet": "Auteur d'une très bonne première période, Le Mans s'est facilement imposé contre Versailles (3-1), pensionnaire de Ligue 3, mercredi, pour son deuxième match de préparation. La recrue Louis Mafouta a à nouveau marqué.",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-22T17:59:09.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
    "id": "ee9c8f76559c",
    "title": "Increíble: 61.500 firmas de argentinos para pedir la repetición de la final del Mundial",
    "link": "https://www.mundodeportivo.com/futbol/mundial/20260722/1004209217/increible-61-500-firmas-argentinos-pedir-repeticion-final-mundial.html",
@@ -1355,6 +2315,18 @@
    "section": "world",
    "published": "2026-07-22T17:48:36.000Z",
    "firstSeen": "2026-07-22T20:30:52.962Z"
+  },
+  {
+   "id": "dd39d8cf9db0",
+   "title": "Élie Baup explique comment il a ramené l'OM à la 2e place en 2011-2012 malgré un mercato au rabais : « Après Deschamps, je n'allais pas faire le mariole »",
+   "link": "https://www.lequipe.fr/Football/Actualites/Elie-baup-explique-comment-il-a-ramene-l-om-a-la-2e-place-en-2011-2012-malgre-un-mercato-au-rabais-apres-deschamps-je-n-allais-pas-faire-le-mariole/1706320",
+   "snippet": "Après trois ans sans coacher, Élie Baup avait débarqué à la tête d'un OM en pleine cure d'austérité, à l'été 2012. Malgré une vague de départs et un mercato à l'économie, le technicien avait guidé le club jusqu'à la deuxième place. Il se…",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-22T17:45:00.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
   },
   {
    "id": "82a302032ce4",
@@ -1547,6 +2519,30 @@
    "section": "world",
    "published": "2026-07-22T16:58:31.000Z",
    "firstSeen": "2026-07-22T20:30:52.962Z"
+  },
+  {
+   "id": "f84a08bb8d18",
+   "title": "L'arrivée de Zinédine Zidane à la tête de l'équipe de France devrait être officialisée mardi",
+   "link": "https://www.lequipe.fr/Football/Actualites/La-succession-de-didier-deschamps-se-precise-la-prise-de-fonction-de-zinedine-zidane-comme-selectionneur-de-l-equipe-de-france-devrait-etre-officialisee-mardi/1706389",
+   "snippet": "Le calendrier de l'arrivée de Zinédine Zidane à la tête de l'équipe de France se précise. La succession est prévue dès le début de semaine prochaine.",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-22T16:57:56.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
+   "id": "14715c9aa8d4",
+   "title": "Mercato : Casemiro rejoint Lionel Messi à l'Inter Miami",
+   "link": "https://www.lequipe.fr/Football/Actualites/Mercato-casemiro-rejoint-lionel-messi-a-l-inter-miami/1706385",
+   "snippet": "Libre de tout contrat, Casemiro s'est engagé mercredi avec l'Inter Miami en MLS. Le Brésilien a signé jusqu'en 2027, avec une option de prolongation de son contrat.",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-22T16:51:01.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
   },
   {
    "id": "d77d313f7e41",
@@ -1849,6 +2845,18 @@
    "firstSeen": "2026-07-22T16:36:55.129Z"
   },
   {
+   "id": "10f537e0f14b",
+   "title": "Mercato : le milieu de terrain algérien Ismaël Bennacer proche de signer au Qatar, au Al-Gharafa SC",
+   "link": "https://www.lequipe.fr/Football/Actualites/Mercato-le-milieu-de-terrain-algerien-ismael-bennacer-proche-de-signer-au-qatar-au-al-gharafa-sc/1706379",
+   "snippet": "Prêté par l'AC Milan au Dinamo Zagreb la saison dernière, le milieu de terrain algérien est proche de s'engager au Qatar.",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-22T16:05:31.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
    "id": "cec3a8dd1297",
    "title": "\"Tenía muchas ganas de volver al Levante\"",
    "link": "https://www.mundodeportivo.com/futbol/levante/20260722/1004209173/tenia-muchas-ganas-volver-levante.html",
@@ -1897,6 +2905,18 @@
    "firstSeen": "2026-07-22T16:36:55.129Z"
   },
   {
+   "id": "09ae90c6412c",
+   "title": "Capitaine de Côme, qualifié pour la prochaine Ligue des champions, Lucas Da Cunha a prolongé jusqu'en 2031",
+   "link": "https://www.lequipe.fr/Football/Actualites/Capitaine-de-come-qualifie-pour-la-prochaine-ligue-des-champions-lucas-da-cunha-a-prolonge-jusqu-en-2031/1706374",
+   "snippet": "Cadre du club italien de Côme, Lucas Da Cunha a prolongé ce mercredi son contrat avec le club lombard juqu'en 2031. Le milieu de terrain y joue depuis 2023.",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-22T16:00:37.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
    "id": "78552ac5c2f8",
    "title": "Arbeloa insiste con Mastantuono y Gonzalo para el Fulham",
    "link": "https://www.mundodeportivo.com/futbol/real-madrid/20260722/1004209164/arbeloa-insiste-mastantuono-gonzalo-fulham.html",
@@ -1907,6 +2927,18 @@
    "section": "world",
    "published": "2026-07-22T16:00:00.000Z",
    "firstSeen": "2026-07-22T16:36:55.129Z"
+  },
+  {
+   "id": "924bae363a1c",
+   "title": "Mercato : Presnel Kimpembe devrait poursuivre son aventure au Qatar, à Al-Kharitiyath",
+   "link": "https://www.lequipe.fr/Football/Actualites/Mercato-presnel-kimpembe-devrait-poursuivre-son-aventure-au-qatar-a-al-kharitiyath/1706372",
+   "snippet": "Le champion du monde 2018, libre après son départ du Qatar SC, devrait rester dans l'émirat, mais en deuxième division.",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-22T15:57:45.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
   },
   {
    "id": "caeefd144f28",
@@ -2113,6 +3145,18 @@
    "firstSeen": "2026-07-22T16:36:55.129Z"
   },
   {
+   "id": "0d212ab6a352",
+   "title": "Nianzou à la recherche du temps perdu",
+   "link": "https://www.lequipe.fr/Football/Article/Un-depart-precoce-du-psg-une-aventure-qui-a-tourne-court-au-bayern-des-blessures-a-repetition-au-seville-fc-tanguy-nianzou-a-la-recherche-du-temps-perdu-a-lille/1706201",
+   "snippet": "",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-22T15:22:00.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
    "id": "363c78257a2f",
    "title": "Un centrocampista de la Academia del Atlético seguirá su carrera en Portugal",
    "link": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260722/1004209160/centrocampista-academia-atletico-seguira-carrera-portugal.html",
@@ -2171,6 +3215,18 @@
    "section": "world",
    "published": "2026-07-22T15:08:30.000Z",
    "firstSeen": "2026-07-22T16:36:55.129Z"
+  },
+  {
+   "id": "2db04a3e4c07",
+   "title": "Coupe du monde : de Madrid à la Maison Blanche, Ferran Torres et sa casquette « Make Spain Great Again » au coeur d'un tourbillon politique",
+   "link": "https://www.lequipe.fr/Football/Actualites/Coupe-du-monde-de-madrid-a-la-maison-blanche-ferran-torres-et-sa-casquette-make-spain-great-again-au-coeur-d-un-tourbillon-politique/1706365",
+   "snippet": "Au lendemain du deuxième sacre mondial de la Roja face à l'Argentine (1-0 a.p.), Ferran Torres s'est retrouvé ciblé par la gauche espagnole, tandis que les partis de droite en font leur nouvelle figure de proue. En cause ? La casquette…",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-22T15:08:21.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
   },
   {
    "id": "2c3421b6bc28",
@@ -2267,6 +3323,18 @@
    "section": "world",
    "published": "2026-07-22T14:46:44.000Z",
    "firstSeen": "2026-07-22T16:36:55.129Z"
+  },
+  {
+   "id": "65f531bfbf30",
+   "title": "Mostafa Mohamed fait son retour à l'entraînement avec le FC Nantes après un mois d'absence",
+   "link": "https://www.lequipe.fr/Football/Actualites/Mostafa-mohamed-fait-son-retour-a-l-entrainement-avec-le-fc-nantes-apres-un-mois-d-absence/1706358",
+   "snippet": "Selon les informations de « Ouest-France », Mostafa Mohamed a fait son retour à la Jonelière ce mercredi. L'attaquant égyptien n'avait plus donné de nouvelles au club nantais depuis la reprise des entraînements le 24 juin.",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-22T14:45:09.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
   },
   {
    "id": "3ac33f7bbb09",
@@ -2425,6 +3493,18 @@
    "firstSeen": "2026-07-22T16:36:55.129Z"
   },
   {
+   "id": "b1774251bdc5",
+   "title": "Trois continents, six organisateurs, 48 ou 64 pays, lieu de la finale à définir : la Coupe du monde 2030 suscite déjà des interrogations",
+   "link": "https://www.lequipe.fr/Football/Article/Trois-continents-six-organisateurs-48-ou-64-pays-lieu-de-la-finale-a-definir-la-coupe-du-monde-2030-suscite-deja-des-interrogations/1706344",
+   "snippet": "La prochaine Coupe du monde sera organisée sur trois continents par le trio Espagne-Portugal-Maroc, après un démarrage en Uruguay, au Paraguay et en Argentine. Mais on ne connaît pas le nombre de participants ni le lieu de la finale.",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-22T13:50:27.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
    "id": "cdff8854df9a",
    "title": "El Ajax despide a Renee van Asten con un pequeño homenaje al Barça",
    "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260722/1004209135/ajax-despide-renee-asten-pequeno-homenaje-barca.html",
@@ -2519,6 +3599,18 @@
    "section": "premier-league",
    "published": "2026-07-22T13:27:08.000Z",
    "firstSeen": "2026-07-22T16:36:55.129Z"
+  },
+  {
+   "id": "5845f3c052c8",
+   "title": "La CAF prévoit un « énorme succès » pour l'édition 2027 de la Coupe d'Afrique des nations malgré « quelques défis » à surmonter",
+   "link": "https://www.lequipe.fr/Football/Actualites/La-caf-prevoit-un-enorme-succes-pour-l-edition-2027-de-la-coupe-d-afrique-des-nations-malgre-quelques-defis-a-surmonter/1706338",
+   "snippet": "À un an du lancement de la Coupe d'Afrique des nations 2027, le président de la Confédération africaine du football fait le point. Patrice Motsepe s'attend à un succès important mais reconnaît qu'il reste des défis à relever.",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-22T13:20:12.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
   },
   {
    "id": "0ff7e103c051",
@@ -2761,6 +3853,18 @@
    "firstSeen": "2026-07-22T16:36:55.129Z"
   },
   {
+   "id": "633761c5bbb0",
+   "title": "Mercato : Phil Foden prolonge avec Manchester City jusqu'en 2030",
+   "link": "https://www.lequipe.fr/Football/Actualites/Mercato-phil-foden-prolonge-avec-manchester-city-jusqu-en-2030/1706334",
+   "snippet": "Manchester City a annoncé, ce mercredi, la prolongation du contrat de Phil Foden. Le joueur formé au club a signé un bail jusqu'en 2030 avec les Citizens.",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-22T12:33:22.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
    "id": "6d036a5e0d84",
    "title": "El acuerdo del Barça por Cancelo, para después del ‘stage’",
    "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260722/1004209107/acuerdo-barca-cancelo-stage.html",
@@ -2833,6 +3937,18 @@
    "firstSeen": "2026-07-22T12:41:41.125Z"
   },
   {
+   "id": "9f7755846559",
+   "title": "L'entraîneur de Southampton Tonda Eckert, visé par une enquête de la fédération anglaise après le « spygate », risque une suspension",
+   "link": "https://www.lequipe.fr/Football/Actualites/L-entraineur-de-southampton-tonda-eckert-vise-par-une-enquete-de-la-federation-anglaise-apres-le-spygate-risque-une-suspension/1706331",
+   "snippet": "La fédération anglaise a ouvert une enquête à l'encontre de Tonda Eckert, entraîneur de Southampton, après l'affaire du « spygate ». Accusé d'espionnage par Middlesbrough, le technicien risque une suspension.",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-22T12:19:33.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
    "id": "090089dd97ce",
    "title": "Foden signs new four-year Man City contract",
    "link": "https://www.bbc.co.uk/sport/football/articles/cg4dz410ld6o",
@@ -2843,6 +3959,18 @@
    "section": "premier-league",
    "published": "2026-07-22T12:17:51.000Z",
    "firstSeen": "2026-07-22T12:41:41.125Z"
+  },
+  {
+   "id": "4903b38a6432",
+   "title": "Pas d'opération pour William Saliba, touché au dos",
+   "link": "https://www.lequipe.fr/Football/Actualites/Pas-d-operation-pour-william-saliba-touche-au-dos/1706330",
+   "snippet": "Le défenseur des Bleus, victime de douleurs chroniques au dos et sorti prématurément en demi-finales de la Coupe du monde face à l'Espagne (0-2), ne se fera pas opérer mais devra observer une longue période de repos.",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-22T12:13:05.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
   },
   {
    "id": "a02e3c8d634b",
@@ -2963,6 +4091,18 @@
    "section": "world",
    "published": "2026-07-22T11:53:20.000Z",
    "firstSeen": "2026-07-22T12:41:41.125Z"
+  },
+  {
+   "id": "5a00c205a45f",
+   "title": "Mercato : après l'échec des négociations avec Strasbourg, Ibrahima Ba vers le Sporting Portugal",
+   "link": "https://www.lequipe.fr/Football/Actualites/Mercato-apres-l-echec-des-negociations-avec-strasbourg-ibrahima-ba-vers-le-sporting-portugal/1706329",
+   "snippet": "Quatre jours après son transfert avorté à Strasbourg, le défenseur central sénégalais Ibrahima Ba a passé ce mardi sa visite médicale préalable à une signature au Sporting Portugal. Avec succès. Famalicao devrait toucher 20 M€ et un…",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-22T11:53:17.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
   },
   {
    "id": "eb8a19363e9a",
@@ -3107,6 +4247,18 @@
    "section": "world",
    "published": "2026-07-22T11:24:38.000Z",
    "firstSeen": "2026-07-22T12:41:41.125Z"
+  },
+  {
+   "id": "111a9cd2cf88",
+   "title": "OM-Nice, Liverpool-Monaco, Crystal Palace-Lens : Ligue 1+ va diffuser plus de 30 matches amicaux cet été",
+   "link": "https://www.lequipe.fr/Football/Actualites/Om-nice-liverpool-monaco-crystal-palace-lens-ligue-1-va-diffuser-plus-de-30-matches-amicaux-cet-ete/1706326",
+   "snippet": "Avant la reprise du Championnat de France, Ligue 1+ va couvrir une trentaine de matches de préparation des clubs tricolores. Le diffuseur exclusif de la L1 va notamment proposer un programme conséquent le week-end du 15 août.",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-22T11:23:56.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
   },
   {
    "id": "33e7a37bf015",
@@ -3409,6 +4561,18 @@
    "firstSeen": "2026-07-22T12:41:41.125Z"
   },
   {
+   "id": "35005fbc166f",
+   "title": "Les Girondins de Bordeaux vont saisir le CNOSF, dernier recours pour éviter la relégation administrative",
+   "link": "https://www.lequipe.fr/Football/Actualites/Les-girondins-de-bordeaux-vont-saisir-le-cnosf-dernier-recours-pour-eviter-la-relegation-administrative/1706321",
+   "snippet": "Relégué administrativement en Régional 1 et exclu des Championnats nationaux, Bordeaux joue sa dernière carte pour se sauver. Les Girondins ont annoncé ce mercredi qu'ils allaient saisir le CNOSF, avec l'idée d'obtenir un ultime délai pour…",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-22T10:32:35.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
    "id": "8e81015f7396",
    "title": "Juve, dalla Francia vogliono Openda. Ma per una settimana Spalletti lo blocca: ha solo lui e Milik...",
    "link": "https://www.gazzetta.it/Calcio/Calciomercato/Juventus/22-07-2026/juve-openda-lione-lens-ultime-notizie-mercato.shtml",
@@ -3505,6 +4669,18 @@
    "firstSeen": "2026-07-22T12:41:41.125Z"
   },
   {
+   "id": "38f6ba4535d5",
+   "title": "« Les fonds étrangers misent sur le football car c'est un gisement illimité »",
+   "link": "https://www.lequipe.fr/Football/Article/Jean-francois-bourg-economiste-du-sport-sur-la-multiplication-des-investisseurs-etrangers-en-ligue-1-ils-misent-sur-le-football-car-c-est-un-gisement-illimite/1706136",
+   "snippet": "",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-22T10:15:00.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
+  },
+  {
    "id": "eba68a675bed",
    "title": "Financial exceptions could be made for Guardiola - Italian FA",
    "link": "https://www.bbc.co.uk/sport/football/articles/czxqdv4818yo",
@@ -3539,6 +4715,18 @@
    "section": "world",
    "published": "2026-07-22T10:05:38.000Z",
    "firstSeen": "2026-07-22T12:41:41.125Z"
+  },
+  {
+   "id": "d4e9076868bc",
+   "title": "Il a pris la photo iconique de Messi donnant le bain à Lamine Yamal",
+   "link": "https://www.lequipe.fr/Respire/Message-personnel/Actualites/-une-probabilite-de-1-sur-625-trillions-la-photo-iconique-de-lionel-messi-donnant-le-bain-a-lamine-yamal-racontee-par-son-auteur/1706121",
+   "snippet": "",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-22T10:00:00.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
   },
   {
    "id": "f64ff7348069",
@@ -3611,6 +4799,18 @@
    "section": "world",
    "published": "2026-07-22T09:44:00.000Z",
    "firstSeen": "2026-07-22T12:41:41.125Z"
+  },
+  {
+   "id": "bb46722e628a",
+   "title": "Mercato : accord en vue entre l'AS Monaco et le FC Nantes pour Matthis Abline",
+   "link": "https://www.lequipe.fr/Football/Actualites/Mercato-accord-en-vue-entre-l-as-monaco-et-le-fc-nantes-pour-matthis-abline/1706314",
+   "snippet": "INFO L'ÉQUIPE. Le FCN et l'ASM sont proches de trouver un terrain d'entente au sujet de l'attaquant des Canaris, qui deviendrait un transfert record dans l'histoire nantaise, autour de 30 M€. Abline, lui, est déjà d'accord pour rallier le…",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-07-22T09:42:13.000Z",
+   "firstSeen": "2026-07-23T09:01:16.327Z"
   },
   {
    "id": "fb77e3aebd08",
