@@ -1,6 +1,90 @@
 {
  "stories": [
   {
+   "id": "2842920483f8",
+   "title": "Muralha em xeque: defesa do FC Porto testada no arranque do campeonato",
+   "link": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/muralha-em-xeque-defesa-do-fc-porto-testada-no-arranque-do-campeonato",
+   "snippet": "Bednarek e Alberto Costa têm hoje dia decisivo para aferir disponibilidade para o arranque. Nehuén Pérez e Martim Fernandes de prevenção",
+   "source": "Record",
+   "sourceId": "record",
+   "lang": "pt",
+   "section": "world",
+   "published": "2026-08-08T04:23:00.000Z",
+   "firstSeen": "2026-08-08T04:28:00.264Z"
+  },
+  {
+   "id": "ac833cb9ffc1",
+   "title": "Do Povoense para o mundo... até ao Alverca: Vivaldo Semedo volta às origens para a estreia na Liga",
+   "link": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/alverca/detalhe/do-povoense-para-o-mundo-ate-ao-alverca-vivaldo-semedo-volta-as-origens-para-a-estreia-na-liga",
+   "snippet": "Fábio Isidro, treinador que o lançou no Povoense, lembrou percurso do avançado de 21 anos",
+   "source": "Record",
+   "sourceId": "record",
+   "lang": "pt",
+   "section": "world",
+   "published": "2026-08-08T04:17:00.000Z",
+   "firstSeen": "2026-08-08T04:28:00.264Z"
+  },
+  {
+   "id": "31f4faf68b0e",
+   "title": "Openda, Fofana, Duranville... Lyon soigne sa filière belge",
+   "link": "https://www.lequipe.fr/Football/Actualites/Tour-de-france-des-clubs-2026-2027-avec-openda-fofana-duranville-lyon-soigne-sa-filiere-belge/1709420",
+   "snippet": "Quatre joueurs belges figurent dans l'effectif de l'OL cette saison, le fruit d'un intérêt marqué des recruteurs lyonnais pour le « plat pays » depuis plusieurs années.",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-08-08T03:55:00.000Z",
+   "firstSeen": "2026-08-08T04:28:00.264Z"
+  },
+  {
+   "id": "d584fb46b39b",
+   "title": "Portada MD Gipuzkoa 8 de agosto",
+   "link": "https://www.mundodeportivo.com/futbol/real-sociedad/20260808/1004214182/portada-md-gipuzkoa-8-agosto.html",
+   "snippet": "",
+   "source": "Mundo Deportivo",
+   "sourceId": "mundo-deportivo",
+   "lang": "es",
+   "section": "world",
+   "published": "2026-08-08T03:45:00.000Z",
+   "firstSeen": "2026-08-08T04:28:00.264Z"
+  },
+  {
+   "id": "827356d6458c",
+   "title": "En stage aux Pays-Bas, l'OM a trouvé un zeste de tranquillité dans une fenêtre de mercato bien compliquée",
+   "link": "https://www.lequipe.fr/Football/Article/En-stage-aux-pays-bas-l-om-a-trouve-un-zeste-de-tranquillite-dans-une-fenetre-de-mercato-bien-compliquee/1709593",
+   "snippet": "Sur les terrains du Clairefontaine néerlandais, à quelques encablures d'Utrecht, Bruno Genesio et ses joueurs ont trouvé un cadre apaisant, pour une préparation studieuse avec l'OM, loin des affres du mercato et des bilans financiers.",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-08-08T03:30:00.000Z",
+   "firstSeen": "2026-08-08T04:28:00.264Z"
+  },
+  {
+   "id": "9e9fb2117419",
+   "title": "Doumbia para italiano ver: reforço do Sporting será observado na Reboleira e aponta ao trio de ataque",
+   "link": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/doumbia-para-italiano-ver-reforco-do-sporting-sera-observado-na-reboleira-e-aponta-a-trio-de-ataque",
+   "snippet": "Médio contará com um emissário transalpino a analisá-lo na 1.ª jornada da Liga em que deve atuar como extremo",
+   "source": "Record",
+   "sourceId": "record",
+   "lang": "pt",
+   "section": "world",
+   "published": "2026-08-08T03:13:00.000Z",
+   "firstSeen": "2026-08-08T04:28:00.264Z"
+  },
+  {
+   "id": "036fd4ac9182",
+   "title": "Diogo Nascimento na construção: criativo arranca época com estatuto de titular",
+   "link": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/rio-ave/detalhe/diogo-nascimento-na-construcao-criativo-arranca-epoca-com-estatuto-de-titular",
+   "snippet": "Médio de 23 anos chegou recentemente ao Rio Ave a título de empréstimo do Olympiacos",
+   "source": "Record",
+   "sourceId": "record",
+   "lang": "pt",
+   "section": "world",
+   "published": "2026-08-08T02:02:00.000Z",
+   "firstSeen": "2026-08-08T04:28:00.264Z"
+  },
+  {
    "id": "5a0997b4622e",
    "title": "UEFA aware of allegation it paid off Infantino's 'mistress' while he worked for them",
    "link": "https://www.skysports.com/football/news/12040/13570861/gianni-infantino-uefa-aware-of-allegation-it-paid-off-an-alleged-mistress-of-fifa-president-while-he-worked-at-european-governing-body",
