@@ -1,6 +1,90 @@
 {
  "stories": [
   {
+   "id": "b33e351cd95d",
+   "title": "« C'est un coach très humain, proche de ses joueurs » : au Mans, une véritable Videira mania",
+   "link": "https://www.lequipe.fr/Football/Article/-c-est-un-coach-tres-humain-proche-de-ses-joueurs-au-mans-une-veritable-videira-mania/1709694",
+   "snippet": "Après deux saisons riches, qui ont conduit Le Mans du National à un grand retour en Ligue 1, son entraîneur Patrick Videira est resté malgré les sollicitations.",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-08-09T03:37:00.000Z",
+   "firstSeen": "2026-08-09T04:32:39.516Z"
+  },
+  {
+   "id": "16103a9494e7",
+   "title": "Quinten Timber fait le bilan de ses premiers mois à l'OM : « Je me suis senti aimé quand je suis arrivé »",
+   "link": "https://www.lequipe.fr/Football/Article/Quinten-timber-fait-le-bilan-de-ses-premiers-mois-a-l-om-je-me-suis-senti-aime-quand-je-suis-arrive/1709755",
+   "snippet": "Arrivé en janvier dans une ville où « tout est étonnant », le milieu international néerlandais de 25 ans Quinten Timber pourrait être un des tauliers du nouvel OM. Il veut en tout cas faire mieux que la saison passée et faire à nouveau…",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-08-09T03:30:00.000Z",
+   "firstSeen": "2026-08-09T04:32:39.516Z"
+  },
+  {
+   "id": "12b3edeb8d0d",
+   "title": "Bruma quer a Turquia: extremo do Benfica procura novo clube",
+   "link": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/bruma-quer-a-turquia-extremo-do-benfica-procura-novo-clube",
+   "snippet": "Está fora dos planos de Marco Silva para a temporada 2026/27",
+   "source": "Record",
+   "sourceId": "record",
+   "lang": "pt",
+   "section": "world",
+   "published": "2026-08-09T03:11:00.000Z",
+   "firstSeen": "2026-08-09T04:32:39.516Z"
+  },
+  {
+   "id": "94d4d39a7d88",
+   "title": "La estrategia con Julián no cambia pese a las palabras de Simeone",
+   "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260809/1004214466/estrategia-julian-no-cambia-pese-palabras-simeone.html",
+   "snippet": "Las declaraciones del ‘Cholo’ Simeone en Seúl, durante la pretemporada del Atlético, en las que reafirmó la postura del club rojiblanco respecto a Julián Álvarez, no han modificado la estrategia del Barcelona para intentar fichar al…",
+   "source": "Mundo Deportivo",
+   "sourceId": "mundo-deportivo",
+   "lang": "es",
+   "section": "world",
+   "published": "2026-08-09T03:10:00.000Z",
+   "firstSeen": "2026-08-09T04:32:39.516Z"
+  },
+  {
+   "id": "b2d0ee8cfcbf",
+   "title": "Pedro Alves: «Crescimento do Alverca tem sido gigante»",
+   "link": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/alverca/detalhe/pedro-alves-crescimento-do-alverca-tem-sido-gigante",
+   "snippet": "Entrevista Record ao diretor-geral da SAD do Alverca",
+   "source": "Record",
+   "sourceId": "record",
+   "lang": "pt",
+   "section": "world",
+   "published": "2026-08-09T02:58:00.000Z",
+   "firstSeen": "2026-08-09T04:32:39.516Z"
+  },
+  {
+   "id": "58ad9f1e7c34",
+   "title": "Dínamo Bucareste de Nuno Campos goleia na Roménia",
+   "link": "https://www.record.pt/internacional/detalhe/dinamo-bucareste-de-nuno-campos-goleia-na-romenia",
+   "snippet": "Clube orientado pelo técnico português derrotou (4-0) o Voluntari",
+   "source": "Record",
+   "sourceId": "record",
+   "lang": "pt",
+   "section": "world",
+   "published": "2026-08-09T01:25:44.000Z",
+   "firstSeen": "2026-08-09T04:32:39.516Z"
+  },
+  {
+   "id": "c1f0c66033ab",
+   "title": "Grémio de Luís Castro vira resultado e vence o São Paulo",
+   "link": "https://www.record.pt/internacional/paises/brasil/detalhe/gremio-de-luis-castro-vira-resultado-e-vence-o-sao-paulo",
+   "snippet": "Sobe provisoriamente ao 14.º lugar do Brasileirão",
+   "source": "Record",
+   "sourceId": "record",
+   "lang": "pt",
+   "section": "world",
+   "published": "2026-08-09T01:21:18.000Z",
+   "firstSeen": "2026-08-09T04:32:39.516Z"
+  },
+  {
    "id": "5fde50f21c3c",
    "title": "Wissa double gives Newcastle boss Jaissle winning start at 10-man Valencia",
    "link": "https://www.skysports.com/football/news/12040/13571236/valencia-1-2-newcastle-yoane-wissas-double-gives-matthias-jaissle-winning-start-as-anthony-elanga-stretchered-off",
