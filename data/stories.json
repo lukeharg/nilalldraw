@@ -1,6 +1,66 @@
 {
  "stories": [
   {
+   "id": "242b44a1d1c1",
+   "title": "À 17 ans et après une demi-saison blanche, Brian Madjo a fait une entrée fracassante dans le grand monde contre le PSG",
+   "link": "https://www.lequipe.fr/Football/Actualites/A-17-ans-et-apres-une-demi-saison-blanche-brian-madjo-a-fait-une-entree-fracassante-dans-le-grand-monde-contre-le-psg/1710618",
+   "snippet": "Pour son premier match officiel avec Aston Villa, Brian Madjo, attaquant anglais de 17 ans qui évoluait à Metz l'an dernier avant un transfert le privant de match pendant une demi-saison, a fait forte impression mercredi lors de la…",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-08-13T03:59:00.000Z",
+   "firstSeen": "2026-08-13T04:41:08.420Z"
+  },
+  {
+   "id": "51ad460f14e0",
+   "title": "Canicule, sécheresse, orages, pluies hivernales et inondations : le football français face au défi du changement climatique",
+   "link": "https://www.lequipe.fr/Football/Article/Canicule-secheresse-orages-pluies-hivernales-et-inondations-le-football-francais-face-au-defi-du-changement-climatique/1710239",
+   "snippet": "Face aux conséquences du changement climatique, la Fédération française a commandé une étude de vulnérabilité de la pratique du football, dont L'Équipe dévoile les principaux enseignements.",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-08-13T03:30:00.000Z",
+   "firstSeen": "2026-08-13T04:41:08.420Z"
+  },
+  {
+   "id": "5875283d1544",
+   "title": "Zalazar dá exemplo na hora da redenção: uruguaio encontra rival agridoce",
+   "link": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/zalazar-da-exemplo-na-hora-da-redencao-uruguaio-encontra-rival-agridoce",
+   "snippet": "Uruguaio viveu várias emoções diante do V. Guimarães, clube que encarou como rival durante três anos",
+   "source": "Record",
+   "sourceId": "record",
+   "lang": "pt",
+   "section": "world",
+   "published": "2026-08-13T03:30:00.000Z",
+   "firstSeen": "2026-08-13T04:41:08.420Z"
+  },
+  {
+   "id": "a19edb27b3ab",
+   "title": "Ioannidis confiante após fim do jejum: grego obriga Suárez a esperar",
+   "link": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/ioannidis-confiante-apos-fim-do-jejum-grego-obriga-suarez-a-esperar",
+   "snippet": "Avançado não marcava desde dezembro quando faturou no triunfo por 4-1 diante... do Vitória",
+   "source": "Record",
+   "sourceId": "record",
+   "lang": "pt",
+   "section": "world",
+   "published": "2026-08-13T02:34:00.000Z",
+   "firstSeen": "2026-08-13T04:41:08.420Z"
+  },
+  {
+   "id": "2e45012c10f8",
+   "title": "Esperança por João Palhinha: Benfica não desiste e continua na luta",
+   "link": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/esperanca-por-joao-palhinha-benfica-nao-desiste-e-continua-na-luta",
+   "snippet": "Encarnados e Aston Villa preferem uma transferência por empréstimo",
+   "source": "Record",
+   "sourceId": "record",
+   "lang": "pt",
+   "section": "world",
+   "published": "2026-08-13T02:15:00.000Z",
+   "firstSeen": "2026-08-13T04:41:08.420Z"
+  },
+  {
    "id": "22b33a700154",
    "title": "Chelsea set Man City deadline to bid for Fernandez",
    "link": "https://www.skysports.com/football/news/12040/13572395/enzo-fernandez-transfer-news-chelsea-set-man-city-deadline-to-bid-for-midfielder",
