@@ -1,6 +1,61 @@
 {
  "stories": [
   {
+   "id": "8b4f949b15be",
+   "title": "Romero completes £34m Atletico Madrid transfer",
+   "link": "https://www.skysports.com/football/news/12040/13573213/cristian-romero-tottenham-captain-completes-move-to-atletico-madrid",
+   "snippet": "Tottenham captain Cristian Romero has completed his £34.2m move to Atletico Madrid.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-08-15T08:14:04.525Z",
+   "firstSeen": "2026-08-15T08:14:04.525Z"
+  },
+  {
+   "id": "03ac755e9a37",
+   "title": "Michael Carrick has done the minimum required so far at Manchester United: now the work REALLY begins",
+   "link": "https://www.fourfourtwo.com/person/coaches-managers/manchester-united-gambled-on-michael-carrick-and-the-real-work-starts-now",
+   "snippet": "Carrick’s impact in 2025-26 shouldn’t be underestimated but the new season will test his abilities to the limit",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-08-15T08:00:00.000Z",
+   "firstSeen": "2026-08-15T08:14:04.525Z"
+  },
+  {
+   "id": "c7b0a3178181",
+   "title": "Frattesi on Lazio return: ‘I needed to feel at the centre of a project’",
+   "link": "https://football-italia.net/frattesi-seals-lazio-return-home/",
+   "snippet": "Davide Frattesi has completed a move to Lazio that he describes as a return home,...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-08-15T07:54:10.000Z",
+   "firstSeen": "2026-08-15T08:14:04.525Z"
+  },
+  {
+   "id": "8784b0e7fa81",
+   "title": "Balikwisha set to leave Celtic with three clubs interested - gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cp30x80lny7o",
+   "snippet": "Celtic winger set to move on with three clubs interested as Scottish champions target goalkeeper.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-08-15T07:41:04.000Z",
+   "firstSeen": "2026-08-15T08:14:04.525Z"
+  },
+  {
+   "id": "ee16c267d6f2",
+   "title": "Why Michaely Bihina is the keeper making waves at Wafcon",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c7vgylpgmz7o",
+   "snippet": "Fans in Cameroon want a statue built for Michaely Bihina after she made four penalty saves against Morocco to help Cameroon reach the 2026 Wafcon final.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-08-15T07:38:19.000Z",
+   "firstSeen": "2026-08-15T08:14:04.525Z"
+  },
+  {
    "id": "f3d42baefd49",
    "title": "News and buildup on first weekend of EFL season and football updates – matchday live",
    "link": "https://www.theguardian.com/football/live/2026/aug/15/community-shield-buildup-championship-and-club-friendly-updates-matchday-live",
@@ -8821,50 +8876,6 @@
    "section": "world",
    "published": "2026-08-08T08:35:00.000Z",
    "firstSeen": "2026-08-08T12:14:27.210Z"
-  },
-  {
-   "id": "8a4a0de18825",
-   "title": "Napoli push on for Chelsea’s Badiashile as Fenerbahçe eye Milinković-Savić",
-   "link": "https://football-italia.net/napoli-push-on-for-chelsea-badiashile-vanja/",
-   "snippet": "Napoli are pressing hard to complete a deal for Chelsea’s Benoît Badiashile, even as one...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-08-08T08:10:00.000Z",
-   "firstSeen": "2026-08-08T08:18:03.732Z"
-  },
-  {
-   "id": "38cd0221e2b9",
-   "title": "Sepp Blatter lecturing Gianni Infantino is embarrassing for him, for FIFA and for football",
-   "link": "https://www.fourfourtwo.com/person/sepp-blatter-lecturing-gianni-infantino-is-embarrassing-for-him-for-fifa-and-for-football",
-   "snippet": "The former FIFA President’s constant digs at his successor is a sad reflection of the state of the game",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-08-08T08:00:00.000Z",
-   "firstSeen": "2026-08-08T08:18:03.732Z"
-  },
-  {
-   "id": "d1d249217a86",
-   "title": "Today’s papers: Calhanoglu commits to Inter, McKennie backs Juventus",
-   "link": "https://football-italia.net/todays-papers-calhanoglu-commits-to-inter-mckennie-backs-juventus/",
-   "snippet": "Italy’s front pages on Saturday are given over to a trio of big exclusive interviews,...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-08-08T07:45:00.000Z",
-   "firstSeen": "2026-08-08T08:18:03.732Z"
-  },
-  {
-   "id": "b39c7021a6a0",
-   "title": "PSV reject improved Rangers offer for Driouech - gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cj36vld3mk2o",
-   "snippet": "Speculation mounts over wingers linked with Rangers and Celtic as Hearts forward is touted for move.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-08T07:37:28.000Z",
-   "firstSeen": "2026-08-08T08:18:03.732Z"
   }
  ]
 }
