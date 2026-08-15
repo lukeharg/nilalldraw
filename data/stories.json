@@ -1,6 +1,78 @@
 {
  "stories": [
   {
+   "id": "90ac55266c76",
+   "title": "José Mourinho está de volta e quer ganhar: LaLiga arranca este sábado",
+   "link": "https://www.record.pt/internacional/paises/espanha/detalhe/jose-mourinho-esta-de-volta-e-quer-ganhar-laliga-arranca-este-sabado",
+   "snippet": "Treinador português regressa ao Real Madrid para tentar quebrar o domínio do Barcelona",
+   "source": "Record",
+   "sourceId": "record",
+   "lang": "pt",
+   "section": "world",
+   "published": "2026-08-15T04:00:00.000Z",
+   "firstSeen": "2026-08-15T04:13:13.283Z"
+  },
+  {
+   "id": "5100bd5dedf9",
+   "title": "Personnalité appréciée, gros coups sur le mercato et résultats au rendez-vous : Matthieu Louis-Jean, le nouvel homme fort de l'OL",
+   "link": "https://www.lequipe.fr/Football/Article/Personnalite-appreciee-gros-coups-sur-le-mercato-et-resultats-au-rendez-vous-matthieu-louis-jean-le-nouvel-homme-fort-de-l-ol/1711071",
+   "snippet": "Le directeur sportif de l'OL Matthieu Louis-Jean a pris une part fondamentale dans le redressement du club, dont il est aujourd'hui l'homme fort. Grâce à ses réussites dans le recrutement mais aussi par sa capacité à apporter du calme et…",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-08-15T03:37:00.000Z",
+   "firstSeen": "2026-08-15T04:13:13.283Z"
+  },
+  {
+   "id": "c182c15af0b5",
+   "title": "Entre reprise tardive des champions du monde et histoire de gros sous, la Liga commence avec un calendrier baroque",
+   "link": "https://www.lequipe.fr/Football/Article/Entre-reprise-tardive-des-champions-du-monde-et-histoire-de-gros-sous-la-liga-commence-avec-un-calendrier-baroque/1711083",
+   "snippet": "Une première journée jouée par certains clubs après la seconde, des journées étalées sur quatre à cinq jours, pas d'affiche en ouverture... Depuis plusieurs saisons, le démarrage de la Liga est un micmac assez ubuesque. Principalement pour…",
+   "source": "L'Équipe",
+   "sourceId": "lequipe",
+   "lang": "fr",
+   "section": "world",
+   "published": "2026-08-15T03:12:00.000Z",
+   "firstSeen": "2026-08-15T04:13:13.283Z"
+  },
+  {
+   "id": "dfd51dd5f850",
+   "title": "Al Wasl de Rui Vitória arranca hoje a temporada: «O primeiro jogo tem sempre um significado especial»",
+   "link": "https://www.record.pt/internacional/detalhe/al-wasl-de-rui-vitoria-arranca-hoje-a-temporada-o-primeiro-jogo-tem-sempre-um-significado-especial",
+   "snippet": "Equipa do treinador português terá pela frente o United FC, de Andrea Pirlo",
+   "source": "Record",
+   "sourceId": "record",
+   "lang": "pt",
+   "section": "world",
+   "published": "2026-08-15T03:09:00.000Z",
+   "firstSeen": "2026-08-15T04:13:13.283Z"
+  },
+  {
+   "id": "ab0006665a9d",
+   "title": "Benfica acelera Harwood-Bellis e João Palhinha",
+   "link": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/benfica-acelera-harwood-bellis-e-joao-palhinha",
+   "snippet": "Águias acreditam que podem amarrar o central do Southampton por 20 M€, num acordo preso por detalhes. E ganha fôlego na corrida à contratação do médio do Bayern",
+   "source": "Record",
+   "sourceId": "record",
+   "lang": "pt",
+   "section": "world",
+   "published": "2026-08-15T02:56:00.000Z",
+   "firstSeen": "2026-08-15T04:13:13.283Z"
+  },
+  {
+   "id": "20f3cf12c86e",
+   "title": "Ricardo Velho perto de trocar Farense pelo Aris de Salónica",
+   "link": "https://www.record.pt/futebol/futebol-nacional/2--liga/farense/detalhe/ricardo-velho-perto-de-trocar-farense-pelo-aris-de-salonica",
+   "snippet": "Negociações com os gregos devem conhecer um desfecho nas próximas horas",
+   "source": "Record",
+   "sourceId": "record",
+   "lang": "pt",
+   "section": "world",
+   "published": "2026-08-15T01:30:00.000Z",
+   "firstSeen": "2026-08-15T04:13:13.283Z"
+  },
+  {
    "id": "102280ffff6a",
    "title": "Papers: Arsenal lead race for £50m-rated Hinshelwood",
    "link": "https://www.skysports.com/football/news/12040/13573177/arsenal-transfer-news-gunners-lead-race-for-brighton-midfielder-jack-hinshelwood-paper-talk",
@@ -35,6 +107,18 @@
    "section": "world",
    "published": "2026-08-15T00:22:22.646Z",
    "firstSeen": "2026-08-15T00:22:22.646Z"
+  },
+  {
+   "id": "9cde909eee23",
+   "title": "As notas dos jogadores do Sporting: viram-se gregos",
+   "link": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/as-notas-dos-jogadores-do-sporting-viram-se-gregos",
+   "snippet": "Ioannidis marcou, assistiu e foi o grande destaque frente ao V. Guimarães",
+   "source": "Record",
+   "sourceId": "record",
+   "lang": "pt",
+   "section": "world",
+   "published": "2026-08-15T00:09:05.000Z",
+   "firstSeen": "2026-08-15T04:13:13.283Z"
   },
   {
    "id": "c60d0723636d",
@@ -157894,138 +157978,6 @@
    "lang": "es",
    "section": "world",
    "published": "2026-07-16T04:20:00.000Z",
-   "firstSeen": "2026-07-16T10:00:02.679Z"
-  },
-  {
-   "id": "7b57a34d01ea",
-   "title": "Harry Kane addresses England World Cup retirement after Argentina exit",
-   "link": "https://www.fourfourtwo.com/team/harry-kane-addresses-england-world-cup-retirement-after-argentina-exit",
-   "snippet": "England's captain scored six goals on the way to the World Cup semi-finals",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "lang": "en",
-   "section": "world",
-   "published": "2026-07-16T04:00:00.000Z",
-   "firstSeen": "2026-07-16T10:00:02.679Z"
-  },
-  {
-   "id": "dd76cdcc51af",
-   "title": "Karim Adeyemi ya pasa la revisión médica con el Barça",
-   "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004206939/hoy-dia-karim-adeyemi.html",
-   "snippet": "Karim Adeyemi (24 horas) cumplirá hoy su gran sueño de niño. Después de aterrizar en Barcelona a primera hora de la tarde de ayer, el extremo del Borussia de Dortmund se convertirá hoy en el segundo fichaje del FC Barcelona. Desde primera…",
-   "source": "Mundo Deportivo",
-   "sourceId": "mundo-deportivo",
-   "lang": "es",
-   "section": "world",
-   "published": "2026-07-16T04:00:00.000Z",
-   "firstSeen": "2026-07-16T10:00:02.679Z"
-  },
-  {
-   "id": "4a8161df74f1",
-   "title": "Marc Cucurella et Pedro Porro, les deux latéraux qui font briller les ailes de l'Espagne pendant la Coupe du monde",
-   "link": "https://www.lequipe.fr/Football/Article/Marc-cucurella-et-pedro-porro-les-deux-lateraux-qui-font-briller-les-ailes-de-l-espagne-pendant-la-coupe-du-monde/1704622",
-   "snippet": "Lamine Yamal et Nico Williams devaient faire des ravages sur les côtés, mais ce sont finalement les latéraux Pedro Porro et Marc Cucurella qui provoquent le plus de dégâts dans ce Mondial.",
-   "source": "L'Équipe",
-   "sourceId": "lequipe",
-   "lang": "fr",
-   "section": "world",
-   "published": "2026-07-16T03:56:00.000Z",
-   "firstSeen": "2026-07-16T10:00:02.679Z"
-  },
-  {
-   "id": "81807db98347",
-   "title": "« Ça ferait presque penser à une peinture » : ils prennent en photo les matches sur leurs écrans télévisés",
-   "link": "https://www.lequipe.fr/Respire/Tendances/Actualites/La-trend-des-photos-de-foot-floues-prises-depuis-l-ecran-de-tv-qui-enflamme-les-reseaux-sociaux/1702954",
-   "snippet": "Une télé, un appareil photo et voilà une tendance virale reprise par de nombreux photographes depuis le début de la Coupe du monde. Les clichés saisis sur écran, c'est graphique et ça change un peu mais certains s'interrogent sur ces…",
-   "source": "L'Équipe",
-   "sourceId": "lequipe",
-   "lang": "fr",
-   "section": "world",
-   "published": "2026-07-16T03:42:00.000Z",
-   "firstSeen": "2026-07-16T10:00:02.679Z"
-  },
-  {
-   "id": "a3fc781c469d",
-   "title": "Le lent essor du soccer, les années 1970 et 1980 (1/3) - Clive Toye, le journaliste qui a fait venir le plus grand joueur du monde à New York : « Pelé a posé les fondations »",
-   "link": "https://www.lequipe.fr/Football/Article/Le-lent-essor-du-soccer-les-annees-1970-et-1980-1-3-clive-toye-le-journaliste-qui-a-fait-venir-le-plus-grand-joueur-du-monde-a-new-york-pele-a-pose-les-fondations/1704563",
-   "snippet": "L'ancien journaliste Clive Toye raconte comme il a réussi à attirer Pelé au Cosmos New York en 1975 et décrypte les conséquences de cette venue aux États-Unis.",
-   "source": "L'Équipe",
-   "sourceId": "lequipe",
-   "lang": "fr",
-   "section": "world",
-   "published": "2026-07-16T03:25:00.000Z",
-   "firstSeen": "2026-07-16T10:00:02.679Z"
-  },
-  {
-   "id": "643e1aaf6b4e",
-   "title": "Coupe du monde : France-Angleterre, une petite finale et une vieille histoire",
-   "link": "https://www.lequipe.fr/Football/Article/Coupe-du-monde-france-angleterre-en-match-pour-la-troisieme-place-une-vieille-histoire/1704677",
-   "snippet": "La France et l'Angleterre ont une longue histoire commune en phase finale. Pas sûr, quand même, que ce match pour la troisième place, samedi (23 heures), soit aussi intense que le quart de finale de la Coupe du monde 2022.",
-   "source": "L'Équipe",
-   "sourceId": "lequipe",
-   "lang": "fr",
-   "section": "world",
-   "published": "2026-07-16T03:15:00.000Z",
-   "firstSeen": "2026-07-16T10:00:02.679Z"
-  },
-  {
-   "id": "7f46955fc87f",
-   "title": "Why England's loss to Argentina felt like most painful in 60 years of hurt",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cj365n05mgdo",
-   "snippet": "England's years of hurt will now stretch beyond 60, but the late collapse to a World Cup semi-final defeat by Argentina may be the most painful wound of all.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "lang": "en",
-   "section": "world",
-   "published": "2026-07-16T01:35:24.000Z",
-   "firstSeen": "2026-07-16T10:00:02.679Z"
-  },
-  {
-   "id": "dac603f4210f",
-   "title": "Scaloni : «Plus aucun doute, Messi est le plus grand joueur de l'histoire»",
-   "link": "https://www.lequipe.fr/Football/Video/Coupe-du-monde-2026-lionel-scaloni-plus-aucun-doute-messi-est-le-plus-grand-joueur-de-l-histoire/20237713",
-   "snippet": "",
-   "source": "L'Équipe",
-   "sourceId": "lequipe",
-   "lang": "fr",
-   "section": "world",
-   "published": "2026-07-16T01:33:00.000Z",
-   "firstSeen": "2026-07-16T10:00:02.679Z"
-  },
-  {
-   "id": "2e8a804741d4",
-   "title": "Messi : «C'est fou de jouer deux finales de Coupe du monde de suite»",
-   "link": "https://www.lequipe.fr/Football/Video/Coupe-du-monde-2026-lionel-messi-c-est-fou-de-jouer-deux-finales-de-coupe-du-monde-d-affilee/20237712",
-   "snippet": "",
-   "source": "L'Équipe",
-   "sourceId": "lequipe",
-   "lang": "fr",
-   "section": "world",
-   "published": "2026-07-16T01:12:00.000Z",
-   "firstSeen": "2026-07-16T10:00:02.679Z"
-  },
-  {
-   "id": "7c60aa824145",
-   "title": "Scaloni : «Comme s'ils avaient sept ou huit ans»",
-   "link": "https://www.lequipe.fr/Football/Video/Coupe-du-monde-2026-lionel-scaloni-ils-jouent-comme-s-ils-avaient-sept-ou-huit-ans/20237711",
-   "snippet": "",
-   "source": "L'Équipe",
-   "sourceId": "lequipe",
-   "lang": "fr",
-   "section": "world",
-   "published": "2026-07-16T00:56:00.000Z",
-   "firstSeen": "2026-07-16T10:00:02.679Z"
-  },
-  {
-   "id": "a1b9709fa877",
-   "title": "'Gutted' Harry Kane on Messi, Argentina and devastation of World Cup exit – video",
-   "link": "https://www.theguardian.com/football/video/2026/jul/16/gutted-harry-kane-on-messi-argentina-and-devastation-of-world-cup-semi-final-exit-video",
-   "snippet": "“I think there's not much to say. For now, everyone has to process what's just happened,” Harry Kane said after the defending champions, Argentina, rallied to beat England 2-1 and reach the World Cup final against Spain on Sunday. Trailing…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "lang": "en",
-   "section": "world",
-   "published": "2026-07-16T00:35:43.000Z",
    "firstSeen": "2026-07-16T10:00:02.679Z"
   }
  ]
