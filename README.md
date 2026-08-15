@@ -1,17 +1,17 @@
 # NilAllDraw
 
-**Football news, honours even.** A static news aggregator for [nilalldraw.com](https://nilalldraw.com) — Premier League, Champions League, and World Football headlines from sources in six languages, rebuilt every four hours by GitHub Actions and served by GitHub Pages.
+**Football news, honours even.** A static news aggregator for [nilalldraw.com](https://nilalldraw.com) — Premier League, Champions League, and World Football headlines, rebuilt every six hours by GitHub Actions and served by GitHub Pages.
 
-Headlines link to their original publishers. Stories retire after 30 days.
+Headlines link to their original publishers. Stories retire after 7 days.
 
 ## How it works
 
 ```
-GitHub Actions (every 4h, or manual, or on push)
+GitHub Actions (every 6h, or manual, or on push)
   └─ node build.js
        ├─ fetches every feed in feeds.json
        ├─ merges new stories into data/stories.json (deduped by URL)
-       ├─ prunes stories older than 30 days
+       ├─ prunes stories older than 7 days
        ├─ commits the refreshed store back to main
        └─ renders dist/ (all pages, plain HTML + one stylesheet)
   └─ deploys dist/ to GitHub Pages
@@ -31,7 +31,7 @@ npm run serve     # serves dist/ at http://localhost:3000
 
 1. Create a GitHub repository (public, for free Pages + Actions) and push this project to `main`.
 2. In the repo: **Settings → Pages → Source: GitHub Actions**.
-3. Run the workflow once by hand: **Actions → Build and deploy → Run workflow**. From then on it runs every 4 hours.
+3. Run the workflow once by hand: **Actions → Build and deploy → Run workflow**. From then on it runs every 6 hours.
 
 ### Pointing nilalldraw.com at it
 
@@ -51,11 +51,9 @@ Everything is in [feeds.json](feeds.json). Each feed:
 {
   "id": "unique-slug",
   "name": "Display Name",         // shown in story metadata
-  "lang": "en",                   // non-"en" gets a language chip
   "section": "world",             // premier-league | champions-league | world
   "url": "https://…/rss.xml",
-  "linkFilter": ["/football/"],   // optional: keep only URLs containing any of these
-  "linkExclude": ["/betting/"]    // optional: drop URLs containing any of these
+  "linkFilter": "/football/"      // optional: keep only URLs containing this substring
 }
 ```
 
@@ -68,8 +66,8 @@ Feeds fail independently — one dead source never breaks the build. The build o
 - **Schedule drift:** GitHub's cron can run a few minutes late at busy times.
 - **Scheduled-workflow sleep:** GitHub disables cron workflows in repos with no activity for 60 days. The data commits normally keep it alive, but if GitHub emails you about it, one click re-enables.
 - **Retention:** change `RETENTION_DAYS` in [build.js](build.js).
-- **Cadence:** change the cron in [.github/workflows/build.yml](.github/workflows/build.yml) *and* the "every four hours" copy in [lib/render.js](lib/render.js) if you alter it.
+- **Cadence:** change the cron in [.github/workflows/build.yml](.github/workflows/build.yml) *and* the "every six hours" copy in [lib/render.js](lib/render.js) if you alter it.
 
 ## Brand
 
-The identity is **Honours Even** — chalk paper, ink, pitch green, old gold; Newsreader for headlines. A nil-all draw favours nobody: no club, no agenda, every side of the story. Language chips mark world sources in their own tongue.
+The identity is **Honours Even** — chalk paper, ink, pitch green, old gold; Newsreader for headlines. A nil-all draw favours nobody: no club, no agenda, every side of the story.

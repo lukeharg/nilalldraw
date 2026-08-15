@@ -195,14 +195,6 @@ main.wrap { padding-top: 0.4rem; padding-bottom: 1.5rem; }
 }
 .meta .dot { color: var(--faint); }
 .meta .sec { color: var(--faint); }
-.lang {
-  background: var(--pitch);
-  color: var(--pitch-ink);
-  border-radius: 3px;
-  padding: 0.1rem 0.32rem;
-  font-size: 0.58rem;
-  letter-spacing: 0.1em;
-}
 
 /* Archive */
 .archive { list-style: none; margin: 0; padding: 0; }

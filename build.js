@@ -1,5 +1,5 @@
-// NilAllDraw build: fetch feeds -> merge into the 30-day story store -> render dist/.
-// Runs locally (`npm run build`) and in CI every four hours.
+// NilAllDraw build: fetch feeds -> merge into the 7-day story store -> render dist/.
+// Runs locally (`npm run build`) and in CI every six hours.
 
 import { createHash } from "node:crypto";
 import fs from "node:fs";
@@ -11,7 +11,7 @@ const ROOT = import.meta.dirname;
 const DATA_FILE = path.join(ROOT, "data", "stories.json");
 const DIST = path.join(ROOT, "dist");
 
-const RETENTION_DAYS = 30;
+const RETENTION_DAYS = 7;
 const SNIPPET_MAX = 240;
 const FETCH_TIMEOUT_MS = 20000;
 
@@ -25,14 +25,9 @@ const parser = new Parser({
 
 const TRACKING_PARAMS = /^(utm_|fbclid|gclid|cmp|at_|ns_)/i;
 
-// linkFilter keeps only items matching any listed substring; linkExclude drops
-// matches even if included. Both accept a string or an array, case-insensitive.
+// linkFilter keeps only items whose URL contains the substring, case-insensitive.
 function linkAllowed(feed, link) {
-  const lower = link.toLowerCase();
-  const toList = (v) => (Array.isArray(v) ? v : v ? [v] : []);
-  const includes = toList(feed.linkFilter);
-  if (includes.length && !includes.some((s) => lower.includes(s.toLowerCase()))) return false;
-  return !toList(feed.linkExclude).some((s) => lower.includes(s.toLowerCase()));
+  return !feed.linkFilter || link.toLowerCase().includes(feed.linkFilter.toLowerCase());
 }
 
 function canonicalLink(raw) {
@@ -52,14 +47,9 @@ function storyId(link) {
   return createHash("sha1").update(link).digest("hex").slice(0, 12);
 }
 
-// Some feeds (e.g. Record) leak literal CDATA wrappers into text fields.
-function stripCdata(text) {
-  return text.replace(/<!\[CDATA\[|\]\]>/g, " ");
-}
-
 function cleanSnippet(item) {
   let text = item.contentSnippet || item.summary || item.content || "";
-  text = stripCdata(text)
+  text = text
     .replace(/<[^>]+>/g, " ")
     .replace(/\s+/g, " ")
     .replace(/Continue reading\.{0,3}\s*$/i, "")
@@ -110,7 +100,7 @@ async function fetchFeed(feed, now) {
   }
   for (const item of parsed.items ?? []) {
     const link = canonicalLink(item.link || "");
-    const title = stripCdata(item.title || "").replace(/\s+/g, " ").trim();
+    const title = (item.title || "").replace(/\s+/g, " ").trim();
     if (!link || !title) continue;
     if (!linkAllowed(feed, link)) continue;
     result.items++;
@@ -121,7 +111,6 @@ async function fetchFeed(feed, now) {
       snippet: cleanSnippet(item),
       source: feed.name,
       sourceId: feed.id,
-      lang: feed.lang,
       section: feed.section,
       published: parseDate(item, now).toISOString(),
       firstSeen: now.toISOString(),
