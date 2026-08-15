@@ -1,6 +1,17 @@
 {
  "stories": [
   {
+   "id": "f3d42baefd49",
+   "title": "News and buildup on first weekend of EFL season and football updates – matchday live",
+   "link": "https://www.theguardian.com/football/live/2026/aug/15/community-shield-buildup-championship-and-club-friendly-updates-matchday-live",
+   "snippet": "⚽ News and buildup to the first Saturday of the EFL season ⚽ This weekend’s fixtures | Wolves 2-2 Blackburn | Mail us Let’s take a look at what’s happening in the Championship today… Bolton v Preston North End Middlesbrough v Lincoln City…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-08-15T07:26:15.000Z",
+   "firstSeen": "2026-08-15T07:30:05.802Z"
+  },
+  {
    "id": "bcd97817ca6b",
    "title": "Premier League clubs looking to EFL for next Semenyo & Eze",
    "link": "https://www.bbc.co.uk/sport/football/articles/c5y6w5972lyo",
@@ -10,6 +21,17 @@
    "section": "premier-league",
    "published": "2026-08-15T07:16:50.000Z",
    "firstSeen": "2026-08-15T07:21:30.589Z"
+  },
+  {
+   "id": "f98261059660",
+   "title": "London City Lionesses’ Mapi León: ‘It is a club created for women. It is beautiful and exciting’",
+   "link": "https://www.theguardian.com/football/2026/aug/15/london-city-lionesses-mapi-leon-it-is-a-club-created-for-women-it-is-beautiful-and-exciting",
+   "snippet": "Spain defender on swapping Barcelona for Bromley, embracing the contrasting style of the WSL – and her newfound love for beans and crumpets ‘No, I can’t, I’m sorry, it’s a secret!” Mapi León roars with laughter, in response to being asked…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-08-15T07:00:51.000Z",
+   "firstSeen": "2026-08-15T07:30:05.802Z"
   },
   {
    "id": "a75fe19db0ef",
