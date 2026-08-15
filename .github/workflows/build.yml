@@ -2,7 +2,7 @@ name: Build and deploy
 
 on:
   schedule:
-    - cron: "0 */4 * * *" # every 4 hours; GitHub may delay a few minutes at busy times
+    - cron: "0 */6 * * *" # every 6 hours; GitHub may delay a few minutes at busy times
   workflow_dispatch: {} # manual trigger from the Actions tab
   push:
     branches: [main]
