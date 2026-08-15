@@ -115,13 +115,18 @@ header.wrap { padding-top: 2.8rem; }
   border: 1px solid var(--line);
   border-radius: 50%;
   color: var(--ink);
-  font-size: 0.95rem;
-  line-height: 1;
   cursor: pointer;
   flex: none;
 }
 .theme-toggle:hover { border-color: var(--ink); }
 .theme-toggle:focus-visible { outline: 2px solid var(--amber); outline-offset: 2px; }
+/* Match ball: the filled centre panel is what makes it read as a football
+   rather than a wheel, so it stays filled in both themes and simply inverts
+   with currentColor. */
+.ball { display: block; }
+.ball .ball-edge { fill: none; stroke: currentColor; stroke-width: 1.4; }
+.ball .ball-seam { fill: none; stroke: currentColor; stroke-width: 1; stroke-linecap: round; }
+.ball .ball-panel { fill: currentColor; stroke: currentColor; stroke-width: 1; stroke-linejoin: round; }
 
 /* Section tabs */
 .tabs {
