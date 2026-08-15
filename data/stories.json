@@ -1,6 +1,17 @@
 {
  "stories": [
   {
+   "id": "bcd97817ca6b",
+   "title": "Premier League clubs looking to EFL for next Semenyo & Eze",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5y6w5972lyo",
+   "snippet": "Premier League clubs are continuing to recruit young players from EFL and Scottish academies for their U21 and B-team squads.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-08-15T07:16:50.000Z",
+   "firstSeen": "2026-08-15T07:21:30.589Z"
+  },
+  {
    "id": "a75fe19db0ef",
    "title": "Farewell Cristian Romero, you actually always were ‘that type of player’ | Max Rushden",
    "link": "https://www.theguardian.com/football/2026/aug/15/farewell-cristian-romero-that-type-of-player-atletico-madrid-argentina",
@@ -7622,6 +7633,17 @@
    "section": "world",
    "published": "2026-08-09T10:57:51.000Z",
    "firstSeen": "2026-08-09T12:14:17.417Z"
+  },
+  {
+   "id": "df52cc5ab621",
+   "title": "Super Furry Animals’ foray into football is not part of Big Music’s money grab | Emma John",
+   "link": "https://www.theguardian.com/football/2026/aug/08/super-furry-animals-mogwai-football-cwmbran-celtic",
+   "snippet": "The sponsorship deal between Cwmbran Celtic and the Welsh indie-rockers is a nostalgia trip rather than a cynical attempt to monetise ‘adjacent audiences’ As someone born on the cusp of the gen X-millennial divide, I am the perfect target…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-08-09T10:53:14.000Z",
+   "firstSeen": "2026-08-15T07:21:30.589Z"
   },
   {
    "id": "d98fabc0c2cd",
