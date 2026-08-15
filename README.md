@@ -66,6 +66,7 @@ Feeds fail independently — one dead source never breaks the build. The build o
 - **Schedule drift:** GitHub's cron can run a few minutes late at busy times.
 - **Scheduled-workflow sleep:** GitHub disables cron workflows in repos with no activity for 60 days. The data commits normally keep it alive, but if GitHub emails you about it, one click re-enables.
 - **Retention:** change `RETENTION_DAYS` in [build.js](build.js).
+- **Times are local to the reader.** Pages are rendered in Europe/London, and every clock time ships as `<time datetime="…">` alongside a `data-day` key on each day section. A script in [lib/render.js](lib/render.js) then re-times *and* re-groups the page for the reader's own zone, so a story always sits under its own local date. Clocks stay 24-hour everywhere, which keeps the board numerals a fixed width. With JavaScript off, the London rendering stands. The client formatters mirror `fmtTime`/`dayKey`/`dayLabel` at the top of the same file — change one, change both.
 - **Cadence:** change the cron in [.github/workflows/build.yml](.github/workflows/build.yml) *and* the "every six hours" copy in [lib/render.js](lib/render.js) if you alter it.
 
 ## Brand
