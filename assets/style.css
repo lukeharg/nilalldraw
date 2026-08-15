@@ -142,6 +142,9 @@ header.wrap { padding-top: 2.8rem; }
 }
 .tab.on { color: var(--ink); box-shadow: 0 0.85em 0 -0.55em var(--amber); }
 .tab:hover { color: var(--ink); }
+/* Full names on wide screens, abbreviations on narrow ones; the link's
+   aria-label always carries the full section name. */
+.t-short { display: none; }
 
 /* Day groups */
 .day-head {
@@ -193,6 +196,8 @@ header.wrap { padding-top: 2.8rem; }
   letter-spacing: 0.16em;
   text-transform: uppercase;
   color: var(--faint);
+  /* Source names stay on one line here; the <wbr> breaks are for phones. */
+  white-space: nowrap;
 }
 .story h3 {
   margin: 0;
@@ -285,13 +290,28 @@ header.wrap { padding-top: 2.8rem; }
   color: var(--meta);
 }
 
+/* Phones: the wordmark carries the page, the tab row stays on one line with
+   abbreviated names, and the timestamp sits under the wordmark. Desktop layout
+   above is deliberately untouched. */
 @media (max-width: 560px) {
-  header.wrap { padding-top: 1.9rem; }
-  /* Keep the toggle beside the wordmark; the updated line wraps below. */
-  .m-live { order: 1; flex-basis: 100%; }
-  /* 4.1rem, not the mockup's 3.6rem: the longest source name ("FourFourTwo")
-     is one unbreakable word and has to sit on a single line. */
-  .story { grid-template-columns: 4.1rem 1fr; gap: 0 0.85rem; }
+  header.wrap { padding-top: 1.6rem; }
+  .mast { padding-bottom: 0.8rem; }
+  .m-name { font-size: clamp(2.5rem, 12vw, 3.2rem); }
+  /* Toggle stays beside the wordmark; the updated line drops below both. */
+  .m-live { order: 1; flex-basis: 100%; font-size: 0.66rem; }
+  .m-row { gap: 0.5rem 1rem; }
+
+  .tabs { flex-wrap: nowrap; gap: 1.15rem; overflow-x: auto; scrollbar-width: none; }
+  .tabs::-webkit-scrollbar { display: none; }
+  .t-full { display: none; }
+  .t-short { display: inline; }
+
+  .story { grid-template-columns: 3.9rem 1fr; gap: 0 0.9rem; }
   .board { font-size: 1.15rem; }
-  .board small { font-size: 0.54rem; letter-spacing: 0.09em; }
+  /* Two-word sources fit the column; "FourFourTwo" breaks at its capitals. */
+  .board small { font-size: 0.53rem; letter-spacing: 0.06em; white-space: normal; }
+}
+@media (max-width: 380px) {
+  .tabs { gap: 0.9rem; }
+  .tab { font-size: 0.7rem; letter-spacing: 0.1em; }
 }
