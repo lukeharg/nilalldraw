@@ -72,3 +72,31 @@ Feeds fail independently — one dead source never breaks the build. The build o
 ## Brand
 
 The identity is **Stoppage Time** — the fourth official's board: floodlit white (or black) ground, heavy Archivo Black numerals, one LED-amber accent. Each story leads with its published time as a board numeral. A nil-all draw favours nobody: no club, no agenda, every side of the story.
+
+### Icons and the social card
+
+[lib/icons.js](lib/icons.js) draws the `0–0` mark from primitives — two rings and a bar — and encodes it to PNG/ICO in process, writing into `dist/` on every build:
+
+| File | Used by |
+| --- | --- |
+| `favicon.svg`, `favicon.ico` | browser tabs and bookmarks |
+| `icon-192.png`, `icon-512.png` | `site.webmanifest`, Android home screen, Google's search-result favicon |
+| `apple-touch-icon.png` | **iOS "Add to Home Screen"** — iOS ignores `rel="icon"` and will not take an SVG or a `data:` URI here, so this file is the only thing standing between the site and a screenshot thumbnail |
+| `og.png` | link previews (`og:image`) |
+
+Proportions live in the `CAP` table at the top of the file; every output derives from `markShapes`, so a change there moves all of them together.
+
+The mark is drawn rather than typeset because the build has one dependency and runs on a bare CI runner, with no font rasteriser to hand. That is also why `og.png` carries the mark alone and not the `nilalldraw.` wordmark. If you want a typeset card, export a 1200×630 PNG by hand, drop it in [static/](static/), and delete the `ogCard` call — everything else keeps working.
+
+## SEO
+
+Rendered into every page by [lib/render.js](lib/render.js):
+
+- One `<h1>` per page — the wordmark on the home page (`mastheadIsTitle`), a real heading everywhere else.
+- Per-page `<title>` and description; canonical, Open Graph, and Twitter card tags.
+- JSON-LD: `WebSite` + `Organization` on every page, a `CollectionPage` whose `mainEntity` is an `ItemList` of the first 20 headlines, and a `BreadcrumbList` on section and archive pages. Stories are marked up as list items pointing at their publisher, never as `NewsArticle` — the reporting isn't ours to claim.
+- `sitemap.xml` (all seven indexable pages, `lastmod` = build time), referenced from `static/robots.txt`.
+- The 404 page is `noindex, follow` and carries no canonical.
+- Both woff2 faces are preloaded; the URLs must resolve to exactly what the `@font-face` rules request or each file is fetched twice.
+
+After the first deploy, submit `https://nilalldraw.com/sitemap.xml` in Google Search Console.
