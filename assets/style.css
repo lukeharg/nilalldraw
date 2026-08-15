@@ -177,7 +177,9 @@ header.wrap { padding-top: 2.8rem; }
 /* Stories: the board numeral leads, everything else stays quiet */
 .story {
   display: grid;
-  grid-template-columns: 5.2rem 1fr;
+  /* Wide enough for the longest single-word source ("FourFourTwo") to sit on
+     one line; "Football Italia" wraps at its own space. */
+  grid-template-columns: 6.2rem 1fr;
   gap: 0 1.3rem;
   padding: 1.05rem 0;
   border-bottom: 1px solid var(--line);
@@ -201,8 +203,6 @@ header.wrap { padding-top: 2.8rem; }
   letter-spacing: 0.16em;
   text-transform: uppercase;
   color: var(--faint);
-  /* Source names stay on one line here; the <wbr> breaks are for phones. */
-  white-space: nowrap;
 }
 .story h3 {
   margin: 0;
@@ -317,7 +317,7 @@ header.wrap { padding-top: 2.8rem; }
   .story { grid-template-columns: 3.9rem 1fr; gap: 0 0.9rem; }
   .board { font-size: 1.15rem; }
   /* Two-word sources fit the column; "FourFourTwo" breaks at its capitals. */
-  .board small { font-size: 0.53rem; letter-spacing: 0.06em; white-space: normal; }
+  .board small { font-size: 0.53rem; letter-spacing: 0.06em; }
 }
 @media (max-width: 380px) {
   .tabs { gap: 0.9rem; }
