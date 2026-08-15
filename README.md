@@ -92,7 +92,7 @@ The mark is drawn rather than typeset because the build has one dependency and r
 
 Rendered into every page by [lib/render.js](lib/render.js):
 
-- One `<h1>` per page — the wordmark on the home page (`mastheadIsTitle`), a real heading everywhere else.
+- One `<h1>` per page — the wordmark on the home page (`mastheadIsTitle`), a real heading everywhere else. Section pages carry theirs as `.vh`: the tabs already say which section you are on, so the heading is there for screen readers and crawlers rather than the layout. Archive pages show theirs.
 - Per-page `<title>` and description; canonical, Open Graph, and Twitter card tags.
 - JSON-LD: `WebSite` + `Organization` on every page, a `CollectionPage` whose `mainEntity` is an `ItemList` of the first 20 headlines, and a `BreadcrumbList` on section and archive pages. Stories are marked up as list items pointing at their publisher, never as `NewsArticle` — the reporting isn't ours to claim.
 - `sitemap.xml` (all seven indexable pages, `lastmod` = build time), referenced from `static/robots.txt`.

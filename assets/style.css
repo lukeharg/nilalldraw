@@ -168,6 +168,21 @@ header.wrap { padding-top: 2.8rem; }
   text-transform: uppercase;
 }
 .day-head::after { content: ""; flex: 1; border-top: 1px solid var(--line); }
+/* Hidden from the page, still announced and still read by crawlers. For a page
+   that needs a heading the design has no room to show — a section page says
+   what it is through the tab it has marked current, which a screen reader
+   reaches only by going back to the nav. */
+.vh {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+}
 .page-title {
   margin: 2rem 0 0.4rem;
   font-family: var(--display);
