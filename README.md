@@ -70,4 +70,4 @@ Feeds fail independently — one dead source never breaks the build. The build o
 
 ## Brand
 
-The identity is **Honours Even** — chalk paper, ink, pitch green, old gold; Newsreader for headlines. A nil-all draw favours nobody: no club, no agenda, every side of the story.
+The identity is **Stoppage Time** — the fourth official's board: floodlit white (or black) ground, heavy Archivo Black numerals, one LED-amber accent. Each story leads with its published time as a board numeral. A nil-all draw favours nobody: no club, no agenda, every side of the story.
