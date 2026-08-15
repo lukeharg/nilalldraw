@@ -1,6 +1,28 @@
 {
  "stories": [
   {
+   "id": "29a94fb4a925",
+   "title": "Sacked, Banned, Jailed: George Best after Manchester United",
+   "link": "https://www.fourfourtwo.com/person/player/sacked-banned-jailed-george-best-after-manchester-united",
+   "snippet": "The icon's exit from Old Trafford at just 27 paved the way for a decade of globe-trotting and drama",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-08-15T09:00:00.000Z",
+   "firstSeen": "2026-08-15T09:04:06.975Z"
+  },
+  {
+   "id": "c265e536e9cd",
+   "title": "Premier League sides join Roma for Luis Henrique as Inter chase Jones",
+   "link": "https://football-italia.net/premier-league-roma-inter-luis-henrique-jones/",
+   "snippet": "Inter are keen to sell Luis Henrique in order to fund a move for Curtis...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-08-15T08:28:00.000Z",
+   "firstSeen": "2026-08-15T09:04:06.975Z"
+  },
+  {
    "id": "8b4f949b15be",
    "title": "Romero completes £34m Atletico Madrid transfer",
    "link": "https://www.skysports.com/football/news/12040/13573213/cristian-romero-tottenham-captain-completes-move-to-atletico-madrid",
@@ -8831,50 +8853,6 @@
    "sourceId": "football-italia",
    "section": "world",
    "published": "2026-08-08T09:12:00.000Z",
-   "firstSeen": "2026-08-08T12:14:27.210Z"
-  },
-  {
-   "id": "3a3ab0163290",
-   "title": "Calafiori: ‘Looking forward to Tonali rivalry; Arsenal have more trophies to win’",
-   "link": "https://football-italia.net/calafiori-looking-forward-tonali-rivalry/",
-   "snippet": "Riccardo Calafiori is looking forward to renewing his rivalry with Sandro Tonali in England, and...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-08-08T09:00:00.000Z",
-   "firstSeen": "2026-08-08T12:14:27.210Z"
-  },
-  {
-   "id": "a1e4dae6ef11",
-   "title": "The Football Rich List 2026 - The 50 wealthiest people in the game",
-   "link": "https://www.fourfourtwo.com/person/the-football-rich-list-2026-the-50-wealthiest-people-in-the-game",
-   "snippet": "FFT counts down the 50 wealthiest people associated with the beautiful game – featuring the founder of MLS, a Kazakh in Wycombe and a winger in Thailand’s top tier…",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-08-08T09:00:00.000Z",
-   "firstSeen": "2026-08-08T12:14:27.210Z"
-  },
-  {
-   "id": "af8d99dd641d",
-   "title": "How to watch Chelsea vs AC Milan: Free streams and TV details as the Blues ramp up 2026/27 preparations",
-   "link": "https://www.fourfourtwo.com/competition/how-to-watch-chelsea-vs-ac-milan-pre-season",
-   "snippet": "Here's how to watch Chelsea vs Milan for free from anywhere in the world, as the Blues continue their pre-season tour in Asia.",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-08-08T09:00:00.000Z",
-   "firstSeen": "2026-08-08T12:14:27.210Z"
-  },
-  {
-   "id": "f4af5fd47c7e",
-   "title": "Çalhanoğlu reaffirms Inter commitment: ‘Forget Turkey, I’m staying here’",
-   "link": "https://football-italia.net/calhanoglu-reaffirms-inter-commitment/",
-   "snippet": "Hakan Çalhanoğlu has reiterated his commitment to Inter, brushing aside links to Turkey and setting...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-08-08T08:35:00.000Z",
    "firstSeen": "2026-08-08T12:14:27.210Z"
   }
  ]
