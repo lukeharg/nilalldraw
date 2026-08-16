@@ -1,6 +1,39 @@
 {
  "stories": [
   {
+   "id": "5c2ae9d22a0e",
+   "title": "Who am I? Guess Premier League star No 27",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cvg93n35ypxo",
+   "snippet": "Work out the identity of today's player in as few attempts as possible.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-08-16T05:48:53.000Z",
+   "firstSeen": "2026-08-16T06:05:25.368Z"
+  },
+  {
+   "id": "c41d963b48d9",
+   "title": "How important is Community Shield to a team's season?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c1e1v64q256o",
+   "snippet": "Premier League champions Arsenal take on FA Cup winners Manchester City in Sunday's Community Shield - but would winning suggest a successful season ahead?",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-08-16T05:29:55.000Z",
+   "firstSeen": "2026-08-16T06:05:25.368Z"
+  },
+  {
+   "id": "b0ba1ee6b525",
+   "title": "Strong favourites or tougher task - will Arsenal defend their title?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c0l5927xr89o",
+   "snippet": "Arsenal begin this season as Premier League champions but just how difficult is it to defend the league title, and how well equipped as they for the challenge?",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-08-16T05:20:47.000Z",
+   "firstSeen": "2026-08-16T06:05:25.368Z"
+  },
+  {
    "id": "82f2fa2de8d0",
    "title": "Celtic ease into League Cup quarters - Aberdeen, Kilmarnock & Ross Co also through",
    "link": "https://www.skysports.com/football/news/12040/13572887/scottish-league-cup-round-up-celtic-progress-with-win-at-dundee-united-aberdeen-kilmarnock-and-ross-county-also-through",
@@ -8777,72 +8810,6 @@
    "section": "world",
    "published": "2026-08-09T07:00:09.000Z",
    "firstSeen": "2026-08-09T08:18:55.335Z"
-  },
-  {
-   "id": "05ea45430359",
-   "title": "\"Scouts came to watch me and I had an absolute stinker - I smelled out the entire pitch!\" - Michail Antonio rues late start to international career",
-   "link": "https://www.fourfourtwo.com/person/player/scouts-came-to-watch-me-and-i-had-an-absolute-stinker-i-smelled-out-the-entire-pitch-michail-antonio-rues-late-start-to-international-career",
-   "snippet": "Michail Antonio has represented Jamaica since 2021, but could have got his start a lot earlier if one fateful game had gone differently",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-08-09T06:00:00.000Z",
-   "firstSeen": "2026-08-09T08:18:55.335Z"
-  },
-  {
-   "id": "23b658ffb640",
-   "title": "Pre-Match Poser no.39: Can you answer this elite-level football quiz question?",
-   "link": "https://www.fourfourtwo.com/quiz/pre-match-poser-no-39",
-   "snippet": "Just the one quiz question - but one that none of your mates will guess",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-08-09T06:00:00.000Z",
-   "firstSeen": "2026-08-09T08:18:55.335Z"
-  },
-  {
-   "id": "df94a4af748d",
-   "title": "Who am I? Guess Premier League star No 20",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cy8m5nlzmvlo",
-   "snippet": "Work out the identity of today's player in as few attempts as possible.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-09T05:36:15.000Z",
-   "firstSeen": "2026-08-09T08:18:55.335Z"
-  },
-  {
-   "id": "f834f2de1161",
-   "title": "New season, new boss - will Alexander-Arnold be key figure at Real Madrid?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c78gvzvwql0o",
-   "snippet": "Trent Alexander-Arnold faces a defining second season at Real Madrid as he looks to prove his worth under Jose Mourinho.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-09T05:18:56.000Z",
-   "firstSeen": "2026-08-09T08:18:55.335Z"
-  },
-  {
-   "id": "5fde50f21c3c",
-   "title": "Wissa double gives Newcastle boss Jaissle winning start at 10-man Valencia",
-   "link": "https://www.skysports.com/football/news/12040/13571236/valencia-1-2-newcastle-yoane-wissas-double-gives-matthias-jaissle-winning-start-as-anthony-elanga-stretchered-off",
-   "snippet": "Substitute Yoane Wissa scored twice to give Matthias Jaissle a winning start as Newcastle boss with a 2-1 comeback pre-season win at 10-man Valencia.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-09T00:30:33.532Z",
-   "firstSeen": "2026-08-09T00:30:33.532Z"
-  },
-  {
-   "id": "fa0fcd2c74df",
-   "title": "Papers: Romero open to joining Arsenal but Spurs resist",
-   "link": "https://www.skysports.com/football/news/12040/13571259/cristian-romero-open-to-joining-arsenal-but-tottenham-adamant-their-defender-will-not-cross-the-north-london-divide-paper-talk",
-   "snippet": "The top stories and transfer rumours from Sunday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-09T00:30:33.532Z",
-   "firstSeen": "2026-08-09T00:30:33.532Z"
   }
  ]
 }
