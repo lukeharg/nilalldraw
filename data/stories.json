@@ -1,6 +1,281 @@
 {
  "stories": [
   {
+   "id": "0a052c04c63c",
+   "title": "Arteta: We want to be the best club in the world",
+   "link": "https://www.skysports.com/football/news/12040/13574486/mikel-arteta-arsenal-manager-says-we-want-to-make-gunners-the-best-club-in-the-world",
+   "snippet": "Mikel Arteta is excited to keep building Arsenal after their Premier League win, vowing to make them \"the best club in the world\".",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-08-19T00:04:50.667Z",
+   "firstSeen": "2026-08-19T00:04:50.667Z"
+  },
+  {
+   "id": "d38784108f0e",
+   "title": "O'Neill: Celtic should aspire to win the Champions League",
+   "link": "https://www.skysports.com/football/news/12040/13574472/champions-league-martin-oneill-says-celtic-should-aim-to-win-the-competition-as-arne-engels-exit-disappointment-discussed",
+   "snippet": "Martin O'Neill believes Celtic should \"aspire\" to win the Champions League ahead of their play-off round qualifier against Austrian champions LASK.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-08-19T00:04:50.667Z",
+   "firstSeen": "2026-08-19T00:04:50.667Z"
+  },
+  {
+   "id": "fb7f70edc361",
+   "title": "Papers: Barca midfielder rejects chance to join Man Utd",
+   "link": "https://www.skysports.com/football/news/12040/13574535/man-utd-transfer-news-barcelona-midfielder-gavi-rejects-chance-to-join-old-trafford-paper-talk",
+   "snippet": "The top stories and transfer rumours from Wednesday's newspapers...",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-08-19T00:04:50.667Z",
+   "firstSeen": "2026-08-19T00:04:50.667Z"
+  },
+  {
+   "id": "fe069f7a6c67",
+   "title": "Musiala shares health update after second in-game collapse",
+   "link": "https://www.skysports.com/football/news/12040/13574499/jamal-musiala-bayern-munich-forward-shares-health-update-after-collapsing-during-a-match-again",
+   "snippet": "Bayern Munich winger Jamal Musiala has revealed he is suffering from “treatable absence seizures” after he collapsed on the pitch for the second time in four days.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-08-19T00:04:50.667Z",
+   "firstSeen": "2026-08-19T00:04:50.667Z"
+  },
+  {
+   "id": "5a88402b05cc",
+   "title": "Premier League 2026-27 preview No 15: Manchester City",
+   "link": "https://www.theguardian.com/football/2026/aug/19/premier-league-2026-27-preview-no-15-manchester-city",
+   "snippet": "With the departures of Pep Guardiola and Rodri it looks like the end of an era at City. Will Enzo Maresca be able to sustain their position as a domestic and continental superpower? Guardian writers’ predicted position: 2nd (NB: this is…",
+   "source": "The Guardian",
+   "sourceId": "guardian-premier-league",
+   "section": "premier-league",
+   "published": "2026-08-18T23:01:03.000Z",
+   "firstSeen": "2026-08-19T00:04:50.667Z"
+  },
+  {
+   "id": "b71e2c782a84",
+   "title": "Football Daily",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p56288",
+   "snippet": "Arsenal seek to defend their Premier League title, but how difficult will that be?",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-08-18T21:55:00.000Z",
+   "firstSeen": "2026-08-19T00:04:50.667Z"
+  },
+  {
+   "id": "edb45e0c2545",
+   "title": "Football Daily",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p56141",
+   "snippet": "After a long couple of seasons for Spurs, can Roberto De Zerbi's turn the club around?",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-08-18T21:50:00.000Z",
+   "firstSeen": "2026-08-19T00:04:50.667Z"
+  },
+  {
+   "id": "9ee1faf5dfa1",
+   "title": "In Zavier Gozo, Crystal Palace land a US prospect living up to the hype",
+   "link": "https://www.theguardian.com/football/2026/aug/18/zavier-gozo-crystal-palace-mls-real-salt-lake-transfer",
+   "snippet": "The 19-year-old US youth international has turned heads in MLS this year, and is on the cusp of a USMNT breakthrough For much of the past year, the story of American starlet Zavier Gozo has been one of realizing potential – even in…",
+   "source": "The Guardian",
+   "sourceId": "guardian-premier-league",
+   "section": "premier-league",
+   "published": "2026-08-18T21:32:42.000Z",
+   "firstSeen": "2026-08-19T00:04:50.667Z"
+  },
+  {
+   "id": "1ea41b483442",
+   "title": "Palace sign United States prospect Gozo",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cpq80q88dyqo",
+   "snippet": "Crystal Palace sign forward Zavier Gozo from Real Salt Lake for a reported $15m (£11.08m).",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-08-18T21:26:12.000Z",
+   "firstSeen": "2026-08-19T00:04:50.667Z"
+  },
+  {
+   "id": "d00931fc98c2",
+   "title": "Al Hilal target England's Kane - Wednesday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c70gdd61kk4o",
+   "snippet": "Al-Hilal in talks with Harry Kane and Ollie Watkins, Newcastle explore move for Manchester City's Nico Gonzalez, Sunderland move for Dayann Methalie in danger of collapsing.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-08-18T21:02:44.000Z",
+   "firstSeen": "2026-08-19T00:04:50.667Z"
+  },
+  {
+   "id": "d8aca5c89896",
+   "title": "Brighton sign Canada striker David on loan",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c30450z6pmmo",
+   "snippet": "Brighton sign Canada striker Promise David from Royale Union Saint-Gilloise on a season-long loan with an obligation to buy for a reported £22m.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-08-18T20:43:01.000Z",
+   "firstSeen": "2026-08-19T00:04:50.667Z"
+  },
+  {
+   "id": "9f64e9b721ee",
+   "title": "Man found dead at Charlton Athletic's ground",
+   "link": "https://www.bbc.co.uk/news/articles/c934e3pgp9lo",
+   "snippet": "A 33-year-old man was found dead at The Valley after a possible fall from height, police say.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-08-18T20:14:04.000Z",
+   "firstSeen": "2026-08-19T00:04:50.667Z"
+  },
+  {
+   "id": "bf3c190c579e",
+   "title": "Jamal Musiala says ‘treatable seizures’ are reason for two collapses in four days",
+   "link": "https://www.theguardian.com/football/2026/aug/18/jamal-musiala-treatable-seizures-statement-collapses-bayern-munich",
+   "snippet": "Musiala reveals ‘neurological dysfunction’ diagnosis Winger has fallen to floor during two recent friendlies The Bayern Munich winger Jamal Musiala has revealed he is suffering from “treatable absence seizures” after he collapsed on the…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-08-18T20:08:04.000Z",
+   "firstSeen": "2026-08-19T00:04:50.667Z"
+  },
+  {
+   "id": "291e08da9b91",
+   "title": "Juventus set to release former Liverpool and Barcelona midfielder Arthur",
+   "link": "https://football-italia.net/juventus-set-to-release-arthur-melo/",
+   "snippet": "Arthur Melo’s six-year spell at Juventus looks to be drawing to a close, with the...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-08-18T20:00:00.000Z",
+   "firstSeen": "2026-08-19T00:04:50.667Z"
+  },
+  {
+   "id": "d12f068ea1f1",
+   "title": "Musiala collapses during match for second time in four-day period",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c330kg5xm8no",
+   "snippet": "Bayern Munich midfielder Jamal Musiala says he is being treated for a \"neurological dysfunction\" after collapsing during a match for the second time in a four-day period.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-08-18T19:57:08.000Z",
+   "firstSeen": "2026-08-19T00:04:50.667Z"
+  },
+  {
+   "id": "6926e1261db6",
+   "title": "Barcelona steal Rodri away from Real Madrid and plan to make him new Busquets",
+   "link": "https://www.theguardian.com/football/2026/aug/18/barcelona-snatch-rodri-from-madrid-and-make-him-new-busquets",
+   "snippet": "Spain’s World Cup-winning captain has completed his move to Camp Nou where he is a natural successor to club legend By the time Flight PTN27B started its descent into El Prat a bit before 8pm on Monday evening, a small crowd had gathered…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-08-18T19:49:19.000Z",
+   "firstSeen": "2026-08-19T00:04:50.667Z"
+  },
+  {
+   "id": "cdd84d893b1d",
+   "title": "Circati to leave Parma for Benfica in €20m deal",
+   "link": "https://football-italia.net/circati-to-leave-parma-for-benfica/",
+   "snippet": "Benfica have reached an agreement with Parma to sign Alessandro Circati, with the Portuguese club...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-08-18T19:40:00.000Z",
+   "firstSeen": "2026-08-19T00:04:50.667Z"
+  },
+  {
+   "id": "df44047b49c5",
+   "title": "Irish striker Parrott on brink of Real Betis move",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c935vrgrn0vo",
+   "snippet": "Republic of Ireland striker Troy Parrott is on the brink of a move from AZ Alkmaar to Spanish club Real Betis as talks are at an advanced stage.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-08-18T19:25:40.000Z",
+   "firstSeen": "2026-08-19T00:04:50.667Z"
+  },
+  {
+   "id": "9d114e83948c",
+   "title": "Milan reject Porto offer for Gimenez as Rossoneri hold out for larger sum",
+   "link": "https://football-italia.net/milan-reject-porto-offer-for-gimenez-as-rossoneri-hold-out-for-larger-sum/",
+   "snippet": "Milan have turned down an offer from Porto for Santiago Gimenez, with the club unconvinced...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-08-18T19:20:00.000Z",
+   "firstSeen": "2026-08-19T00:04:50.667Z"
+  },
+  {
+   "id": "53a68deba37d",
+   "title": "Hull City interested in Japan winger Nakamura",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5ywee6y2qlo",
+   "snippet": "Hull City express an interest in signing Stade de Reims' Japanese winger Keito Nakamura",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-08-18T19:09:31.000Z",
+   "firstSeen": "2026-08-19T00:04:50.667Z"
+  },
+  {
+   "id": "d8ea5e65a5bb",
+   "title": "Pep’s final act of passion: Amazon’s revealing Guardiola series pulls no punches",
+   "link": "https://www.theguardian.com/football/2026/aug/18/peps-final-act-of-passion-amazons-revealing-guardiola-series-pulls-no-punches",
+   "snippet": "From the manager’s divorce to tension with the club hierarchy, new documentary is an honest portrayal of his difficult last two seasons Having occupied a front-row seat for the final two seasons of Pep Guardiola’s gilded Manchester City…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-08-18T19:00:53.000Z",
+   "firstSeen": "2026-08-19T00:04:50.667Z"
+  },
+  {
+   "id": "ff4c94b882af",
+   "title": "Serie A chiefs meet over new rules designed to ‘increase effective playing time of matches",
+   "link": "https://football-italia.net/serie-a-chiefs-meet-over-new-rules/",
+   "snippet": "Serie A’s referees’ body and the league’s twenty clubs held a briefing on Tuesday to...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-08-18T19:00:00.000Z",
+   "firstSeen": "2026-08-19T00:04:50.667Z"
+  },
+  {
+   "id": "e3a3c22363ef",
+   "title": "Jeff Bezos consortium could be majority Liverpool shareholder within a year",
+   "link": "https://www.theguardian.com/football/2026/aug/18/jeff-bezos-liverpool-1892-holdings-fenway-bid",
+   "snippet": "1892 Holdings has first refusal if FSG opts to sell Group paid more than £2bn for initial 38% slice of club 1892 Holdings, the new investor in Liverpool, has first refusal to become the majority shareholder in the next 12 months should…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-08-18T18:49:29.000Z",
+   "firstSeen": "2026-08-19T00:04:50.667Z"
+  },
+  {
+   "id": "d8578c9b4524",
+   "title": "Manchester United star Dalot: ‘I hope Leao can stay at Milan and continue having success there’",
+   "link": "https://football-italia.net/dalot-i-hope-leao-can-stay-at-milan/",
+   "snippet": "Diogo Dalot has spoken glowingly of his Portugal compatriots Gonçalo Ramos and Rafael Leao, with...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-08-18T18:40:00.000Z",
+   "firstSeen": "2026-08-19T00:04:50.667Z"
+  },
+  {
+   "id": "0b975f30e133",
+   "title": "Ajax and Galatasaray join queue for Napoli outcast Lang",
+   "link": "https://football-italia.net/ajax-and-galatasaray-napoli-lang/",
+   "snippet": "Noa Lang remains available for transfer at Napoli, with Ajax and Galatasaray making contact over...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-08-18T18:20:00.000Z",
+   "firstSeen": "2026-08-19T00:04:50.667Z"
+  },
+  {
    "id": "527f13d86cb7",
    "title": "Maguire: I want to be greedy about winning trophies",
    "link": "https://www.skysports.com/football/news/12040/13574426/harry-maguire-man-utd-defender-on-winning-trophies-new-signings-michael-carrick-and-the-future-with-ayden-heaven-and-leny-yoro",
@@ -43,6 +318,17 @@
    "section": "world",
    "published": "2026-08-18T18:05:20.295Z",
    "firstSeen": "2026-08-18T18:05:20.295Z"
+  },
+  {
+   "id": "acdf54e29c1d",
+   "title": "Israel withdraws support for embattled Fifa president Gianni Infantino",
+   "link": "https://www.theguardian.com/football/2026/aug/18/israel-withdraws-support-for-embattled-fifa-president-gianni-infantino",
+   "snippet": "IFA points to ‘unprecedented crisis of confidence’ Premier League chief says Infantino ‘hit self-destruct’ Gianni Infantino’s decision to sack his chief operating officer, Kevin Lamour, after the Frenchman’s criticism of the World Cup…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-08-18T18:03:57.000Z",
+   "firstSeen": "2026-08-19T00:04:50.667Z"
   },
   {
    "id": "65e8113ff502",
@@ -100,6 +386,17 @@
    "firstSeen": "2026-08-18T18:05:20.295Z"
   },
   {
+   "id": "9b43aa6b8bfe",
+   "title": "Football Daily",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p5540m",
+   "snippet": "Richard Masters speaks to Dan Roan ahead of the new season.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-08-18T17:03:00.000Z",
+   "firstSeen": "2026-08-19T00:04:50.667Z"
+  },
+  {
    "id": "7c8e13391a21",
    "title": "Lazio transfer news: Southampton eye Ratkov as Fiorentina could enter Icardi race",
    "link": "https://football-italia.net/lazio-transfer-news-southampton-ratkov-icardi/",
@@ -120,6 +417,17 @@
    "section": "premier-league",
    "published": "2026-08-18T16:57:18.000Z",
    "firstSeen": "2026-08-18T18:05:20.295Z"
+  },
+  {
+   "id": "ae3834f065c6",
+   "title": "Chelsea’s boardroom rift: if Boehly goes who will Clearlake have left to blame? | Sam Cunningham",
+   "link": "https://www.theguardian.com/football/2026/aug/18/chelsea-todd-boehly-mark-walter-clearlake-capital-ownership",
+   "snippet": "Despite another reset with a new manager and fresh strategy, the boardroom drama persists at Stamford Bridge Perhaps, in hindsight, it was always going to end this way. As some of the world’s wealthiest investors scrambled to find funds…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-08-18T16:53:13.000Z",
+   "firstSeen": "2026-08-19T00:04:50.667Z"
   },
   {
    "id": "1a169655e217",
@@ -8568,237 +8876,6 @@
    "section": "world",
    "published": "2026-08-12T00:35:38.326Z",
    "firstSeen": "2026-08-12T00:35:38.326Z"
-  },
-  {
-   "id": "a384397572d9",
-   "title": "Premier League 2026-27 preview No 5: Brighton",
-   "link": "https://www.theguardian.com/football/2026/aug/12/premier-league-2026-27-preview-no-5-brighton",
-   "snippet": "Fabian Hürzeler has lost key players including Welbeck and Van Hecke with Brighton needing squad depth to cope with the demands of European football Guardian writers’ predicted position: 9th (NB: this is not necessarily John Brewin’s…",
-   "source": "The Guardian",
-   "sourceId": "guardian-premier-league",
-   "section": "premier-league",
-   "published": "2026-08-11T23:01:11.000Z",
-   "firstSeen": "2026-08-12T00:35:38.326Z"
-  },
-  {
-   "id": "1ddcec979a0f",
-   "title": "Doku 'not against' journalist who criticised him at World Cup",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c20e3q4l4pgo",
-   "snippet": "Jeremy Doku says he is \"not against\" the journalist who criticised his plan to leave the Belgium camp during the World Cup to attend the birth of his first child.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-11T22:21:56.000Z",
-   "firstSeen": "2026-08-12T00:35:38.326Z"
-  },
-  {
-   "id": "c53660eb5657",
-   "title": "Coventry eye Mudryk on loan - Wednesday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cy5d127gv0go",
-   "snippet": "Coventry City interested in signing Chelsea winger Mykhaylo Mudryk on loan, Barcelona still chasing Manchester City midfielder Rodri and Manchester United make a move for Real Madrid striker Endrick.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-11T22:20:24.000Z",
-   "firstSeen": "2026-08-12T00:35:38.326Z"
-  },
-  {
-   "id": "a78899880777",
-   "title": "Hamer rejoins Coventry City on 'long-term' deal",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c629lp48ykwo",
-   "snippet": "Coventry City re-sign midfielder Gustavo Hamer from Sheffield United on a \"long-term\" contract for an undisclosed fee.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-08-11T22:18:07.000Z",
-   "firstSeen": "2026-08-12T00:35:38.326Z"
-  },
-  {
-   "id": "a08809b78be0",
-   "title": "Pogba expected to have Monaco contract terminated",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c74gvp29jyxo",
-   "snippet": "Paul Pogba is expected to leave Monaco amid talks over a possible contract termination.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-11T21:59:39.000Z",
-   "firstSeen": "2026-08-12T00:35:38.326Z"
-  },
-  {
-   "id": "419e6240f830",
-   "title": "Done Deal: Ruggeri agrees personal terms with Aston Villa at total €26.5m transfer",
-   "link": "https://football-italia.net/done-ruggeri-agrees-personal-terms-aston-villa/",
-   "snippet": "Italy international Matteo Ruggeri has agreed personal terms with Aston Villa, ready to fly out...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-08-11T21:41:13.000Z",
-   "firstSeen": "2026-08-12T00:35:38.326Z"
-  },
-  {
-   "id": "886daf24ab5b",
-   "title": "Report Inter send Luis Henrique to Roma for total €30m, Frattesi to Lazio",
-   "link": "https://football-italia.net/inter-luis-henrique-roma-e30m-frattesi-lazio/",
-   "snippet": "Multiple reports suggest Roma have agreed a loan with potential obligation to buy Luis Henrique...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-08-11T21:26:41.000Z",
-   "firstSeen": "2026-08-12T00:35:38.326Z"
-  },
-  {
-   "id": "4669f4869553",
-   "title": "Mount set to miss Man Utd's Dublin game with Leeds",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c5y3v4ldlllo",
-   "snippet": "Manchester United midfielder Mason Mount is expected to miss the club's penultimate pre-season encounter with Leeds at Croke Park.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-11T20:37:43.000Z",
-   "firstSeen": "2026-08-12T00:35:38.326Z"
-  },
-  {
-   "id": "8ef88e777276",
-   "title": "Inter Milan in talks over Spurs and England defender Spence",
-   "link": "https://www.skysports.com/football/news/12040/13572037/djed-spence-transfer-news-inter-milan-in-talks-to-sign-spurs-and-england-defender",
-   "snippet": "Tottenham are in talks with Inter Milan over the sale of Djed Spence.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-11T20:18:52.921Z",
-   "firstSeen": "2026-08-11T20:18:52.921Z"
-  },
-  {
-   "id": "99bf4de34668",
-   "title": "Emery positive about Aston Villa’s outlook despite summer exits as PSG await",
-   "link": "https://www.theguardian.com/football/2026/aug/11/emery-vows-to-keep-aston-villa-moving-forward-as-they-take-on-psg",
-   "snippet": "Ebullient manager takes his side to Salzburg to cross swords with the European champions in the Super Cup One thing was almost instantly detectable as Unai Emery walked into a stuffy room inside the Red Bull Arena on the eve of Wednesday’s…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-08-11T20:14:18.000Z",
-   "firstSeen": "2026-08-12T00:35:38.326Z"
-  },
-  {
-   "id": "8c5b87f8e42e",
-   "title": "Listen: 2026-27 EFL season preview",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p3yymr",
-   "snippet": "Aaron Paul is joined by Andy Woodman, Luke Chambers and Lyle Taylor.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-11T20:13:00.000Z",
-   "firstSeen": "2026-08-14T12:23:28.095Z"
-  },
-  {
-   "id": "a3c9dd0a9f59",
-   "title": "Portland Thorns and USWNT star Olivia Moultrie out for season with ACL injury",
-   "link": "https://www.theguardian.com/football/2026/aug/11/olivia-moultrie-acl-injury-portland-thorns-uswnt-soccer",
-   "snippet": "20-year-old injured right knee during Thorns training Midfielder had five goals and five assists this season Moultrie likely to miss Concacaf W Championship Portland Thorns midfielder Olivia Moultrie has been placed on the season-ending…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-08-11T20:10:05.000Z",
-   "firstSeen": "2026-08-12T00:35:38.326Z"
-  },
-  {
-   "id": "0afed35eca99",
-   "title": "Football Daily",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p3yxzk",
-   "snippet": "Aaron Paul is joined by Andy Woodman, Luke Chambers and Lyle Taylor.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-11T20:04:00.000Z",
-   "firstSeen": "2026-08-12T00:35:38.326Z"
-  },
-  {
-   "id": "36192f6a86e2",
-   "title": "Maignan unhappy with Milan direction, Al-Nassr aim to take advantage",
-   "link": "https://football-italia.net/maignan-unhappy-with-milan-direction-al-nassr/",
-   "snippet": "Mike Maignan delayed his return from vacation to start Milan pre-season training, with reports of...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-08-11T19:54:36.000Z",
-   "firstSeen": "2026-08-11T20:18:52.921Z"
-  },
-  {
-   "id": "f3c7b3f8e5ac",
-   "title": "Roma change Mora terms for FC Porto, loan with option worth total €50m",
-   "link": "https://football-italia.net/roma-change-mora-terms-for-fc-porto-loan-e50m/",
-   "snippet": "According to Sky Sport Italia, Roma have changed the formula for their Rodrigo Mora offer...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-08-11T19:37:22.000Z",
-   "firstSeen": "2026-08-11T20:18:52.921Z"
-  },
-  {
-   "id": "26a5a087d219",
-   "title": "Matthias Jaissle urges fans to ‘keep the optimism’ through ‘transition phase’ | Louise Taylor",
-   "link": "https://www.theguardian.com/football/2026/aug/11/matthias-jaissle-eddie-howe-newcastle-united-manager-unveiling-st-james-park",
-   "snippet": "The former Al-Ahli head coach, chosen by the club’s Saudi owners to replace Eddie Howe, admits ‘vacuum’ after sale of three key players Matthias Jaissle has been described as “fire” and a “rock star”, but his formal “unveiling” as…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-08-11T19:15:09.000Z",
-   "firstSeen": "2026-08-11T20:18:52.921Z"
-  },
-  {
-   "id": "cea376a0c4b7",
-   "title": "Lucumi closer to Juventus, bid for Bologna raised to €20m plus bonus",
-   "link": "https://football-italia.net/lucumi-closer-to-juventus-bid-for-bologna-e20m/",
-   "snippet": "Tuttosport had already reported last week that Jhon Lucumi agreed personal terms with Juventus, now...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-08-11T19:14:29.000Z",
-   "firstSeen": "2026-08-11T20:18:52.921Z"
-  },
-  {
-   "id": "f09198311bb2",
-   "title": "Frattesi targeted for Lazio loan, but Inter still hope for Nottingham Forest",
-   "link": "https://football-italia.net/frattesi-target-lazio-inter-nottingham-forest/",
-   "snippet": "Lazio have reportedly asked for Davide Frattesi on loan, but Inter still hope Nottingham Forest...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-08-11T18:49:44.000Z",
-   "firstSeen": "2026-08-11T20:18:52.921Z"
-  },
-  {
-   "id": "a60297c759d0",
-   "title": "Ex-Juventus hero Pogba a free agent again after new AS Monaco injury",
-   "link": "https://football-italia.net/ex-juventus-pogba-free-agent-monaco-injury/",
-   "snippet": "Former Juventus star Paul Pogba is set to become a free agent again with reports...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-08-11T18:29:38.000Z",
-   "firstSeen": "2026-08-11T20:18:52.921Z"
-  },
-  {
-   "id": "8aa9a5fe5e46",
-   "title": "Jaissle 'bit scared' how refs will take 'emotional' touchline style",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cedje42vgwjo",
-   "snippet": "Newcastle United head coach Matthias Jaissle cut a measured figure at his unveiling news conference, but Premier League managers will come up against someone very different",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-08-11T18:10:05.000Z",
-   "firstSeen": "2026-08-11T20:18:52.921Z"
-  },
-  {
-   "id": "9c098c25f71f",
-   "title": "Women's football shouldn't be penalised by Uefa boycott - Nandy",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm2grg84lzmo",
-   "snippet": "Culture Secretary Lisa Nandy says women's footballers should not be \"penalised\" by a potential boycott of next month's Under-20 Women's World Cup.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-11T18:06:45.000Z",
-   "firstSeen": "2026-08-11T20:18:52.921Z"
   }
  ]
 }
