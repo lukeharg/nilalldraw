@@ -1,6 +1,61 @@
 {
  "stories": [
   {
+   "id": "b63357e5f9cb",
+   "title": "Financial reality bites for Manchester United as fans continue to wait on new signings",
+   "link": "https://www.fourfourtwo.com/transfer/financial-reality-bites-for-manchester-united-as-fans-continue-wait-for-new-signings",
+   "snippet": "Manchester United haven't signed a first-team player in over a month - here's why",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-08-19T06:00:00.000Z",
+   "firstSeen": "2026-08-19T06:05:53.928Z"
+  },
+  {
+   "id": "75733eaa3e9d",
+   "title": "Who am I? Guess Premier League star No 30",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c9342kw7zkqo",
+   "snippet": "Work out the identity of today's player in as few attempts as possible.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-08-19T05:51:02.000Z",
+   "firstSeen": "2026-08-19T06:05:53.928Z"
+  },
+  {
+   "id": "668262becf55",
+   "title": "Five in Five: Football quiz No 3",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c74gde30nryo",
+   "snippet": "Will you beat the clock by getting all five of today's answers in five minutes?",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-08-19T05:37:16.000Z",
+   "firstSeen": "2026-08-19T06:05:53.928Z"
+  },
+  {
+   "id": "7e1c8fcb4a31",
+   "title": "How will your club fare? Phil McNulty's Premier League predictions",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5ye50qz7yqo",
+   "snippet": "How will your club fare in the 2026-27 Premier League? BBC chief football writer Phil McNulty makes his annual predictions.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-08-19T05:21:19.000Z",
+   "firstSeen": "2026-08-19T06:05:53.928Z"
+  },
+  {
+   "id": "603125b00f15",
+   "title": "Quickfire Quiz 183: Can you answer 10 questions in 90 seconds?",
+   "link": "https://www.fourfourtwo.com/quiz/quickfire-quiz-183",
+   "snippet": "Tackle these 10 football trivia questions about Chloe Kelly, red cards, Yorkshire gaffers, and more!",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-08-19T05:00:00.000Z",
+   "firstSeen": "2026-08-19T06:05:53.928Z"
+  },
+  {
    "id": "0a052c04c63c",
    "title": "Arteta: We want to be the best club in the world",
    "link": "https://www.skysports.com/football/news/12040/13574486/mikel-arteta-arsenal-manager-says-we-want-to-make-gunners-the-best-club-in-the-world",
@@ -8755,127 +8810,6 @@
    "section": "world",
    "published": "2026-08-12T06:20:53.000Z",
    "firstSeen": "2026-08-12T08:35:46.841Z"
-  },
-  {
-   "id": "2f72d2e601b7",
-   "title": "Why Chelsea can't sell £56m Enzo Fernandez this summer",
-   "link": "https://www.fourfourtwo.com/transfer/why-chelsea-cant-sell-gbp56m-enzo-fernandez-this-summer",
-   "snippet": "Enzo Fernandez may often find his name in the transfer gossip columns, but the reality for Chelsea is that selling the midfielder is virtually impossible",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-08-12T06:00:00.000Z",
-   "firstSeen": "2026-08-12T08:35:46.841Z"
-  },
-  {
-   "id": "6fb8c1399629",
-   "title": "Football Daily",
-   "link": "https://www.bbc.co.uk/sounds/play/p0nzvk5n",
-   "snippet": "Police helicopter chase, sneaking out to eat a takeaway or a secret Vegas trip?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-12T06:00:00.000Z",
-   "firstSeen": "2026-08-12T08:35:46.841Z"
-  },
-  {
-   "id": "8a96fabd4dc5",
-   "title": "Can PSG do a three-peat and win six trophies this season?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwylxdngg8yo",
-   "snippet": "Paris St-Germain aim to start their season as they hope to end it - by winning a European trophy.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-12T05:43:50.000Z",
-   "firstSeen": "2026-08-12T08:35:46.841Z"
-  },
-  {
-   "id": "6d9fca74e32c",
-   "title": "Emery chases first Super Cup - but does it matter?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq6dj2jn277o",
-   "snippet": "Aston Villa are competing in the Super Cup for the first time since 1982, but manager Unai Emery has much more recent experience of the match.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-12T05:26:48.000Z",
-   "firstSeen": "2026-08-12T08:35:46.841Z"
-  },
-  {
-   "id": "2b3763e99d6c",
-   "title": "Who am I? Guess Premier League star No 23",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cly8xpjkendo",
-   "snippet": "Work out the identity of today's player in as few attempts as possible.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-12T05:22:08.000Z",
-   "firstSeen": "2026-08-12T08:35:46.841Z"
-  },
-  {
-   "id": "a1bcfd3caae5",
-   "title": "Bellamy's Burnley link puts Wales in hard position - Blake",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c62e55986e6o",
-   "snippet": "The collapse of Craig Bellamy's proposed move to Burnley has put Wales in a \"hard position\", according to former Wales striker Nathan Blake.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-12T05:18:52.000Z",
-   "firstSeen": "2026-08-12T08:35:46.841Z"
-  },
-  {
-   "id": "776a9b5359e1",
-   "title": "Quickfire Quiz 178: Can you answer 10 questions in 90 seconds?",
-   "link": "https://www.fourfourtwo.com/quiz/quickfire-quiz-178",
-   "snippet": "Tackle these 10 football trivia questions about Juan Roman Riquelme, England managers, exhilarating infrastructure, and more!",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-08-12T05:00:00.000Z",
-   "firstSeen": "2026-08-12T08:35:46.841Z"
-  },
-  {
-   "id": "955b59e819e5",
-   "title": "More than the Score",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p3r27j",
-   "snippet": "Is Jose Mourinho still \"special\" - and is he the right man for Real Madrid?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-12T05:00:00.000Z",
-   "firstSeen": "2026-08-12T16:23:30.742Z"
-  },
-  {
-   "id": "b4537e571082",
-   "title": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
-   "link": "https://www.bbc.co.uk/news/articles/clyj0325z3ko",
-   "snippet": "The couple have tied the knot after the Portuguese captain played his last ever World Cup this summer.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-12T04:29:02.000Z",
-   "firstSeen": "2026-08-12T12:24:28.759Z"
-  },
-  {
-   "id": "2aab864dfdc9",
-   "title": "Papers: Chelsea and Man Utd turn down Lewis-Skelly opportunity",
-   "link": "https://www.skysports.com/football/news/12040/13572089/myles-lewis-skelly-transfer-news-chelsea-and-man-utd-turn-down-intermediary-offer-to-sign-arsenal-teenager-paper-talk",
-   "snippet": "The top stories and transfer rumours from Wednesday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-12T00:35:38.326Z",
-   "firstSeen": "2026-08-12T00:35:38.326Z"
-  },
-  {
-   "id": "4176ff085818",
-   "title": "Ronaldo marries long-time girlfriend",
-   "link": "https://www.skysports.com/football/news/12040/13572078/cristiano-ronaldo-marries-long-time-girlfriend-georgina-rodriguez-in-portugal",
-   "snippet": "Cristiano Ronaldo has married his long-time girlfriend Georgina Rodriguez at a civil ceremony in Portugal.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-12T00:35:38.326Z",
-   "firstSeen": "2026-08-12T00:35:38.326Z"
   }
  ]
 }
