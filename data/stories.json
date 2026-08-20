@@ -1,6 +1,72 @@
 {
  "stories": [
   {
+   "id": "d59eae906dd5",
+   "title": "'Bobby wiped his hands before he shook the Queen's hands so as not to dirty her gloves. Who does that after winning the World Cup? An immaculate man with an immaculate character' Sir Geoff Hurst on why he looked up to Bobby Moore",
+   "link": "https://www.fourfourtwo.com/person/bobby-wiped-his-hands-before-he-shook-the-queens-hands-so-as-not-to-dirty-her-gloves-who-does-that-after-winning-the-world-cup-an-immaculate-man-with-an-immaculate-character-sir-geoff-hurst-on-why-he-looked-up-to-bobby-moore",
+   "snippet": "Bobby Moore was an absolute natural leader in all regards, as Sir Geoff Hurst told FourFourTwo",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-08-20T06:00:00.000Z",
+   "firstSeen": "2026-08-20T06:06:02.100Z"
+  },
+  {
+   "id": "ead174d47609",
+   "title": "Who am I? Guess Premier League star No 31",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cj36grvmrz4o",
+   "snippet": "Work out the identity of today's player in as few attempts as possible.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-08-20T05:57:38.000Z",
+   "firstSeen": "2026-08-20T06:06:02.100Z"
+  },
+  {
+   "id": "bd9e3786556e",
+   "title": "Premier League predictions 2026-27: BBC Sport pundits pick their top four",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cp8edryd7plo",
+   "snippet": "We ask 26 BBC Sport football pundits to predict who will win the 2026-27 Premier League title, and which clubs will finish in the top four.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-08-20T05:24:16.000Z",
+   "firstSeen": "2026-08-20T06:06:02.100Z"
+  },
+  {
+   "id": "ab54717caa38",
+   "title": "Aguero and Shearer star in best opening-round debuts",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cwyl718g865o",
+   "snippet": "BBC Sport takes a look at some of the Premier League's greatest opening-day debuts, including Alan Shearer's Blackburn blinder and Michu's Swansea screamers.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-08-20T05:22:10.000Z",
+   "firstSeen": "2026-08-20T06:06:02.100Z"
+  },
+  {
+   "id": "f9a5dccf469a",
+   "title": "Instant classics, odd inspirations and barcodes: 2025-26’s best and worst kits",
+   "link": "https://www.theguardian.com/football/2026/aug/20/instant-classics-odd-inspirations-and-barcodes-2025-26s-best-and-worst-kits",
+   "snippet": "A look at six of the best and worst of the new season’s strips gives us Pro Evo chic, throwbacks done right, and how – and how not – to use stripes The Premier League season kicks off on Friday and league debutants such as Christos Tzolis…",
+   "source": "The Guardian",
+   "sourceId": "guardian-premier-league",
+   "section": "premier-league",
+   "published": "2026-08-20T05:00:44.000Z",
+   "firstSeen": "2026-08-20T06:06:02.100Z"
+  },
+  {
+   "id": "5792ec870712",
+   "title": "Quickfire Quiz 184: Can you answer 10 questions in 90 seconds?",
+   "link": "https://www.fourfourtwo.com/quiz/quickfire-quiz-184",
+   "snippet": "Tackle these 10 football trivia questions about Happy Hammers, EFL nicknames, famous referees, and more!",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-08-20T05:00:00.000Z",
+   "firstSeen": "2026-08-20T06:06:02.100Z"
+  },
+  {
    "id": "049f2571cae1",
    "title": "Duran, Duran! Celtic earn thumping CL win after new star's double",
    "link": "https://www.skysports.com/football/celtic-vs-linz-ask/report/577265",
@@ -43,6 +109,17 @@
    "section": "world",
    "published": "2026-08-20T00:04:48.253Z",
    "firstSeen": "2026-08-20T00:04:48.253Z"
+  },
+  {
+   "id": "1e1c62fa4206",
+   "title": "‘A huge honour’: Socceroos World Cup star Alessandro Circati seals move to Benfica",
+   "link": "https://www.theguardian.com/football/2026/aug/20/alessandro-circati-benfica-portugal-primeira-liga-transfer-news-move",
+   "snippet": "Defender completes transfer for reported fee of 20m euros ($33m) Ten Australian players have now made post-World Cup moves Young Socceroo Alessandro Circati has become the latest Australian international to be snapped up in a…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-08-19T23:58:35.000Z",
+   "firstSeen": "2026-08-20T06:06:02.100Z"
   },
   {
    "id": "42425011e8f3",
@@ -8141,6 +8218,17 @@
    "firstSeen": "2026-08-13T16:22:41.766Z"
   },
   {
+   "id": "b7334d4965f6",
+   "title": "What has changed in FPL for 2026-27 season?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c4gk9980l0yo",
+   "snippet": "BBC Sport's Ask Me Anything looks at all of the key changes coming to Fantasy Premier League for the 2026-27 season",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-08-13T12:53:59.000Z",
+   "firstSeen": "2026-08-20T06:06:02.100Z"
+  },
+  {
    "id": "f834031ce09c",
    "title": "Alajbegovic: ‘When Juventus call, difficult to say no’ after Chelsea concern",
    "link": "https://football-italia.net/alajbegovic-juventus-call-difficult-to-say-no/",
@@ -8733,138 +8821,6 @@
    "section": "world",
    "published": "2026-08-13T06:55:40.000Z",
    "firstSeen": "2026-08-13T08:37:22.574Z"
-  },
-  {
-   "id": "544f241ddf34",
-   "title": "Can I shock you? Roberto Martinez never underachieved with Belgium’s golden generation",
-   "link": "https://www.fourfourtwo.com/person/coaches-managers/can-i-shock-you-roberto-martinez-never-underachieved-with-belgiums-golden-generation",
-   "snippet": "Did Roberto Martinez really fail Belgium's golden generation? Or did everyone just expect way too much from a horribly imbalanced squad of stars?",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-08-13T06:00:00.000Z",
-   "firstSeen": "2026-08-13T08:37:22.574Z"
-  },
-  {
-   "id": "e7ee352d1329",
-   "title": "Can Sunderland defy the Premier League doubters again?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cn8ndw25yjeo",
-   "snippet": "Sunderland were one of the stories of the 2025-26 Premier League season - but can they do it again this time around, with added European commitments?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-08-13T05:52:23.000Z",
-   "firstSeen": "2026-08-13T08:37:22.574Z"
-  },
-  {
-   "id": "b302e8faf2e8",
-   "title": "Who am I? Guess Premier League star No 24",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c1j1w23dygjo",
-   "snippet": "Work out the identity of today's player in as few attempts as possible.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-13T05:49:30.000Z",
-   "firstSeen": "2026-08-13T08:37:22.574Z"
-  },
-  {
-   "id": "834c27939e9a",
-   "title": "Quickfire Quiz 179: Can you answer 10 questions in 90 seconds?",
-   "link": "https://www.fourfourtwo.com/quiz/quickfire-quiz-179",
-   "snippet": "Tackle these 10 football trivia questions about goalkeepers, team names, World Cup finals, and more!",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-08-13T05:00:00.000Z",
-   "firstSeen": "2026-08-13T08:37:22.574Z"
-  },
-  {
-   "id": "b3267d52371a",
-   "title": "Failure not an option as Ange Postecoglou gears up for biggest challenge yet alongside Ronaldo | John Duerden",
-   "link": "https://www.theguardian.com/football/blog/2026/aug/13/australian-ange-postecoglou-football-coach-al-nassr-ronaldo",
-   "snippet": "The Australian has become Al-Nassr’s 12th coach of the 2020s and while taking over a star-studded squad may seem a comfortable gig, it will be anything but in the Saudi Pro League When Ange Postecoglou left Nottingham Forest in October,…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-08-13T02:00:45.000Z",
-   "firstSeen": "2026-08-13T08:37:22.574Z"
-  },
-  {
-   "id": "22b33a700154",
-   "title": "Chelsea set Man City deadline to bid for Fernandez",
-   "link": "https://www.skysports.com/football/news/12040/13572395/enzo-fernandez-transfer-news-chelsea-set-man-city-deadline-to-bid-for-midfielder",
-   "snippet": "Chelsea have told Manchester City they have a deadline of 5pm this Friday to make an offer for Enzo Fernandez.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-13T00:37:01.859Z",
-   "firstSeen": "2026-08-13T00:37:01.859Z"
-  },
-  {
-   "id": "2f7c4ec5ca02",
-   "title": "Atletico agree deal to sign Spurs captain Romero",
-   "link": "https://www.skysports.com/football/news/12040/13571751/cristian-romero-atletico-madrid-agree-deal-with-tottenham-to-sign-argentina-defender-after-long-term-interest",
-   "snippet": "Atletico Madrid have agreed a deal in principle with Tottenham to sign Cristian Romero.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-13T00:37:01.859Z",
-   "firstSeen": "2026-08-13T00:37:01.859Z"
-  },
-  {
-   "id": "534c9892d841",
-   "title": "Rashford absent in Leeds friendly win but still part of Man Utd plans",
-   "link": "https://www.skysports.com/football/manchester-united-vs-leeds-united/report/555721",
-   "snippet": "Joshua Zirkzee and Brenden Aaronson scored as Manchester United and old foes Leeds played out an entertaining 1-1 friendly draw at the spiritual home of Irish sport in Dublin, before the concluding shoot-out was edged 5-4 by Michael…",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-13T00:37:01.859Z",
-   "firstSeen": "2026-08-13T00:37:01.859Z"
-  },
-  {
-   "id": "94a0186ef741",
-   "title": "Papers: Arsenal hold further talks over Villa's Konsa",
-   "link": "https://www.skysports.com/football/news/12040/13572412/arsenal-transfer-news-gunners-hold-further-talks-over-aston-villa-defender-ezri-konsa-paper-talk",
-   "snippet": "The top stories and transfer rumours from Thursday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-13T00:37:01.859Z",
-   "firstSeen": "2026-08-13T00:37:01.859Z"
-  },
-  {
-   "id": "a6d1b8e3ec03",
-   "title": "Arteta: There's more we want to do in the transfer market",
-   "link": "https://www.skysports.com/football/news/12040/13572410/mikel-arteta-says-arsenal-are-actively-looking-for-signings-in-the-transfer-market-after-bruno-guimaraes-makes-bow-in-friendly-against-como",
-   "snippet": "Mikel Arteta says Arsenal are actively looking for more new signings in the transfer market but admits there is only a small pool of available players who can take them to the next level.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-13T00:37:01.859Z",
-   "firstSeen": "2026-08-13T00:37:01.859Z"
-  },
-  {
-   "id": "b6c250b70275",
-   "title": "Guimaraes makes bow and Lewis-Skelly scores as Arsenal held by Como",
-   "link": "https://www.skysports.com/football/arsenal-vs-como/report/562442",
-   "snippet": "Bruno Guimaraes made his first appearance and Myles Lewis-Skelly scored amid speculation about his future as Arsenal were held to a 1-1 draw by Como before winning 4-3 on penalties.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-13T00:37:01.859Z",
-   "firstSeen": "2026-08-13T00:37:01.859Z"
-  },
-  {
-   "id": "ff1778d63fe8",
-   "title": "Doue silences Madjo-mania as PSG beat Villa to win Super Cup",
-   "link": "https://www.skysports.com/football/paris-saint-germain-vs-aston-villa/report/556002",
-   "snippet": "Desire Doue scored the winner as champions of Europe Paris Saint-Germain beat Aston Villa 2-1 to win the UEFA Super Cup.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-13T00:37:01.859Z",
-   "firstSeen": "2026-08-13T00:37:01.859Z"
   }
  ]
 }
