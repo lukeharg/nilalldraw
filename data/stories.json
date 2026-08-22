@@ -1,6 +1,336 @@
 {
  "stories": [
   {
+   "id": "03111588523e",
+   "title": "Papers: Atletico Madrid ready to sell Alvarez to Arsenal",
+   "link": "https://www.skysports.com/football/news/12040/13575656/arsenal-transfer-news-atletico-madrid-finally-shift-julian-alvarez-position-and-now-willing-to-sell-striker-to-the-gunners-paper-talk",
+   "snippet": "The top stories and transfer rumours from Saturday's newspapers...",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-08-22T00:05:21.922Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
+  },
+  {
+   "id": "13ddfaa7c09a",
+   "title": "Arsenal kick off title defence with thumping win over Coventry",
+   "link": "https://www.skysports.com/football/arsenal-vs-coventry-city/report/559444",
+   "snippet": "Arsenal made a flying start to their Premier League title defence with a 3-0 thumping of newly-promoted Coventry City in the season opener at the Emirates Stadium.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-08-22T00:05:21.922Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
+  },
+  {
+   "id": "2d47ee16e5a9",
+   "title": "'A massive 10 days' - Neville tells Arsenal to get Alvarez before deadline",
+   "link": "https://www.skysports.com/football/news/12040/13575645/arsenal-transfer-news-julian-alvarez-would-add-magic-to-gunners-frontline-says-gary-neville-as-he-urges-them-to-sign-atletico-madrid-striker",
+   "snippet": "Defending Premier League champions Arsenal would become Champions League winners if they land Julian Alvarez in the final days of the transfer window, says Gary Neville.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-08-22T00:05:21.922Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
+  },
+  {
+   "id": "e90f440cbaa4",
+   "title": "Man Utd agree £70m deal for Baleba",
+   "link": "https://www.skysports.com/football/news/12040/13575603/carlos-baleba-transfer-news-manchester-united-and-brighton-agree-70m-deal-for-midfielder",
+   "snippet": "Manchester United have agreed a £70m deal for Brighton midfielder Carlos Baleba.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-08-22T00:05:21.922Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
+  },
+  {
+   "id": "7777154913c6",
+   "title": "Lessons learned, but Coventry's top-flight return about more than result",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cp8e37mpp0eo",
+   "snippet": "Twenty-five years, 94 days and countless twists later, Coventry City have started life back in the Premier League, but it was a tough baptism of fire with a 3-0 loss at defending champions Arsenal.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-08-21T23:13:13.000Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
+  },
+  {
+   "id": "85a88c376107",
+   "title": "Women’s Super League 2026-27 preview No 1: Arsenal",
+   "link": "https://www.theguardian.com/football/2026/aug/22/womens-super-league-2026-27-preview-no-1-arsenal",
+   "snippet": "After an underwhelming season, Arsenal have made major changes with club legends departing and top talent from all over Europe arriving Guardian writers’ predicted position: 2nd (NB: this is not necessarily Suzanne Wrack’s prediction but…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-08-21T23:01:47.000Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
+  },
+  {
+   "id": "508d27ef6b13",
+   "title": "Swaggering Arsenal want title attack, not defence",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cpw94evj1q7o",
+   "snippet": "Arsenal started last season as nearly men but their title win has given them a swagger - as Coventry discovered on the Premier League's opening night.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-08-21T22:55:40.000Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
+  },
+  {
+   "id": "680498a0dad7",
+   "title": "Martin Ødegaard resumes his role as Arsenal’s smoothing agent and pass master | Barney Ronay",
+   "link": "https://www.theguardian.com/football/2026/aug/21/martin-degaard-of-old-is-back-with-the-pass-that-makes-the-pass",
+   "snippet": "His goal was like something from It’s A Knockout, but the Arsenal captain showed signs of recovery from an injury-wrecked campaign We’re back, baby. Welcome to the content zone. And yes, we did actually go away for a bit. Seriously. Check…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-08-21T22:43:42.000Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
+  },
+  {
+   "id": "3b2c19e2a07a",
+   "title": "Lampard praises Coventry's courage in 3-0 defeat by Arsenal",
+   "link": "https://www.bbc.co.uk/sport/football/videos/ckg97d082wyo",
+   "snippet": "Coventry City manager Frank Lampard shares his thoughts on his side's 3-0 defeat by Arsenal in their first game back in the Premier League since 2001.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-08-21T22:00:36.000Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
+  },
+  {
+   "id": "e1a1a751a315",
+   "title": "'A lot to like!' Arteta delighted with opening win for Arsenal",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c4gjn9j3d47o",
+   "snippet": "Arsenal manager Mikel Arteta gives his thoughts on his side's 3-0 win over Coventry City in the opening game of the Premier League season.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-08-21T21:56:44.000Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
+  },
+  {
+   "id": "51e93b483e18",
+   "title": "Chelsea: Napoli ready for Guiu, Roma request Gittens loan",
+   "link": "https://football-italia.net/chelsea-napoli-ready-guiu-roma-request-gittens/",
+   "snippet": "Napoli have contacted Chelsea to ask after unwanted striker Marc Guiu, but the Blues rejected...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-08-21T21:50:58.000Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
+  },
+  {
+   "id": "f7e2c70c4ce7",
+   "title": "Arsenal start title defence with comfortable win over Coventry",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cgr7e17010go",
+   "snippet": "Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champions Arsenal a comfortable 3-0 win over newcomers Coventry City, in the opening game of the Premier League campaign at the Emirates Stadium.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-08-21T21:35:28.000Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
+  },
+  {
+   "id": "46ef8133cdd5",
+   "title": "Manchester United agree deal for Carlos Baleba to continue midfield rebuild",
+   "link": "https://www.theguardian.com/football/2026/aug/21/manchester-united-continue-midfield-regeneration-with-carlos-baleba-deal",
+   "snippet": "Brighton midfielder will join Tielemans and Santos Club’s most expensive summer signing at initial £65m Manchester United have agreed a deal worth an initial £65m for Carlos Baleba and the Brighton midfielder will have his medical this…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-08-21T21:30:45.000Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
+  },
+  {
+   "id": "7083ccbf4ab9",
+   "title": "Premier League news: Iraola warns against writing off Liverpool title hopes",
+   "link": "https://www.theguardian.com/football/2026/aug/21/premier-league-news-liverpool-iraola-aston-villa-emery",
+   "snippet": "Manager ‘very confident’ in squad despite lack of summer signings, while Emery counts cost of Villa success",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-08-21T21:30:45.000Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
+  },
+  {
+   "id": "a999183b90ef",
+   "title": "De Zerbi defends Spurs transfer spree and claims every club ‘wanted to kill us’",
+   "link": "https://www.theguardian.com/football/2026/aug/21/roberto-de-zerbi-tottenham-transfer-spree-brentford-premier-league",
+   "snippet": "Spurs’ outlay expected to pass £300m this summer ‘People don’t love if Tottenham becomes better’ Roberto De Zerbi has claimed every club “wanted to kill” Tottenham last season and has been reminding his players of that throughout the…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-08-21T21:30:45.000Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
+  },
+  {
+   "id": "3236349e5383",
+   "title": "Inter complete £30m deal for Liverpool's Jones",
+   "link": "https://www.bbc.co.uk/sport/football/articles/czdm9pjd0ero",
+   "snippet": "Inter Milan sign midfielder Curtis Jones from Liverpool in a deal worth £30m.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-08-21T21:23:29.000Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
+  },
+  {
+   "id": "07405d3b3204",
+   "title": "Arsenal sweep Coventry aside to start Premier League title defence in style",
+   "link": "https://www.theguardian.com/football/2026/aug/21/arsenal-coventry-premier-league-match-report",
+   "snippet": "What a difference a title makes. The last time Arsenal played in front of their own supporters, you could cut the nervous tension with a knife as Mikel Arteta’s side scraped to a 1-0 victory over already relegated Burnley. Ninety five days…",
+   "source": "The Guardian",
+   "sourceId": "guardian-premier-league",
+   "section": "premier-league",
+   "published": "2026-08-21T21:07:53.000Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
+  },
+  {
+   "id": "fdb7e1c388d3",
+   "title": "LIVE Done Deals Tracker: Every confirmed transfer on August 21",
+   "link": "https://football-italia.net/live-done-deal-tracker-latest-serie-a-transfer/",
+   "snippet": "{rsn-live-v2}",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-08-21T21:00:12.000Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
+  },
+  {
+   "id": "27e48673a4c4",
+   "title": "Tzolis shines in Premier League opener - Arsenal v Coventry player ratings",
+   "link": "https://www.bbc.co.uk/sport/football/articles/crl7g4e4pdno",
+   "snippet": "How Arsenal and Coventry's players rated following their Premier League match.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-08-21T20:52:32.000Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
+  },
+  {
+   "id": "730b98ef11c3",
+   "title": "Bavidge earns Inverness CT a point against Partick Thistle",
+   "link": "https://www.bbc.co.uk/sport/videos/cvgl2zz12xeo",
+   "snippet": "Watch the goals as Alfie Bavidge's late goal earns Inverness Caledonian Thistle a draw against Partick Thistle in the Scottish Championship.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-08-21T20:42:09.000Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
+  },
+  {
+   "id": "90ddf53ad77b",
+   "title": "Official: Como loan Fadera to Cagliari with option to buy",
+   "link": "https://football-italia.net/official-como-loan-fadera-cagliari-option-buy/",
+   "snippet": "Como have officially loaned Alieu Fadera to Cagliari with an option to buy at the...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-08-21T20:01:31.000Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
+  },
+  {
+   "id": "a4269ec8233a",
+   "title": "Man Utd agree £70m fee for Brighton's Baleba",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwy452d662ko",
+   "snippet": "Manchester United agree a fee of up to £70m for Brighton midfielder Carlos Baleba.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-08-21T19:58:11.000Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
+  },
+  {
+   "id": "0756eb35ca3f",
+   "title": "Usain Bolt set to play Sunday league football for star-studded veterans’ team",
+   "link": "https://www.theguardian.com/sport/2026/aug/21/usain-bolt-to-play-sunday-league-football-wythenshawe-veterans",
+   "snippet": "Bolt’s name appears in Wythenshawe FC squad list Team features several former Premier League stars The sprinting legend Usain Bolt appears set to turn out for a star-studded Sunday league team in Greater Manchester after his name appeared…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-08-21T19:52:06.000Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
+  },
+  {
+   "id": "f5539f647478",
+   "title": "Liverpool make Endrick enquiry - Saturday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cy4kjg3j4d3o",
+   "snippet": "Liverpool make Endrick enquiry, Chelsea brace for a Nicolas Jackson offer and Arsenal make request to Victor Osimhen, plus more.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-08-21T19:48:23.000Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
+  },
+  {
+   "id": "ea2a9971a3e5",
+   "title": "Report Oosterwolde and Fenerbahce in Roma talks for total €20m deal",
+   "link": "https://football-italia.net/report-oosterwolde-fenerbahce-roma-talks-20m/",
+   "snippet": "There are reports that Roma are in advanced negotiations with Fenerbahce for Jayden Oosterwolde, hoping...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-08-21T19:44:29.000Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
+  },
+  {
+   "id": "6bbe3ca301a6",
+   "title": "Jones: ‘I wanted Inter for a while, hope it’ll be exciting’ after life at Liverpool",
+   "link": "https://football-italia.net/jones-i-wanted-inter-for-a-while-hope-exciting/",
+   "snippet": "Curtis Jones admits he has ‘wanted to come to Inter for a while’ and finally...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-08-21T19:28:13.000Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
+  },
+  {
+   "id": "81d78fb5bd1a",
+   "title": "Report Osmajic ready for Genoa with €3.5m plus bonus Preston NE deal",
+   "link": "https://football-italia.net/report-osmajic-ready-genoa-e3-5m-plus-bonus/",
+   "snippet": "Genoa are reportedly on the verge of securing striker Milutin Osmajic from Preston North End...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-08-21T19:10:09.000Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
+  },
+  {
+   "id": "78a3036970b5",
+   "title": "Official: Jones joins Inter from Liverpool in €30m plus bonus deal",
+   "link": "https://football-italia.net/official-jones-joins-inter-from-liverpool-e30m/",
+   "snippet": "Curtis Jones is officially a new Inter player after completing the transfer from Liverpool for...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-08-21T18:39:20.000Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
+  },
+  {
+   "id": "9587dcdb5f8f",
+   "title": "Official: Sassuolo sign Leysen from Union Saint-Gilloise",
+   "link": "https://football-italia.net/official-sassuolo-leysen-union-saint-gilloise/",
+   "snippet": "Sassuolo have officially signed defender Fedde Leysen from Union Saint-Gilloise, on loan with option to...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-08-21T18:20:28.000Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
+  },
+  {
+   "id": "1847fd3f7e75",
+   "title": "Pinamonti and Lazio tempt Sassuolo with new offer after €9m package rejected",
+   "link": "https://football-italia.net/pinamonti-lazio-sassuolo-new-offer-9m-package/",
+   "snippet": "Lazio are preparing a different offer to Sassuolo for Andrea Pinamonti after fresh meetings, as...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-08-21T18:07:02.000Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
+  },
+  {
    "id": "2ac1e899c142",
    "title": "Bruno absent for Arsenal vs Coventry on Sky!",
    "link": "https://www.skysports.com/football/arsenal-vs-coventry-city/live/559444",
@@ -43,6 +373,17 @@
    "section": "world",
    "published": "2026-08-21T18:05:57.222Z",
    "firstSeen": "2026-08-21T18:05:57.222Z"
+  },
+  {
+   "id": "8125fb55682b",
+   "title": "NEW ISSUE: Year of the Boss, meet the new faces in the dugouts, Kevin Keegan remembered, Sergio Aguero on that goal, Theo Paphitis on Lions and Dragons plus Chris Kamara",
+   "link": "https://www.fourfourtwo.com/team/new-issue-year-of-the-boss-meet-the-new-faces-in-the-dugouts-kevin-keegan-remembered-sergio-aguero-on-that-goal-theo-paphitis-on-lions-and-dragons-plus-chris-kamara",
+   "snippet": "Get your hands on the latest issue of FourFourTwo magazine – available in print or on your device now",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-08-21T18:00:16.000Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
   },
   {
    "id": "ca9b3648741f",
@@ -230,6 +571,17 @@
    "section": "world",
    "published": "2026-08-21T15:45:19.000Z",
    "firstSeen": "2026-08-21T18:05:57.222Z"
+  },
+  {
+   "id": "66a67e3ee3df",
+   "title": "Shakhtar agree to play Champions League ties at Chelsea",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cpw9e1dz9kko",
+   "snippet": "Ukrainian club Shakhtar Donetsk agree to play Champions League home games at Chelsea's Stamford Bridge this season.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-champions-league",
+   "section": "champions-league",
+   "published": "2026-08-21T15:40:04.000Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
   },
   {
    "id": "5204a22e8355",
@@ -934,6 +1286,17 @@
    "section": "world",
    "published": "2026-08-21T07:41:43.000Z",
    "firstSeen": "2026-08-21T12:05:26.086Z"
+  },
+  {
+   "id": "d0d187db0a2c",
+   "title": "Manchester City set to sell Savinho and Omar Marmoush to Spurs for combined £160m",
+   "link": "https://www.theguardian.com/football/2026/aug/21/tottenham-hotspur-close-on-deals-for-manchester-city-savinho-omar-marmoush",
+   "snippet": "Enzo Maresca confirms Savinho asked to leave club Marmoush has not done so but also likely to depart City Enzo Maresca has revealed Savinho made clear his desire to leave Manchester City on “day one” of his tenure but that Omar Marmoush…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-08-21T07:30:42.000Z",
+   "firstSeen": "2026-08-22T00:05:21.922Z"
   },
   {
    "id": "64a4d02b1cf6",
@@ -8623,248 +8986,6 @@
    "section": "world",
    "published": "2026-08-15T00:22:22.646Z",
    "firstSeen": "2026-08-15T00:22:22.646Z"
-  },
-  {
-   "id": "d9d671fd91b8",
-   "title": "Europa League exit leaves Rangers counting the financial cost",
-   "link": "https://www.bbc.co.uk/news/articles/cvg94jqpzxpo",
-   "snippet": "As Rangers struggle on the pitch, there will be an understanding that they need fan loyalty to stay afloat.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-14T21:47:00.000Z",
-   "firstSeen": "2026-08-15T00:22:22.646Z"
-  },
-  {
-   "id": "c1dc3d69a50c",
-   "title": "‘Not going to be an issue’: Mikel Arteta relaxed about Arsenal contract situation",
-   "link": "https://www.theguardian.com/football/2026/aug/14/mikel-arteta-arsenal-contract-manchester-city-community-shield-premier-league",
-   "snippet": "Manager’s deal expires at end of the new season ‘They don’t have to worry … I want to be here’ Mikel Arteta has said he is relaxed about his Arsenal contract expiring at the end of the new season and believes his side will need to be…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-08-14T21:30:38.000Z",
-   "firstSeen": "2026-08-15T00:22:22.646Z"
-  },
-  {
-   "id": "2fd9524beb60",
-   "title": "Arteta not worried about Arsenal contract talks",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cp3r6qgve4no",
-   "snippet": "Mikel Arteta says supporters \"don't have to worry about\" his future at Arsenal as he wants to extend his contract and the time left on his deal is \"not an issue\".",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-08-14T21:30:21.000Z",
-   "firstSeen": "2026-08-15T00:22:22.646Z"
-  },
-  {
-   "id": "746fb6b7ea98",
-   "title": "Raúl Jiménez’s injury-time penalty salvages point for Wolves against Blackburn",
-   "link": "https://www.theguardian.com/football/2026/aug/14/wolves-blackburn-championship-match-report",
-   "snippet": "Raúl Jiménez marked his return to Wolves with the stoppage-time equaliser that saved them from an embarrassing start to their return to the Championship. The Mexico striker, who scored against England during the World Cup, came off the…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-08-14T21:21:18.000Z",
-   "firstSeen": "2026-08-15T00:22:22.646Z"
-  },
-  {
-   "id": "ada3c537d3f1",
-   "title": "Coppa Italia: Fiorentina hit 4 on Mastantuono debut, Varela impressive for Monza",
-   "link": "https://football-italia.net/coppa-italia-fiorentina-4-mastantuono-debut/",
-   "snippet": "Fiorentina crushed Benevento 4-1 and Franco Mastantuono made his debut in the Coppa Italia, while...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-08-14T21:16:16.000Z",
-   "firstSeen": "2026-08-15T00:22:22.646Z"
-  },
-  {
-   "id": "b5e54937dc00",
-   "title": "Arsenal lead Hinshelwood race - Saturday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c80n2g2x0g7o",
-   "snippet": "Arsenal lead race for Jack Hinshelwood, Barcelona set to make third Rodri bid, Manchester United and Tottenham join Arsenal in discussing Victor Osimhen, plus more.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-14T21:14:10.000Z",
-   "firstSeen": "2026-08-15T00:22:22.646Z"
-  },
-  {
-   "id": "31b5938e4fab",
-   "title": "Listen: Reaction as Kilmarnock come back twice to beat Ayr",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p4my4c",
-   "snippet": "David Currie, Rory Loy and Ian McCall review Kilmarnock 3-2 Ayr United in the League Cup",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-14T21:10:00.000Z",
-   "firstSeen": "2026-08-15T00:22:22.646Z"
-  },
-  {
-   "id": "b863f7df0ab9",
-   "title": "Football Daily",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p4mymx",
-   "snippet": "Arsenal take on Manchester City in the Community Shield on Sunday",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-14T21:09:00.000Z",
-   "firstSeen": "2026-08-15T00:22:22.646Z"
-  },
-  {
-   "id": "3de17c2b8bf1",
-   "title": "Official: Lazio get Frattesi on loan from Inter with option to buy for €15m",
-   "link": "https://football-italia.net/official-lazio-get-frattesi-on-loan-from-inter/",
-   "snippet": "Davide Frattesi has officially joined Lazio on loan from Inter with an option to buy...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-08-14T20:42:28.000Z",
-   "firstSeen": "2026-08-15T00:22:22.646Z"
-  },
-  {
-   "id": "2bd0c5bf22ba",
-   "title": "Liverpool takeover Q&A: What do we know about Bezos' consortium?",
-   "link": "https://www.skysports.com/football/news/12040/13566630/liverpool-key-questions-answered-as-jeff-bezos-and-amit-bhatia-close-in-on-purchasing-strategic-minority-stake",
-   "snippet": "Liverpool's owners Fenway Sports Group have sold a stake in Liverpool Football Club to a consortium including Amazon founder Jeff Bezos.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-14T20:13:47.891Z",
-   "firstSeen": "2026-08-14T20:13:47.891Z"
-  },
-  {
-   "id": "325de786e61b",
-   "title": "Man City miss Chelsea's deadline to bid for Fernandez",
-   "link": "https://www.skysports.com/football/news/12040/13572838/enzo-fernandez-transfer-news-man-city-miss-chelseas-deadline-to-bid-for-midfielder",
-   "snippet": "The 5pm Friday deadline set by Chelsea for Man City to make their bid for Enzo Fernandez has passed with no offer made for the midfielder.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-14T20:13:47.891Z",
-   "firstSeen": "2026-08-14T20:13:47.891Z"
-  },
-  {
-   "id": "37833e23b434",
-   "title": "Romero announces Spurs exit ahead of Atletico transfer",
-   "link": "https://www.skysports.com/football/news/12040/13572603/cristian-romero-spurs-captain-announces-exit-ahead-of-atletico-madrid-transfer-as-he-makes-statement-on-instagram",
-   "snippet": "Tottenham captain Cristian Romero has confirmed he is leaving the club ahead of his move to Atletico Madrid being announced.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-14T20:13:47.891Z",
-   "firstSeen": "2026-08-14T20:13:47.891Z"
-  },
-  {
-   "id": "9304b4508df7",
-   "title": "FSG sell minority stake in Liverpool to Bezos-backed consortium",
-   "link": "https://www.skysports.com/football/news/12040/13573040/liverpool-fsg-sell-minority-stake-to-amazon-founder-jeff-bezos-backed-consortium-led-by-amit-bhatia",
-   "snippet": "Liverpool's owners have agreed to sell around a third of the club to a consortium including Amazon founder Jeff Bezos.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-14T20:13:47.891Z",
-   "firstSeen": "2026-08-14T20:13:47.891Z"
-  },
-  {
-   "id": "b4dab965630d",
-   "title": "Wolves v Blackburn: Championship opener – live",
-   "link": "https://www.theguardian.com/football/live/2026/aug/14/wolves-v-blackburn-championship-opener-live",
-   "snippet": "⚽ Updates from Molineux; kick-off 8pm BST ⚽ Weekend fixtures | Follow us on Instagram | Mail Dominic The 2025-26 EFL season is five minutes from getting started. We are standing on football’s equivalent of the start line at the London…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-08-14T20:10:13.000Z",
-   "firstSeen": "2026-08-14T20:13:47.891Z"
-  },
-  {
-   "id": "7de7f429ab87",
-   "title": "Report Gabriel Martinelli targeted by Napoli and Roma after Arsenal snub",
-   "link": "https://football-italia.net/report-gabriel-martinelli-targeted-napoli-roma/",
-   "snippet": "After Roma, now Sportitalia claim that Napoli also spoke to Arsenal for Gabriel Martinelli, who...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-08-14T20:00:05.000Z",
-   "firstSeen": "2026-08-14T20:13:47.891Z"
-  },
-  {
-   "id": "05e99430519b",
-   "title": "All done deals in August 2026",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo",
-   "snippet": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-14T19:52:41.000Z",
-   "firstSeen": "2026-08-15T05:49:30.404Z"
-  },
-  {
-   "id": "394cf2252950",
-   "title": "Burnley sign Chelsea's Satpayev on loan",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c1w1y95305no",
-   "snippet": "Chelsea's new teenage winger Dastan Satpayev joins Championship club Burnley on a season's loan.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-14T19:49:11.000Z",
-   "firstSeen": "2026-08-14T20:13:47.891Z"
-  },
-  {
-   "id": "7fbf6ae09e7a",
-   "title": "Departing Romero says he wasn't perfect at Spurs",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c20dyz4vrero",
-   "snippet": "Cristian Romero says he \"wasn't perfect\" during his five-year stint at Tottenham Hotspur as he prepares to complete a move to Atletico Madrid.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-08-14T19:47:25.000Z",
-   "firstSeen": "2026-08-14T20:13:47.891Z"
-  },
-  {
-   "id": "375c705e0ebc",
-   "title": "Giuntoli: ‘Atalanta’s best signing was Sarri, nothing to envy Lang’",
-   "link": "https://football-italia.net/giuntoli-atalantas-best-signing-was-sarri-lang/",
-   "snippet": "Atalanta director Cristiano Giuntoli claims coach Maurizio Sarri was ‘the best signing’ of the summer,...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-08-14T19:21:11.000Z",
-   "firstSeen": "2026-08-14T20:13:47.891Z"
-  },
-  {
-   "id": "51dd6712fea0",
-   "title": "Coppa Italia: Parma perfect Lontani debut, Cagliari beat Arezzo",
-   "link": "https://football-italia.net/coppa-italia-parma-perfect-lontani-cagliari/",
-   "snippet": "A star was born for Parma, who beat Catania 2-0 in the Coppa Italia First...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-08-14T18:54:59.000Z",
-   "firstSeen": "2026-08-14T20:13:47.891Z"
-  },
-  {
-   "id": "2588783805b3",
-   "title": "Official: Immobile announces retirement at age 36 after legendary career",
-   "link": "https://football-italia.net/official-immobile-announces-retirement-age-36/",
-   "snippet": "Former Italy and Lazio striker Ciro Immobile, who had been with Paris FC, has announced...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-08-14T18:34:56.000Z",
-   "firstSeen": "2026-08-14T20:13:47.891Z"
-  },
-  {
-   "id": "0037d5cae2d5",
-   "title": "Official: Sassuolo secure Obrador from Benfica, loan out Alvarez",
-   "link": "https://football-italia.net/official-sassuolo-secure-obrador-from-benfica/",
-   "snippet": "Sassuolo have officially signed Rafa Obrador on loan with option to buy from Benfica, after...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-08-14T18:23:49.000Z",
-   "firstSeen": "2026-08-14T20:13:47.891Z"
   }
  ]
 }
