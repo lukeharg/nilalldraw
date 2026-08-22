@@ -1,6 +1,61 @@
 {
  "stories": [
   {
+   "id": "02a39542c948",
+   "title": "Flex your football brain with our daily quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cx2llxl79y1o",
+   "snippet": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-08-22T06:00:53.000Z",
+   "firstSeen": "2026-08-22T06:04:14.408Z"
+  },
+  {
+   "id": "74646a3031ac",
+   "title": "Second set of twins a good distraction from injury - Maddison",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c20j3vx6ne4o",
+   "snippet": "Tottenham midfielder James Maddison says having five children aged four and under - including a second set of twins - helpfully distracted him from his ACL injury last season.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-08-22T05:28:50.000Z",
+   "firstSeen": "2026-08-22T06:04:14.408Z"
+  },
+  {
+   "id": "f098ea39a67d",
+   "title": "My family got me through injury - Maddison",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c4g30ewkx75o",
+   "snippet": "Tottenham midfielder James Maddison discusses life under boss Roberto de Zerbi and how the distraction of having five children under five at home kept him busy while he was out with a long-term injury.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-08-22T05:20:29.000Z",
+   "firstSeen": "2026-08-22T06:04:14.408Z"
+  },
+  {
+   "id": "63b26e3b049b",
+   "title": "Arsenal dodged a bullet with Vinicius Jr – he was always doomed to disappoint",
+   "link": "https://www.fourfourtwo.com/transfer/arsenal-dodged-a-bullet-with-vinicius-jr-he-was-always-doomed-to-disappoint",
+   "snippet": "Arsenal nearly landed the biggest transfer of the summer; they should be glad they didn’t",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-08-22T05:00:00.000Z",
+   "firstSeen": "2026-08-22T06:04:14.408Z"
+  },
+  {
+   "id": "f8bed4dba8ac",
+   "title": "How to watch Serie A 2026/27: TV Guide, Live Streams & Key Dates",
+   "link": "https://www.fourfourtwo.com/competition/watch-serie-a-2026-27",
+   "snippet": "All the information on how to watch Serie A 2026/2027 online from anywhere, including broadcasters, streaming options and key dates.",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-08-22T04:00:00.000Z",
+   "firstSeen": "2026-08-22T06:04:14.408Z"
+  },
+  {
    "id": "03111588523e",
    "title": "Papers: Atletico Madrid ready to sell Alvarez to Arsenal",
    "link": "https://www.skysports.com/football/news/12040/13575656/arsenal-transfer-news-atletico-madrid-finally-shift-julian-alvarez-position-and-now-willing-to-sell-striker-to-the-gunners-paper-talk",
@@ -417,6 +472,17 @@
    "section": "world",
    "published": "2026-08-21T17:44:55.000Z",
    "firstSeen": "2026-08-21T18:05:57.222Z"
+  },
+  {
+   "id": "05e99430519b",
+   "title": "All done deals in August 2026",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo",
+   "snippet": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-08-21T17:34:27.000Z",
+   "firstSeen": "2026-08-22T06:04:14.408Z"
   },
   {
    "id": "b432fd468e85",
@@ -8920,72 +8986,6 @@
    "section": "world",
    "published": "2026-08-15T06:19:19.000Z",
    "firstSeen": "2026-08-15T06:27:30.918Z"
-  },
-  {
-   "id": "0d407bba84bb",
-   "title": "FourFourTwo's Weekend Crossword 66: Kings, Emperors and Pharoahs",
-   "link": "https://www.fourfourtwo.com/quiz/fourfourtwo-weekend-crossword-66",
-   "snippet": "Time to celebrate your Saturday with some more of FourFourTwo's cryptic clues",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-08-15T06:00:00.000Z",
-   "firstSeen": "2026-08-15T06:04:43.014Z"
-  },
-  {
-   "id": "81e2c063e8ca",
-   "title": "Are fans now more invested in star names than clubs?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cn8ner50zdno",
-   "snippet": "From Lionel Messi and Cristiano Ronaldo to Erling Haaland and Jude Bellingham, are star names a bigger draw than club for young fans?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-15T05:59:18.000Z",
-   "firstSeen": "2026-08-15T06:04:43.014Z"
-  },
-  {
-   "id": "955623871cb6",
-   "title": "Crystal Palace latest: Club finalising deal for Gozo",
-   "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-15T05:49:30.404Z",
-   "firstSeen": "2026-08-15T05:49:30.404Z"
-  },
-  {
-   "id": "102280ffff6a",
-   "title": "Papers: Arsenal lead race for £50m-rated Hinshelwood",
-   "link": "https://www.skysports.com/football/news/12040/13573177/arsenal-transfer-news-gunners-lead-race-for-brighton-midfielder-jack-hinshelwood-paper-talk",
-   "snippet": "The top stories and transfer rumours from Saturday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-15T00:22:22.646Z",
-   "firstSeen": "2026-08-15T00:22:22.646Z"
-  },
-  {
-   "id": "2b16cda64ea5",
-   "title": "Arteta says he will sign new Arsenal contract in 'organic way'",
-   "link": "https://www.skysports.com/football/news/12040/13572989/mikel-arteta-arsenal-manager-says-he-will-sign-new-contract-after-entering-the-last-year-of-his-current-deal",
-   "snippet": "Mikel Arteta has revealed he will sign a new Arsenal contract and there is no need for fans to be worried about his future.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-15T00:22:22.646Z",
-   "firstSeen": "2026-08-15T00:22:22.646Z"
-  },
-  {
-   "id": "b7ffc2c79e9c",
-   "title": "Jimenez salvages dramatic point for Wolves on Molineux return",
-   "link": "https://www.skysports.com/football/wolverhampton-wanderers-vs-blackburn-rovers/report/560498",
-   "snippet": "Raul Jimenez scored a stoppage-time equaliser from the penalty spot on his return to Molineux to salvage a 2-2 draw for Wolves against Blackburn.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-15T00:22:22.646Z",
-   "firstSeen": "2026-08-15T00:22:22.646Z"
   }
  ]
 }
