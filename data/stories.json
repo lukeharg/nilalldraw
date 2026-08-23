@@ -1,6 +1,39 @@
 {
  "stories": [
   {
+   "id": "eaee5ddbb51e",
+   "title": "Flex your football brain with our daily quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c4gddy77ev3o",
+   "snippet": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-08-23T05:59:40.000Z",
+   "firstSeen": "2026-08-23T06:05:39.638Z"
+  },
+  {
+   "id": "67e8882cfdbe",
+   "title": "Relive: Keegan's Newcastle lose thriller to Liverpool",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c4gvjep9wr2o",
+   "snippet": "BBC Sport looks back at one of the Premier League's best ever games as Newcastle, then managed by Kevin Keegan, lost a thriller to Liverpool. Both clubs will pay tribute to Keegan before their Premier League opener at St James' Park.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-08-23T05:17:21.000Z",
+   "firstSeen": "2026-08-23T06:05:39.638Z"
+  },
+  {
+   "id": "5028a884b33b",
+   "title": "Hull of a debut: Socceroos teenager ‘buzzing’ after win over Manchester United in first Premier League outing",
+   "link": "https://www.theguardian.com/football/2026/aug/23/hull-debut-socceroos-teenager-buzzing-after-win-over-manchester-united",
+   "snippet": "Lucas Herrington, 18, came on as a second half substitute as Hull stunned the Premier League giants Teenage Socceroo Lucas Herrington has made a dream start to life in the Premier League, coming on as a second-half substitute in Hull…",
+   "source": "The Guardian",
+   "sourceId": "guardian-premier-league",
+   "section": "premier-league",
+   "published": "2026-08-23T02:08:24.000Z",
+   "firstSeen": "2026-08-23T06:05:39.638Z"
+  },
+  {
    "id": "21e60d964c00",
    "title": "Hits and misses: Man Utd lack guts and fight, but can Leeds dare to dream?",
    "link": "https://www.skysports.com/football/news/12040/13575708/man-utd-lack-guts-and-fight-leeds-have-a-right-to-dream-and-arsenal-have-rejuvenated-attack-premier-league-hits-and-misses",
@@ -9503,83 +9536,6 @@
    "section": "world",
    "published": "2026-08-16T07:00:00.000Z",
    "firstSeen": "2026-08-16T12:02:41.539Z"
-  },
-  {
-   "id": "5c2ae9d22a0e",
-   "title": "Who am I? Guess Premier League star No 27",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cvg93n35ypxo",
-   "snippet": "Work out the identity of today's player in as few attempts as possible.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-16T05:48:53.000Z",
-   "firstSeen": "2026-08-16T06:05:25.368Z"
-  },
-  {
-   "id": "c41d963b48d9",
-   "title": "How important is Community Shield to a team's season?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c1e1v64q256o",
-   "snippet": "Premier League champions Arsenal take on FA Cup winners Manchester City in Sunday's Community Shield - but would winning suggest a successful season ahead?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-08-16T05:29:55.000Z",
-   "firstSeen": "2026-08-16T06:05:25.368Z"
-  },
-  {
-   "id": "b0ba1ee6b525",
-   "title": "Strong favourites or tougher task - will Arsenal defend their title?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c0l5927xr89o",
-   "snippet": "Arsenal begin this season as Premier League champions but just how difficult is it to defend the league title, and how well equipped as they for the challenge?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-08-16T05:20:47.000Z",
-   "firstSeen": "2026-08-16T06:05:25.368Z"
-  },
-  {
-   "id": "82f2fa2de8d0",
-   "title": "Celtic ease into League Cup quarters - Aberdeen, Kilmarnock & Ross Co also through",
-   "link": "https://www.skysports.com/football/news/12040/13572887/scottish-league-cup-round-up-celtic-progress-with-win-at-dundee-united-aberdeen-kilmarnock-and-ross-county-also-through",
-   "snippet": "A round-up from the Scottish League Cup as Celtic eased through to the quarter-finals with 4-0 victory at Dundee United, Aberdeen beat Dundee, Kilmarnock won against Ayr United, while League One Ross County shocked Dunfermline.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-16T00:04:06.588Z",
-   "firstSeen": "2026-08-16T00:04:06.588Z"
-  },
-  {
-   "id": "93b0a79aeb79",
-   "title": "Papers: Lille head coach confirms Man City's Bouaddi talks",
-   "link": "https://www.skysports.com/football/news/12040/13573576/man-city-transfer-news-ayyoub-bouaddi-talks-confirmed-by-lille-head-coach-davide-ancelotti-who-hopes-deal-falls-through",
-   "snippet": "The top stories and transfer rumours from Sunday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-16T00:04:06.588Z",
-   "firstSeen": "2026-08-16T00:04:06.588Z"
-  },
-  {
-   "id": "9d505df70f4a",
-   "title": "Sheff Utd & Birmingham draw a blank on opening day",
-   "link": "https://www.skysports.com/football/sheffield-united-vs-birmingham-city/report/560505",
-   "snippet": "Sheffield United and Birmingham made an underwhelming start to the Championship season as they played out a goalless draw at Bramall Lane.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-16T00:04:06.588Z",
-   "firstSeen": "2026-08-16T00:04:06.588Z"
-  },
-  {
-   "id": "edb342d21926",
-   "title": "Man City latest: Maresca confirms club captains 'for now'",
-   "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-16T00:04:06.588Z",
-   "firstSeen": "2026-08-16T00:04:06.588Z"
   }
  ]
 }
