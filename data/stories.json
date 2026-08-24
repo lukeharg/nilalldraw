@@ -1,6 +1,50 @@
 {
  "stories": [
   {
+   "id": "03b81e8ca852",
+   "title": "Nev on title race: Liverpool, Man City nowhere near levels required",
+   "link": "https://www.skysports.com/football/news/12040/13576438/premier-league-title-race-liverpool-and-man-city-nowhere-near-arsenals-level-says-gary-neville",
+   "snippet": "Liverpool and Manchester City are well below the level required to win the Premier League title this season, says Sky Sports pundit Gary Neville.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-08-24T06:09:45.228Z",
+   "firstSeen": "2026-08-24T06:09:45.228Z"
+  },
+  {
+   "id": "929f283db8c9",
+   "title": "Chelsea and Fulham's managers both suffered the Real Madrid curse - we're about to learn what they're made of",
+   "link": "https://www.fourfourtwo.com/person/coaches-managers/chelsea-and-fulhams-managers-both-suffered-the-real-madrid-curse-were-about-to-learn-what-theyre-made-of",
+   "snippet": "Xabi Alonso and Alvaro Arbeloa both left Real Madrid behind in 2026. They meet at Craven Cottage tonight at the start of a new campaign.",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-08-24T06:00:00.000Z",
+   "firstSeen": "2026-08-24T06:09:45.228Z"
+  },
+  {
+   "id": "970c03a7a9bf",
+   "title": "Quiz: Do you know these footballers from their haircuts?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwyeye08929o",
+   "snippet": "Erling Haaland shaves off his flowing blond locks before the new Premier League season - but do you recognise these other footballers from their haircuts?",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-08-24T05:50:50.000Z",
+   "firstSeen": "2026-08-24T06:09:45.228Z"
+  },
+  {
+   "id": "ecc96c2fc153",
+   "title": "Flex your football brain with our daily quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5yrrzn1dnno",
+   "snippet": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-08-24T05:35:37.000Z",
+   "firstSeen": "2026-08-24T06:09:45.228Z"
+  },
+  {
    "id": "36d23bf2d0c1",
    "title": "Hits and misses: Maresca's Man City experiment gets lucky",
    "link": "https://www.skysports.com/football/news/12040/13576249/enzo-marescas-man-city-experiment-gets-lucky-alexander-isaks-struggles-continue-and-aston-villas-problems-exposed-premier-league-hits-and-misses",
@@ -9899,50 +9943,6 @@
    "section": "premier-league",
    "published": "2026-08-17T06:10:48.000Z",
    "firstSeen": "2026-08-17T12:04:04.903Z"
-  },
-  {
-   "id": "cb665e40928a",
-   "title": "Five in Five: Football quiz No 1",
-   "link": "https://www.bbc.co.uk/sport/football/articles/clyq749qwl5o",
-   "snippet": "Will you beat the clock by getting all five of today's answers in five minutes?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-08-17T06:04:20.000Z",
-   "firstSeen": "2026-08-17T12:04:04.903Z"
-  },
-  {
-   "id": "70ba2ea16c49",
-   "title": "“As soon as he hit it you think, ‘That's going to be close’ When it went in, I was kind of hanging onto the net, looking up and all the Manchester United fans were behind the goal. I was getting pelters” Neil Sullivan on THAT David Beckham lob 30 years on",
-   "link": "https://www.fourfourtwo.com/person/as-soon-as-he-hit-it-you-think-thats-going-to-be-close-when-it-went-in-i-was-kind-of-hanging-onto-the-net-looking-up-and-all-the-manchester-united-fans-were-behind-the-goal-i-was-getting-pelters-neil-sullivan-on-that-david-beckham-lob-30-years-on",
-   "snippet": "One of the greatest Premier League goals, scored by one of its greatest players, is 30 years old today, but what are the thoughts of the goalkeeper on the receiving end of that famous half-way line strike?",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-08-17T06:00:00.000Z",
-   "firstSeen": "2026-08-17T06:07:15.562Z"
-  },
-  {
-   "id": "16c22eccd154",
-   "title": "Quickfire Quiz 181: Can you answer 10 questions in 90 seconds?",
-   "link": "https://www.fourfourtwo.com/quiz/quickfire-quiz-181",
-   "snippet": "Tackle these 10 football trivia questions about Kaka, missing sponsors, Carlos Valderrama, and more!",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-08-17T05:00:00.000Z",
-   "firstSeen": "2026-08-17T06:07:15.562Z"
-  },
-  {
-   "id": "809eb3b82543",
-   "title": "Changing times as Welsh blockbuster awaits",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c5ye0qekjelo",
-   "snippet": "Cardiff City's Championship contest with Wrexham on Monday will attract global attention, not just the eyes of those in the north and south of Wales.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-17T04:15:48.000Z",
-   "firstSeen": "2026-08-17T06:07:15.562Z"
   }
  ]
 }
