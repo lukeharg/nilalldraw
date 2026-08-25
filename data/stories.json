@@ -1,6 +1,39 @@
 {
  "stories": [
   {
+   "id": "81d79b7cf21c",
+   "title": "Leeds United transfer failure is latest indicator of possible top 10 Premier League finish",
+   "link": "https://www.fourfourtwo.com/team/leeds-united-transfer-failure-is-latest-indicator-of-possible-top-10-premier-league-finish",
+   "snippet": "Are Leeds United the most stable they've ever been in the modern Premier League era? They just might be - and it's come at the perfect time.",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-08-25T06:00:00.000Z",
+   "firstSeen": "2026-08-25T06:06:48.879Z"
+  },
+  {
+   "id": "e3df10b599d6",
+   "title": "Flex your football brain with our daily quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cd7llw7yzggo",
+   "snippet": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-08-25T05:24:31.000Z",
+   "firstSeen": "2026-08-25T06:06:48.879Z"
+  },
+  {
+   "id": "a695bffac7af",
+   "title": "Quickfire Quiz 187: Can you answer 10 questions in 90 seconds?",
+   "link": "https://www.fourfourtwo.com/quiz/quickfire-quiz-187",
+   "snippet": "Tackle these 10 football trivia questions about Bryan Mbeumo, football grounds, documentaries, and more!",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-08-25T05:00:00.000Z",
+   "firstSeen": "2026-08-25T06:06:48.879Z"
+  },
+  {
    "id": "39ecd2d9253b",
    "title": "Champions? Relegated? One to watch? Carra and Neville's season predictions!",
    "link": "https://www.skysports.com/football/news/12040/13576703/premier-league-season-predictions-jamie-carragher-and-gary-neville-pick-the-title-winner-and-players-to-watch-in-2026-27",
@@ -9921,61 +9954,6 @@
    "section": "premier-league",
    "published": "2026-08-18T06:11:55.000Z",
    "firstSeen": "2026-08-18T12:05:11.475Z"
-  },
-  {
-   "id": "8567e9dfc183",
-   "title": "Who am I? Guess Premier League star No 29",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cdx7dlwed1wo",
-   "snippet": "Work out the identity of today's player in as few attempts as possible.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-18T06:04:18.000Z",
-   "firstSeen": "2026-08-18T06:05:58.229Z"
-  },
-  {
-   "id": "e72ce78c1da7",
-   "title": "“People said I looked like I was gliding when I played; that was thanks to the dance training” - Georgi Kinkladze explains the unusual secret behind his Premier League stardom",
-   "link": "https://www.fourfourtwo.com/person/people-said-i-looked-like-i-was-gliding-when-i-played-that-was-thanks-to-the-dance-training-georgi-kinkladze-explains-unusual-route-to-premier-league-stardom",
-   "snippet": "The Manchester City icon had a pretty unique path to making it as a professional player at the highest level",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-08-18T06:00:00.000Z",
-   "firstSeen": "2026-08-18T06:05:58.229Z"
-  },
-  {
-   "id": "13cd649632a1",
-   "title": "Five in Five: Football quiz No 2",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c4gw6k476elo",
-   "snippet": "Will you beat the clock by getting all five of today's answers in five minutes?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-18T05:59:57.000Z",
-   "firstSeen": "2026-08-18T06:05:58.229Z"
-  },
-  {
-   "id": "ab33eb6d4e5b",
-   "title": "Breakouts & wildcards - 13 surprise stars for new season",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c1l197j4gvro",
-   "snippet": "BBC Sport TV and radio commentators identify the players they think could be the breakout stars of the new Premier League season.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-08-18T05:49:00.000Z",
-   "firstSeen": "2026-08-18T06:05:58.229Z"
-  },
-  {
-   "id": "c6192366063e",
-   "title": "Quickfire Quiz 182: Can you answer 10 questions in 90 seconds?",
-   "link": "https://www.fourfourtwo.com/quiz/quickfire-quiz-182",
-   "snippet": "Tackle these 10 football trivia questions about FIFA presidents, Lilian Thuram, Leicester legends, and more!",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-08-18T05:00:00.000Z",
-   "firstSeen": "2026-08-18T06:05:58.229Z"
   }
  ]
 }
