@@ -1,6 +1,105 @@
 {
  "stories": [
   {
+   "id": "06803f6f4108",
+   "title": "PL Predictions: More Palace pain? Man City to make it back-to-back wins",
+   "link": "https://www.skysports.com/football/news/12040/13577786/premier-league-predictions-jones-knows-best-bets-crystal-palace-pain-man-city-to-make-it-back-to-back-wins",
+   "snippet": "Our top tipster Lewis Jones, aka Jones Knows, was in flying form last weekend - can he repeat the trick?",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-08-28T02:32:42.125Z",
+   "firstSeen": "2026-08-28T02:32:42.125Z"
+  },
+  {
+   "id": "16942cb4e24a",
+   "title": "Papers: Man City confident of signing Chelsea midfielder Fernandez",
+   "link": "https://www.skysports.com/football/news/12040/13577977/enzo-fernandez-transfer-news-manchester-city-confident-of-signing-chelsea-midfielder-paper-talk",
+   "snippet": "The top stories and transfer rumours from Friday's newspapers...",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-08-28T02:32:42.125Z",
+   "firstSeen": "2026-08-28T02:32:42.125Z"
+  },
+  {
+   "id": "96cc669185a8",
+   "title": "Muniz nets first goal in a year as Fulham ease past Wimbledon",
+   "link": "https://www.skysports.com/football/fulham-vs-afc-wimbledon/report/577430",
+   "snippet": "Rodrigo Muniz was finally all smiles again as he ended a year-long goal drought to help earn Alvaro Arbeloa his first win and see Fulham breeze past AFC Wimbledon 3-0 in the Carabao Cup.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-08-28T02:32:42.125Z",
+   "firstSeen": "2026-08-28T02:32:42.125Z"
+  },
+  {
+   "id": "158c46bf8a36",
+   "title": "Premier League: 10 things to look out for this weekend",
+   "link": "https://www.theguardian.com/football/2026/aug/28/premier-league-10-things-to-look-out-for-this-weekend",
+   "snippet": "Liverpool need midfield nous, Michael Carrick is already under pressure and Villa can bid farewell to Enzi Konsa Enzo Maresca has a shiny new £85m midfielder he could select for a debut but, at 18 years old, he may want Ayyoub Bouaddi to…",
+   "source": "The Guardian",
+   "sourceId": "guardian-premier-league",
+   "section": "premier-league",
+   "published": "2026-08-27T23:01:41.000Z",
+   "firstSeen": "2026-08-28T02:32:42.125Z"
+  },
+  {
+   "id": "950a86aa49d8",
+   "title": "Women’s Super League 2026-27 preview No 7: Crystal Palace",
+   "link": "https://www.theguardian.com/football/2026/aug/28/womens-super-league-2026-27-preview-no-7-crystal-palace",
+   "snippet": "Jo Potter’s side charged to promotion and have brought in striker Bethany England as they bid to stay up Guardian writers’ predicted position: 13th (NB: this is not necessarily Sophie Downey’s prediction but the average of our writers’…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-08-27T23:01:41.000Z",
+   "firstSeen": "2026-08-28T02:32:42.125Z"
+  },
+  {
+   "id": "94a835798a6f",
+   "title": "Have expensively-assembled Rangers improved at all under McInnes?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/clyqd7lz3pno",
+   "snippet": "After crashing out of the Conference League, questions are mounting for Derek McInnes at Rangers, writes Tom English.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-08-27T22:48:29.000Z",
+   "firstSeen": "2026-08-28T02:32:42.125Z"
+  },
+  {
+   "id": "d60fb807c0c6",
+   "title": "Atlético Madrid chief insists Júlian Alvarez will ‘never, ever’ be sold to Barcelona",
+   "link": "https://www.theguardian.com/football/2026/aug/27/atletico-madrid-julian-alvarez-barcelona-transfer-news",
+   "snippet": "Miguel Ángel Gil Marín accuses Barça of ‘dishonesty’ Arsenal have also been linked with Argentina forward Atlético Madrid’s chief executive appeared to slam the door on Barcelona’s pursuit of Júlian Alvarez on Thursday. Miguel Ángel Gil…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-08-27T22:16:23.000Z",
+   "firstSeen": "2026-08-28T02:32:42.125Z"
+  },
+  {
+   "id": "0f3426e7971c",
+   "title": "Rangers crash out of Conference League in shootout loss to Czech side Jablonec",
+   "link": "https://www.theguardian.com/football/2026/aug/27/europa-conference-league-rangers-jablonec-brighton",
+   "snippet": "McInnes ‘mortified’ by early European exit Brighton rout Tromsø 4-0 to reach league phase Rangers crashed out of the Uefa Conference League playoffs with a 4-3 penalty shootout defeat by Jablonec. Leading 1-0 from the first leg at Ibrox…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-08-27T21:49:59.000Z",
+   "firstSeen": "2026-08-28T02:32:42.125Z"
+  },
+  {
+   "id": "b8f41827c050",
+   "title": "Arsenal continue Alvarez pursuit - Friday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c3eq89xedp0o",
+   "snippet": "Arsenal continue pursuit to sign Julian Alvarez, Manchester City target Everton's Iliman Ndiaye and Aston Villa make direct contact to sign Rafael Leao.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-08-27T21:33:44.000Z",
+   "firstSeen": "2026-08-28T02:32:42.125Z"
+  },
+  {
    "id": "3715a3915de7",
    "title": "Welbeck off the mark for Chelsea in win over Wilshere's Luton",
    "link": "https://www.skysports.com/football/chelsea-vs-luton-town/report/577427",
@@ -67,6 +166,17 @@
    "firstSeen": "2026-08-27T21:09:08.876Z"
   },
   {
+   "id": "26193e9823c6",
+   "title": "Struggling Inter Miami hire Kily González as new head coach",
+   "link": "https://www.theguardian.com/football/2026/aug/27/inter-miami-kily-gonzalez-lionel-messi-guillermo-hoyos",
+   "snippet": "MLS club mired in five-match winless run González to replace interim coach Guillermo Hoyos Inter Miami have hired former Argentina international Cristian “Kily” González as the club’s new head coach, according to two sources familiar with…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-08-27T21:04:11.000Z",
+   "firstSeen": "2026-08-28T02:32:42.125Z"
+  },
+  {
    "id": "900b2d0227dc",
    "title": "Napoli interest in Woltemade, Gabriel Jesus and Guiu with Premier League focus",
    "link": "https://football-italia.net/napoli-interest-woltemade-gabriel-jesus-guiu/",
@@ -76,6 +186,17 @@
    "section": "world",
    "published": "2026-08-27T21:02:42.000Z",
    "firstSeen": "2026-08-27T21:09:08.876Z"
+  },
+  {
+   "id": "cec5fbd41eb9",
+   "title": "Muniz and García on target in Fulham’s Carabao Cup cruise past Wimbledon",
+   "link": "https://www.theguardian.com/football/2026/aug/27/fulham-wimbledon-carabao-cup-second-round-match-report",
+   "snippet": "Fulham’s second London derby this week, a first competitive win for Álvaro Arbeloa. If AFC Wimbledon represent a different echelon to Chelsea, Monday’s visitors, Thursday’s easy progress past League One opponents supplied several reasons…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-08-27T21:01:15.000Z",
+   "firstSeen": "2026-08-28T02:32:42.125Z"
   },
   {
    "id": "03f7b7e19bd8",
@@ -98,6 +219,17 @@
    "section": "world",
    "published": "2026-08-27T20:47:21.000Z",
    "firstSeen": "2026-08-27T21:09:08.876Z"
+  },
+  {
+   "id": "8ffcc704e420",
+   "title": "Danny Welbeck leads Chelsea past Luton but Enzo Fernández misses Carabao Cup tie",
+   "link": "https://www.theguardian.com/football/2026/aug/27/chelsea-luton-carabao-cup-second-round-match-report",
+   "snippet": "Emiliano Martínez is on his way but another high-profile Argentinian is likely to be wearing a different shade of blue soon. Chelsea have dealt with their biggest weakness, satisfying Xabi Alonso’s wish for a new goalkeeper by agreeing a…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-08-27T20:40:13.000Z",
+   "firstSeen": "2026-08-28T02:32:42.125Z"
   },
   {
    "id": "d83a6b40c438",
@@ -9998,138 +10130,6 @@
    "section": "world",
    "published": "2026-08-21T04:45:00.000Z",
    "firstSeen": "2026-08-21T06:07:09.045Z"
-  },
-  {
-   "id": "1f7d10dc5bf9",
-   "title": "Play Super 6 to win £1m!",
-   "link": "https://www.skysports.com/football/live-blog/12040/13401137/huge-jackpots-to-win-with-super-6-how-to-play-tips-analysis-and-latest-winner-stories",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-21T00:05:24.592Z",
-   "firstSeen": "2026-08-21T00:05:24.592Z"
-  },
-  {
-   "id": "4d2dacc3f6e5",
-   "title": "Brighton frustrated by Tromso in first leg of Conference League tie",
-   "link": "https://www.skysports.com/football/tromso-vs-brighton-and-hove-albion/report/577284",
-   "snippet": "Brighton were forced to settle for a goalless draw against a stubborn Tromso side in the first leg of their Conference League play-off.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-21T00:05:24.592Z",
-   "firstSeen": "2026-08-21T00:05:24.592Z"
-  },
-  {
-   "id": "906965ddb0be",
-   "title": "Papers: Two PL clubs interested in Arsenal's Jesus",
-   "link": "https://www.skysports.com/football/news/12040/13575203/arsenal-transfer-news-gabriel-jesus-of-interest-to-everton-and-ipswich-as-gunners-consider-eli-junior-kroupi-move-paper-talk",
-   "snippet": "The top stories and transfer rumours from Friday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-21T00:05:24.592Z",
-   "firstSeen": "2026-08-21T00:05:24.592Z"
-  },
-  {
-   "id": "e83665e76b6f",
-   "title": "PL predictions: Champions again, ole, ole? Arsenal to make fast start on FNF",
-   "link": "https://www.skysports.com/football/news/12040/13575143/premier-league-predictions-jones-knows-best-bets-champions-again-ole-ole-arsenal-to-make-fast-start-on-fnf",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-21T00:05:24.592Z",
-   "firstSeen": "2026-08-21T00:05:24.592Z"
-  },
-  {
-   "id": "f777b62e4627",
-   "title": "Naderi keeps Rangers' Conference League hopes alive as Devlin sent off",
-   "link": "https://www.skysports.com/football/rangers-vs-fk-jablonec/report/577502",
-   "snippet": "Ryan Naderi gave Rangers a crucial – but slender – lead in their Conference League play-off against Jablonec.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-21T00:05:24.592Z",
-   "firstSeen": "2026-08-21T00:05:24.592Z"
-  },
-  {
-   "id": "28d534f707e1",
-   "title": "Premier League 2026-27 preview No 19: Sunderland",
-   "link": "https://www.theguardian.com/football/2026/aug/21/premier-league-2026-27-preview-no-19-sunderland",
-   "snippet": "Sunderland fans hope Régis Le Bris and his talented squad can continue to surprise the pundits and Opta Guardian writers’ predicted position: 14th (NB: this is not necessarily Louise Taylor’s prediction but the average of our writers’…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-08-20T23:01:18.000Z",
-   "firstSeen": "2026-08-21T00:05:24.592Z"
-  },
-  {
-   "id": "e9fdc1bf76d7",
-   "title": "Premier League: 10 things to look out for as the new season kicks off",
-   "link": "https://www.theguardian.com/football/2026/aug/21/premier-league-10-things-to-look-out-for-as-new-season-kicks-off",
-   "snippet": "Manchester United’s new-look midfield, Ipswich’s ambition is tested and Kevin Keegan tributes at Newcastle While Myles Lewis-Skelly looks likely to remain at the Emirates, the same can’t be said for Ethan Nwaneri. The 19-year-old was…",
-   "source": "The Guardian",
-   "sourceId": "guardian-premier-league",
-   "section": "premier-league",
-   "published": "2026-08-20T23:01:18.000Z",
-   "firstSeen": "2026-08-21T00:05:24.592Z"
-  },
-  {
-   "id": "7b5ec19c20f6",
-   "title": "European playoffs: Rangers scrape first-leg win as Brighton draw in Norway",
-   "link": "https://www.theguardian.com/football/2026/aug/20/european-playoffs-rangers-scrape-first-leg-win-as-brighton-draw-in-norway",
-   "snippet": "10-man Rangers hang on for 1-0 win against Jablonec Tromsø 0-0 Brighton; Hearts 2-2 Rapid Vienna Ryan Naderi’s second-half strike gave an unconvincing Rangers a narrow 1-0 win in the first leg of their Conference League playoff tie against…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-08-20T22:54:49.000Z",
-   "firstSeen": "2026-08-21T00:05:24.592Z"
-  },
-  {
-   "id": "2b349543bc06",
-   "title": "McInnes' Rangers serve up stodgy 12-course banquet of huff and puff",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c98v73n24j2o",
-   "snippet": "Rangers beat Jablonec in the first leg of their Conference League play-off, but it wasn't a pretty watch, writes Tom English.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-20T22:09:11.000Z",
-   "firstSeen": "2026-08-21T00:05:24.592Z"
-  },
-  {
-   "id": "1252759361a9",
-   "title": "Euro Leagues: Serie A season preview & Ronaldinho's Back!",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p5lkpz",
-   "snippet": "John Bennett is joined by Julien Laurens & James Horncastle.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-20T21:45:00.000Z",
-   "firstSeen": "2026-08-21T00:05:24.592Z"
-  },
-  {
-   "id": "8ef42a29bc24",
-   "title": "Ronaldinho, 46, on mission of love and happiness – and maybe goals – at Serie C’s Ravenna",
-   "link": "https://www.theguardian.com/football/2026/aug/20/ronaldinho-46-serie-c-ravenna-unveiling-comeback",
-   "snippet": "Brazilian legend pledges excitement at his unveiling for a comeback that is winning over initially disbelieving fans It seemed like a joke, a hoax, when at 10pm on 19 June, Ravenna broke the news of Ronaldinho’s signing. The Brazilian, a…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-08-20T21:27:01.000Z",
-   "firstSeen": "2026-08-21T00:05:24.592Z"
-  },
-  {
-   "id": "35e628060065",
-   "title": "Hull owner hits out at pundits over 'laughable' criticism",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c39eg04p08eo",
-   "snippet": "Hull City owner Acun Ilicali criticises pundits Joe Cole and Carlton Cole after they mock his side's chances of Premier League survival on a podcast.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-08-20T21:22:34.000Z",
-   "firstSeen": "2026-08-21T00:05:24.592Z"
   }
  ]
 }
