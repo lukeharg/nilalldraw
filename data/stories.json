@@ -1,6 +1,149 @@
 {
  "stories": [
   {
+   "id": "d1b6a8b47caa",
+   "title": "Redknapp: Cherki is a genius",
+   "link": "https://www.skysports.com/football/news/12040/13578411/rayan-cherki-is-a-genius-who-just-painted-a-masterpiece-for-man-city-at-crystal-palace-says-jamie-redknapp",
+   "snippet": "Jamie Redknapp hailed Rayan Cherki as a genius after he scored twice to inspire Manchester City to a 4-1 win over Crystal Palace at Selhurst Park.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-08-29T00:05:45.618Z",
+   "firstSeen": "2026-08-29T00:05:45.618Z"
+  },
+  {
+   "id": "f9f09007f941",
+   "title": "Papers: Arsenal hold talks with Real Madrid for Endrick",
+   "link": "https://www.skysports.com/football/news/12040/13578352/arsenal-transfer-news-gunners-hold-talks-for-real-madrid-and-brazil-forward-endrick-paper-talk",
+   "snippet": "The top stories and transfer rumours from Saturday's newspapers...",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-08-29T00:05:45.618Z",
+   "firstSeen": "2026-08-29T00:05:45.618Z"
+  },
+  {
+   "id": "574c78d9f159",
+   "title": "European football: PSG scramble another draw while Bayern make flying start",
+   "link": "https://www.theguardian.com/football/2026/aug/29/european-football-psg-scramble-another-draw-while-bayern-make-flying-start",
+   "snippet": "Marquinhos grabs late equaliser for Ligue 1 champions Bayern overwhelm Stuttgart 5-1 at Allianz Arena Paris Saint-Germain defender Marquinhos scored deep into stoppage ⁠time to snatch a scarcely deserved 2-2 draw at Lille on Friday as the…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-08-28T23:15:23.000Z",
+   "firstSeen": "2026-08-29T00:05:45.618Z"
+  },
+  {
+   "id": "7f602dff4e45",
+   "title": "Women’s Super League 2026-27 preview No 8: Everton",
+   "link": "https://www.theguardian.com/football/2026/aug/29/womens-super-league-2026-27-preview-no-8-everton",
+   "snippet": "Toffees new-look attack will hope to gel during their relatively easy start to the campaign in their second season at the historic Goodison Park Guardian writers’ predicted position: 10th (NB: this is not necessarily Tom Garry’s prediction…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-08-28T23:01:10.000Z",
+   "firstSeen": "2026-08-29T00:05:45.618Z"
+  },
+  {
+   "id": "2c2c591031ca",
+   "title": "A magician and a maverick - this could be Cherki's moment for Man City",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c24j5jnnr9eo",
+   "snippet": "After two goals and a swaggering display against Crystal Palace, Phil McNulty asks if this is Rayan Cherki's time to shine for Manchester City.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-08-28T22:56:42.000Z",
+   "firstSeen": "2026-08-29T00:05:45.618Z"
+  },
+  {
+   "id": "60594576aaad",
+   "title": "McInnes backs himself to deliver Rangers success",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cjw5056v9v7o",
+   "snippet": "Manager Derek McInnes says Rangers are \"a long way away\" from what he wants but backs himself to deliver success at Ibrox.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-08-28T22:29:37.000Z",
+   "firstSeen": "2026-08-29T00:05:45.618Z"
+  },
+  {
+   "id": "0655dbe506ee",
+   "title": "Palace lost hope at 3-1 - Sage",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c770408jzeno",
+   "snippet": "Crystal Palace boss Pierre Sage reacts to their 4-1 defeat by Manchester City.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-08-28T21:59:14.000Z",
+   "firstSeen": "2026-08-29T00:05:45.618Z"
+  },
+  {
+   "id": "ad186f308006",
+   "title": "Venezia secure Barcelona talent Toni Fernandez in Nico Paz style deal",
+   "link": "https://football-italia.net/venezia-secure-barcelona-talent-toni-fernandez/",
+   "snippet": "Multiple reports confirm Venezia will sign Toni Fernandez from Barcelona for €4m, but own only...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-08-28T21:56:32.000Z",
+   "firstSeen": "2026-08-29T00:05:45.618Z"
+  },
+  {
+   "id": "14177d5ebaa8",
+   "title": "Leao: ‘My love for Milan will never end, but I wanted different goodbye’",
+   "link": "https://football-italia.net/leao-love-milan-never-end-wanted-different-bye/",
+   "snippet": "Rafael Leao admits he ‘would’ve preferred to say goodbye on the field in front of...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-08-28T21:49:06.000Z",
+   "firstSeen": "2026-08-29T00:05:45.618Z"
+  },
+  {
+   "id": "c4abb9135244",
+   "title": "Tottenham reject Danso loan move to Sunderland",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cp3knknq5neo",
+   "snippet": "Tottenham Hotspur reject a season-long loan offer from Sunderland for defender Kevin Danso.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-08-28T21:41:55.000Z",
+   "firstSeen": "2026-08-29T00:05:45.618Z"
+  },
+  {
+   "id": "f72d740cfe93",
+   "title": "Andoni Iraola tells Liverpool’s forwards to ‘exhaust themselves’",
+   "link": "https://www.theguardian.com/football/2026/aug/28/andoni-iraola-tells-liverpools-forwards-to-exhaust-themselves",
+   "snippet": "‘I tell them they don’t need to give us 90 minutes’ Head coach takes charge of first home game on Saturday Andoni Iraola has said it is more important for Liverpool’s forwards to exhaust themselves than perform for 90 minutes as he…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-08-28T21:30:08.000Z",
+   "firstSeen": "2026-08-29T00:05:45.618Z"
+  },
+  {
+   "id": "050ddf285b0d",
+   "title": "Haaland and Cherki fire impressive Man City to victory at Palace",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c8e3k3ww56no",
+   "snippet": "Erling Haaland and Rayan Cherki both score twice as Manchester City cruise to a 4-1 win at Crystal Palace in the Premier League.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-08-28T21:30:06.000Z",
+   "firstSeen": "2026-08-29T00:05:45.618Z"
+  },
+  {
+   "id": "750d01680dcd",
+   "title": "Amorim: ‘Milan have work to do, but Ramos seems like two strikers’",
+   "link": "https://football-italia.net/amorim-milan-have-work-to-do-ramos-like-two/",
+   "snippet": "Ruben Amorim admits Milan have ‘a lot of work to do’ especially with their defenders...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-08-28T21:22:51.000Z",
+   "firstSeen": "2026-08-29T00:05:45.618Z"
+  },
+  {
    "id": "642fffb84b40",
    "title": "Birmingham hold on to beat Wrexham LIVE!",
    "link": "https://www.skysports.com/football/wrexham-vs-birmingham-city/live/560533",
@@ -285,6 +428,17 @@
    "section": "world",
    "published": "2026-08-28T17:20:59.000Z",
    "firstSeen": "2026-08-28T21:22:06.118Z"
+  },
+  {
+   "id": "c53c8e2de906",
+   "title": "Premier League news: David Moyes unsettled by Manchester City’s interest in Iliman Ndiaye",
+   "link": "https://www.theguardian.com/football/2026/aug/28/prremier-league-news-sunderland-newcastle-manchester-united-everton",
+   "snippet": "Sunderland will visit San Siro in Europa League while Carlos Baleba must wait for his Manchester United debut",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-08-28T17:09:33.000Z",
+   "firstSeen": "2026-08-29T00:05:45.618Z"
   },
   {
    "id": "715e0e3958a5",
@@ -1594,6 +1748,17 @@
    "section": "world",
    "published": "2026-08-27T18:43:34.000Z",
    "firstSeen": "2026-08-27T21:09:08.876Z"
+  },
+  {
+   "id": "05e99430519b",
+   "title": "All done deals in August 2026",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo",
+   "snippet": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-08-27T18:32:43.000Z",
+   "firstSeen": "2026-08-29T00:05:45.618Z"
   },
   {
    "id": "e73cb3dca03b",
@@ -9888,193 +10053,6 @@
    "section": "world",
    "published": "2026-08-22T04:00:00.000Z",
    "firstSeen": "2026-08-22T06:04:14.408Z"
-  },
-  {
-   "id": "03111588523e",
-   "title": "Papers: Atletico Madrid ready to sell Alvarez to Arsenal",
-   "link": "https://www.skysports.com/football/news/12040/13575656/arsenal-transfer-news-atletico-madrid-finally-shift-julian-alvarez-position-and-now-willing-to-sell-striker-to-the-gunners-paper-talk",
-   "snippet": "The top stories and transfer rumours from Saturday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-22T00:05:21.922Z",
-   "firstSeen": "2026-08-22T00:05:21.922Z"
-  },
-  {
-   "id": "13ddfaa7c09a",
-   "title": "Arsenal kick off title defence with thumping win over Coventry",
-   "link": "https://www.skysports.com/football/arsenal-vs-coventry-city/report/559444",
-   "snippet": "Arsenal made a flying start to their Premier League title defence with a 3-0 thumping of newly-promoted Coventry City in the season opener at the Emirates Stadium.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-22T00:05:21.922Z",
-   "firstSeen": "2026-08-22T00:05:21.922Z"
-  },
-  {
-   "id": "2d47ee16e5a9",
-   "title": "'A massive 10 days' - Neville tells Arsenal to get Alvarez before deadline",
-   "link": "https://www.skysports.com/football/news/12040/13575645/arsenal-transfer-news-julian-alvarez-would-add-magic-to-gunners-frontline-says-gary-neville-as-he-urges-them-to-sign-atletico-madrid-striker",
-   "snippet": "Defending Premier League champions Arsenal would become Champions League winners if they land Julian Alvarez in the final days of the transfer window, says Gary Neville.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-22T00:05:21.922Z",
-   "firstSeen": "2026-08-22T00:05:21.922Z"
-  },
-  {
-   "id": "e90f440cbaa4",
-   "title": "Man Utd agree £70m deal for Baleba",
-   "link": "https://www.skysports.com/football/news/12040/13575603/carlos-baleba-transfer-news-manchester-united-and-brighton-agree-70m-deal-for-midfielder",
-   "snippet": "Manchester United have agreed a £70m deal for Brighton midfielder Carlos Baleba.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-22T00:05:21.922Z",
-   "firstSeen": "2026-08-22T00:05:21.922Z"
-  },
-  {
-   "id": "ceb5d6c69f96",
-   "title": "Football Daily",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p5nnky",
-   "snippet": "Kelly Somers speaks to Tottenham midfielder James Maddison.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-22T00:00:00.000Z",
-   "firstSeen": "2026-08-22T12:02:50.571Z"
-  },
-  {
-   "id": "7777154913c6",
-   "title": "Lessons learned, but Coventry's top-flight return about more than result",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cp8e37mpp0eo",
-   "snippet": "Twenty-five years, 94 days and countless twists later, Coventry City have started life back in the Premier League, but it was a tough baptism of fire with a 3-0 loss at defending champions Arsenal.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-08-21T23:13:13.000Z",
-   "firstSeen": "2026-08-22T00:05:21.922Z"
-  },
-  {
-   "id": "85a88c376107",
-   "title": "Women’s Super League 2026-27 preview No 1: Arsenal",
-   "link": "https://www.theguardian.com/football/2026/aug/22/womens-super-league-2026-27-preview-no-1-arsenal",
-   "snippet": "After an underwhelming season, Arsenal have made major changes with club legends departing and top talent from all over Europe arriving Guardian writers’ predicted position: 2nd (NB: this is not necessarily Suzanne Wrack’s prediction but…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-08-21T23:01:47.000Z",
-   "firstSeen": "2026-08-22T00:05:21.922Z"
-  },
-  {
-   "id": "508d27ef6b13",
-   "title": "Swaggering Arsenal want title attack, not defence",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cpw94evj1q7o",
-   "snippet": "Arsenal started last season as nearly men but their title win has given them a swagger - as Coventry discovered on the Premier League's opening night.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-08-21T22:55:40.000Z",
-   "firstSeen": "2026-08-22T00:05:21.922Z"
-  },
-  {
-   "id": "680498a0dad7",
-   "title": "Martin Ødegaard resumes his role as Arsenal’s smoothing agent and pass master | Barney Ronay",
-   "link": "https://www.theguardian.com/football/2026/aug/21/martin-degaard-of-old-is-back-with-the-pass-that-makes-the-pass",
-   "snippet": "His goal was like something from It’s A Knockout, but the Arsenal captain showed signs of recovery from an injury-wrecked campaign We’re back, baby. Welcome to the content zone. And yes, we did actually go away for a bit. Seriously. Check…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-08-21T22:43:42.000Z",
-   "firstSeen": "2026-08-22T00:05:21.922Z"
-  },
-  {
-   "id": "3b2c19e2a07a",
-   "title": "Lampard praises Coventry's courage in 3-0 defeat by Arsenal",
-   "link": "https://www.bbc.co.uk/sport/football/videos/ckg97d082wyo",
-   "snippet": "Coventry City manager Frank Lampard shares his thoughts on his side's 3-0 defeat by Arsenal in their first game back in the Premier League since 2001.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-08-21T22:00:36.000Z",
-   "firstSeen": "2026-08-22T00:05:21.922Z"
-  },
-  {
-   "id": "e1a1a751a315",
-   "title": "'A lot to like!' Arteta delighted with opening win for Arsenal",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c4gjn9j3d47o",
-   "snippet": "Arsenal manager Mikel Arteta gives his thoughts on his side's 3-0 win over Coventry City in the opening game of the Premier League season.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-08-21T21:56:44.000Z",
-   "firstSeen": "2026-08-22T00:05:21.922Z"
-  },
-  {
-   "id": "51e93b483e18",
-   "title": "Chelsea: Napoli ready for Guiu, Roma request Gittens loan",
-   "link": "https://football-italia.net/chelsea-napoli-ready-guiu-roma-request-gittens/",
-   "snippet": "Napoli have contacted Chelsea to ask after unwanted striker Marc Guiu, but the Blues rejected...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-08-21T21:50:58.000Z",
-   "firstSeen": "2026-08-22T00:05:21.922Z"
-  },
-  {
-   "id": "f7e2c70c4ce7",
-   "title": "Arsenal start title defence with comfortable win over Coventry",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cgr7e17010go",
-   "snippet": "Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champions Arsenal a comfortable 3-0 win over newcomers Coventry City, in the opening game of the Premier League campaign at the Emirates Stadium.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-08-21T21:35:28.000Z",
-   "firstSeen": "2026-08-22T00:05:21.922Z"
-  },
-  {
-   "id": "46ef8133cdd5",
-   "title": "Manchester United agree deal for Carlos Baleba to continue midfield rebuild",
-   "link": "https://www.theguardian.com/football/2026/aug/21/manchester-united-continue-midfield-regeneration-with-carlos-baleba-deal",
-   "snippet": "Brighton midfielder will join Tielemans and Santos Club’s most expensive summer signing at initial £65m Manchester United have agreed a deal worth an initial £65m for Carlos Baleba and the Brighton midfielder will have his medical this…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-08-21T21:30:45.000Z",
-   "firstSeen": "2026-08-22T00:05:21.922Z"
-  },
-  {
-   "id": "7083ccbf4ab9",
-   "title": "Premier League news: Iraola warns against writing off Liverpool title hopes",
-   "link": "https://www.theguardian.com/football/2026/aug/21/premier-league-news-liverpool-iraola-aston-villa-emery",
-   "snippet": "Manager ‘very confident’ in squad despite lack of summer signings, while Emery counts cost of Villa success",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-08-21T21:30:45.000Z",
-   "firstSeen": "2026-08-22T00:05:21.922Z"
-  },
-  {
-   "id": "a999183b90ef",
-   "title": "De Zerbi defends Spurs transfer spree and claims every club ‘wanted to kill us’",
-   "link": "https://www.theguardian.com/football/2026/aug/21/roberto-de-zerbi-tottenham-transfer-spree-brentford-premier-league",
-   "snippet": "Spurs’ outlay expected to pass £300m this summer ‘People don’t love if Tottenham becomes better’ Roberto De Zerbi has claimed every club “wanted to kill” Tottenham last season and has been reminding his players of that throughout the…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-08-21T21:30:45.000Z",
-   "firstSeen": "2026-08-22T00:05:21.922Z"
-  },
-  {
-   "id": "3236349e5383",
-   "title": "Inter complete £30m deal for Liverpool's Jones",
-   "link": "https://www.bbc.co.uk/sport/football/articles/czdm9pjd0ero",
-   "snippet": "Inter Milan sign midfielder Curtis Jones from Liverpool in a deal worth £30m.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-08-21T21:23:29.000Z",
-   "firstSeen": "2026-08-22T00:05:21.922Z"
   }
  ]
 }
