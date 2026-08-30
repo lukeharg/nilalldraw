@@ -1,6 +1,17 @@
 {
  "stories": [
   {
+   "id": "4aa9789b0f37",
+   "title": "Pre-Match Poser no.42: Can you answer this elite-level football quiz question?",
+   "link": "https://www.fourfourtwo.com/quiz/pre-match-poser-no-42",
+   "snippet": "How deep is your ball knowledge?",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-08-30T06:00:00.000Z",
+   "firstSeen": "2026-08-30T06:03:56.661Z"
+  },
+  {
    "id": "1a225f7c9abd",
    "title": "Papers: Liverpool continue talks to sign Crystal Palace winger Sarr",
    "link": "https://www.skysports.com/football/news/12040/13578898/liverpool-transfer-news-reds-continue-talks-with-crystal-palace-to-sign-ismaila-sarr-paper-talk",
@@ -43,6 +54,17 @@
    "section": "world",
    "published": "2026-08-30T00:07:20.075Z",
    "firstSeen": "2026-08-30T00:07:20.075Z"
+  },
+  {
+   "id": "71353df71714",
+   "title": "Newly promoted Elversberg stun Leverkusen in five-goal thriller",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cx2zyqdnxlvo",
+   "snippet": "Bundesliga newcomers Elversberg hold on to secure a famous 3-2 win over Bayer Leverkusen at home. Elversverg has a population of just 13,000 people and is the smallest town to host a Bundesliga club.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-08-29T23:07:02.000Z",
+   "firstSeen": "2026-08-30T06:03:56.661Z"
   },
   {
    "id": "a966c351f320",
@@ -9943,39 +9965,6 @@
    "section": "premier-league",
    "published": "2026-08-23T06:31:21.000Z",
    "firstSeen": "2026-08-23T12:03:20.672Z"
-  },
-  {
-   "id": "eaee5ddbb51e",
-   "title": "Flex your football brain with our daily quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c4gddy77ev3o",
-   "snippet": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-23T05:59:40.000Z",
-   "firstSeen": "2026-08-23T06:05:39.638Z"
-  },
-  {
-   "id": "67e8882cfdbe",
-   "title": "Relive: Keegan's Newcastle lose thriller to Liverpool",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c4gvjep9wr2o",
-   "snippet": "BBC Sport looks back at one of the Premier League's best ever games as Newcastle, then managed by Kevin Keegan, lost a thriller to Liverpool. Both clubs will pay tribute to Keegan before their Premier League opener at St James' Park.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-23T05:17:21.000Z",
-   "firstSeen": "2026-08-23T06:05:39.638Z"
-  },
-  {
-   "id": "5028a884b33b",
-   "title": "Hull of a debut: Socceroos teenager ‘buzzing’ after win over Manchester United in first Premier League outing",
-   "link": "https://www.theguardian.com/football/2026/aug/23/hull-debut-socceroos-teenager-buzzing-after-win-over-manchester-united",
-   "snippet": "Lucas Herrington, 18, came on as a second half substitute as Hull stunned the Premier League giants Teenage Socceroo Lucas Herrington has made a dream start to life in the Premier League, coming on as a second-half substitute in Hull…",
-   "source": "The Guardian",
-   "sourceId": "guardian-premier-league",
-   "section": "premier-league",
-   "published": "2026-08-23T02:08:24.000Z",
-   "firstSeen": "2026-08-23T06:05:39.638Z"
   }
  ]
 }
