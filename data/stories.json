@@ -1,6 +1,28 @@
 {
  "stories": [
   {
+   "id": "08977a56bdb7",
+   "title": "Quickfire Quiz 191: Can you answer 10 questions in 90 seconds?",
+   "link": "https://www.fourfourtwo.com/quiz/quickfire-quiz-191",
+   "snippet": "Tackle these 10 football trivia questions about Diego Maradona, CAF nicknames, EFL owners, and more!",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-08-31T05:00:00.000Z",
+   "firstSeen": "2026-08-31T06:05:11.316Z"
+  },
+  {
+   "id": "91d16ad1cd86",
+   "title": "Aston Villa and Chelsea still enemies despite transfer pipeline, insists Emery",
+   "link": "https://www.theguardian.com/football/2026/aug/31/aston-villa-chelsea-still-enemies-transfer-pipeline-unai-emery",
+   "snippet": "Martínez and Jackson latest duo to move between clubs Goretzka and Suzuki could make debuts against Arsenal Unai Emery has said Aston Villa and Chelsea are enemies rather than friends, insisting the clubs want to “kill” each other despite…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-08-31T01:00:11.000Z",
+   "firstSeen": "2026-08-31T06:05:11.316Z"
+  },
+  {
    "id": "0c49915f0a62",
    "title": "Tottenham latest: Spurs must get themselves right quickly, says Neville",
    "link": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
@@ -10074,39 +10096,6 @@
    "sourceId": "sky-sports",
    "section": "world",
    "published": "2026-08-24T06:09:45.228Z",
-   "firstSeen": "2026-08-24T06:09:45.228Z"
-  },
-  {
-   "id": "929f283db8c9",
-   "title": "Chelsea and Fulham's managers both suffered the Real Madrid curse - we're about to learn what they're made of",
-   "link": "https://www.fourfourtwo.com/person/coaches-managers/chelsea-and-fulhams-managers-both-suffered-the-real-madrid-curse-were-about-to-learn-what-theyre-made-of",
-   "snippet": "Xabi Alonso and Alvaro Arbeloa both left Real Madrid behind in 2026. They meet at Craven Cottage tonight at the start of a new campaign.",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-08-24T06:00:00.000Z",
-   "firstSeen": "2026-08-24T06:09:45.228Z"
-  },
-  {
-   "id": "970c03a7a9bf",
-   "title": "Quiz: Do you know these footballers from their haircuts?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwyeye08929o",
-   "snippet": "Erling Haaland shaves off his flowing blond locks before the new Premier League season - but do you recognise these other footballers from their haircuts?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-24T05:50:50.000Z",
-   "firstSeen": "2026-08-24T06:09:45.228Z"
-  },
-  {
-   "id": "ecc96c2fc153",
-   "title": "Flex your football brain with our daily quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c5yrrzn1dnno",
-   "snippet": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-24T05:35:37.000Z",
    "firstSeen": "2026-08-24T06:09:45.228Z"
   }
  ]
