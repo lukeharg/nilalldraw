@@ -1,6 +1,17 @@
 {
  "stories": [
   {
+   "id": "f207e4faa8cb",
+   "title": "Quickfire Quiz 192: Can you answer 10 questions in 90 seconds?",
+   "link": "https://www.fourfourtwo.com/quiz/quickfire-quiz-192",
+   "snippet": "Tackle these 10 football trivia questions about Sir Les, FA Cup finals, Scottish managers, and more!",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-09-01T05:00:00.000Z",
+   "firstSeen": "2026-09-01T06:04:35.015Z"
+  },
+  {
    "id": "1034a391c16b",
    "title": "Saka earns hard-fought win for Arsenal at Villa",
    "link": "https://www.skysports.com/football/aston-villa-vs-arsenal/report/559454",
@@ -131,6 +142,17 @@
    "section": "premier-league",
    "published": "2026-08-31T21:37:50.000Z",
    "firstSeen": "2026-09-01T00:07:56.758Z"
+  },
+  {
+   "id": "7a7f9e97f9b0",
+   "title": "Emery’s new team begin to emerge as Aston Villa rebuild on and off the pitch | Jonathan Wilson",
+   "link": "https://www.theguardian.com/football/2026/aug/31/unai-emery-aston-villa-rebuild-arsenal-premier-league",
+   "snippet": "Though they were beaten, the game against Arsenal was one to steady the club’s nerves after a summer of upheaval Nothing ever remains the same. Entropy happens. Evolution happens. People grow, people shrink. The world changes and we must…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-08-31T21:35:51.000Z",
+   "firstSeen": "2026-09-01T06:04:35.015Z"
   },
   {
    "id": "42f980fdb123",
@@ -9943,39 +9965,6 @@
    "section": "premier-league",
    "published": "2026-08-25T06:09:10.000Z",
    "firstSeen": "2026-08-25T12:06:09.063Z"
-  },
-  {
-   "id": "81d79b7cf21c",
-   "title": "Leeds United transfer failure is latest indicator of possible top 10 Premier League finish",
-   "link": "https://www.fourfourtwo.com/team/leeds-united-transfer-failure-is-latest-indicator-of-possible-top-10-premier-league-finish",
-   "snippet": "Are Leeds United the most stable they've ever been in the modern Premier League era? They just might be - and it's come at the perfect time.",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-08-25T06:00:00.000Z",
-   "firstSeen": "2026-08-25T06:06:48.879Z"
-  },
-  {
-   "id": "e3df10b599d6",
-   "title": "Flex your football brain with our daily quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cd7llw7yzggo",
-   "snippet": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-25T05:24:31.000Z",
-   "firstSeen": "2026-08-25T06:06:48.879Z"
-  },
-  {
-   "id": "a695bffac7af",
-   "title": "Quickfire Quiz 187: Can you answer 10 questions in 90 seconds?",
-   "link": "https://www.fourfourtwo.com/quiz/quickfire-quiz-187",
-   "snippet": "Tackle these 10 football trivia questions about Bryan Mbeumo, football grounds, documentaries, and more!",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-08-25T05:00:00.000Z",
-   "firstSeen": "2026-08-25T06:06:48.879Z"
   }
  ]
 }
