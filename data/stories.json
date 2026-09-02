@@ -1,6 +1,50 @@
 {
  "stories": [
   {
+   "id": "d284e9f320d4",
+   "title": "Erling Haaland won’t win the Golden Boot this season, and Joao Pedro is the reason why",
+   "link": "https://www.fourfourtwo.com/person/player/erling-haaland-wont-win-the-golden-boot-this-season-and-joao-pedro-is-why",
+   "snippet": "The Norwegian has dominated the Golden Boot rankings since his Manchester City debut, but this is Joao Pedro’s season",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-09-02T06:00:00.000Z",
+   "firstSeen": "2026-09-02T06:04:18.915Z"
+  },
+  {
+   "id": "9e2a67a5591e",
+   "title": "Flex your football brain with our daily quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckg0m8we91no",
+   "snippet": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-02T05:44:40.000Z",
+   "firstSeen": "2026-09-02T06:04:18.915Z"
+  },
+  {
+   "id": "cebec7cdc65a",
+   "title": "Quickfire Quiz 193: Can you answer 10 questions in 90 seconds?",
+   "link": "https://www.fourfourtwo.com/quiz/quickfire-quiz-193",
+   "snippet": "Tackle these 10 football trivia questions about Lionesses, football cities, super cups, and more!",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-09-02T05:00:00.000Z",
+   "firstSeen": "2026-09-02T06:04:18.915Z"
+  },
+  {
+   "id": "0e2fe0a72181",
+   "title": "Everton sell Scotland's Patterson to Torino",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cn4kyyw1v8do",
+   "snippet": "Everton sell Scotland right-back Nathan Patterson to Torino for an undisclosed fee.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-02T00:07:18.000Z",
+   "firstSeen": "2026-09-02T06:04:18.915Z"
+  },
+  {
    "id": "0d134339e921",
    "title": "Szmodics strikes as Derby win at Portsmouth",
    "link": "https://www.skysports.com/football/portsmouth-vs-derby-county/report/560536",
@@ -175,6 +219,17 @@
    "section": "world",
    "published": "2026-09-02T00:06:34.568Z",
    "firstSeen": "2026-09-02T00:06:34.568Z"
+  },
+  {
+   "id": "90e25db682ae",
+   "title": "Everton left with only one striker after Balogun deal collapses late on deadline day",
+   "link": "https://www.theguardian.com/football/2026/sep/02/everton-in-late-scramble-to-complete-balogun-transfer-after-flurry-of-sales",
+   "snippet": "25-year-old walks away from £40m deal at last moment Beto and Ndiaye already sold by club to raise funds Everton’s £40m move for US international Folarin Balogun collapsed late on deadline day to leave manager David Moyes with only one…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-09-01T23:46:05.000Z",
+   "firstSeen": "2026-09-02T06:04:18.915Z"
   },
   {
    "id": "ee1dec8f1f0d",
@@ -10261,61 +10316,6 @@
    "sourceId": "bbc-premier-league",
    "section": "premier-league",
    "published": "2026-08-26T06:04:34.000Z",
-   "firstSeen": "2026-08-26T06:07:28.027Z"
-  },
-  {
-   "id": "f69be47d421e",
-   "title": "Is Joao Pedro ready to break Chelsea's so-called number nine curse?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cgk5ydy0vk4o",
-   "snippet": "Joao Pedro took just 31 seconds to score his opening goal of the season - will the new number nine reach the 20 he scored last season while wearing the number 20 shirt?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-08-26T05:41:12.000Z",
-   "firstSeen": "2026-08-26T06:07:28.027Z"
-  },
-  {
-   "id": "1b8b5b2b4432",
-   "title": "Flex your football brain with our daily quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cvgxxx4r7zxo",
-   "snippet": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-26T05:17:10.000Z",
-   "firstSeen": "2026-08-26T06:07:28.027Z"
-  },
-  {
-   "id": "b6a1132401ad",
-   "title": "Taekwondo, stats, painful goodbyes - how Smith became women's first £1m player",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c8jdl0n0r7mo",
-   "snippet": "Olivia Smith's career has been in the limelight since she was 15 - but she had been preparing herself for it even before she was a professional footballer.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-26T05:16:06.000Z",
-   "firstSeen": "2026-08-26T06:07:28.027Z"
-  },
-  {
-   "id": "99fd7a24a706",
-   "title": "More than the Score",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p5qdhp",
-   "snippet": "The 2026 Women's Africa Cup of Nations was full of shocks and surprises",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-26T05:00:00.000Z",
-   "firstSeen": "2026-08-26T18:33:09.803Z"
-  },
-  {
-   "id": "b9ed40573cf5",
-   "title": "Quickfire Quiz 188: Can you answer 10 questions in 90 seconds?",
-   "link": "https://www.fourfourtwo.com/quiz/quickfire-quiz-188",
-   "snippet": "Tackle these 10 football trivia questions about Neymar, Australia, eternal champions, and more!",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-08-26T05:00:00.000Z",
    "firstSeen": "2026-08-26T06:07:28.027Z"
   }
  ]
