@@ -1,6 +1,50 @@
 {
  "stories": [
   {
+   "id": "a473680ac656",
+   "title": "Tottenham Hotspur can fix their James Maddison and Xavi Simons injury headaches without spending a penny",
+   "link": "https://www.fourfourtwo.com/person/player/tottenham-hotspur-can-fix-their-james-maddison-and-xavi-simons-injury-headaches-without-spending-a-penny",
+   "snippet": "The transfer window is now closed, but Tottenham can still solve one major issue with one of their brightest youngsters",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-09-03T06:00:00.000Z",
+   "firstSeen": "2026-09-03T06:05:00.186Z"
+  },
+  {
+   "id": "5527f12230f1",
+   "title": "Flex your football brain with our daily quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c3v4k74d1n7o",
+   "snippet": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-03T05:37:48.000Z",
+   "firstSeen": "2026-09-03T06:05:00.186Z"
+  },
+  {
+   "id": "b7f8fcb650d2",
+   "title": "Quickfire Quiz 194: Can you answer 10 questions in 90 seconds?",
+   "link": "https://www.fourfourtwo.com/quiz/quickfire-quiz-194",
+   "snippet": "Tackle these 10 football trivia questions about Brazil, derbies, club connections, and more!",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-09-03T05:00:00.000Z",
+   "firstSeen": "2026-09-03T06:05:00.186Z"
+  },
+  {
+   "id": "890e3e08eeff",
+   "title": "'Bruno Fernandes and Manchester United have had their fun' Seven reasons you should play your FPL Wildcard in Gameweek 3",
+   "link": "https://www.fourfourtwo.com/tactic/bruno-fernandes-and-manchester-united-have-had-their-fun-seven-reasons-you-should-play-your-fpl-wildcard-in-gameweek-3",
+   "snippet": "In the third instalment of a new Fantasy Football advice column, one of the world's highest-ranking FPL players, BigManBakar, shares Gameweek 3 tips",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-09-03T04:00:00.000Z",
+   "firstSeen": "2026-09-03T06:05:00.186Z"
+  },
+  {
    "id": "265906fbd5fd",
    "title": "Burrell double steers QPR to victory",
    "link": "https://www.skysports.com/football/queens-park-rangers-vs-cardiff-city/report/560544",
@@ -9899,182 +9943,6 @@
    "section": "world",
    "published": "2026-08-27T06:46:03.000Z",
    "firstSeen": "2026-08-27T08:58:39.831Z"
-  },
-  {
-   "id": "5c454e262341",
-   "title": "'He is the cheapest route into this Arsenal defence' Best FPL Wildcard team for Gameweek 2 revealed",
-   "link": "https://www.fourfourtwo.com/tactic/he-is-the-cheapest-route-into-this-arsenal-defence-best-fpl-wildcard-team-for-gameweek-2-revealed",
-   "snippet": "In the second instalment of a new Fantasy Football advice column, one of the world's highest-ranking FPL players, BigManBakar, shares Gameweek 2 tips",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-08-27T06:00:00.000Z",
-   "firstSeen": "2026-08-27T08:58:39.831Z"
-  },
-  {
-   "id": "6089988d3504",
-   "title": "Flex your football brain with our daily quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cpd777qnlxxo",
-   "snippet": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-27T05:59:44.000Z",
-   "firstSeen": "2026-08-27T08:58:39.831Z"
-  },
-  {
-   "id": "29f6733c2081",
-   "title": "Is Saka getting back to his best at Arsenal?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cz0z7jyepgxo",
-   "snippet": "Bukayo Saka has struggled to produce his best on a consistent basis in recent months, but could be getting back to top form this season.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-08-27T05:20:22.000Z",
-   "firstSeen": "2026-08-27T08:58:39.831Z"
-  },
-  {
-   "id": "f5b27eab2981",
-   "title": "Quickfire Quiz 189: Can you answer 10 questions in 90 seconds?",
-   "link": "https://www.fourfourtwo.com/quiz/quickfire-quiz-189",
-   "snippet": "Tackle these 10 football trivia questions about football connections, non-league players, Edgar Davids, and more!",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-08-27T05:00:00.000Z",
-   "firstSeen": "2026-08-27T08:58:39.831Z"
-  },
-  {
-   "id": "0179af8a852d",
-   "title": "Redknapp hails Savio debut but De Zerbi demands more",
-   "link": "https://www.skysports.com/football/news/12040/13577607/tottenham-5-1-charlton-jamie-redknapp-praises-savio-after-goalscoring-debut-as-roberto-de-zerbi-challenges-new-signing",
-   "snippet": "Jamie Redknapp claimed that Savio 'lit up the place' on his Tottenham debut, but Roberto De Zerbi has challenged his latest signing to reach new heights after his stunning start to life at the club.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-27T01:10:33.102Z",
-   "firstSeen": "2026-08-27T01:10:33.102Z"
-  },
-  {
-   "id": "352d4b230d2f",
-   "title": "Reus is 10-man Hearts' spot-kick hero as Jambos qualify for Conference League",
-   "link": "https://www.skysports.com/football/sk-rapid-wien-vs-hearts/report/577490",
-   "snippet": "Beau Reus' two penalty saves saw heroic Hearts overcome Tomas Magnusson's red card to pull off a stunning shoot-out victory away to Rapid Vienna, after a 4-4 aggregate draw, to book a return to the Conference League league phase.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-27T01:10:33.102Z",
-   "firstSeen": "2026-08-27T01:10:33.102Z"
-  },
-  {
-   "id": "56c390355c5b",
-   "title": "Bradford beat Burnley on pens to reach third round",
-   "link": "https://www.skysports.com/football/bradford-city-vs-burnley/report/577424",
-   "snippet": "Bradford extended Burnley's uncomfortable start to the season with a 4-2 penalty shoot-out win after their second-round Carabao Cup tie had finished goalless at Valley Parade.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-27T01:10:33.102Z",
-   "firstSeen": "2026-08-27T01:10:33.102Z"
-  },
-  {
-   "id": "57c64d49f504",
-   "title": "Barnes double fires Newcastle past West Brom",
-   "link": "https://www.skysports.com/football/newcastle-united-vs-west-bromwich-albion/report/577432",
-   "snippet": "Harvey Barnes struck twice for Newcastle as they survived a scare against West Brom to win 3-2 and reach the third round of the Carabao Cup.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-27T01:10:33.102Z",
-   "firstSeen": "2026-08-27T01:10:33.102Z"
-  },
-  {
-   "id": "82988e193fac",
-   "title": "Chelsea thrash Real Sociedad to move to brink of WCL league phase",
-   "link": "https://www.skysports.com/football/chelsea-women-vs-real-sociedad-women/report/577445",
-   "snippet": "Melvine Malard scored twice on her competitive Chelsea debut as they hit back to beat Real Sociedad 5-2 in the first leg of the Champions League third qualifying round.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-27T01:10:33.102Z",
-   "firstSeen": "2026-08-27T01:10:33.102Z"
-  },
-  {
-   "id": "89f9c9f613d9",
-   "title": "'He's the one we wanted': Newcastle sign Gonzalez from Man City",
-   "link": "https://www.skysports.com/football/news/12040/13577494/x",
-   "snippet": "Newcastle have signed Nico Gonzalez from Man City.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-27T01:10:33.102Z",
-   "firstSeen": "2026-08-27T01:10:33.102Z"
-  },
-  {
-   "id": "901251444263",
-   "title": "Barry hat-trick helps Everton saunter past Preston",
-   "link": "https://www.skysports.com/football/preston-north-end-vs-everton/report/577434",
-   "snippet": "Thierno Barry scored three goals and set up the other as Everton sauntered into the third round of the Carabao Cup by way of a 4-0 win over Preston at Deepdale.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-27T01:10:33.102Z",
-   "firstSeen": "2026-08-27T01:10:33.102Z"
-  },
-  {
-   "id": "a79050bba604",
-   "title": "Coventry latest: Defender joins from Brentford",
-   "link": "https://www.skysports.com/football/live-blog/12040/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-27T01:10:33.102Z",
-   "firstSeen": "2026-08-27T01:10:33.102Z"
-  },
-  {
-   "id": "b2d6e9210ff5",
-   "title": "Papers: Liverpool in fresh talks with PSG over Barcola",
-   "link": "https://www.skysports.com/football/news/12040/13577609/bradley-barcola-transfer-news-liverpool-set-for-more-talks-with-psg-over-signing-winger-before-transfer-deadline",
-   "snippet": "The top stories and transfer rumours from Thursday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-27T01:10:33.102Z",
-   "firstSeen": "2026-08-27T01:10:33.102Z"
-  },
-  {
-   "id": "b77a92c93bb5",
-   "title": "Savio steals show on debut as Spurs thrash Charlton",
-   "link": "https://www.skysports.com/football/tottenham-hotspur-vs-charlton-athletic/report/577440",
-   "snippet": "Savio grabbed a goal and assist on a dream debut as Tottenham thrashed Charlton to progress into the third round of the Carabao Cup.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-27T01:10:33.102Z",
-   "firstSeen": "2026-08-27T01:10:33.102Z"
-  },
-  {
-   "id": "b917de9c659d",
-   "title": "Villa agree Watkins sale, Jackson lined up as replacement",
-   "link": "https://www.skysports.com/football/news/12040/13577081/nicolas-jackson-transfer-aston-villa-agree-deal-worth-up-to-65m-to-sign-chelsea-striker",
-   "snippet": "Aston Villa have agreed a deal to sell Ollie Watkins to Al Hilal, and are set to replace him with Chelsea forward Nicolas Jackson.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-27T01:10:33.102Z",
-   "firstSeen": "2026-08-27T01:10:33.102Z"
-  },
-  {
-   "id": "d6a5742aa312",
-   "title": "Liverpool to host Spurs in Carabao Cup third round",
-   "link": "https://www.skysports.com/football/news/12040/13577302/carabao-cup-third-round-draw-liverpool-host-tottenham-with-as-many-as-six-all-premier-league-ties",
-   "snippet": "Liverpool will host Tottenham in the third round of the Carabao Cup, while Manchester United face Brighton as one of a potential six all-Premier League ties.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-27T01:10:33.102Z",
-   "firstSeen": "2026-08-27T01:10:33.102Z"
   }
  ]
 }
