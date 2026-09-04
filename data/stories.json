@@ -1,6 +1,39 @@
 {
  "stories": [
   {
+   "id": "90c1ddef63c1",
+   "title": "Lucas Herrington staying grounded at Hull City despite meteoric rise: ‘It’s pretty crazy’ | Joey Lynch",
+   "link": "https://www.theguardian.com/football/2026/sep/04/premier-league-lucas-herrington-hull-city-meteoric-rise-brisbane-roar",
+   "snippet": "The 54th Australian to play in the Premier League insists he will continue working hard – and cannot wait to face Erling Haaland On the opening day of the Premier League season, with just over an hour gone in Hull City’s clash with…",
+   "source": "The Guardian",
+   "sourceId": "guardian-premier-league",
+   "section": "premier-league",
+   "published": "2026-09-04T06:00:02.000Z",
+   "firstSeen": "2026-09-04T06:05:36.403Z"
+  },
+  {
+   "id": "1d8f292d36f7",
+   "title": "15 reasons that prove the Premier League is the Super League in disguise",
+   "link": "https://www.fourfourtwo.com/competition/15-reasons-that-prove-the-premier-league-is-the-super-league-in-disguise",
+   "snippet": "Here are 15 reasons from the summer transfer window that prove the Premier League is the infamous Super League in disguise",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-09-04T06:00:00.000Z",
+   "firstSeen": "2026-09-04T06:05:36.403Z"
+  },
+  {
+   "id": "a113560752ad",
+   "title": "Quickfire Quiz 195: Can you answer 10 questions in 90 seconds?",
+   "link": "https://www.fourfourtwo.com/quiz/quickfire-quiz-195",
+   "snippet": "Tackle these 10 football trivia questions about John Stones, club owners, goalkeeping icons, and more!",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-09-04T05:00:00.000Z",
+   "firstSeen": "2026-09-04T06:05:36.403Z"
+  },
+  {
    "id": "0b6b9a8a0a1c",
    "title": "FIFA accuses UEFA of launching 'smear campaign' against Gianni Infantino",
    "link": "https://www.skysports.com/football/news/12040/13580984/gianni-infantino-latest-fifa-accuses-uefa-of-launching-a-smear-campaign-after-legal-cases-filed-in-american-courts",
@@ -186,6 +219,17 @@
    "section": "premier-league",
    "published": "2026-09-03T19:58:10.000Z",
    "firstSeen": "2026-09-04T00:10:45.867Z"
+  },
+  {
+   "id": "546e782f0f19",
+   "title": "Fifa calls Uefa’s legal threat a ‘smear campaign’ in US federal filing",
+   "link": "https://www.theguardian.com/football/2026/sep/03/fifa-uefa-legal-motion",
+   "snippet": "Fifa filed motion opposing Uefa’s request for discovery Uefa said to be considering criminal case v Gianni Infantino Attorneys representing Fifa have hit back at Uefa’s request for discovery in a US federal filing earlier this week. The…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-09-03T19:41:54.000Z",
+   "firstSeen": "2026-09-04T06:05:36.403Z"
   },
   {
    "id": "1629eaa855f0",
@@ -9459,116 +9503,6 @@
    "section": "world",
    "published": "2026-08-28T06:48:31.000Z",
    "firstSeen": "2026-08-28T09:01:30.420Z"
-  },
-  {
-   "id": "f982bf92ac37",
-   "title": "What is the aim for Kompany, Kane and Bayern?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cvg967e3qqdo",
-   "snippet": "Bayern Munich start their latest title defence as overwhelming odds-on favourites to win the Bundesliga again - so what would constitute success?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-28T06:04:22.000Z",
-   "firstSeen": "2026-08-28T09:01:30.420Z"
-  },
-  {
-   "id": "b99ce4f9bbc0",
-   "title": "The death of the English manager: Why home-grown coaches are finding it harder than ever to reach the Premier League",
-   "link": "https://www.fourfourtwo.com/person/coaches-managers/the-death-of-the-english-manager-why-home-grown-coaches-are-finding-it-harder-than-ever-to-reach-the-premier-league",
-   "snippet": "English managers have long been a rarity in the Premier League and there are no signs of that changing",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-08-28T06:00:00.000Z",
-   "firstSeen": "2026-08-28T09:01:30.420Z"
-  },
-  {
-   "id": "b5cf2bd628c5",
-   "title": "Flex your football brain with our daily quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwyz7481wr7o",
-   "snippet": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-28T05:41:36.000Z",
-   "firstSeen": "2026-08-28T09:01:30.420Z"
-  },
-  {
-   "id": "991ec58c41cf",
-   "title": "Sell Man Utd players already? FPL gameweek two dilemmas",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c2l8914lk77o",
-   "snippet": "BBC Sport FPL expert Pras looks at some of the biggest dilemmas facing FPL managers heading into gameweek two, including whether to captain Erling Haaland or Bruno Fernandes.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-28T05:21:58.000Z",
-   "firstSeen": "2026-08-28T09:01:30.420Z"
-  },
-  {
-   "id": "d496ffb2840f",
-   "title": "Kane on Ballon d'Or hopes",
-   "link": "https://www.bbc.co.uk/sport/football/videos/czjz9g977p0o",
-   "snippet": "Harry Kane discusses potential Ballon d'Or hopes after becoming the first Englishman to win Germany's footballer of the year award for the 2025-26 season.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-28T05:05:59.000Z",
-   "firstSeen": "2026-08-28T09:01:30.420Z"
-  },
-  {
-   "id": "5b36ba17ebed",
-   "title": "Quickfire Quiz 190: Can you answer 10 questions in 90 seconds?",
-   "link": "https://www.fourfourtwo.com/quiz/quickfire-quiz-190",
-   "snippet": "Tackle these 10 football trivia questions about Europa League finals, EFL grounds, missing sponsors, and more!",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-08-28T05:00:00.000Z",
-   "firstSeen": "2026-08-28T09:01:30.420Z"
-  },
-  {
-   "id": "f4f17fdf61ac",
-   "title": "'We broke every protocol going' Why former Millwall owner Theo Paphitis gave referee Jeff Winter 18-carat gift minutes before 2004 FA Cup Final vs Manchester United",
-   "link": "https://www.fourfourtwo.com/person/we-broke-every-protocol-going-why-former-millwall-owner-theo-paphitis-gave-referee-jeff-winter-18-carat-gift-minutes-before-2004-fa-cup-final-vs-manchester-united",
-   "snippet": "Millwall were surprise finalists in the 2004 FA Cup final - and then-chairman Theo Paphitis relished the occasion",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-08-28T05:00:00.000Z",
-   "firstSeen": "2026-08-28T09:01:30.420Z"
-  },
-  {
-   "id": "06803f6f4108",
-   "title": "PL Predictions: More Palace pain? Man City to make it back-to-back wins",
-   "link": "https://www.skysports.com/football/news/12040/13577786/premier-league-predictions-jones-knows-best-bets-crystal-palace-pain-man-city-to-make-it-back-to-back-wins",
-   "snippet": "Our top tipster Lewis Jones, aka Jones Knows, was in flying form last weekend - can he repeat the trick?",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-28T02:32:42.125Z",
-   "firstSeen": "2026-08-28T02:32:42.125Z"
-  },
-  {
-   "id": "16942cb4e24a",
-   "title": "Papers: Man City confident of signing Chelsea midfielder Fernandez",
-   "link": "https://www.skysports.com/football/news/12040/13577977/enzo-fernandez-transfer-news-manchester-city-confident-of-signing-chelsea-midfielder-paper-talk",
-   "snippet": "The top stories and transfer rumours from Friday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-28T02:32:42.125Z",
-   "firstSeen": "2026-08-28T02:32:42.125Z"
-  },
-  {
-   "id": "96cc669185a8",
-   "title": "Muniz nets first goal in a year as Fulham ease past Wimbledon",
-   "link": "https://www.skysports.com/football/fulham-vs-afc-wimbledon/report/577430",
-   "snippet": "Rodrigo Muniz was finally all smiles again as he ended a year-long goal drought to help earn Alvaro Arbeloa his first win and see Fulham breeze past AFC Wimbledon 3-0 in the Carabao Cup.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-28T02:32:42.125Z",
-   "firstSeen": "2026-08-28T02:32:42.125Z"
   }
  ]
 }
