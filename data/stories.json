@@ -1,6 +1,72 @@
 {
  "stories": [
   {
+   "id": "aa50053189aa",
+   "title": "Flex your football brain with our daily quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cz9zpq8lpvqo",
+   "snippet": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-05T06:01:41.000Z",
+   "firstSeen": "2026-09-05T06:03:56.759Z"
+  },
+  {
+   "id": "f7b4de38bbbb",
+   "title": "Did Kevin Keegan invent the Premier League’s best away day? How Newcastle became the ultimate football city break",
+   "link": "https://www.fourfourtwo.com/person/did-kevin-keegan-invent-the-premier-leagues-best-away-day-how-newcastle-became-the-ultimate-football-city-break",
+   "snippet": "Win, lose or draw, Newcastle (a) has given a lot of fans happy memories, and the late Kevin Keegan could be the one to thank for that",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-09-05T06:00:00.000Z",
+   "firstSeen": "2026-09-05T06:03:56.759Z"
+  },
+  {
+   "id": "2c4a282e9704",
+   "title": "Man Utd made midfield recruitment summer priority - what happens now?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c4gq2v5m5gpo",
+   "snippet": "Michael Carrick says Manchester United have balance in their midfield following a £150m summer recruitment campaign - so who plays?",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-05T05:56:59.000Z",
+   "firstSeen": "2026-09-05T06:03:56.759Z"
+  },
+  {
+   "id": "01ec26cd55e3",
+   "title": "Putellas debut as London City beat Man Utd in opener",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cn74v6krpvno",
+   "snippet": "Alexia Putellas makes her London City Lionesses debut as the home side beat Manchester United 2-1 in the first game of the Women's Super League season.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-05T05:28:16.000Z",
+   "firstSeen": "2026-09-05T06:03:56.759Z"
+  },
+  {
+   "id": "a6739f86f932",
+   "title": "FourFourTwo's Weekend Crossword 69: Boxers, badges and Barclaysmen",
+   "link": "https://www.fourfourtwo.com/quiz/fourfourtwo-weekend-crossword-69",
+   "snippet": "Let's delve into another crossword",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-09-05T05:00:00.000Z",
+   "firstSeen": "2026-09-05T06:03:56.759Z"
+  },
+  {
+   "id": "74f825ad7e82",
+   "title": "Manchester United debut revealed for Carlos Baleba as Michael Carrick breaks silence on new arrival",
+   "link": "https://www.fourfourtwo.com/person/player/carlos-baleba-manchester-united-debut-date-revealed",
+   "snippet": "The game in which Carlos Baleba will make his Manchester United debut is imminent",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-09-05T04:00:00.000Z",
+   "firstSeen": "2026-09-05T06:03:56.759Z"
+  },
+  {
    "id": "2b99d8abb9ac",
    "title": "Papers: Chelsea offered chance to sign Bissouma as Fernandez replacement",
    "link": "https://www.skysports.com/football/news/12040/13581538/chelsea-transfer-news-blues-offered-chance-to-sign-former-tottenham-midfielder-yves-bissouma-paper-talk",
@@ -9525,61 +9591,6 @@
    "section": "premier-league",
    "published": "2026-08-29T06:11:10.000Z",
    "firstSeen": "2026-08-29T12:03:19.456Z"
-  },
-  {
-   "id": "dfd152fd050e",
-   "title": "FourFourTwo's Weekend Crossword 68: Thrillers, Millers and stonecold killers",
-   "link": "https://www.fourfourtwo.com/quiz/fourfourtwo-weekend-crossword-68",
-   "snippet": "It's Saturday morning and we've got another grid for you",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-08-29T06:00:00.000Z",
-   "firstSeen": "2026-08-29T06:03:42.078Z"
-  },
-  {
-   "id": "30c8d6be4bb0",
-   "title": "The 50-year-old amateur footballer who became a viral inspiration",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c8d3jpyd1rno",
-   "snippet": "Craig Kirby thought about quitting football following the death of his son - at 50, he didn't expect to go viral documenting his final season.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-29T05:30:20.000Z",
-   "firstSeen": "2026-08-29T06:03:42.078Z"
-  },
-  {
-   "id": "728d02553a81",
-   "title": "Flex your football brain with our daily quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c89jw4554e5o",
-   "snippet": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-29T05:18:55.000Z",
-   "firstSeen": "2026-08-29T06:03:42.078Z"
-  },
-  {
-   "id": "0e950f604408",
-   "title": "Let's be brave about being in Premier League - Coventry's Lampard",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c3r02929wllo",
-   "snippet": "Frank Lampard and Tom Grennan discuss why Coventry will be playing brave football in the Premier League this season.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-29T05:13:17.000Z",
-   "firstSeen": "2026-08-29T06:03:42.078Z"
-  },
-  {
-   "id": "f843629fbb49",
-   "title": "Lampard 'somewhere in the middle' of Mourinho and Ancelotti",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c87v04d59n3o",
-   "snippet": "Eight years into his own managerial career, Coventry City boss Frank Lampard cites Jose Mourinho and Carli Ancelotti as the main influences on his style.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-08-29T05:12:27.000Z",
-   "firstSeen": "2026-08-29T06:03:42.078Z"
   }
  ]
 }
