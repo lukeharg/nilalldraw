@@ -1,6 +1,17 @@
 {
  "stories": [
   {
+   "id": "85a9f1aea71c",
+   "title": "Pre-Match Poser no.43: Can you answer this elite-level football quiz question?",
+   "link": "https://www.fourfourtwo.com/quiz/pre-match-poser-no-43",
+   "snippet": "Join the footballing one per cent club",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-09-06T06:00:00.000Z",
+   "firstSeen": "2026-09-06T06:03:44.804Z"
+  },
+  {
    "id": "68f3011d5f59",
    "title": "Swansea miss chance to go three points clear with Wrexham draw",
    "link": "https://www.skysports.com/football/swansea-city-vs-wrexham/report/560555",
@@ -9580,61 +9591,6 @@
    "section": "world",
    "published": "2026-08-30T06:22:41.000Z",
    "firstSeen": "2026-08-30T12:03:17.716Z"
-  },
-  {
-   "id": "4aa9789b0f37",
-   "title": "Pre-Match Poser no.42: Can you answer this elite-level football quiz question?",
-   "link": "https://www.fourfourtwo.com/quiz/pre-match-poser-no-42",
-   "snippet": "How deep is your ball knowledge?",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-08-30T06:00:00.000Z",
-   "firstSeen": "2026-08-30T06:03:56.661Z"
-  },
-  {
-   "id": "1a225f7c9abd",
-   "title": "Papers: Liverpool continue talks to sign Crystal Palace winger Sarr",
-   "link": "https://www.skysports.com/football/news/12040/13578898/liverpool-transfer-news-reds-continue-talks-with-crystal-palace-to-sign-ismaila-sarr-paper-talk",
-   "snippet": "The top stories and transfer rumours from Sunday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-30T00:07:20.075Z",
-   "firstSeen": "2026-08-30T00:07:20.075Z"
-  },
-  {
-   "id": "27d71060bc6e",
-   "title": "De Zerbi highlights biggest problem at Spurs as Carra slams 'worst start'",
-   "link": "https://www.skysports.com/football/news/12040/13578837/tottenham-hotspur-roberto-de-zerbi-highlights-biggest-problem-at-spurs-after-newcastle-defeat-as-jamie-carragher-slams-start",
-   "snippet": "Roberto De Zerbi believes changing the mentality at Tottenham is his biggest challenge after Sky Sports' Jamie Carragher said their start to the season \"couldn't have gone any worse\" following defeat to Newcastle.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-30T00:07:20.075Z",
-   "firstSeen": "2026-08-30T00:07:20.075Z"
-  },
-  {
-   "id": "9849a39e8ac3",
-   "title": "Aston Villa latest: Maatsen to be offered new deal after Man Utd interest",
-   "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-30T00:07:20.075Z",
-   "firstSeen": "2026-08-30T00:07:20.075Z"
-  },
-  {
-   "id": "ea76e0de940a",
-   "title": "Europa League and Conference League fixtures confirmed",
-   "link": "https://www.skysports.com/football/news/12040/13578346/europa-league-and-conference-league-fixtures-for-celtic-bournemouth-sunderland-crystal-palace-brighton-and-hearts-confirmed",
-   "snippet": "Sunderland, Crystal Palace, Bournemouth, Brighton, Celtic and Hearts have learned the details of their Europa League and Conference League fixtures this season.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-30T00:07:20.075Z",
-   "firstSeen": "2026-08-30T00:07:20.075Z"
   }
  ]
 }
