@@ -1,6 +1,39 @@
 {
  "stories": [
   {
+   "id": "ccf16aece42e",
+   "title": "Ollie Watkins’ move to Al Hilal must trigger a changing of the guard for England’s strikers",
+   "link": "https://www.fourfourtwo.com/team/ollie-watkins-move-to-al-hilal-should-trigger-a-changing-of-the-guard-for-englands-strikers",
+   "snippet": "With Ollie Watkins and Ivan Toney now playing in Saudi Arabia and both in their 30s, it is the perfect time to refresh England’s strike-force ahead of Euro 2028",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-09-07T06:00:00.000Z",
+   "firstSeen": "2026-09-07T06:05:02.064Z"
+  },
+  {
+   "id": "50b4e7bbf88c",
+   "title": "Flex your football brain with our daily quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c046pxeeqe6o",
+   "snippet": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-07T05:05:20.000Z",
+   "firstSeen": "2026-09-07T06:05:02.064Z"
+  },
+  {
+   "id": "578d4fd4ed2c",
+   "title": "Quickfire Quiz 196: Can you answer 10 questions in 90 seconds?",
+   "link": "https://www.fourfourtwo.com/quiz/quickfire-quiz-196",
+   "snippet": "Tackle these 10 football trivia questions about Edinson Cavani, city rivals, career paths, and more!",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-09-07T05:00:00.000Z",
+   "firstSeen": "2026-09-07T06:05:02.064Z"
+  },
+  {
    "id": "35de35f3eaf2",
    "title": "No blockbuster signing but Arsenal's attack still finding another level",
    "link": "https://www.skysports.com/football/news/12040/13582329/martin-odegaard-kai-havertz-and-bukayo-saka-show-arsenal-can-level-up-their-attack-even-without-the-blockbuster-signing-they-craved",
@@ -9382,105 +9415,6 @@
    "section": "world",
    "published": "2026-08-31T07:00:00.000Z",
    "firstSeen": "2026-08-31T12:03:58.413Z"
-  },
-  {
-   "id": "eed1695c7aed",
-   "title": "Flex your football brain with our daily quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c4g7ljprwzmo",
-   "snippet": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-31T05:45:38.000Z",
-   "firstSeen": "2026-08-31T12:03:58.413Z"
-  },
-  {
-   "id": "08977a56bdb7",
-   "title": "Quickfire Quiz 191: Can you answer 10 questions in 90 seconds?",
-   "link": "https://www.fourfourtwo.com/quiz/quickfire-quiz-191",
-   "snippet": "Tackle these 10 football trivia questions about Diego Maradona, CAF nicknames, EFL owners, and more!",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-08-31T05:00:00.000Z",
-   "firstSeen": "2026-08-31T06:05:11.316Z"
-  },
-  {
-   "id": "d4e55c4fd57b",
-   "title": "The full scale of the UK's forced adoption scandal revealed",
-   "link": "https://www.bbc.co.uk/iplayer/episode/m00311vw",
-   "snippet": "Exposing a British scandal. The women forced by the state to give up their newborns",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-08-31T05:00:00.000Z",
-   "firstSeen": "2026-09-02T12:03:45.016Z"
-  },
-  {
-   "id": "91d16ad1cd86",
-   "title": "Aston Villa and Chelsea still enemies despite transfer pipeline, insists Emery",
-   "link": "https://www.theguardian.com/football/2026/aug/31/aston-villa-chelsea-still-enemies-transfer-pipeline-unai-emery",
-   "snippet": "Martínez and Jackson latest duo to move between clubs Goretzka and Suzuki could make debuts against Arsenal Unai Emery has said Aston Villa and Chelsea are enemies rather than friends, insisting the clubs want to “kill” each other despite…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-08-31T01:00:11.000Z",
-   "firstSeen": "2026-08-31T06:05:11.316Z"
-  },
-  {
-   "id": "0c49915f0a62",
-   "title": "Tottenham latest: Spurs must get themselves right quickly, says Neville",
-   "link": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-31T00:06:59.596Z",
-   "firstSeen": "2026-08-31T00:06:59.596Z"
-  },
-  {
-   "id": "6a846a55b938",
-   "title": "Liverpool latest: Neville questions Gakpo exit and lack of full-backs",
-   "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-31T00:06:59.596Z",
-   "firstSeen": "2026-08-31T00:06:59.596Z"
-  },
-  {
-   "id": "8f504a23f000",
-   "title": "Arsenal latest: Alvarez returns to Atletico training as deadline expires",
-   "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-31T00:06:59.596Z",
-   "firstSeen": "2026-08-31T00:06:59.596Z"
-  },
-  {
-   "id": "c2a447c6571e",
-   "title": "Premier League ins and outs - the confirmed deals so far...",
-   "link": "https://www.skysports.com/football/news/12040/13546618/transfer-news-summer-transfer-window-2026-premier-league-deals-ins-and-outs",
-   "snippet": "The summer transfer window opened on June 15 and closes at 11pm UK time on September 1. Find out who is on the move across the Premier League.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-31T00:06:59.596Z",
-   "firstSeen": "2026-08-31T00:06:59.596Z"
-  },
-  {
-   "id": "e7e382fb209c",
-   "title": "Hits and misses: Mainoo impresses as well as Fernandes",
-   "link": "https://www.skysports.com/football/news/12040/13579146/kobbie-mainoo-stars-alongside-bruno-fernandes-in-man-utds-win-over-ipswich-premier-league-hits-and-misses",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-08-31T00:06:59.596Z",
-   "firstSeen": "2026-08-31T00:06:59.596Z"
   }
  ]
 }
