@@ -1,6 +1,72 @@
 {
  "stories": [
   {
+   "id": "684fbab74fec",
+   "title": "Newcastle were 'preparing for months' for Howe departure",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cly4lngg6npo",
+   "snippet": "Newcastle United sporting director Ross Wilson says the club were preparing for former head coach Eddie Howe's departure for up to nine months.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-09-08T05:52:48.000Z",
+   "firstSeen": "2026-09-08T06:03:57.611Z"
+  },
+  {
+   "id": "816f6b15766d",
+   "title": "No goals but Emery knows Villa's forwards need time",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5yegg8zz6no",
+   "snippet": "Aston Villa have not scored in their opening three Premier League games - how will manager Unai Emery find their attacking edge?",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-08T05:28:19.000Z",
+   "firstSeen": "2026-09-08T06:03:57.611Z"
+  },
+  {
+   "id": "80c977dea211",
+   "title": "Flex your football brain with our daily quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cx2z03re41ro",
+   "snippet": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-08T05:19:15.000Z",
+   "firstSeen": "2026-09-08T06:03:57.611Z"
+  },
+  {
+   "id": "bbd825ba763c",
+   "title": "Quickfire Quiz 197: Can you answer 10 questions in 90 seconds?",
+   "link": "https://www.fourfourtwo.com/quiz/quickfire-quiz-197",
+   "snippet": "Tackle these 10 football trivia questions about Sandro Tonali, relegated gaffers, club connections, and more!",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-09-08T05:00:00.000Z",
+   "firstSeen": "2026-09-08T06:03:57.611Z"
+  },
+  {
+   "id": "74f7ff8d6998",
+   "title": "Worrall out to make Wrexham point after Burnley exit",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c4grdkrdy13o",
+   "snippet": "Deadline day Wrexham signing Joe Worall says opportunities were \"scarce\" at Burnley, as he prepares to welcome his former side to the Racecourse.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-08T04:20:25.000Z",
+   "firstSeen": "2026-09-08T06:03:57.611Z"
+  },
+  {
+   "id": "0c17c0208014",
+   "title": "Swansea's golden boot winner yet to kick start season",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ce8xzejr2d5o",
+   "snippet": "Zan Vipotnik has been backed to return to form for Swansea City, even though he is still not guaranteed to return to the starting side.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-08T04:20:16.000Z",
+   "firstSeen": "2026-09-08T06:03:57.611Z"
+  },
+  {
    "id": "88af2dea5eea",
    "title": "Papers: Man Utd monitoring Dortmund star Nmecha",
    "link": "https://www.skysports.com/football/news/12040/13582860/transfer-news-borussia-dortmund-midfielder-felix-nmecha-on-man-utds-radar-paper-talk",
@@ -494,6 +560,17 @@
    "section": "world",
    "published": "2026-09-07T14:46:56.000Z",
    "firstSeen": "2026-09-07T18:03:04.831Z"
+  },
+  {
+   "id": "1fb9ae59d4cd",
+   "title": "Barton to remain in custody before 2027 trial",
+   "link": "https://www.bbc.co.uk/news/articles/c780nz2669do",
+   "snippet": "The former footballer, who is accused of an assault at a golf club, has been refused bail.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-07T14:43:32.000Z",
+   "firstSeen": "2026-09-08T06:03:57.611Z"
   },
   {
    "id": "ab617e394cf4",
@@ -9228,72 +9305,6 @@
    "section": "world",
    "published": "2026-09-01T06:09:56.000Z",
    "firstSeen": "2026-09-01T12:03:54.354Z"
-  },
-  {
-   "id": "f207e4faa8cb",
-   "title": "Quickfire Quiz 192: Can you answer 10 questions in 90 seconds?",
-   "link": "https://www.fourfourtwo.com/quiz/quickfire-quiz-192",
-   "snippet": "Tackle these 10 football trivia questions about Sir Les, FA Cup finals, Scottish managers, and more!",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-09-01T05:00:00.000Z",
-   "firstSeen": "2026-09-01T06:04:35.015Z"
-  },
-  {
-   "id": "1034a391c16b",
-   "title": "Saka earns hard-fought win for Arsenal at Villa",
-   "link": "https://www.skysports.com/football/aston-villa-vs-arsenal/report/559454",
-   "snippet": "Bukayo Saka's goal just before the hour mark was enough for champions Arsenal to maintain their perfect start with a 1-0 win over Aston Villa at Villa Park.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-01T00:07:56.758Z",
-   "firstSeen": "2026-09-01T00:07:56.758Z"
-  },
-  {
-   "id": "298b0f723b30",
-   "title": "Everton latest: Toffees agree £40m Balogun deal",
-   "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-01T00:07:56.758Z",
-   "firstSeen": "2026-09-01T00:07:56.758Z"
-  },
-  {
-   "id": "ae0a3ab056cd",
-   "title": "Deadline Day Papers: Man Utd open contract talks with captain Fernandes",
-   "link": "https://www.skysports.com/football/news/12040/13579619/man-utd-transfer-news-bruno-fernandes-in-contract-talks-as-club-look-to-tie-down-captain-paper-talk",
-   "snippet": "The top stories and transfer rumours from Tuesday's Deadline Day back pages...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-01T00:07:56.758Z",
-   "firstSeen": "2026-09-01T00:07:56.758Z"
-  },
-  {
-   "id": "b5246e813d03",
-   "title": "Man City agree £65m Ndiaye deal as Spurs turn attention to Mudryk",
-   "link": "https://www.skysports.com/football/news/12040/13579541/iliman-ndiaye-transfer-news-man-city-agree-65m-deal-for-everton-winger-as-tottenham-turn-attention-to-mykhailo-mudryk",
-   "snippet": "Manchester City have agreed a £65m deal with Everton for winger Iliman Ndiaye as an alternative to Cody Gakpo.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-01T00:07:56.758Z",
-   "firstSeen": "2026-09-01T00:07:56.758Z"
-  },
-  {
-   "id": "f0ee3fa526dd",
-   "title": "McInnes ban verdict over 'disgusting' comment revealed after Rangers appeal",
-   "link": "https://www.skysports.com/football/news/12040/13579467/derek-mcinnes-rangers-managers-touchline-ban-changed-after-appeal-over-disgusting-comment-last-season",
-   "snippet": "Derek McInnes' immediate touchline ban has been reduced following Rangers' appeal.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-01T00:07:56.758Z",
-   "firstSeen": "2026-09-01T00:07:56.758Z"
   }
  ]
 }
