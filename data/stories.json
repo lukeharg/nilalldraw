@@ -1,6 +1,50 @@
 {
  "stories": [
   {
+   "id": "5f9b78c423de",
+   "title": "‘That’s how it started’: Dambrauskas’ journey from Who Wants to Be a Millionaire to Champions League",
+   "link": "https://www.theguardian.com/football/2026/sep/10/valdas-dambrauskas-sabah-manchester-united-arsenal-champions-league",
+   "snippet": "Valdas Dambrauskas takes Sabah to Manchester United after journeying from Lithuania and a game show win, via London pub work Valdas Dambrauskas can reel off the questions and answers without a moment’s pause. Who won the first Academy…",
+   "source": "The Guardian",
+   "sourceId": "guardian-champions-league",
+   "section": "champions-league",
+   "published": "2026-09-10T06:00:19.000Z",
+   "firstSeen": "2026-09-10T06:04:26.170Z"
+  },
+  {
+   "id": "74c5bb533881",
+   "title": "Flex your football brain with our daily quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cdr7jm864pmo",
+   "snippet": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-10T05:42:43.000Z",
+   "firstSeen": "2026-09-10T06:04:26.170Z"
+  },
+  {
+   "id": "b24993b0dea4",
+   "title": "Quickfire Quiz 199: Can you answer 10 questions in 90 seconds?",
+   "link": "https://www.fourfourtwo.com/quiz/quickfire-quiz-199",
+   "snippet": "Tackle these 10 football trivia questions about red cards, US cities, extracurricular activities, and more!",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-09-10T05:00:00.000Z",
+   "firstSeen": "2026-09-10T06:04:26.170Z"
+  },
+  {
+   "id": "102f5adf69d8",
+   "title": "‘He did look exceptional’ Ryan Giggs explains why Manchester United ignored 2015 Kylian Mbappe recommendation",
+   "link": "https://www.fourfourtwo.com/person/player/he-did-look-exceptional-ryan-giggs-explains-why-manchester-united-ignored-2015-kylian-mbappe-recommendation",
+   "snippet": "Ryan Giggs has revealed what stopped Manchester United from pursuing Kylian Mbappe in 2015",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-09-10T04:00:00.000Z",
+   "firstSeen": "2026-09-10T06:04:26.170Z"
+  },
+  {
    "id": "0a7ad06904f2",
    "title": "Norwich hold on to beat Birmingham at Carrow Road",
    "link": "https://www.skysports.com/football/norwich-city-vs-birmingham-city/report/560568",
@@ -9338,182 +9382,6 @@
    "section": "world",
    "published": "2026-09-03T06:17:38.000Z",
    "firstSeen": "2026-09-03T12:03:46.974Z"
-  },
-  {
-   "id": "a473680ac656",
-   "title": "Tottenham Hotspur can fix their James Maddison and Xavi Simons injury headaches without spending a penny",
-   "link": "https://www.fourfourtwo.com/person/player/tottenham-hotspur-can-fix-their-james-maddison-and-xavi-simons-injury-headaches-without-spending-a-penny",
-   "snippet": "The transfer window is now closed, but Tottenham can still solve one major issue with one of their brightest youngsters",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-09-03T06:00:00.000Z",
-   "firstSeen": "2026-09-03T06:05:00.186Z"
-  },
-  {
-   "id": "5527f12230f1",
-   "title": "Flex your football brain with our daily quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c3v4k74d1n7o",
-   "snippet": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-03T05:37:48.000Z",
-   "firstSeen": "2026-09-03T06:05:00.186Z"
-  },
-  {
-   "id": "f760d7cfa908",
-   "title": "Will Scottish football finally agree on how to fix youth development?",
-   "link": "https://www.bbc.co.uk/news/articles/c1e5zxxegzyo",
-   "snippet": "For more than 15 years, Scottish football has been asking itself what it could be doing better - now it's preparing for a forum on the future of the game.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-03T05:07:12.000Z",
-   "firstSeen": "2026-09-04T00:10:45.867Z"
-  },
-  {
-   "id": "b7f8fcb650d2",
-   "title": "Quickfire Quiz 194: Can you answer 10 questions in 90 seconds?",
-   "link": "https://www.fourfourtwo.com/quiz/quickfire-quiz-194",
-   "snippet": "Tackle these 10 football trivia questions about Brazil, derbies, club connections, and more!",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-09-03T05:00:00.000Z",
-   "firstSeen": "2026-09-03T06:05:00.186Z"
-  },
-  {
-   "id": "890e3e08eeff",
-   "title": "'Bruno Fernandes and Manchester United have had their fun' Seven reasons you should play your FPL Wildcard in Gameweek 3",
-   "link": "https://www.fourfourtwo.com/tactic/bruno-fernandes-and-manchester-united-have-had-their-fun-seven-reasons-you-should-play-your-fpl-wildcard-in-gameweek-3",
-   "snippet": "In the third instalment of a new Fantasy Football advice column, one of the world's highest-ranking FPL players, BigManBakar, shares Gameweek 3 tips",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-09-03T04:00:00.000Z",
-   "firstSeen": "2026-09-03T06:05:00.186Z"
-  },
-  {
-   "id": "265906fbd5fd",
-   "title": "Burrell double steers QPR to victory",
-   "link": "https://www.skysports.com/football/queens-park-rangers-vs-cardiff-city/report/560544",
-   "snippet": "Rumarn Burrell scored both QPR goals as they beat Cardiff 2-1 at Loftus Road to continue their impressive start to the Championship season.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-03T00:06:42.311Z",
-   "firstSeen": "2026-09-03T00:06:42.311Z"
-  },
-  {
-   "id": "3bbc58123b32",
-   "title": "Burnley battle back to hold Middlesbrough",
-   "link": "https://www.skysports.com/football/burnley-vs-middlesbrough/report/560542",
-   "snippet": "Ugo Raghouber's first goal for Burnley earned only their second point from their opening four Championship matches as they came from behind to draw 1-1 with Middlesbrough.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-03T00:06:42.311Z",
-   "firstSeen": "2026-09-03T00:06:42.311Z"
-  },
-  {
-   "id": "54edd81af103",
-   "title": "Charlton hit back to hold West Brom",
-   "link": "https://www.skysports.com/football/west-bromwich-albion-vs-charlton-athletic/report/560545",
-   "snippet": "Charlton's 100 per cent record was brought to and end but they remain unbeaten as Tyreece Campbell's second-half strike earned a 1-1 draw against West Brom.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-03T00:06:42.311Z",
-   "firstSeen": "2026-09-03T00:06:42.311Z"
-  },
-  {
-   "id": "8bc5293ca630",
-   "title": "Walsh winner helps send Chelsea through in Women’s Champions League",
-   "link": "https://www.skysports.com/football/real-sociedad-women-vs-chelsea-women/report/577459",
-   "snippet": "Chelsea booked their spot in the Women's Champions League league phase after a 1-0 win over Real Sociedad in the second leg of their third qualifying round tie.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-03T00:06:42.311Z",
-   "firstSeen": "2026-09-03T00:06:42.311Z"
-  },
-  {
-   "id": "95e4a4d1ba34",
-   "title": "Wrexham, QPR win as Burnley hold Boro - EFL highlights",
-   "link": "https://www.skysports.com/football/live-blog/12040/13579447/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-03T00:06:42.311Z",
-   "firstSeen": "2026-09-03T00:06:42.311Z"
-  },
-  {
-   "id": "a13cdfe64007",
-   "title": "St Johnstone secure Tayside derby draw after late drama at Dundee",
-   "link": "https://www.skysports.com/football/dundee-vs-st-johnstone/report/558358",
-   "snippet": "St Johnstone claimed a 1-1 draw in the Tayside derby after a dramatic conclusion at Dens Park.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-03T00:06:42.311Z",
-   "firstSeen": "2026-09-03T00:06:42.311Z"
-  },
-  {
-   "id": "b6db287e9f3b",
-   "title": "Papers: Wantaway Spurs striker Richarlison agrees Trabzonspor terms",
-   "link": "https://www.skysports.com/football/news/12040/13580536/richarlison-transfer-news-tottenham-striker-agrees-terms-with-trabzonspor-paper-talk",
-   "snippet": "The top stories and transfer rumours from Thursday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-03T00:06:42.311Z",
-   "firstSeen": "2026-09-03T00:06:42.311Z"
-  },
-  {
-   "id": "c8d86d8ad24e",
-   "title": "Motherwell continue unbeaten league start with stroll against Dundee United",
-   "link": "https://www.skysports.com/football/motherwell-vs-dundee-united/report/558362",
-   "snippet": "Motherwell continued their Lanarkshire stranglehold over 10-man Dundee United with a 3-0 home win in a one-sided contest.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-03T00:06:42.311Z",
-   "firstSeen": "2026-09-03T00:06:42.311Z"
-  },
-  {
-   "id": "d022e401e0fd",
-   "title": "Shankland at the double as Rangers win at Falkirk",
-   "link": "https://www.skysports.com/football/falkirk-vs-rangers/report/558359",
-   "snippet": "Lawrence Shankland's stunning double secured back-to-back Scottish Premiership wins for Rangers with a 2-1 victory at Falkirk on Wednesday night.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-03T00:06:42.311Z",
-   "firstSeen": "2026-09-03T00:06:42.311Z"
-  },
-  {
-   "id": "d0655f8b04b3",
-   "title": "Wrexham earn first win of the season at Millwall",
-   "link": "https://www.skysports.com/football/millwall-vs-wrexham/report/560543",
-   "snippet": "Wrexham got their first win of the Championship season in style as Millwall were swept aside 3-0 at the New Den.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-03T00:06:42.311Z",
-   "firstSeen": "2026-09-03T00:06:42.311Z"
-  },
-  {
-   "id": "ea959b6afe7e",
-   "title": "Kilmarnock remain without a point after loss to high-flying St Mirren",
-   "link": "https://www.skysports.com/football/kilmarnock-vs-st-mirren/report/558361",
-   "snippet": "Fraser Taylor's maiden goal for St Mirren helped them to their first league win at Rugby Park in over 13 years - heaping more pressure on struggling Kilmarnock.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-03T00:06:42.311Z",
-   "firstSeen": "2026-09-03T00:06:42.311Z"
   }
  ]
 }
