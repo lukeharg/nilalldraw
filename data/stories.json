@@ -1,6 +1,61 @@
 {
  "stories": [
   {
+   "id": "56756a737988",
+   "title": "FourFourTwo's Weekend Crossword 70: Convincers, Princes and Principalities",
+   "link": "https://www.fourfourtwo.com/quiz/fourfourtwo-weekend-crossword-70",
+   "snippet": "What a week, eh? Let's get stuck into a weekend crossword...",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-09-12T06:00:00.000Z",
+   "firstSeen": "2026-09-12T06:03:49.046Z"
+  },
+  {
+   "id": "6359f4610f0f",
+   "title": "What Manchester United didn’t realise about £35m transfer target - and why they never stood a chance",
+   "link": "https://www.fourfourtwo.com/transfer/what-manchester-united-didnt-realise-about-gbp35m-transfer-target-and-why-they-never-stood-a-chance",
+   "snippet": "Manchester United were unable to secure Lewis Hall's services this summer, but did they ever stand a chance?",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-09-12T06:00:00.000Z",
+   "firstSeen": "2026-09-12T06:03:49.046Z"
+  },
+  {
+   "id": "1f83bb7f4d22",
+   "title": "Flex your football brain with our daily quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cy8zrxvpvlyo",
+   "snippet": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-12T05:54:29.000Z",
+   "firstSeen": "2026-09-12T06:03:49.046Z"
+  },
+  {
+   "id": "189fce26d8b1",
+   "title": "New Man City signings desperate to win - Dias",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cy5zp9llp3ro",
+   "snippet": "Manchester City have brought in summer signings who are \"desperate to win\" and the whole squad is \"buying into the idea\" of new manager Enzo Maresca, says new captain Ruben Dias.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-09-12T05:24:51.000Z",
+   "firstSeen": "2026-09-12T06:03:49.046Z"
+  },
+  {
+   "id": "0be96dafe917",
+   "title": "Maresca is 'perfect person' for Man City job - Dias",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cm2rd3m01x0o",
+   "snippet": "Manchester City defender Ruben Dias speaks to BBC Sport's Kelly Somers about the changes at the club following Pep Guardiola's departure.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-12T05:19:02.000Z",
+   "firstSeen": "2026-09-12T06:03:49.046Z"
+  },
+  {
    "id": "3f22368f63f6",
    "title": "Papers: Amorim takes swipe at Man Utd players-turned-pundits",
    "link": "https://www.skysports.com/football/news/12040/13584647/manchester-united-news-ruben-amorim-takes-a-swipe-at-the-clubs-former-players-now-working-in-the-media-paper-talk",
@@ -4973,6 +5028,17 @@
    "firstSeen": "2026-09-08T18:03:27.598Z"
   },
   {
+   "id": "7b9803d33783",
+   "title": "Crystal Palace fret over rules breach and Shaw stars again as WSL returns – Women’s Football Weekly",
+   "link": "https://www.theguardian.com/football/audio/2026/sep/08/crystal-palace-fret-over-rules-breach-and-shaw-stars-again-as-wsl-returns-womens-football-weekly",
+   "snippet": "Faye Carruthers and Suzanne Wrack are joined by Tom Garry and Ayisha Gulati to discuss match day one in the WSL On the podcast today: Faye Carruthers, Suzanne Wrack, Tom Garry and Ayisha Gulati look back on an action-packed opening weekend…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-09-08T12:39:51.000Z",
+   "firstSeen": "2026-09-12T06:03:49.046Z"
+  },
+  {
    "id": "e9fb3b5c75cc",
    "title": "James Rodriguez tipped for surprise move to join Alessandro Nesta in Serie B",
    "link": "https://football-italia.net/james-rodriguez-tipped-surprise-serie-b-move/",
@@ -9272,116 +9338,6 @@
    "section": "world",
    "published": "2026-09-05T07:00:00.000Z",
    "firstSeen": "2026-09-05T12:03:07.923Z"
-  },
-  {
-   "id": "aa50053189aa",
-   "title": "Flex your football brain with our daily quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cz9zpq8lpvqo",
-   "snippet": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-05T06:01:41.000Z",
-   "firstSeen": "2026-09-05T06:03:56.759Z"
-  },
-  {
-   "id": "f7b4de38bbbb",
-   "title": "Did Kevin Keegan invent the Premier League’s best away day? How Newcastle became the ultimate football city break",
-   "link": "https://www.fourfourtwo.com/person/did-kevin-keegan-invent-the-premier-leagues-best-away-day-how-newcastle-became-the-ultimate-football-city-break",
-   "snippet": "Win, lose or draw, Newcastle (a) has given a lot of fans happy memories, and the late Kevin Keegan could be the one to thank for that",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-09-05T06:00:00.000Z",
-   "firstSeen": "2026-09-05T06:03:56.759Z"
-  },
-  {
-   "id": "2c4a282e9704",
-   "title": "Man Utd made midfield recruitment summer priority - what happens now?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c4gq2v5m5gpo",
-   "snippet": "Michael Carrick says Manchester United have balance in their midfield following a £150m summer recruitment campaign - so who plays?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-05T05:56:59.000Z",
-   "firstSeen": "2026-09-05T06:03:56.759Z"
-  },
-  {
-   "id": "01ec26cd55e3",
-   "title": "Putellas debut as London City beat Man Utd in opener",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cn74v6krpvno",
-   "snippet": "Alexia Putellas makes her London City Lionesses debut as the home side beat Manchester United 2-1 in the first game of the Women's Super League season.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-05T05:28:16.000Z",
-   "firstSeen": "2026-09-05T06:03:56.759Z"
-  },
-  {
-   "id": "340a64897b4b",
-   "title": "‘The noise was unbelievable’: the referee’s view of Mexico v England at the World Cup",
-   "link": "https://www.theguardian.com/football/2026/sep/05/world-cup-alireza-faghani-england-mexico-azteca",
-   "snippet": "England’s manager Thomas Tuchel called the officiating ‘just not good enough’ in the fiery last-16 tie. Now Alireza Faghani gives his version of events It was 6pm on 5 July in Mexico City, and Alireza Faghani, a 48-year-old…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-09-05T05:00:29.000Z",
-   "firstSeen": "2026-09-05T12:03:07.923Z"
-  },
-  {
-   "id": "a6739f86f932",
-   "title": "FourFourTwo's Weekend Crossword 69: Boxers, badges and Barclaysmen",
-   "link": "https://www.fourfourtwo.com/quiz/fourfourtwo-weekend-crossword-69",
-   "snippet": "Let's delve into another crossword",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-09-05T05:00:00.000Z",
-   "firstSeen": "2026-09-05T06:03:56.759Z"
-  },
-  {
-   "id": "74f825ad7e82",
-   "title": "Manchester United debut revealed for Carlos Baleba as Michael Carrick breaks silence on new arrival",
-   "link": "https://www.fourfourtwo.com/person/player/carlos-baleba-manchester-united-debut-date-revealed",
-   "snippet": "The game in which Carlos Baleba will make his Manchester United debut is imminent",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-09-05T04:00:00.000Z",
-   "firstSeen": "2026-09-05T06:03:56.759Z"
-  },
-  {
-   "id": "2b99d8abb9ac",
-   "title": "Papers: Chelsea offered chance to sign Bissouma as Fernandez replacement",
-   "link": "https://www.skysports.com/football/news/12040/13581538/chelsea-transfer-news-blues-offered-chance-to-sign-former-tottenham-midfielder-yves-bissouma-paper-talk",
-   "snippet": "The top stories and transfer rumours from Saturday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-05T00:06:09.475Z",
-   "firstSeen": "2026-09-05T00:06:09.475Z"
-  },
-  {
-   "id": "4b8afaad04d7",
-   "title": "Star-studded London City cruise to win over Man Utd",
-   "link": "https://www.skysports.com/football/london-city-lionesses-vs-manchester-united-women/report/575755",
-   "snippet": "London City Lionesses started their star-studded era and the new Women's Super League season with a comfortable 2-1 win over Manchester United.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-05T00:06:09.475Z",
-   "firstSeen": "2026-09-05T00:06:09.475Z"
-  },
-  {
-   "id": "b57b93258f6a",
-   "title": "Iraola up and running at Liverpool as Isak nets double at Ipswich",
-   "link": "https://www.skysports.com/football/ipswich-town-vs-liverpool/report/559470",
-   "snippet": "Andoni Iraola registered his first win as Liverpool head coach as Alexander Isak scored twice inside nine minutes to beat Ipswich 2-0.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-05T00:06:09.475Z",
-   "firstSeen": "2026-09-05T00:06:09.475Z"
   }
  ]
 }
