@@ -1,6 +1,39 @@
 {
  "stories": [
   {
+   "id": "18c011b70a10",
+   "title": "How to watch Man Utd v Man City",
+   "link": "https://www.skysports.com/football/news/12040/13583655/man-utd-vs-man-city-how-to-watch-premier-league-contest-tv-channel-live-stream-now-tv-and-score-prediction",
+   "snippet": "Manchester United host rivals Manchester City in a huge Premier League Manchester derby on September 13, live on Sky Sports.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-09-13T06:04:54.100Z",
+   "firstSeen": "2026-09-13T06:04:54.100Z"
+  },
+  {
+   "id": "a7b06f7d4387",
+   "title": "Flex your football brain with our daily quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cg59eymd40eo",
+   "snippet": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-13T05:57:03.000Z",
+   "firstSeen": "2026-09-13T06:04:54.100Z"
+  },
+  {
+   "id": "a685e1b49990",
+   "title": "Fixed v fluid - the opposing approaches of Maresca and Carrick",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cn45w80wn5xo",
+   "snippet": "Enzo Maresca and Michael Carrick will go head to head in Sunday's Manchester derby, with their teams set up very differently.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-09-13T05:44:42.000Z",
+   "firstSeen": "2026-09-13T06:04:54.100Z"
+  },
+  {
    "id": "241e59805558",
    "title": "West Ham secure first WSL win of season against London City Lionesses",
    "link": "https://www.skysports.com/football/news/12040/13585167/west-ham-2-1-london-city-lionesses-kelly-gago-and-viviane-asseyi-strike-as-hammers-secure-first-womens-super-league-win-of-season",
@@ -9206,83 +9239,6 @@
    "section": "world",
    "published": "2026-09-06T07:50:43.000Z",
    "firstSeen": "2026-09-06T12:02:56.845Z"
-  },
-  {
-   "id": "4fd2950f974c",
-   "title": "Who am I? Guess WSL star No 3",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c4gkdke979do",
-   "snippet": "Work out the identity of today's Women's Super League player in as few attempts as possible.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-06T06:03:27.000Z",
-   "firstSeen": "2026-09-06T12:02:56.845Z"
-  },
-  {
-   "id": "c0a272ff97f2",
-   "title": "Flex your football brain with our daily quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cgmrgl3zerpo",
-   "snippet": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-06T06:02:35.000Z",
-   "firstSeen": "2026-09-06T12:02:56.845Z"
-  },
-  {
-   "id": "85a9f1aea71c",
-   "title": "Pre-Match Poser no.43: Can you answer this elite-level football quiz question?",
-   "link": "https://www.fourfourtwo.com/quiz/pre-match-poser-no-43",
-   "snippet": "Join the footballing one per cent club",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-09-06T06:00:00.000Z",
-   "firstSeen": "2026-09-06T06:03:44.804Z"
-  },
-  {
-   "id": "68f3011d5f59",
-   "title": "Swansea miss chance to go three points clear with Wrexham draw",
-   "link": "https://www.skysports.com/football/swansea-city-vs-wrexham/report/560555",
-   "snippet": "Championship leaders Swansea and visitors Wrexham fought out a 0-0 draw in a passionate all-Welsh affair.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-06T00:06:54.384Z",
-   "firstSeen": "2026-09-06T00:06:54.384Z"
-  },
-  {
-   "id": "8e62be464a40",
-   "title": "Hits and misses: Gakpo steals Barcola's thunder as Anderson passes like Rodri",
-   "link": "https://www.skysports.com/football/news/12040/13581444/cody-gakpo-outshines-new-liverpool-signing-bradley-barcola-as-elliot-anderson-gives-his-best-rodri-impression-pl-hits-and-misses",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-06T00:06:54.384Z",
-   "firstSeen": "2026-09-06T00:06:54.384Z"
-  },
-  {
-   "id": "ee8e223dd92e",
-   "title": "Celtic come from behind at St Mirren to maintain winning start",
-   "link": "https://www.skysports.com/football/st-mirren-vs-celtic/report/558368",
-   "snippet": "Celtic came from behind to hold onto their winning start to their Scottish Premiership title defence as St Mirren suffered their first defeat of the season.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-06T00:06:54.384Z",
-   "firstSeen": "2026-09-06T00:06:54.384Z"
-  },
-  {
-   "id": "fa3255ec8d06",
-   "title": "Villa take first point but rue missed chances in Hull stalemate",
-   "link": "https://www.skysports.com/football/hull-city-vs-aston-villa/report/559469",
-   "snippet": "Aston Villa picked up their first Premier League point of the season, but were left to rue missed chances in their 0-0 draw against Hull City.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-06T00:06:54.384Z",
-   "firstSeen": "2026-09-06T00:06:54.384Z"
   }
  ]
 }
