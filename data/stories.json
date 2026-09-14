@@ -1,6 +1,50 @@
 {
  "stories": [
   {
+   "id": "eb641a0e97d8",
+   "title": "Ferguson-esque Neil 'ran the show' for Rangers",
+   "link": "https://www.bbc.co.uk/sport/football/articles/crl62l7z6p4o",
+   "snippet": "Peter Lovenrkands believes there were shades of Barry Ferguson in Dan Neil's performance on Sunday as Rangers stormed into the Premier Sports Cup semi-finals at Celtic's expense.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-14T06:00:43.000Z",
+   "firstSeen": "2026-09-14T06:05:26.417Z"
+  },
+  {
+   "id": "7e77063fe4a0",
+   "title": "Arsenal have the best player in his position in the Premier League - but he shouldn't start",
+   "link": "https://www.fourfourtwo.com/person/player/arsenal-have-the-best-player-in-his-position-in-the-premier-league-but-he-shouldnt-start",
+   "snippet": "The Gunners have a key man available again, but they would be better off leaving him on the bench...",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-09-14T06:00:00.000Z",
+   "firstSeen": "2026-09-14T06:05:26.417Z"
+  },
+  {
+   "id": "28dbaa5e25fa",
+   "title": "Flex your football brain with our daily quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ceq82914rdgo",
+   "snippet": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-14T05:46:04.000Z",
+   "firstSeen": "2026-09-14T06:05:26.417Z"
+  },
+  {
+   "id": "143f021ff929",
+   "title": "Man City maintain perfect WSL start with win at Villa",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c86x0e0v042o",
+   "snippet": "Manchester City become the only side to win both of their opening two Women's Super League fixtures with an impressive performance against Aston Villa.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-14T05:12:52.000Z",
+   "firstSeen": "2026-09-14T06:05:26.417Z"
+  },
+  {
    "id": "8a45e367f068",
    "title": "Awarding Man City's winner at Man Utd an error, admits refereeing body",
    "link": "https://www.skysports.com/football/news/12040/13585607/erling-haalands-man-city-goal-decision-vs-man-utd-an-error-of-judgement-says-pro-ref",
@@ -9052,39 +9096,6 @@
    "section": "world",
    "published": "2026-09-07T06:56:29.000Z",
    "firstSeen": "2026-09-07T12:03:28.121Z"
-  },
-  {
-   "id": "ccf16aece42e",
-   "title": "Ollie Watkins’ move to Al Hilal must trigger a changing of the guard for England’s strikers",
-   "link": "https://www.fourfourtwo.com/team/ollie-watkins-move-to-al-hilal-should-trigger-a-changing-of-the-guard-for-englands-strikers",
-   "snippet": "With Ollie Watkins and Ivan Toney now playing in Saudi Arabia and both in their 30s, it is the perfect time to refresh England’s strike-force ahead of Euro 2028",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-09-07T06:00:00.000Z",
-   "firstSeen": "2026-09-07T06:05:02.064Z"
-  },
-  {
-   "id": "50b4e7bbf88c",
-   "title": "Flex your football brain with our daily quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c046pxeeqe6o",
-   "snippet": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-07T05:05:20.000Z",
-   "firstSeen": "2026-09-07T06:05:02.064Z"
-  },
-  {
-   "id": "578d4fd4ed2c",
-   "title": "Quickfire Quiz 196: Can you answer 10 questions in 90 seconds?",
-   "link": "https://www.fourfourtwo.com/quiz/quickfire-quiz-196",
-   "snippet": "Tackle these 10 football trivia questions about Edinson Cavani, city rivals, career paths, and more!",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-09-07T05:00:00.000Z",
-   "firstSeen": "2026-09-07T06:05:02.064Z"
   }
  ]
 }
