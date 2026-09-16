@@ -1,6 +1,72 @@
 {
  "stories": [
   {
+   "id": "43bba3e34d47",
+   "title": "What next for Arsenal prodigy Dowman after latest statement display?",
+   "link": "https://www.skysports.com/football/news/12040/13586419/max-dowman-arsenal-prodigy-delivers-latest-statement-performance-as-mikel-arteta-urges-caution-over-16-year-old",
+   "snippet": "Max Dowman has waited patiently for opportunities in Arsenal's first team, but when he gets them, he delivers.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-09-16T06:03:55.424Z",
+   "firstSeen": "2026-09-16T06:03:55.424Z"
+  },
+  {
+   "id": "704e74c4ac5a",
+   "title": "Could Arsenal match the Invincibles and go unbeaten in the Premier League again?",
+   "link": "https://www.fourfourtwo.com/team/could-arsenal-match-the-invincibles-and-go-unbeaten-in-the-premier-league-again",
+   "snippet": "Premier League champions have started as they mean to go on. Could their title defence really take them all the way again?",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-09-16T06:00:00.000Z",
+   "firstSeen": "2026-09-16T06:03:55.424Z"
+  },
+  {
+   "id": "d1d2b7c2c74e",
+   "title": "Flex your football brain with our daily quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm2q81r5zvjo",
+   "snippet": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-16T05:49:34.000Z",
+   "firstSeen": "2026-09-16T06:03:55.424Z"
+  },
+  {
+   "id": "c48db7a27f47",
+   "title": "Why are Man Utd better without the ball?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cxnvl2nv525ro",
+   "snippet": "Under Michael Carrick, Manchester United average 1.5 points per game when they have more than 50% of the ball. When they have less than 50%, this number is 2.6.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-09-16T05:46:28.000Z",
+   "firstSeen": "2026-09-16T06:03:55.424Z"
+  },
+  {
+   "id": "172f9782a61a",
+   "title": "Does Bellamy need to win back Wales fans?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c9gk58j0vy0eo",
+   "snippet": "After a \"sleepless night\", Wales boss Craig Bellamy decided to turn down the chance to manage Burnley - but has it affected what fans think of him?",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-16T05:41:00.000Z",
+   "firstSeen": "2026-09-16T06:03:55.424Z"
+  },
+  {
+   "id": "3d816aca3f33",
+   "title": "Quickfire Quiz 203: Can you answer 10 questions in 90 seconds?",
+   "link": "https://www.fourfourtwo.com/quiz/quickfire-quiz-203",
+   "snippet": "Tackle these 10 football trivia questions about Gareth Bale, Georges, record scorers, and more!",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-09-16T05:00:00.000Z",
+   "firstSeen": "2026-09-16T06:03:55.424Z"
+  },
+  {
    "id": "4376f2705ce1",
    "title": "Fulham edge West Ham in five-goal thriller",
    "link": "https://www.skysports.com/football/west-ham-united-vs-fulham/report/577587",
@@ -8920,237 +8986,6 @@
    "section": "world",
    "published": "2026-09-09T06:04:23.988Z",
    "firstSeen": "2026-09-09T06:04:23.988Z"
-  },
-  {
-   "id": "125475748d6e",
-   "title": "'I'm not sold on new £70m Manchester United man. He'll take six months to get up to speed' Old Trafford hero delivers brutal verdict on new signing",
-   "link": "https://www.fourfourtwo.com/person/im-not-sold-on-new-gbp70m-manchester-united-man-hell-take-six-months-to-get-up-to-speed-old-trafford-hero-delivers-brutal-verdict-on-new-signing",
-   "snippet": "Teddy Sheringham believes Carlos Baleba will require a lengthy adjustment period at Manchester United",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-09-09T06:00:00.000Z",
-   "firstSeen": "2026-09-09T12:03:27.946Z"
-  },
-  {
-   "id": "cd40fb2a9364",
-   "title": "Where do PSG rank among Europe's greatest dynasties?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cy9z0xz8ql1o",
-   "snippet": "Paris St-Germain are eyeing a third successive Champions League crown, but where do they rank against Europe's most dominant clubs?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-champions-league",
-   "section": "champions-league",
-   "published": "2026-09-09T05:30:53.000Z",
-   "firstSeen": "2026-09-09T06:04:23.988Z"
-  },
-  {
-   "id": "a09644caa8af",
-   "title": "Flex your football brain with our daily quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cy5zy1z6y4eo",
-   "snippet": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-09T05:19:23.000Z",
-   "firstSeen": "2026-09-09T06:04:23.988Z"
-  },
-  {
-   "id": "9a6c0cbcb841",
-   "title": "Investigating the exploitation of girls by drug gangs",
-   "link": "https://www.bbc.co.uk/iplayer/episode/m0031c4c",
-   "snippet": "A look at two decades of failure to protect girls exploited and raped by drug gangs.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-09T05:00:00.000Z",
-   "firstSeen": "2026-09-10T12:03:37.580Z"
-  },
-  {
-   "id": "ace42126df94",
-   "title": "Cristian Volpato’s Socceroos fate uncertain after second sample confirms positive cocaine test",
-   "link": "https://www.theguardian.com/football/2026/sep/09/cristian-volpato-cocaine-positive-test-socceroos-australia-ntwnfb",
-   "snippet": "Football Australia has power to suspend him from national team Striker has maintained his innocence over failed drugs test Cristian Volpato’s immediate availability for the Socceroos rests in the hands of Football Australia after NSW…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-09-09T04:08:35.000Z",
-   "firstSeen": "2026-09-09T06:04:23.988Z"
-  },
-  {
-   "id": "27d01b942aff",
-   "title": "Newcastle United end lengthy drought at Millwall after Matthias Jaissle's bold selection call",
-   "link": "https://www.fourfourtwo.com/team/newcastle-united-end-lengthy-drought-at-millwall-after-matthias-jaissles-bold-selection-call",
-   "snippet": "Newcastle United last went five games unbeaten in April 2025. Matthias Jaissle has managed it in his first five",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-09-09T04:00:00.000Z",
-   "firstSeen": "2026-09-09T06:04:23.988Z"
-  },
-  {
-   "id": "0fad4bcd0e6a",
-   "title": "Carabao Cup highlights! Bournemouth, Palace, Newcastle all through",
-   "link": "https://www.skysports.com/football/live-blog/12040/13582785/carabao-cup-third-round-live-scores-updates-and-free-match-highlights-with-newcastle-sunderland-crystal-palace-in-action",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-09T00:07:02.952Z",
-   "firstSeen": "2026-09-09T00:07:02.952Z"
-  },
-  {
-   "id": "12483cff4a4b",
-   "title": "Bowen fires West Ham top; Southampton win - Championship highlights",
-   "link": "https://www.skysports.com/football/live-blog/12040/13582850/championship-live-scores-match-updates-and-free-highlights-with-wrexham-west-ham-sheffield-united-in-action",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-09T00:07:02.952Z",
-   "firstSeen": "2026-09-09T00:07:02.952Z"
-  },
-  {
-   "id": "1bb77a47c1ca",
-   "title": "Putellas, Russo, Greenwood, Shaw among 11 WSL players in Ballon d'Or running",
-   "link": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-09T00:07:02.952Z",
-   "firstSeen": "2026-09-09T00:07:02.952Z"
-  },
-  {
-   "id": "401fced73fb9",
-   "title": "Burnley still without a win after draw at Wrexham",
-   "link": "https://www.skysports.com/football/wrexham-vs-burnley/report/560569",
-   "snippet": "Wrexham's wait for a home win goes on after they were held to a 1-1 draw by winless Burnley who sit one place off the bottom of the Sky Bet Championship.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-09T00:07:02.952Z",
-   "firstSeen": "2026-09-09T00:07:02.952Z"
-  },
-  {
-   "id": "4c8da4fca350",
-   "title": "Christie nets hat-trick as Bournemouth blitz Championship Lincoln",
-   "link": "https://www.skysports.com/football/bournemouth-vs-lincoln-city/report/577572",
-   "snippet": "Ryan Christie scored a hat-trick to give Marco Rose his first win as Bournemouth manager as the Cherries swept aside Sky Bet Championship side Lincoln 4-0.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-09T00:07:02.952Z",
-   "firstSeen": "2026-09-09T00:07:02.952Z"
-  },
-  {
-   "id": "55d65f8c9ac5",
-   "title": "Aston Villa attack clicks in thrilling win over Club Brugge",
-   "link": "https://www.skysports.com/football/club-brugge-vs-aston-villa/report/577599",
-   "snippet": "Aston Villa produced a superb attacking display to end their scoring concerns and begin their Champions League campaign with a thrilling 3-2 win over Club Brugge.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-09T00:07:02.952Z",
-   "firstSeen": "2026-09-09T00:07:02.952Z"
-  },
-  {
-   "id": "641a4a554ac1",
-   "title": "Colwill earns Cardiff point but winless start continues",
-   "link": "https://www.skysports.com/football/cardiff-city-vs-stoke-city/report/560561",
-   "snippet": "Cardiff's winless start to the season continued as Stoke held on for a 1-1 draw and their first away point since January in the Welsh capital.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-09T00:07:02.952Z",
-   "firstSeen": "2026-09-09T00:07:02.952Z"
-  },
-  {
-   "id": "786dce36e890",
-   "title": "Bowen at the double as West Ham climb top of the Championship",
-   "link": "https://www.skysports.com/football/bolton-wanderers-vs-west-ham-united/report/560559",
-   "snippet": "Captain Jarrod Bowen scored twice as West Ham's 3-2 win over Bolton took them top of the Sky Bet Championship on goal difference and earned a first ever win at the Toughsheet Community Stadium.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-09T00:07:02.952Z",
-   "firstSeen": "2026-09-09T00:07:02.952Z"
-  },
-  {
-   "id": "8f504a23f000",
-   "title": "Arsenal latest: Will Arteta rotate vs Napoli as fixture schedule piles up?",
-   "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-09T00:07:02.952Z",
-   "firstSeen": "2026-09-09T00:07:02.952Z"
-  },
-  {
-   "id": "98481a308ba2",
-   "title": "Haaland scores twice in win over Porto but Man City struggle to impress",
-   "link": "https://www.skysports.com/football/fc-porto-vs-manchester-city/report/577600",
-   "snippet": "Erling Haaland's double earned Manchester City a 2-0 win at FC Porto - but it was another game where Enzo Maresca's side won but struggled to convince.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-09T00:07:02.952Z",
-   "firstSeen": "2026-09-09T00:07:02.952Z"
-  },
-  {
-   "id": "9da6841d638a",
-   "title": "Sheff Utd return to winning ways at Blackburn",
-   "link": "https://www.skysports.com/football/blackburn-rovers-vs-sheffield-united/report/560558",
-   "snippet": "Sheffield United returned to winning ways after a display of ruthless finishing secured a 2-1 win at Blackburn.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-09T00:07:02.952Z",
-   "firstSeen": "2026-09-09T00:07:02.952Z"
-  },
-  {
-   "id": "aead30d12d95",
-   "title": "Papers: Blow for Man Utd as top target agrees new contract",
-   "link": "https://www.skysports.com/football/news/12040/13583358/transfer-news-manchester-united-suffer-hammer-blow-after-top-target-lewis-hall-agrees-five-year-newcastle-deal-paper-talk",
-   "snippet": "The top stories and transfer rumours from Tuesday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-09T00:07:02.952Z",
-   "firstSeen": "2026-09-09T00:07:02.952Z"
-  },
-  {
-   "id": "aff2c7a0b567",
-   "title": "Willock grabs late goal as Newcastle edge Millwall",
-   "link": "https://www.skysports.com/football/millwall-vs-newcastle-united/report/577582",
-   "snippet": "Joe Willock's late goal sent a relieved Newcastle into the fourth round of the Carabao Cup as the Premier League side scraped to a 1-0 victory at Sky Bet Championship outfit Millwall.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-09T00:07:02.952Z",
-   "firstSeen": "2026-09-09T00:07:02.952Z"
-  },
-  {
-   "id": "b1af95745c39",
-   "title": "Southampton knock Swansea off Championship top spot",
-   "link": "https://www.skysports.com/football/southampton-vs-swansea-city/report/560563",
-   "snippet": "Cyle Larin scored his fifth goal of the season as Southampton beat Swansea 3-1 to humble a table-topper for the second home match in a row.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-09T00:07:02.952Z",
-   "firstSeen": "2026-09-09T00:07:02.952Z"
-  },
-  {
-   "id": "b48d4b6ce1fa",
-   "title": "Watford comeback condemns Preston to fifth defeat in six",
-   "link": "https://www.skysports.com/football/watford-vs-preston-north-end/report/560564",
-   "snippet": "Watford shook off an awful first-half display to grab a 2-1 victory over Preston, who suffered their fifth defeat in six league games.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-09T00:07:02.952Z",
-   "firstSeen": "2026-09-09T00:07:02.952Z"
   }
  ]
 }
