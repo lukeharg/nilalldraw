@@ -1,6 +1,83 @@
 {
  "stories": [
   {
+   "id": "c284d0893d00",
+   "title": "Flex your football brain with our daily quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck4glvy3413xo",
+   "snippet": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-18T05:41:33.000Z",
+   "firstSeen": "2026-09-18T06:03:50.851Z"
+  },
+  {
+   "id": "51b6d9c1528a",
+   "title": "How does De Zerbi fix Spurs' scoring troubles?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmx2zyv3x5rpo",
+   "snippet": "Roberto De Zerbi's Tottenham are yet to score a Premier League goal this season, how do they fix that?",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-09-18T05:16:05.000Z",
+   "firstSeen": "2026-09-18T06:03:50.851Z"
+  },
+  {
+   "id": "37e4c83ff740",
+   "title": "I feel like I'm in a good place - Isak",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6kg8nzq4enpo",
+   "snippet": "Alexander Isak explains how his relationships with Andoni Iraola and Cody Gakpo have helped him this season.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-18T05:13:51.000Z",
+   "firstSeen": "2026-09-18T06:03:50.851Z"
+  },
+  {
+   "id": "88abc6c9ce1c",
+   "title": "Moving from Newcastle to Liverpool easy decision - Isak",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckvgypz42n36o",
+   "snippet": "Striker Alexander Isak says Liverpool's ambition and determination to sign him was a big part of why he joined the club.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-09-18T05:12:10.000Z",
+   "firstSeen": "2026-09-18T06:03:50.851Z"
+  },
+  {
+   "id": "e33e92d111e5",
+   "title": "Quickfire Quiz 205: Can you answer 10 questions in 90 seconds?",
+   "link": "https://www.fourfourtwo.com/quiz/quickfire-quiz-205",
+   "snippet": "Tackle these 10 football trivia questions about the FA Cup, mystery shirts, Colin Kazim-Richards, and more!",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-09-18T05:00:00.000Z",
+   "firstSeen": "2026-09-18T06:03:50.851Z"
+  },
+  {
+   "id": "79c257c6c047",
+   "title": "Bellamy right to speak to Burnley - FAW chief Adams",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmje81nxgz4wo",
+   "snippet": "FAW chief football officer David Adams says he has a list of potential replacements for when Craig Bellamy ends his spell as Wales head coach.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-18T03:18:34.000Z",
+   "firstSeen": "2026-09-18T06:03:50.851Z"
+  },
+  {
+   "id": "bdafd815b677",
+   "title": "Socceroos captain Maty Ryan axed for Brazil friendlies",
+   "link": "https://www.theguardian.com/football/2026/sep/18/socceroos-captain-maty-ryan-droppedr-brazil-vs-australia-friendlies",
+   "snippet": "Goalkeeper dropped despite strong start to La Liga season Seven uncapped players called into 26-man Australia squad Maty Ryan’s Socceroos days aren’t done, insists coach Tony Popovoc, despite the decorated captain being left out of his…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-09-18T01:19:19.000Z",
+   "firstSeen": "2026-09-18T06:03:50.851Z"
+  },
+  {
    "id": "15c6c7ac79f9",
    "title": "Sloppy mistakes cost Celtic again as they lose Europa League opener",
    "link": "https://www.skysports.com/football/celtic-vs-ferencvaros/report/577751",
@@ -8658,6 +8735,17 @@
    "firstSeen": "2026-09-11T12:03:28.885Z"
   },
   {
+   "id": "add8c14191e9",
+   "title": "Fenerbahce boss stuns club by quitting after Roma draw",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c8r6vyjpye2o",
+   "snippet": "Ismail Kartal resigns as Fenerbahce's head coach just minutes after the Turkish side's 1-1 draw with Roma in the Champions League.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-champions-league",
+   "section": "champions-league",
+   "published": "2026-09-11T08:06:08.000Z",
+   "firstSeen": "2026-09-18T06:03:50.851Z"
+  },
+  {
    "id": "a0d451011b7b",
    "title": "Hall signs new contract with Newcastle until 2031",
    "link": "https://www.bbc.co.uk/sport/football/articles/ce9e3d5exp8o",
@@ -8755,105 +8843,6 @@
    "section": "world",
    "published": "2026-09-11T06:27:31.000Z",
    "firstSeen": "2026-09-11T12:03:28.885Z"
-  },
-  {
-   "id": "8495210aaf9d",
-   "title": "Leeds want boss Farke to stay 'long-term'",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cd08728rz0xo",
-   "snippet": "Leeds United managing director Robbie Evans says the club and boss Daniel Farke are \"on the same page\" as they look to agree a new contract.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-11T06:00:35.000Z",
-   "firstSeen": "2026-09-11T06:03:50.569Z"
-  },
-  {
-   "id": "3cf9b1f3e9c8",
-   "title": "Why 2026/27 will be one of the best Championship seasons ever",
-   "link": "https://www.fourfourtwo.com/competition/why-this-could-be-one-of-the-best-championship-seasons-ever",
-   "snippet": "The early weeks of the Championship campaign have been full of goals and shock results - if that continues, it will be a season for the ages",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-09-11T06:00:00.000Z",
-   "firstSeen": "2026-09-11T06:03:50.569Z"
-  },
-  {
-   "id": "23cb695f99db",
-   "title": "'I want to play for mum' – Arsenal's Cooney-Cross",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cx2zngqxylpo",
-   "snippet": "Arsenal's Kyra Cooney-Cross is preparing to play at Emirates Stadium for the first time since losing her mum Jess to cancer, and explains how she has been facing up to her bereavement \"one day at a time\".",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-11T05:52:56.000Z",
-   "firstSeen": "2026-09-11T06:03:50.569Z"
-  },
-  {
-   "id": "c235dc6ca60c",
-   "title": "Flex your football brain with our daily quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/clymlve2v0xo",
-   "snippet": "Test your ball knowledge against Who Am I?, Five in Five and Brainteaser.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-11T05:52:39.000Z",
-   "firstSeen": "2026-09-11T06:03:50.569Z"
-  },
-  {
-   "id": "32b457ba9b06",
-   "title": "Saint-Maximin on speaking out after his children were racially abused",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ce8xzg9e81ro",
-   "snippet": "Former Newcastle winger Allan Saint-Maximin says he felt it was important to speak out after his children were racially abused earlier this year in Mexico.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-09-11T05:23:22.000Z",
-   "firstSeen": "2026-09-11T06:03:50.569Z"
-  },
-  {
-   "id": "3b1a6aed6abd",
-   "title": "Quickfire Quiz 200: Can you answer 10 questions in 90 seconds?",
-   "link": "https://www.fourfourtwo.com/quiz/quickfire-quiz-200",
-   "snippet": "Tackle these 10 football trivia questions about Clarence Seedorf, MCOs, legendary managers, and more!",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-09-11T05:00:00.000Z",
-   "firstSeen": "2026-09-11T06:03:50.569Z"
-  },
-  {
-   "id": "2bc805042bed",
-   "title": "Man Utd put four past Sabah on Champions League return",
-   "link": "https://www.skysports.com/football/manchester-united-vs-sabah/report/577612",
-   "snippet": "Manchester United made a winning return to the Champions League as they beat Sabah FC in style with a 4-0 victory at Old Trafford.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-11T00:06:22.628Z",
-   "firstSeen": "2026-09-11T00:06:22.628Z"
-  },
-  {
-   "id": "b26476f36c61",
-   "title": "PL Predictions: Hull's run can't continue at Chelsea, can it? Oh, it can",
-   "link": "https://www.skysports.com/football/news/12040/13583782/premier-league-predictions-jones-knows-best-bets-hulls-run-cant-continue-at-chelsea-can-it-oh-it-can",
-   "snippet": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight across the weekend Premier League action.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-11T00:06:22.628Z",
-   "firstSeen": "2026-09-11T00:06:22.628Z"
-  },
-  {
-   "id": "df903f2eca18",
-   "title": "Papers: Zubimendi may push to leave Arsenal",
-   "link": "https://www.skysports.com/football/news/12040/13584130/arsenal-transfer-news-martin-zubimendi-may-push-to-leave-premier-league-champions-paper-talk",
-   "snippet": "The top stories and transfer rumours from Friday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-11T00:06:22.628Z",
-   "firstSeen": "2026-09-11T00:06:22.628Z"
   }
  ]
 }
