@@ -1,6 +1,39 @@
 {
  "stories": [
   {
+   "id": "4550dc671fcc",
+   "title": "Flex your football brain with our daily quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c9gk5863zz2po",
+   "snippet": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-20T05:56:07.000Z",
+   "firstSeen": "2026-09-20T06:03:41.275Z"
+  },
+  {
+   "id": "e1370acf99a1",
+   "title": "Will the three-week break put more pressure on managers?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmg49gv74qzlo",
+   "snippet": "So far this season two coaches have lost their jobs, but plenty of others will be looking over their shoulders heading into the new, extended international break.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-09-20T05:19:50.000Z",
+   "firstSeen": "2026-09-20T06:03:41.275Z"
+  },
+  {
+   "id": "1602bd43507c",
+   "title": "Colwill's 'surreal' Ronaldo and Haaland ambition",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm4gj50qqlqwo",
+   "snippet": "In just 12 months, the Cardiff City midfielder has gone from League One football to the prospect of facing Cristiano Ronaldo and Erling Haaland.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-20T05:07:45.000Z",
+   "firstSeen": "2026-09-20T06:03:41.275Z"
+  },
+  {
    "id": "623aeb085481",
    "title": "Coventry seal first PL win in 25 years at Forest amid VAR controversy",
    "link": "https://www.skysports.com/football/nottingham-forest-vs-coventry-city/report/559492",
@@ -9172,28 +9205,6 @@
    "sourceId": "sky-sports",
    "section": "world",
    "published": "2026-09-13T06:04:54.100Z",
-   "firstSeen": "2026-09-13T06:04:54.100Z"
-  },
-  {
-   "id": "a7b06f7d4387",
-   "title": "Flex your football brain with our daily quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cg59eymd40eo",
-   "snippet": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-13T05:57:03.000Z",
-   "firstSeen": "2026-09-13T06:04:54.100Z"
-  },
-  {
-   "id": "a685e1b49990",
-   "title": "Fixed v fluid - the opposing approaches of Maresca and Carrick",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cn45w80wn5xo",
-   "snippet": "Enzo Maresca and Michael Carrick will go head to head in Sunday's Manchester derby, with their teams set up very differently.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-09-13T05:44:42.000Z",
    "firstSeen": "2026-09-13T06:04:54.100Z"
   }
  ]
