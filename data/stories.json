@@ -1,6 +1,105 @@
 {
  "stories": [
   {
+   "id": "68bf98362528",
+   "title": "Nobody is talking about this former Liverpool coach who appears destined for the Premier League",
+   "link": "https://www.fourfourtwo.com/person/coaches-managers/this-former-liverpool-coach-nobody-is-talking-about-appears-destined-for-the-premier-league",
+   "snippet": "Vitor Matos is drawing on his time with Jurgen Klopp to lead Swansea City’s revival - it is surely only a matter of time until he manages in the top flight",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-09-21T06:00:00.000Z",
+   "firstSeen": "2026-09-21T06:05:35.004Z"
+  },
+  {
+   "id": "1fa31df7a647",
+   "title": "Flex your football brain with our daily quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqdj4nk270meo",
+   "snippet": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-21T05:54:06.000Z",
+   "firstSeen": "2026-09-21T06:05:35.004Z"
+  },
+  {
+   "id": "22432c85c215",
+   "title": "The pros and cons of being a long-distance football manager",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c7v4l3z659vo",
+   "snippet": "The pros and cons of being a long-distance football manager. Former Stoke City manager Tony Pulis talks to BBC Sport about how he managed teams despite keeping his family home hundreds of miles away.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-21T05:52:56.000Z",
+   "firstSeen": "2026-09-21T06:05:35.004Z"
+  },
+  {
+   "id": "c7d4e2b401db",
+   "title": "We've had a big, big punishment - Eckert",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cq986ryd29r1o",
+   "snippet": "Southampton boss Tonda Eckert says the club have had a \"big, big punishment\" for Spygate.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-21T05:40:31.000Z",
+   "firstSeen": "2026-09-21T06:05:35.004Z"
+  },
+  {
+   "id": "31e5b58d0c2d",
+   "title": "Spygate analyst has had tough time, says Saints CEO",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cvrl6p8rged5o",
+   "snippet": "Southampton CEO Phil Parsons says it is important the club look after Will Salt - the man at the centre of the spygate scandal.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-21T05:36:55.000Z",
+   "firstSeen": "2026-09-21T06:05:35.004Z"
+  },
+  {
+   "id": "d9f347b8b4bf",
+   "title": "'I've asked for forgiveness' - Eckert and Southampton braced for Spygate verdict",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmp30p934g4lo",
+   "snippet": "As Southampton manager Tonda Eckert awaits the FA hearing into his 'Spygate' misconduct conduct charge BBC sports editor Dan Roan speaks to him and club chief executive Phil Parsons on what happens next.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-21T05:32:44.000Z",
+   "firstSeen": "2026-09-21T06:05:35.004Z"
+  },
+  {
+   "id": "8eb3dfdf5a80",
+   "title": "'Constant bombardment' - Fans shown 65,000 junk food ads at World Cup",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq4g528drx79o",
+   "snippet": "New data shows fans were shown more than 28 hours of adverts for unhealthy food and drinks during World Cup matches this summer.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-21T05:19:38.000Z",
+   "firstSeen": "2026-09-21T06:05:35.004Z"
+  },
+  {
+   "id": "9739b030d60c",
+   "title": "Quickfire Quiz 206: Can you answer 10 questions in 90 seconds?",
+   "link": "https://www.fourfourtwo.com/quiz/quickfire-quiz-206",
+   "snippet": "Tackle these 10 football trivia questions about Angel Di Maria, Dalian Atkinson, EFL counties, and more!",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-09-21T05:00:00.000Z",
+   "firstSeen": "2026-09-21T06:05:35.004Z"
+  },
+  {
+   "id": "f2d76db35e2a",
+   "title": "What will 'greatest captain' bring to Bellamy's Wales?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c58jdvlejve2o",
+   "snippet": "The return of former captain Ashley Williams to the Wales coaching team excites boss Craig Bellamy before their Nations League fixtures.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-21T03:52:45.000Z",
+   "firstSeen": "2026-09-21T06:05:35.004Z"
+  },
+  {
    "id": "1fb1b77eaf25",
    "title": "Hits and misses: Maresca's Man City serve up pure chaos as Gakpo shines",
    "link": "https://www.skysports.com/football/news/12040/13590166/man-city-serve-up-pure-chaos-under-enzo-maresca-as-cody-gakpo-shines-for-liverpool-premier-league-hits-and-misses",
@@ -9492,61 +9591,6 @@
    "section": "world",
    "published": "2026-09-14T06:29:37.000Z",
    "firstSeen": "2026-09-14T12:03:41.321Z"
-  },
-  {
-   "id": "eb641a0e97d8",
-   "title": "Ferguson-esque Neil 'ran the show' for Rangers",
-   "link": "https://www.bbc.co.uk/sport/football/articles/crl62l7z6p4o",
-   "snippet": "Peter Lovenrkands believes there were shades of Barry Ferguson in Dan Neil's performance on Sunday as Rangers stormed into the Premier Sports Cup semi-finals at Celtic's expense.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-14T06:00:43.000Z",
-   "firstSeen": "2026-09-14T06:05:26.417Z"
-  },
-  {
-   "id": "7e77063fe4a0",
-   "title": "Arsenal have the best player in his position in the Premier League - but he shouldn't start",
-   "link": "https://www.fourfourtwo.com/person/player/arsenal-have-the-best-player-in-his-position-in-the-premier-league-but-he-shouldnt-start",
-   "snippet": "The Gunners have a key man available again, but they would be better off leaving him on the bench...",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-09-14T06:00:00.000Z",
-   "firstSeen": "2026-09-14T06:05:26.417Z"
-  },
-  {
-   "id": "28dbaa5e25fa",
-   "title": "Flex your football brain with our daily quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ceq82914rdgo",
-   "snippet": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-14T05:46:04.000Z",
-   "firstSeen": "2026-09-14T06:05:26.417Z"
-  },
-  {
-   "id": "143f021ff929",
-   "title": "Man City maintain perfect WSL start with win at Villa",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c86x0e0v042o",
-   "snippet": "Manchester City become the only side to win both of their opening two Women's Super League fixtures with an impressive performance against Aston Villa.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-14T05:12:52.000Z",
-   "firstSeen": "2026-09-14T06:05:26.417Z"
-  },
-  {
-   "id": "8a45e367f068",
-   "title": "Awarding Man City's winner at Man Utd an error, admits refereeing body",
-   "link": "https://www.skysports.com/football/news/12040/13585607/erling-haalands-man-city-goal-decision-vs-man-utd-an-error-of-judgement-says-pro-ref",
-   "snippet": "Refereeing body Pro Ref has admitted an error in awarding Manchester City's winner at Manchester United in their 1-0 victory at Old Trafford.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-14T00:07:22.024Z",
-   "firstSeen": "2026-09-14T00:07:22.024Z"
   }
  ]
 }
