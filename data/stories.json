@@ -1,6 +1,39 @@
 {
  "stories": [
   {
+   "id": "e9b683702c7c",
+   "title": "Flex your football brain with our daily quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw20v5yelx3mo",
+   "snippet": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-22T05:40:36.000Z",
+   "firstSeen": "2026-09-22T06:04:06.443Z"
+  },
+  {
+   "id": "4888651641c7",
+   "title": "'Manchester United interest didn't affect me' Newcastle United star Lewis Hall reveals impact of summer transfer distraction",
+   "link": "https://www.fourfourtwo.com/person/player/manchester-united-interest-didnt-affect-me-newcastle-united-star-lewis-hall-reveals-impact-of-summer-transfer-distraction",
+   "snippet": "Newcastle United defender Lewis Hall insists he was not distracted by speculation linking him with Manchester United this summer",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-09-22T05:00:00.000Z",
+   "firstSeen": "2026-09-22T06:04:06.443Z"
+  },
+  {
+   "id": "86138207729c",
+   "title": "Quickfire Quiz 207: Can you answer 10 questions in 90 seconds?",
+   "link": "https://www.fourfourtwo.com/quiz/quickfire-quiz-207",
+   "snippet": "Tackle these 10 football trivia questions about Big Virg, books and badges, and more!",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-09-22T05:00:00.000Z",
+   "firstSeen": "2026-09-22T06:04:06.443Z"
+  },
+  {
    "id": "446b792676e4",
    "title": "Atletico hit back at Mourinho for ref criticism after derby defeat",
    "link": "https://www.skysports.com/football/news/12040/13590525/jose-mourinho-atletico-madrid-hit-back-at-real-madrid-boss-after-referee-criticism-following-derby-defeat",
@@ -1792,6 +1825,17 @@
    "section": "premier-league",
    "published": "2026-09-20T17:46:05.000Z",
    "firstSeen": "2026-09-20T18:03:13.414Z"
+  },
+  {
+   "id": "581cdb6bfaf8",
+   "title": "Premier League top scorers 2026-27: who is leading race for the golden boot?",
+   "link": "https://www.theguardian.com/football/2026/sep/10/premier-league-top-scorers-2026-27-race-for-golden-boot",
+   "snippet": "Find out which of the English top-flight’s sharp shooters are firing their way up the goalscoring charts",
+   "source": "The Guardian",
+   "sourceId": "guardian-premier-league",
+   "section": "premier-league",
+   "published": "2026-09-20T17:45:48.000Z",
+   "firstSeen": "2026-09-22T06:04:06.443Z"
   },
   {
    "id": "e5a18e12e1d6",
@@ -9426,61 +9470,6 @@
    "section": "world",
    "published": "2026-09-15T06:15:29.000Z",
    "firstSeen": "2026-09-15T12:03:47.248Z"
-  },
-  {
-   "id": "f9cd03007e58",
-   "title": "How Maresca is tackling football's impossible job",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c23xe75827no",
-   "snippet": "Enzo Maresca seemingly took on an impossible job in the summer when replacing the legendary Pep Guardiola at Manchester City, but is making it look an easy task in the early stages of his tenure.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-09-15T06:02:27.000Z",
-   "firstSeen": "2026-09-15T12:03:47.248Z"
-  },
-  {
-   "id": "b39e3dee019f",
-   "title": "Phil Foden's England future dealt another major blow in Manchester City win at Old Trafford",
-   "link": "https://www.fourfourtwo.com/person/player/phil-fodens-england-future-was-dealt-another-major-blow-in-manchester-city-win-at-old-trafford",
-   "snippet": "Phil Foden is stranded on 49 England caps and Thomas Tuchel isn't short of reasons to leave him there",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-09-15T06:00:00.000Z",
-   "firstSeen": "2026-09-15T06:04:06.710Z"
-  },
-  {
-   "id": "f785c80d7129",
-   "title": "Flex your football brain with our daily quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c4g5kxrw6e9o",
-   "snippet": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-15T05:40:14.000Z",
-   "firstSeen": "2026-09-15T12:03:47.248Z"
-  },
-  {
-   "id": "e4d1cea93623",
-   "title": "Kane on target, Barcelona stay perfect and Ballon d’Or debate – Football Weekly",
-   "link": "https://www.theguardian.com/football/audio/2026/sep/15/europe-bayern-harry-kane-barcelona-ballon-dor-football-weekly",
-   "snippet": "Max Rushden is joined by Philippe Auclair, Sid Lowe, Nicky Bandini and Mark Langdon to discuss the weekend’s action around Europe Max Rushden is joined by Philippe Auclair, Sid Lowe, Nicky Bandini and Mark Langdon to discuss the weekend’s…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-09-15T05:00:27.000Z",
-   "firstSeen": "2026-09-15T06:04:06.710Z"
-  },
-  {
-   "id": "e0df2a0f8001",
-   "title": "Quickfire Quiz 202: Can you answer 10 questions in 90 seconds?",
-   "link": "https://www.fourfourtwo.com/quiz/quickfire-quiz-202",
-   "snippet": "Tackle these 10 football trivia questions about Sol Campbell, soccer cities, southern crests, and more!",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-09-15T05:00:00.000Z",
-   "firstSeen": "2026-09-15T06:04:06.710Z"
   }
  ]
 }
