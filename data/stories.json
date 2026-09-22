@@ -1,6 +1,94 @@
 {
  "stories": [
   {
+   "id": "446b792676e4",
+   "title": "Atletico hit back at Mourinho for ref criticism after derby defeat",
+   "link": "https://www.skysports.com/football/news/12040/13590525/jose-mourinho-atletico-madrid-hit-back-at-real-madrid-boss-after-referee-criticism-following-derby-defeat",
+   "snippet": "Atletico Madrid have hit back at Real Madrid's criticism of the referring decisions during the derby on Sunday.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-09-22T00:06:46.633Z",
+   "firstSeen": "2026-09-22T00:06:46.633Z"
+  },
+  {
+   "id": "66126b3b3f2e",
+   "title": "Papers: Dowman to link up with England squad",
+   "link": "https://www.skysports.com/football/news/12040/13590534/arsenal-starlet-max-dowman-to-link-up-with-england-senior-squad-after-mass-withdrawals-paper-talk",
+   "snippet": "The top stories and transfer rumours from Tuesday's newspapers...",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-09-22T00:06:46.633Z",
+   "firstSeen": "2026-09-22T00:06:46.633Z"
+  },
+  {
+   "id": "70571ef3457f",
+   "title": "NEW ISSUE: Jude Bellingham, the rise and rise of England and Real Madrid's star midfielder, Tony Adams opens up, Barry Hearn's return to football and Michael Owen talks about switching sports and Jonjo Shelvey answers your questions",
+   "link": "https://www.fourfourtwo.com/team/new-issue-jude-bellingham-the-rise-and-rise-of-england-and-real-madrids-star-midfielder-tony-adams-opens-up-barry-hearns-return-to-football-and-michael-owen-talks-about-switching-sports-and-jonjo-shelvey-answers-your-questions",
+   "snippet": "Get your hands on the latest issue of FourFourTwo magazine – available in print or on your device now",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-09-21T22:33:15.000Z",
+   "firstSeen": "2026-09-22T00:06:46.633Z"
+  },
+  {
+   "id": "187fff4921c3",
+   "title": "Being run over by pitch roller was 'terrifying' - Townsend",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqp8dpd5d27yo",
+   "snippet": "Townsend says he was lucky to only escape from under the roller with a few \"bumps and bruises\".",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-21T22:13:16.000Z",
+   "firstSeen": "2026-09-22T00:06:46.633Z"
+  },
+  {
+   "id": "f0d6a815a9ab",
+   "title": "Liverpool eye in-demand right-back Read - Tuesday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck4gqv6m9278o",
+   "snippet": "Liverpool are on the hunt for a new right-back, setting their sights on Dutchman Givairo Read.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-21T21:43:10.000Z",
+   "firstSeen": "2026-09-22T00:06:46.633Z"
+  },
+  {
+   "id": "f213ea05555a",
+   "title": "Football Daily",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pbt6j0",
+   "snippet": "What is stopping Brentford & Brighton reaching the next level?",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-21T21:32:00.000Z",
+   "firstSeen": "2026-09-22T00:06:46.633Z"
+  },
+  {
+   "id": "8139f21b390a",
+   "title": "Infantino proposes an ‘independent external review’ of Fifa governance",
+   "link": "https://www.theguardian.com/football/2026/sep/21/gianni-infantino-proposes-independent-external-review-fifa-governance",
+   "snippet": "President writes to council and member nations Infantino says he is ‘fully committed to leading Fifa’ The Fifa president, Gianni Infantino, has agreed to commission an independent governance review after coming under mounting pressure to…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-09-21T21:05:26.000Z",
+   "firstSeen": "2026-09-22T00:06:46.633Z"
+  },
+  {
+   "id": "652a25e60418",
+   "title": "Come back soon Premier League, the endlessly moreish mega-product | Barney Ronay",
+   "link": "https://www.theguardian.com/football/2026/sep/21/premier-league-mega-product-brighton-arsenal-international-break",
+   "snippet": "Brighton have impressed in a goal-laden start to the season, in a league that remains a brutally strong attraction Get ready for the dopamine crash. And this one really is a proper autumn nosedive. The past 17 days up to and including…",
+   "source": "The Guardian",
+   "sourceId": "guardian-premier-league",
+   "section": "premier-league",
+   "published": "2026-09-21T20:30:24.000Z",
+   "firstSeen": "2026-09-22T00:06:46.633Z"
+  },
+  {
    "id": "32d24c4c37ca",
    "title": "Listen: Monday Night Club",
    "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live",
@@ -10,6 +98,61 @@
    "section": "world",
    "published": "2026-09-21T20:00:00.000Z",
    "firstSeen": "2026-09-21T18:03:20.636Z"
+  },
+  {
+   "id": "8eebe756001d",
+   "title": "Orsato admission of five referee and VAR errors so far in 2026/27 season",
+   "link": "https://football-italia.net/orsato-admission-5-referee-var-errors-2026-27/",
+   "snippet": "There were five major refereeing and VAR errors made this season, confirmed designator Daniele Orsato,...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-09-21T19:58:22.000Z",
+   "firstSeen": "2026-09-22T00:06:46.633Z"
+  },
+  {
+   "id": "2d106ecf9fa1",
+   "title": "Infantino says he is open to talks over Fifa reform",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro",
+   "snippet": "Fifa president Gianni Infantino has proposed an external review of how world football's governing body operates. shifting tone as he seeks support to stay on.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-21T19:50:57.000Z",
+   "firstSeen": "2026-09-22T00:06:46.633Z"
+  },
+  {
+   "id": "c77b96961c15",
+   "title": "Calafiori best left-back in Premier League, but it’s a new role for Italy",
+   "link": "https://football-italia.net/calafiori-best-left-back-premier-league-italy/",
+   "snippet": "Federico Dimarco’s injury has precipitated a big change to Riccardo Calafiori’s Italy career, as he...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-09-21T19:27:15.000Z",
+   "firstSeen": "2026-09-22T00:06:46.633Z"
+  },
+  {
+   "id": "b99a171fbc2b",
+   "title": "Long vacation during international duty has benefits and dangers, warns fitness coach",
+   "link": "https://football-italia.net/long-vacation-international-duty-fitness-coach/",
+   "snippet": "The three-week break for international duty is practically unheard of, so after Inter and Tottenham...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-09-21T19:03:29.000Z",
+   "firstSeen": "2026-09-22T00:06:46.633Z"
+  },
+  {
+   "id": "73dd6669808c",
+   "title": "Statistics show Serie A referees and VAR letting play flow in 2026/27",
+   "link": "https://football-italia.net/statistics-serie-a-referees-var-let-play-flow/",
+   "snippet": "Refereeing designator Daniele Orsato outlined the statistics showing how this season’s new approach to fouls...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-09-21T18:32:12.000Z",
+   "firstSeen": "2026-09-22T00:06:46.633Z"
   },
   {
    "id": "017abd65eb7f",
@@ -9338,314 +9481,6 @@
    "section": "world",
    "published": "2026-09-15T05:00:00.000Z",
    "firstSeen": "2026-09-15T06:04:06.710Z"
-  },
-  {
-   "id": "23b0c002cbc3",
-   "title": "Carra: Arteta becoming like Sir Alex after ref criticism",
-   "link": "https://www.skysports.com/football/news/12040/13585895/jamie-carragher-arsenal-boss-mikel-arteta-becoming-like-sir-alex-ferguson-after-ref-criticism-of-sunderland-penalty",
-   "snippet": "Jamie Carragher says Arsenal boss Mikel Arteta is \"becoming the Sir Alex Ferguson of the Premier League\" after strongly criticising the penalty awarded against his side in Saturday's 2-0 win at Sunderland.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-15T00:06:08.989Z",
-   "firstSeen": "2026-09-15T00:06:08.989Z"
-  },
-  {
-   "id": "70508ccb4bc9",
-   "title": "Calvert-Lewin and Leeds bully Newcastle in dominant victory",
-   "link": "https://www.skysports.com/football/leeds-united-vs-newcastle-united/report/559479",
-   "snippet": "Leeds United maintained their unbeaten start to the Premier League campaign with a breathless 4-1 victory over Newcastle.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-15T00:06:08.989Z",
-   "firstSeen": "2026-09-15T00:06:08.989Z"
-  },
-  {
-   "id": "ee851cbcee5c",
-   "title": "Papers: Blundering VAR duo set to be blocked from officiating on Man Utd games",
-   "link": "https://www.skysports.com/football/news/12040/13585971/blundering-var-duo-set-to-be-blocked-from-officiating-on-manchester-united-games-paper-talk",
-   "snippet": "The top stories and transfer rumours from Tuesday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-15T00:06:08.989Z",
-   "firstSeen": "2026-09-15T00:06:08.989Z"
-  },
-  {
-   "id": "c2c3a93a4a9b",
-   "title": "'Unplayable' & 'almost perfect' - Calvert-Lewin set for England recall?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cv1j49220j93o",
-   "snippet": "Dominic Calvert-Lewin has now scored in Leeds' past five league matches. Is he ready for an England recall?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-09-14T22:56:28.000Z",
-   "firstSeen": "2026-09-15T00:06:08.989Z"
-  },
-  {
-   "id": "e4731ea6ad1c",
-   "title": "Madueke a target for Euro loans - Tuesday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6kg0dvv4drko",
-   "snippet": "Atletico Madrid and Juventus track Noni Madueke, Liverpool are among the clubs looking at PSV's Paul Wanner, Lazio consider free agent Mauro Icardi, plus more.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-14T22:44:24.000Z",
-   "firstSeen": "2026-09-15T00:06:08.989Z"
-  },
-  {
-   "id": "f6dcfedce5af",
-   "title": "Who has made Troy's Premier League team of the week?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cxr50zln2gqro",
-   "snippet": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-09-14T22:18:48.000Z",
-   "firstSeen": "2026-09-15T00:06:08.989Z"
-  },
-  {
-   "id": "c70f6c0b2df9",
-   "title": "Newcastle couldn't match the physicality of Leeds - Jaissle",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c6p3k9x9gvg7o",
-   "snippet": "Newcastle manager Matthias Jaissle reflects on a \"tough night\" after his side concede four goals to a dominant Leeds United at Elland Road.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-09-14T22:08:27.000Z",
-   "firstSeen": "2026-09-15T00:06:08.989Z"
-  },
-  {
-   "id": "54416e88aaa1",
-   "title": "European football: Inter roar back to beat Udinese and join Roma at the top",
-   "link": "https://www.theguardian.com/football/2026/sep/14/european-football-inter-and-roma-maintain-perfect-starts-while-como-climb",
-   "snippet": "Inter and Roma lead Serie A, Como move up to third Real Betis beat struggling Villarreal in La Liga Inter fought back ⁠from two goals down ​to beat Udinese 5-3 on Monday, maintaining their perfect Serie A start alongside Roma, who won 2-0…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-09-14T22:08:01.000Z",
-   "firstSeen": "2026-09-15T00:06:08.989Z"
-  },
-  {
-   "id": "591cb9bbf0b0",
-   "title": "Farke 'very happy' with dominant Leeds performance",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cqdr7n4nxgv4o",
-   "snippet": "Leeds United manager Daniel Farke is \"very happy\" after a dominant performance from his side in their 4-1 Premier League win over Newcastle at Elland Road.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-09-14T22:07:22.000Z",
-   "firstSeen": "2026-09-15T00:06:08.989Z"
-  },
-  {
-   "id": "1fe36a4456e2",
-   "title": "Exhilarating Serie A and B see no 0-0 draws after first 40 games",
-   "link": "https://football-italia.net/serie-a-b-no-0-0-draws-after-first-40-games/",
-   "snippet": "Italian football is silencing the usual cliché of boring Catenaccio style tactics, because for the...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-09-14T21:55:21.000Z",
-   "firstSeen": "2026-09-15T00:06:08.989Z"
-  },
-  {
-   "id": "d3bdbcf9c684",
-   "title": "Chivu welcomes Inter intensity and 5-3 Serie A victory, but ‘nobody’s perfect’",
-   "link": "https://football-italia.net/chivu-welcomes-inter-intensity-and-5-3-serie-a/",
-   "snippet": "Inter coach Cristian Chivu admits games like the wild 5-3 against Udinese are the necessary...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-09-14T21:36:11.000Z",
-   "firstSeen": "2026-09-15T00:06:08.989Z"
-  },
-  {
-   "id": "581cdb6bfaf8",
-   "title": "Premier League top scorers 2026-27: who is leading race for the golden boot?",
-   "link": "https://www.theguardian.com/football/2026/sep/10/premier-league-top-scorers-2026-27-race-for-golden-boot",
-   "snippet": "Find out which of the English top-flight’s sharp shooters are firing their way up the goalscoring charts",
-   "source": "The Guardian",
-   "sourceId": "guardian-premier-league",
-   "section": "premier-league",
-   "published": "2026-09-14T21:32:31.000Z",
-   "firstSeen": "2026-09-18T00:05:40.987Z"
-  },
-  {
-   "id": "f2f42826c169",
-   "title": "Leeds inflict heavy defeat on Newcastle to climb to third",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c8d3el7mvypo",
-   "snippet": "Dominic Calvert-Lewin stars as Leeds United go third in the Premier League with a superb performance to inflict a heavy 4-1 defeat on Newcastle United at Elland Road.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-09-14T21:31:59.000Z",
-   "firstSeen": "2026-09-15T00:06:08.989Z"
-  },
-  {
-   "id": "3a4c0783fa12",
-   "title": "De Zerbi backs ‘sensitive guy’ Solanke to find form before tricky Anfield trip",
-   "link": "https://www.theguardian.com/football/2026/sep/14/roberto-de-zerbi-dominic-solanke-tottenham-liverpool-anfield-carabao-cup",
-   "snippet": "Tottenham visit Liverpool in Carabao Cup third round Richarlison will play no part despite being eligible Roberto De Zerbi has no doubt Dominic Solanke will rediscover his best levels as the head coach made clear he had left no stone…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-09-14T21:30:17.000Z",
-   "firstSeen": "2026-09-15T00:06:08.989Z"
-  },
-  {
-   "id": "89c099aed379",
-   "title": "Calvert-Lewin shows the way as Leeds thrash limp Newcastle and rise to third",
-   "link": "https://www.theguardian.com/football/2026/sep/14/leeds-newcastle-premier-league-match-report",
-   "snippet": "At what stage does a good start become something more significant? Perhaps we are not quite there yet; maybe we are. But as the goals flew in on a chaotic night at Elland Road, it was difficult not to think the boundaries of expectation…",
-   "source": "The Guardian",
-   "sourceId": "guardian-premier-league",
-   "section": "premier-league",
-   "published": "2026-09-14T21:07:08.000Z",
-   "firstSeen": "2026-09-15T00:06:08.989Z"
-  },
-  {
-   "id": "6f1fd6c4dfc9",
-   "title": "Thuram happy with Inter reaction and praise for Bonny",
-   "link": "https://football-italia.net/thuram-happy-with-inter-reaction-praise-bonny/",
-   "snippet": "Marcus Thuram insists Inter’s comebacks prove they ‘are a team that know how to react’...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-09-14T21:04:09.000Z",
-   "firstSeen": "2026-09-15T00:06:08.989Z"
-  },
-  {
-   "id": "ac28b0a2e451",
-   "title": "Graham & Ure make Pocognoli's first Scotland squad",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm9dw94zzyx1o",
-   "snippet": "Stoke City centre-half Luke Graham and Sevilla striker Robbie Ure will receive their first full Scotland call-ups on Tuesday when Sebastien Pocognoli names his first squad as head coach.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-14T21:00:42.000Z",
-   "firstSeen": "2026-09-15T00:06:08.989Z"
-  },
-  {
-   "id": "541ad5f524a9",
-   "title": "Calvert-Lewin stars but Botman struggles - player ratings for Leeds v Newcastle",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6790xr3wvr7o",
-   "snippet": "How Leeds United and Newcastle United's players rated following their Premier League match.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-09-14T20:54:23.000Z",
-   "firstSeen": "2026-09-15T00:06:08.989Z"
-  },
-  {
-   "id": "ea094de51c9b",
-   "title": "Serie A | Inter 5-3 Udinese: Spectacular comeback in eight-goal thriller",
-   "link": "https://football-italia.net/serie-a-inter-5-3-udinese-spectacular-comeback/",
-   "snippet": "For the second Serie A game in a row, Inter came back from 2-0 down...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-09-14T20:38:45.000Z",
-   "firstSeen": "2026-09-15T00:06:08.989Z"
-  },
-  {
-   "id": "47bc05afc105",
-   "title": "Stones worry for Inter after injury during first start",
-   "link": "https://football-italia.net/stones-worry-inter-injury-during-first-start/",
-   "snippet": "There was a fresh injury concern for Inter, as John Stones pulled up during his...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-09-14T20:27:15.000Z",
-   "firstSeen": "2026-09-15T00:06:08.989Z"
-  },
-  {
-   "id": "dc67074c9a38",
-   "title": "Football Daily",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p9mkw3",
-   "snippet": "How did United play 70 minutes against 10 men at home and not score?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-14T20:16:00.000Z",
-   "firstSeen": "2026-09-15T00:06:08.989Z"
-  },
-  {
-   "id": "5ed2f06e8723",
-   "title": "Fabregas: ‘Como learning from Arsenal, starting to see what we could become’",
-   "link": "https://football-italia.net/fabregas-como-arsenal-what-we-could-become/",
-   "snippet": "Cesc Fabregas insists Como’s victory over Parma was ‘an important response’ after the Champions League...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-09-14T19:55:58.000Z",
-   "firstSeen": "2026-09-15T00:06:08.989Z"
-  },
-  {
-   "id": "f51cc96d69fc",
-   "title": "Gasperini: ‘Roma improvement, Balerdi like Baresi, now for best Inter test’",
-   "link": "https://football-italia.net/gasperini-roma-balerdi-like-baresi-inter-test/",
-   "snippet": "Gian Piero Gasperini hails Donyell Malen, Paulo Dybala and Leonardo Balerdi, comparing the Argentine to...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-09-14T19:33:13.000Z",
-   "firstSeen": "2026-09-15T00:06:08.989Z"
-  },
-  {
-   "id": "68278a283d16",
-   "title": "Barella: ‘Going toe-to-toe with Real Madrid is what people expect from Inter’",
-   "link": "https://football-italia.net/barella-real-madrid-what-people-expect-inter/",
-   "snippet": "Nicolo Barella says that Inter must look for the positives after tasting their first defeat...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-09-14T19:01:53.000Z",
-   "firstSeen": "2026-09-15T00:06:08.989Z"
-  },
-  {
-   "id": "31b3042c9aa4",
-   "title": "Haaland goal should not have stood but VAR made the right call with Sunderland penalty | Chris Foy",
-   "link": "https://www.theguardian.com/football/2026/sep/14/var-referee-matt-donohue-erling-haaland-goal-manchester-derby",
-   "snippet": "Matt Donohue is only human and made a mistake, but, in general, referees have started well this season There was a disappointing outcome on a big decision in the Manchester derby and no one will feel it more than the video assistant…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-09-14T19:00:14.000Z",
-   "firstSeen": "2026-09-15T00:06:08.989Z"
-  },
-  {
-   "id": "df49bdcf5513",
-   "title": "Baccin: ‘Inter discussing new contracts, Dimarco and Calhanoglu happy with us’",
-   "link": "https://football-italia.net/baccin-inter-new-contracts-dimarco-calhanoglu/",
-   "snippet": "New Inter director of sport Dario Baccin assures they are discussing contract extensions with Federico...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-09-14T18:47:59.000Z",
-   "firstSeen": "2026-09-15T00:06:08.989Z"
-  },
-  {
-   "id": "2b6182cfc267",
-   "title": "Serie A | Torino 0-2 Roma: Malen and Pisilli maintain perfect start",
-   "link": "https://football-italia.net/serie-a-torino-0-2-roma-malen-pisilli-perfect/",
-   "snippet": "Donyell Malen and a late Niccolò Pisilli strike saw Roma maintain their 100 per cent...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-09-14T18:31:28.000Z",
-   "firstSeen": "2026-09-15T00:06:08.989Z"
-  },
-  {
-   "id": "1a03fafa9351",
-   "title": "Serie A | Como 2-1 Parma: Confidence sky high after Champions League",
-   "link": "https://football-italia.net/serie-a-como-2-1-parma-confidence-sky-high-cl/",
-   "snippet": "Como weren’t as sharp as usual after Champions League commitments, but Jacobo Ramon and Bruno...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-09-14T18:26:48.000Z",
-   "firstSeen": "2026-09-15T00:06:08.989Z"
   }
  ]
 }
