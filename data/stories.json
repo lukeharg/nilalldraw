@@ -1,6 +1,94 @@
 {
  "stories": [
   {
+   "id": "955cd983ba97",
+   "title": "'We have our own strengths' – Gordon backs Tuchel’s DNA comments",
+   "link": "https://www.skysports.com/football/news/12040/13591079/england-vs-spain-anthony-gordon-backs-thomas-tuchels-dna-comments-about-possession-and-calls-on-three-lions-to-focus-on-their-strengths",
+   "snippet": "Anthony Gordon has backed Thomas Tuchel's view that England's players have an inbuilt inability to control matches with possession - and has urged the team to embrace the country's traditional strengths.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-09-24T06:04:16.916Z",
+   "firstSeen": "2026-09-24T06:04:16.916Z"
+  },
+  {
+   "id": "3953eff00ac3",
+   "title": "Germany’s Jurgen Klopp dream could be over before it begins but luckless Liverpool man will hope otherwise",
+   "link": "https://www.fourfourtwo.com/person/germanys-jurgen-klopp-dream-could-be-over-before-it-begins-but-luckless-liverpool-man-will-hope-otherwise",
+   "snippet": "Jurgen Klopp’s appointment as Germany head coach is already fraught with issues",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-09-24T06:00:00.000Z",
+   "firstSeen": "2026-09-24T06:04:16.916Z"
+  },
+  {
+   "id": "af42f5bdb9e5",
+   "title": "Flex your football brain with our daily quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm36lyrd3jnzo",
+   "snippet": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-24T05:55:44.000Z",
+   "firstSeen": "2026-09-24T06:04:16.916Z"
+  },
+  {
+   "id": "5ed042bb09ad",
+   "title": "Why this break has come at the worst time for De Zerbi & Spurs",
+   "link": "https://www.bbc.co.uk/sport/football/articles/crd68ev059y8o",
+   "snippet": "BBC Sport columnist Tony Pulis explains the different factors that mean Tottenham boss Roberto de Zerbi needs time with his players to build a proper team.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-09-24T05:37:24.000Z",
+   "firstSeen": "2026-09-24T06:04:16.916Z"
+  },
+  {
+   "id": "7048ee15f9b1",
+   "title": "Debbie Beard and Amanda Thorpe lost their husbands - this is their story",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6kgxj9j7jmyo",
+   "snippet": "Debbie Beard and Amanda Thorpe speak to the BBC's Simon Jack at the launch of a new suicide prevention toolkit.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-24T05:16:40.000Z",
+   "firstSeen": "2026-09-24T06:04:16.916Z"
+  },
+  {
+   "id": "3078be24f826",
+   "title": "England should stop trying to replicate Spain - Gordon",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c90kly6kelk1o",
+   "snippet": "Anthony Gordon says that controlling games is not in the \"English DNA\" but the Three Lions could still win major tournaments if they stop \"trying to replicate Spain\".",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-24T05:05:26.000Z",
+   "firstSeen": "2026-09-24T06:04:16.916Z"
+  },
+  {
+   "id": "79f05900b433",
+   "title": "‘It’s not in us’: Anthony Gordon backs Tuchel over England’s possession problem",
+   "link": "https://www.theguardian.com/football/2026/sep/24/anthony-gordon-backs-tuchel-over-england-possession-problem-world-cup-nations-league",
+   "snippet": "Barcelona winger says England cannot play like Spain Gordon: players ‘could have done more’ in semi-final Anthony Gordon has sided with Thomas Tuchel’s assertion that controlling games through possession is not part of English football’s…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-09-24T05:00:09.000Z",
+   "firstSeen": "2026-09-24T06:04:16.916Z"
+  },
+  {
+   "id": "291947573736",
+   "title": "Quickfire Quiz 209: Can you answer 10 questions in 90 seconds?",
+   "link": "https://www.fourfourtwo.com/quiz/quickfire-quiz-209",
+   "snippet": "Tackle these 10 football trivia questions about red cards, World Cup balls, city derbies, and more!",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-09-24T05:00:00.000Z",
+   "firstSeen": "2026-09-24T06:04:16.916Z"
+  },
+  {
    "id": "1bb77a47c1ca",
    "title": "Man Utd hammer Sheffield Utd 10-1 in Subway Women's Players Cup",
    "link": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
@@ -9074,149 +9162,6 @@
    "section": "world",
    "published": "2026-09-17T06:15:00.000Z",
    "firstSeen": "2026-09-17T12:03:45.252Z"
-  },
-  {
-   "id": "173fcab40e10",
-   "title": "A Selhurst Park decision might just have sealed Crystal Palace's relegation this season",
-   "link": "https://www.fourfourtwo.com/person/player/a-selhurst-park-decision-might-just-have-sealed-crystal-palaces-relegation-this-season",
-   "snippet": "The Holmesdale Fanatics are no more, and that could have significant implications for Pierre Sage's side",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-09-17T06:00:00.000Z",
-   "firstSeen": "2026-09-17T12:03:45.252Z"
-  },
-  {
-   "id": "4a865290cb7c",
-   "title": "A team that offered hope... then, four months later, Hamas attacked Israel",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cp3rl709p7xo",
-   "snippet": "Can the potential of a golden generation of Israel's footballers, in sport and society, be realised?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-17T05:23:59.000Z",
-   "firstSeen": "2026-09-17T06:04:08.569Z"
-  },
-  {
-   "id": "198ca362cdd1",
-   "title": "Quickfire Quiz 204: Can you answer 10 questions in 90 seconds?",
-   "link": "https://www.fourfourtwo.com/quiz/quickfire-quiz-204",
-   "snippet": "Tackle these 10 football trivia questions about Pele, Pirates, Portland, and more!",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-09-17T05:00:00.000Z",
-   "firstSeen": "2026-09-17T06:04:08.569Z"
-  },
-  {
-   "id": "c9339e8b03ec",
-   "title": "'The Rolls Royce of budget defenders right now' Six of the best FPL differentials your team needs in Gameweek 5",
-   "link": "https://www.fourfourtwo.com/tactic/the-rolls-royce-of-budget-defenders-right-now-six-of-the-best-fpl-differentials-your-team-needs-in-gameweek-5",
-   "snippet": "In the fifth instalment of a new Fantasy Football advice column, one of the world's highest-ranking FPL players, BigManBakar, shares Gameweek 5 tips",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-09-17T04:00:00.000Z",
-   "firstSeen": "2026-09-17T06:04:08.569Z"
-  },
-  {
-   "id": "3296a6a82c10",
-   "title": "Sunderland begin European adventure with AZ Alkmaar win",
-   "link": "https://www.skysports.com/football/sunderland-vs-az-alkmaar/report/577749",
-   "snippet": "Enzo Le Fee's penalty ensured Sunderland kicked off their Europa League adventure with a 1-0 win over AZ Alkmaar at the Stadium of Light.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-17T00:05:53.294Z",
-   "firstSeen": "2026-09-17T00:05:53.294Z"
-  },
-  {
-   "id": "894143fdd813",
-   "title": "Everton strike late to beat much-changed Wolves in Carabao Cup",
-   "link": "https://www.skysports.com/football/everton-vs-wolverhampton-wanderers/report/577575",
-   "snippet": "Substitute Charly Alcaraz hit a late winner to give Everton a 1-0 home win over much-changed Wolves in the third round of the Carabao Cup.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-17T00:05:53.294Z",
-   "firstSeen": "2026-09-17T00:05:53.294Z"
-  },
-  {
-   "id": "9e457eae6be0",
-   "title": "Brighton latest: Belief and character helped beat Man Utd, says Hurzeler",
-   "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-17T00:05:53.294Z",
-   "firstSeen": "2026-09-17T00:05:53.294Z"
-  },
-  {
-   "id": "ba2794f0f76c",
-   "title": "New season, same Man Utd story - Carrick is now firmly feeling the pressure",
-   "link": "https://www.skysports.com/football/news/12040/13588791/man-utd-2-3-brighton-michael-carricks-old-trafford-tenure-is-only-heading-in-one-direction-as-red-devils-face-familiar-story",
-   "snippet": "This wasn't just a defeat. This wasn't just a collapse. This wasn't just a cup exit. Another Manchester United managerial project is heading in that one, same direction. And even Michael Carrick recognises that.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-17T00:05:53.294Z",
-   "firstSeen": "2026-09-17T00:05:53.294Z"
-  },
-  {
-   "id": "c0111c663083",
-   "title": "Papers: Shaw may leave Man Utd next summer with no new deal in sight",
-   "link": "https://www.skysports.com/football/news/12040/13588777/luke-shaw-may-leave-manchester-united-next-summer-with-no-new-deal-in-sight-paper-talk",
-   "snippet": "The top stories and transfer rumours from Thursday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-17T00:05:53.294Z",
-   "firstSeen": "2026-09-17T00:05:53.294Z"
-  },
-  {
-   "id": "d22dfb46ca0d",
-   "title": "Abraham double helps Villa cruise past Coventry into fourth round",
-   "link": "https://www.skysports.com/football/coventry-city-vs-aston-villa/report/577573",
-   "snippet": "Tammy Abraham scored twice as Aston Villa won 3-1 at Coventry City to book their place in the fourth round of the Carabao Cup.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-17T00:05:53.294Z",
-   "firstSeen": "2026-09-17T00:05:53.294Z"
-  },
-  {
-   "id": "d820feffdf06",
-   "title": "Horror own goal sees Fleetwood shock Sheff Utd and book Arsenal tie",
-   "link": "https://www.skysports.com/football/fleetwood-town-vs-sheffield-united/report/577576",
-   "snippet": "Rhys Norrington-Davies' horror own goal sent Fleetwood into the last 16 of the Carabao Cup for the first time as the League Two side stunned Championship Sheffield United 1-0 at Highbury.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-17T00:05:53.294Z",
-   "firstSeen": "2026-09-17T00:05:53.294Z"
-  },
-  {
-   "id": "de126c9cf501",
-   "title": "Liverpool face Chelsea as Carabao Cup fourth-round draw confirmed",
-   "link": "https://www.skysports.com/football/news/12040/13588651/carabao-cup-fourth-round-draw-liverpool-to-host-chelsea-as-arsenal-drawn-away-to-league-two-fleetwood",
-   "snippet": "Liverpool will host Chelsea in the fourth round of the Carabao Cup, while Premier League champions Arsenal have drawn the lowest-ranked side left in the competition, Fleetwood Town.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-17T00:05:53.294Z",
-   "firstSeen": "2026-09-17T00:05:53.294Z"
-  },
-  {
-   "id": "f57aa4201414",
-   "title": "Man Utd collapse from 2-0 up to exit Carabao Cup to Brighton",
-   "link": "https://www.skysports.com/football/manchester-united-vs-brighton-and-hove-albion/report/577581",
-   "snippet": "Manchester United hit a new low under Michael Carrick as they threw away a two-goal lead to lose 3-2 to Brighton - and exit the Carabao Cup at the first hurdle for a second straight year.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-17T00:05:53.294Z",
-   "firstSeen": "2026-09-17T00:05:53.294Z"
   }
  ]
 }
