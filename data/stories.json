@@ -1,6 +1,39 @@
 {
  "stories": [
   {
+   "id": "1add419318e0",
+   "title": "The computer hacker who tried to take down Man City",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo",
+   "snippet": "BBC Sport travelled to Portugal to find out more about Rui Pinto - the computer hacker who sparked the Manchester City investigation.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-09-26T05:56:40.000Z",
+   "firstSeen": "2026-09-26T06:04:16.431Z"
+  },
+  {
+   "id": "af7b04ec14a8",
+   "title": "Flex your football brain with our daily quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c9lykey73542o",
+   "snippet": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-09-26T05:29:07.000Z",
+   "firstSeen": "2026-09-26T06:04:16.431Z"
+  },
+  {
+   "id": "76f2aa1f6b70",
+   "title": "How drawn-out saga of Manchester City’s alleged cheating came to this",
+   "link": "https://www.theguardian.com/football/2026/sep/26/manchester-city-financial-charges-premier-league-uefa-abu-dhabi",
+   "snippet": "Club’s ruthless approach was always at odds with their public image and this inglorious story has further to run There is no episode in English football’s history that even resembles a precedent for the epic Manchester City disciplinary…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-09-26T05:00:27.000Z",
+   "firstSeen": "2026-09-26T06:04:16.431Z"
+  },
+  {
    "id": "33b798bdf233",
    "title": "Man City charges - what happens now?",
    "link": "https://www.skysports.com/football/news/12040/13591930/man-city-premier-league-charges-what-does-the-appeals-process-look-like-and-what-happens-now",
@@ -8909,116 +8942,6 @@
    "section": "premier-league",
    "published": "2026-09-19T06:30:32.000Z",
    "firstSeen": "2026-09-19T12:03:00.048Z"
-  },
-  {
-   "id": "f0ecd7ebe5c5",
-   "title": "'Tottenham Hotspur will get it right eventually. I have faith in Roberto De Zerbi to turn things around' Clinton Morrison tells Spurs hierarchy to stick with under-pressure boss",
-   "link": "https://www.fourfourtwo.com/person/tottenham-hotspur-will-get-it-right-eventually-i-have-faith-in-roberto-de-zerbi-to-turn-things-around-clinton-morrison-tells-spurs-hierarchy-to-stick-with-under-pressure-boss",
-   "snippet": "Clinton Morrison reflects on Dominik Szoboszlai's stunning strike in the Carabao Cup, lamented another dubious VAR decision, and compared Arsenal’s Max Dowman to another former English starlet",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-09-19T06:00:00.000Z",
-   "firstSeen": "2026-09-19T06:03:58.949Z"
-  },
-  {
-   "id": "d012d37b6de3",
-   "title": "Flex your football brain with our daily quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cv1j4ey5j2w4o",
-   "snippet": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-19T05:39:43.000Z",
-   "firstSeen": "2026-09-19T06:03:58.949Z"
-  },
-  {
-   "id": "1f8efbdab26d",
-   "title": "Winless Villa and Spurs face telling early showdown",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6ly7vg8n7geo",
-   "snippet": "Aston Villa and Tottenham are winless in the Premier League - and both in need of inspiration as they prepare to face each other on Saturday.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-09-19T05:32:46.000Z",
-   "firstSeen": "2026-09-19T06:03:58.949Z"
-  },
-  {
-   "id": "9ebe949514d8",
-   "title": "Nottingham Forest stadium expansion approved - so what now?",
-   "link": "https://www.bbc.co.uk/news/articles/c674kw873545o",
-   "snippet": "Will the dream of a bigger City Ground finally become a reality?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-09-19T05:14:39.000Z",
-   "firstSeen": "2026-09-19T06:03:58.949Z"
-  },
-  {
-   "id": "4501aecce137",
-   "title": "Fabian Hurzeler deserves more credit but he's stuck living in Roberto De Zerbi's Brighton shadow",
-   "link": "https://www.fourfourtwo.com/person/coaches-managers/fabian-hurzeler-is-a-victim-of-roberto-de-zerbis-success-at-brighton",
-   "snippet": "The Brighton head coach is doing an excellent job, but it feels like he needs to achieve something extraordinary to get the credit he deserves",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-09-19T05:00:00.000Z",
-   "firstSeen": "2026-09-19T06:03:58.949Z"
-  },
-  {
-   "id": "339f92712baa",
-   "title": "Papers: Mudryk preferred Arsenal before Chelsea move",
-   "link": "https://www.skysports.com/football/news/12040/13589426/mykhailo-mudryk-preferred-arsenal-move-before-88m-chelsea-transfer-paper-talk",
-   "snippet": "The top stories and transfer rumours from Saturday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-19T00:06:00.562Z",
-   "firstSeen": "2026-09-19T00:06:00.562Z"
-  },
-  {
-   "id": "36a420b49db7",
-   "title": "Chelsea's defensive woes continue as Brentford win derby",
-   "link": "https://www.skysports.com/football/brentford-vs-chelsea/report/559485",
-   "snippet": "Chelsea's defensive and set-piece woes continued under Xabi Alonso as Brentford claimed an emphatic 3-0 victory in the west London derby.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-19T00:06:00.562Z",
-   "firstSeen": "2026-09-19T00:06:00.562Z"
-  },
-  {
-   "id": "47d8c1a89a65",
-   "title": "Ballard heads Bristol City past Watford as they climb to fifth",
-   "link": "https://www.skysports.com/football/bristol-city-vs-watford/report/560583",
-   "snippet": "Bristol City moved into the Championship play-off places with a 1-0 victory over depleted Watford.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-19T00:06:00.562Z",
-   "firstSeen": "2026-09-19T00:06:00.562Z"
-  },
-  {
-   "id": "b28105962344",
-   "title": "'Bullied' and 'out of control' - Chelsea's defensive issues laid bare",
-   "link": "https://www.skysports.com/football/news/12040/13589535/brentford-3-0-chelsea-defensive-issues-for-xabi-alonso-laid-bare-after-chastening-west-london-derby-defeat",
-   "snippet": "\"You need to feel it. We're not feeling it,\" said Xabi Alonso after Chelsea's 3-0 loss at Brentford. Yet Chelsea are stuck in a familiar feeling.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-19T00:06:00.562Z",
-   "firstSeen": "2026-09-19T00:06:00.562Z"
-  },
-  {
-   "id": "b9d60b7ac3b2",
-   "title": "Arteta: Dowman could go out on loan in future",
-   "link": "https://www.skysports.com/football/news/12040/13589421/max-dowman-mikel-arteta-admits-16-year-old-arsenal-wonderkid-could-go-out-on-loan-in-the-future",
-   "snippet": "Arsenal manager Mikel Arteta has not ruled out loaning out Max Dowman in the future and says the club evaluates the 16-year-old sensation's progress every six months.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-19T00:06:00.562Z",
-   "firstSeen": "2026-09-19T00:06:00.562Z"
   }
  ]
 }
