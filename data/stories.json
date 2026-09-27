@@ -1,6 +1,17 @@
 {
  "stories": [
   {
+   "id": "5bcbb86680ef",
+   "title": "Kylian Mbappe winning the Ballon d’Or won’t actually mean anything",
+   "link": "https://www.fourfourtwo.com/person/player/kylian-mbappe-winning-the-ballon-dor-wont-actually-mean-anything",
+   "snippet": "Real Madrid’s Kylian Mbappe has been on a relentless Ballon d’Or campaign, in what's become the most hotly-contested edition of the award for generations",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-09-27T06:00:00.000Z",
+   "firstSeen": "2026-09-27T06:04:13.705Z"
+  },
+  {
    "id": "13307abd2a7d",
    "title": "Putellas' first WSL goal helps send London City second with Brighton win",
    "link": "https://www.skysports.com/football/london-city-lionesses-vs-brighton-and-hove-albion-women/report/575777",
@@ -8491,61 +8502,6 @@
    "section": "world",
    "published": "2026-09-20T06:55:30.000Z",
    "firstSeen": "2026-09-20T12:02:59.969Z"
-  },
-  {
-   "id": "8e60cb7cf6dd",
-   "title": "Who am I? Guess WSL star No 5",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cd68yj89jwwo",
-   "snippet": "Work out the identity of today's player in as few attempts as possible.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-20T06:01:12.000Z",
-   "firstSeen": "2026-09-20T12:02:59.969Z"
-  },
-  {
-   "id": "405b033254bb",
-   "title": "Japan's plot to win the World Cup is fully in motion and here's why it relies on the Premier League",
-   "link": "https://www.fourfourtwo.com/competition/japans-plot-to-win-the-world-cup-is-fully-in-motion-and-heres-why-it-relies-on-the-premier-league",
-   "snippet": "Europe’s influx of Japanese talent is just the first step in a transfer revolution",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-09-20T06:00:00.000Z",
-   "firstSeen": "2026-09-20T12:02:59.969Z"
-  },
-  {
-   "id": "4550dc671fcc",
-   "title": "Flex your football brain with our daily quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c9gk5863zz2po",
-   "snippet": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-20T05:56:07.000Z",
-   "firstSeen": "2026-09-20T06:03:41.275Z"
-  },
-  {
-   "id": "e1370acf99a1",
-   "title": "Will the three-week break put more pressure on managers?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmg49gv74qzlo",
-   "snippet": "So far this season two coaches have lost their jobs, but plenty of others will be looking over their shoulders heading into the new, extended international break.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-09-20T05:19:50.000Z",
-   "firstSeen": "2026-09-20T06:03:41.275Z"
-  },
-  {
-   "id": "1602bd43507c",
-   "title": "Colwill's 'surreal' Ronaldo and Haaland ambition",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm4gj50qqlqwo",
-   "snippet": "In just 12 months, the Cardiff City midfielder has gone from League One football to the prospect of facing Cristiano Ronaldo and Erling Haaland.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-20T05:07:45.000Z",
-   "firstSeen": "2026-09-20T06:03:41.275Z"
   }
  ]
 }
