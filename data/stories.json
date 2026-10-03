@@ -1,6 +1,72 @@
 {
  "stories": [
   {
+   "id": "1da17ac81b6f",
+   "title": "Papers: Man Utd to consider legal action if Gabriel leaves",
+   "link": "https://www.skysports.com/football/news/12040/13594537/man-utd-to-consider-legal-action-if-jj-gabriel-leaves-as-bayern-munich-barcelona-and-real-madrid-chase-youngster-paper-talk",
+   "snippet": "The top stories and transfer rumours from Saturday's newspapers...",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-03T02:41:18.657Z",
+   "firstSeen": "2026-10-03T02:41:18.657Z"
+  },
+  {
+   "id": "9849a39e8ac3",
+   "title": "Aston Villa latest: Garnacho scores in Antonio Puerta Trophy win over Sevilla",
+   "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "snippet": "",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-03T02:41:18.657Z",
+   "firstSeen": "2026-10-03T02:41:18.657Z"
+  },
+  {
+   "id": "ca05b8031fdd",
+   "title": "Which clubs did Man City's 'inflated' money flow to in transfer market?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmew9w451vx8o",
+   "snippet": "BBC Sport follows the trail of transfer money flowing to other clubs during Manchester City's period of financial rule-breaking.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-02T22:30:24.000Z",
+   "firstSeen": "2026-10-03T02:41:18.657Z"
+  },
+  {
+   "id": "6bb94c9101f7",
+   "title": "Rabiot impressed with Italy spirit and ‘extraordinary’ Donnarumma",
+   "link": "https://football-italia.net/rabiot-impress-italy-extraordinary-donnarumma/",
+   "snippet": "Adrien Rabiot hails ‘extraordinary’ Gianluigi Donnarumma after France’s 1-1 draw with Italy and was impressed...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-02T21:50:42.000Z",
+   "firstSeen": "2026-10-03T02:41:18.657Z"
+  },
+  {
+   "id": "d28c09bc8dfc",
+   "title": "Who has 'no ceiling' as Northern Ireland shine in Nations League?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwjdmk3j5xleo",
+   "snippet": "After an impressive 3-0 victory over Ukraine in the Nations League, Northern Ireland manager Michael O'Neill was impressed with his young side.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-02T21:48:54.000Z",
+   "firstSeen": "2026-10-03T02:41:18.657Z"
+  },
+  {
+   "id": "5fc611223c0e",
+   "title": "Vergara ‘so happy with Italy debut, but we wanted the win’ in France",
+   "link": "https://football-italia.net/vergara-so-happy-italy-debut-wanted-win-france/",
+   "snippet": "Napoli winger Antonio Vergara is ‘so happy’ to make his Italy debut in a 1-1...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-02T21:32:43.000Z",
+   "firstSeen": "2026-10-03T02:41:18.657Z"
+  },
+  {
    "id": "75577bd21aab",
    "title": "City sponsor's 2015 statement to US government raises questions about appeal strategy",
    "link": "https://www.skysports.com/football/news/12040/13594496/man-city-appeal-clubs-strategy-brought-into-question-by-2015-statement-main-sponsor-etihad-airways-submitted-to-us-government",
@@ -8403,105 +8469,6 @@
    "section": "world",
    "published": "2026-09-26T05:00:27.000Z",
    "firstSeen": "2026-09-26T06:04:16.431Z"
-  },
-  {
-   "id": "33b798bdf233",
-   "title": "Man City charges - what happens now?",
-   "link": "https://www.skysports.com/football/news/12040/13591930/man-city-premier-league-charges-what-does-the-appeals-process-look-like-and-what-happens-now",
-   "snippet": "Reports claim that an independent tribunal has reached decisions in Manchester City's 115 charges case. Sky Sports analyses what could happen next in the inquiry...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-26T00:05:47.669Z",
-   "firstSeen": "2026-09-26T00:05:47.669Z"
-  },
-  {
-   "id": "5f6371b3e950",
-   "title": "Papers: Parish tells Liverpool £50m Sarr move was 'never going to happen'",
-   "link": "https://www.skysports.com/football/news/12040/13591966/transfer-news-crystal-palace-chairman-steve-parish-tells-liverpool-accepting-50m-ismaila-sarr-bid-was-never-going-to-happen-paper-talk",
-   "snippet": "The top stories and transfer rumours from Saturday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-26T00:05:47.669Z",
-   "firstSeen": "2026-09-26T00:05:47.669Z"
-  },
-  {
-   "id": "a940bf58c318",
-   "title": "Tuchel questions whether Palmer is desperate to play for England",
-   "link": "https://www.skysports.com/football/news/12040/13591915/cole-palmer-england-boss-thomas-tuchel-questions-how-desperate-chelsea-forward-is-to-play-for-three-lions",
-   "snippet": "Thomas Tuchel is unsure how desperate Cole Palmer is to play for England.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-26T00:05:47.669Z",
-   "firstSeen": "2026-09-26T00:05:47.669Z"
-  },
-  {
-   "id": "eb5cf28e9ac5",
-   "title": "Lankshear scores on debut as England U21s beat Kazakhstan",
-   "link": "https://www.skysports.com/football/england-u21-vs-kazakhstan-u21/report/527088",
-   "snippet": "England came from behind to beat Kazakhstan 4-2 in an entertaining affair at Molineux to all but book their place at the European U21 Championship next year.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-26T00:05:47.669Z",
-   "firstSeen": "2026-09-26T00:05:47.669Z"
-  },
-  {
-   "id": "9afdb3901e3d",
-   "title": "Rodri insists Manchester City ‘deserved’ success despite FFP guilty verdict",
-   "link": "https://www.theguardian.com/football/2026/sep/25/rodri-adamant-manchester-city-deserved-success-despite-being-found-guilty-of-rule-breaking",
-   "snippet": "‘I believe in the justice system and innocence of the club’ Midfielder ended glittering spell with City this year Rodri says nobody can take away Manchester City players’ success and still believes in his former club’s innocence despite…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-09-25T22:42:47.000Z",
-   "firstSeen": "2026-09-26T00:05:47.669Z"
-  },
-  {
-   "id": "796a73c55f45",
-   "title": "Van Bommel: ‘Belgium 100 per cent happy’ after ending Italy curse",
-   "link": "https://football-italia.net/van-bommel-belgium-happy-ending-italy-curse/",
-   "snippet": "Mark van Bommel was ‘100 per cent happy’ with his Belgium debut, the first time...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-09-25T22:04:44.000Z",
-   "firstSeen": "2026-09-26T00:05:47.669Z"
-  },
-  {
-   "id": "d40f90cf70be",
-   "title": "Rodri believes in Man City's 'innocence'",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmkgwwze9r28o",
-   "snippet": "Former Manchester City midfielder Rodri believes the club are innocent of any financial wrongdoing and will trust them unless they are proved otherwise.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-09-25T21:56:35.000Z",
-   "firstSeen": "2026-09-26T00:05:47.669Z"
-  },
-  {
-   "id": "5f27ced28f5a",
-   "title": "Montella: ‘Turkiye incredible against France, same mentality with Italy’",
-   "link": "https://football-italia.net/montella-turkiye-incredible-france-same-italy/",
-   "snippet": "Vincenzo Montella saw an ‘incredible performance’ from Turkiye in the 1-0 defeat to France, and...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-09-25T21:49:17.000Z",
-   "firstSeen": "2026-09-26T00:05:47.669Z"
-  },
-  {
-   "id": "e0f9d60f22b9",
-   "title": "Nations League: Kylian Mbappé injured after scoring France winner in Turkey",
-   "link": "https://www.theguardian.com/football/2026/sep/25/nations-league-roundup-turkey-france-kylian-mbappe-italy-belgium",
-   "snippet": "France beat 10-man Turkey 1-0 to start Zidane era Italy 0-2 Belgium, Georgia 0-1 Northern Ireland Kylian Mbappé limped off with an apparent knee injury, moments after scoring France’s winner against Turkey in the Nations League on Friday.…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-09-25T21:35:43.000Z",
-   "firstSeen": "2026-09-26T00:05:47.669Z"
   }
  ]
 }
