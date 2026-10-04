@@ -1,6 +1,105 @@
 {
  "stories": [
   {
+   "id": "80c751fb975e",
+   "title": "'Complete' England display reinvigorates faith in Tuchel project - for now",
+   "link": "https://www.skysports.com/football/news/12040/13594631/croatia-0-7-england-thumping-win-reinvigorates-thomas-tuchels-project-after-world-cup-blow-but-next-spain-test-will-define-progress-towards-success",
+   "snippet": "\"We will always have a scar, we will always feel pain and disappointment. But this is the way to move forward.\"",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-04T03:13:08.505Z",
+   "firstSeen": "2026-10-04T03:13:08.505Z"
+  },
+  {
+   "id": "9c861f5050bc",
+   "title": "Third time lucky for Pocognoli as Scotland mark Robertson's 100th cap with win",
+   "link": "https://www.skysports.com/football/north-macedonia-vs-scotland/report/554056",
+   "snippet": "Sebastien Pocognoli secured his first Scotland win at the third time of asking as captain Andy Robertson became just the second player to reach 100 caps.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-04T03:13:08.505Z",
+   "firstSeen": "2026-10-04T03:13:08.505Z"
+  },
+  {
+   "id": "cec839067678",
+   "title": "Papers: Arsenal leading race for winger Nusa",
+   "link": "https://www.skysports.com/football/news/12040/13594837/arsenal-leading-race-for-rb-leipzig-winger-antonio-nusa-paper-talk",
+   "snippet": "The top stories and transfer rumours from Sunday's newspapers...",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-04T03:13:08.505Z",
+   "firstSeen": "2026-10-04T03:13:08.505Z"
+  },
+  {
+   "id": "1b8662fa3652",
+   "title": "Two going on four, five or six on good night for new Scotland era",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cx7vp540g75mo",
+   "snippet": "Scotland scored twice in North Macedonia but the scoreline does not reflect their dominance in Skopje, writes Tom English.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-03T22:22:18.000Z",
+   "firstSeen": "2026-10-04T03:13:08.505Z"
+  },
+  {
+   "id": "55ac39ddcde4",
+   "title": "Lamine Yamal stars again as Spain see off Czechia and maintain perfect start",
+   "link": "https://www.theguardian.com/football/2026/oct/03/lamine-yamal-stars-again-as-spain-see-off-czechia-and-maintain-perfect-start",
+   "snippet": "Lamine Yamal says he feels like Superman or Spider-Man sometimes, and Spain’s fans are starting to wonder if he just might be. There is something comic book hero about what the teenager is doing right now, some unexplained super power…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-03T21:13:00.000Z",
+   "firstSeen": "2026-10-04T03:13:08.505Z"
+  },
+  {
+   "id": "4f3a918680cc",
+   "title": "Bellingham unlocks new level and potential to be 'one of the greatest'",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cv5yn8znyx2ro",
+   "snippet": "Jude Bellingham's international future was being called into question a year ago, but now he is regarded as potentially one of England's \"greatest of all time\".",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-03T21:07:59.000Z",
+   "firstSeen": "2026-10-04T03:13:08.505Z"
+  },
+  {
+   "id": "4e049017c6dd",
+   "title": "Bowie gets Pocognoli off mark with Scotland victory in North Macedonia",
+   "link": "https://www.theguardian.com/football/2026/oct/03/north-macedonia-scotland-nations-league-match-report",
+   "snippet": "This was an occasion on which Scotland dare not stumble. By the time Kieron Bowie smashed home a seventh minute opener against a North Macedonia side not without its troubles to seek, it was already clear they would not. Bowie afforded…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-03T21:01:49.000Z",
+   "firstSeen": "2026-10-04T03:13:08.505Z"
+  },
+  {
+   "id": "2724a72ccf8e",
+   "title": "How to watch Argentina vs Burkina Faso for FREE: TV info",
+   "link": "https://www.fourfourtwo.com/competition/how-to-watch-argentina-vs-burkina-faso-free",
+   "snippet": "Here's how to watch Argentina vs Burkina Faso for free online from anywhere as the Albiceleste play their second international friendly in as many days.",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-10-03T21:00:00.000Z",
+   "firstSeen": "2026-10-04T03:13:08.505Z"
+  },
+  {
+   "id": "642115e0f15c",
+   "title": "Man Utd & Arsenal eye Croatia striker - Sunday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw62y457008lo",
+   "snippet": "Three Premier League clubs are interested in Freiburg striker Igor Matanovic, Juventus want Liverpool centre-back Giovanni Leoni, Newcastle willing to let Joe Willock leave in January, plus more.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-03T20:32:45.000Z",
+   "firstSeen": "2026-10-04T03:13:08.505Z"
+  },
+  {
    "id": "3b56097830e1",
    "title": "Seventh heaven for England as Croatia thrashed in stunning win",
    "link": "https://www.skysports.com/football/croatia-vs-england/report/554052",
@@ -54,6 +153,28 @@
    "section": "world",
    "published": "2026-10-03T20:09:36.000Z",
    "firstSeen": "2026-10-03T20:18:07.706Z"
+  },
+  {
+   "id": "7f813549612a",
+   "title": "Bellingham stands out for high-grade England but Uefa sends out wrong message on racism | Barney Ronay",
+   "link": "https://www.theguardian.com/football/2026/oct/03/bellingham-stands-out-for-high-grade-england-but-uefa-sends-wrong-message-on-racism",
+   "snippet": "Allowing children in after a ban on adult fans was wrong in the extreme but on the pitch England showed genuine class So … can we play another World Cup, then? Can we just undo and rewind? Forget whatever it was you thought you saw in…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-03T20:06:45.000Z",
+   "firstSeen": "2026-10-04T03:13:08.505Z"
+  },
+  {
+   "id": "dec6162e6b2c",
+   "title": "Tuchel convinced England have buried World Cup woes with Croatia thrashing",
+   "link": "https://www.theguardian.com/football/2026/oct/03/tuchel-convinced-england-have-buried-world-cup-woes-with-croatia-thrashing",
+   "snippet": "‘We’ll always have a scar, but this is how we move forward’ Manager praises ‘complete package’ Scott on full debut Thomas Tuchel said England have moved on from their World Cup pain after seeing his side deliver a statement performance in…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-03T19:50:01.000Z",
+   "firstSeen": "2026-10-04T03:13:08.505Z"
   },
   {
    "id": "4338afcdd44f",
@@ -8139,138 +8260,6 @@
    "section": "world",
    "published": "2026-09-27T06:00:00.000Z",
    "firstSeen": "2026-09-27T12:03:21.695Z"
-  },
-  {
-   "id": "13307abd2a7d",
-   "title": "Putellas' first WSL goal helps send London City second with Brighton win",
-   "link": "https://www.skysports.com/football/london-city-lionesses-vs-brighton-and-hove-albion-women/report/575777",
-   "snippet": "Alexia Putellas scored her first goal in English football, helping London City Lionesses to a 2-0 win against Brighton and sending them second in the WSL table.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-27T00:07:31.296Z",
-   "firstSeen": "2026-09-27T00:07:31.296Z"
-  },
-  {
-   "id": "9f50c3b5cf14",
-   "title": "Spain show their class as errors cost England in Nations League loss",
-   "link": "https://www.skysports.com/football/england-vs-spain/report/554000",
-   "snippet": "Spain showed why they are the best national team in the world by emerging 3-2 winners from a thrilling, chaotic Nations League clash at Wembley, in which England's flaws undermined their exciting attacking play.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-27T00:07:31.296Z",
-   "firstSeen": "2026-09-27T00:07:31.296Z"
-  },
-  {
-   "id": "b3f20c70299c",
-   "title": "Keane disagrees with Gordon: There is a gap between Spain and England",
-   "link": "https://www.skysports.com/football/news/12040/13592299/england-2-3-spain-anthony-gordon-and-roy-keane-disagree-over-gap-between-three-lions-and-world-champions",
-   "snippet": "Roy Keane disagreed with Anthony Gordon's assessment that England are at the same level as Spain after the World Cup winners came from behind to beat Thomas Tuchel's side 3-2 in their Nations League opener.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-27T00:07:31.296Z",
-   "firstSeen": "2026-09-27T00:07:31.296Z"
-  },
-  {
-   "id": "5c4ed3ccec38",
-   "title": "Meet the new 55 minute England collapse, not the same as the old 55 minute England collapse | Barney Ronay",
-   "link": "https://www.theguardian.com/football/2026/sep/27/england-spain-nations-league-meet-new-55-minute-collapse-not-same-as-old",
-   "snippet": "Things started to go wrong against Spain at the same time they did against Argentina, but for very different reasons and with far more cause for optimism You could feel it inside the stadium, one of those moments where the air starts to…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-09-26T23:19:00.000Z",
-   "firstSeen": "2026-09-27T00:07:31.296Z"
-  },
-  {
-   "id": "15386eb159d0",
-   "title": "Pickford or Trafford? The battle to be England's number one is now on",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckm2qqpjv7nro",
-   "snippet": "Jordan Pickford has been England's number one for a long time. But does he now have a rival in James Trafford?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-26T23:06:07.000Z",
-   "firstSeen": "2026-09-27T00:07:31.296Z"
-  },
-  {
-   "id": "1dfe502358ed",
-   "title": "Tuchel rues 'big mistakes' - did Man City charges have impact?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6j4jjg5qxero",
-   "snippet": "England's loss to Spain was decided by uncharacteristic mistakes, with two Man City players making errors - so did club news affect performances for country?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-26T22:47:10.000Z",
-   "firstSeen": "2026-09-27T00:07:31.296Z"
-  },
-  {
-   "id": "21da8eebc3f5",
-   "title": "USA thrash Peru as teenage newcomers shine in first step toward 2030",
-   "link": "https://www.theguardian.com/football/2026/sep/26/usmnt-peru-cavan-sullivan-2030-world-cup-cycle",
-   "snippet": "Eleven players make US debuts in Orlando Sullivan, 16, starts in youngest US appearance in years Ellis and Hall score as Pochettino’s new faces impress Playing in their first match of the 2030 World Cup cycle, the US men’s national team…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-09-26T22:42:32.000Z",
-   "firstSeen": "2026-09-27T00:07:31.296Z"
-  },
-  {
-   "id": "4d103a0f4433",
-   "title": "England embrace the chaos - but control also needed to win big prizes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqx2zz6d5716o",
-   "snippet": "England embrace the chaos, but superb Spain show it will never win big prizes, says chief football writer Phil McNulty.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-26T22:39:52.000Z",
-   "firstSeen": "2026-09-27T00:07:31.296Z"
-  },
-  {
-   "id": "ee6a222812a1",
-   "title": "Putellas scores first WSL goal as London City beat Brighton",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cwr7dd0x245yo",
-   "snippet": "Alexia Putellas scores her first goal in the Women's Super League as London City Lionesses beat Brighton 2-0 at the Copperjax Community Stadium.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-26T22:00:53.000Z",
-   "firstSeen": "2026-09-27T00:07:31.296Z"
-  },
-  {
-   "id": "270036fdbe37",
-   "title": "Oyarzabal earns Spain Nations League win as England pay for Kane penalty miss",
-   "link": "https://www.theguardian.com/football/2026/sep/26/england-spain-nations-league-match-report",
-   "snippet": "It was another high-profile game when Thomas Tuchel’s England let a lead slip in the second half and went on to lose. But unlike the last time, it was not one for recriminations. The England support can accept losing when their team plays…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-09-26T21:05:35.000Z",
-   "firstSeen": "2026-09-27T00:07:31.296Z"
-  },
-  {
-   "id": "1b5dfc0d4e63",
-   "title": "Bayern target Barcelona's Olmo - Sunday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cw770034l523o",
-   "snippet": "Bayern Munich target Dani Olmo, Trent Alexander-Arnold is staying at Real Madrid, Premier League clubs show interest in Spurs' Micky van de Ven, plus more.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-26T20:54:18.000Z",
-   "firstSeen": "2026-09-27T00:07:31.296Z"
-  },
-  {
-   "id": "ab8dd2042767",
-   "title": "Who made an uncharacteristic error? England player ratings v Spain",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmy0zz2ylr5no",
-   "snippet": "England were beaten 3-2 in an entertaining game by world champions Spain in the Nations League - here's how BBC Sport rated the Three Lions' players.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-26T20:42:33.000Z",
-   "firstSeen": "2026-09-27T00:07:31.296Z"
   }
  ]
 }
