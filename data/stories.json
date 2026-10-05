@@ -1,6 +1,160 @@
 {
  "stories": [
   {
+   "id": "30b78d92d0b5",
+   "title": "Hojlund pen condemns Wales to third Nations League defeat in four",
+   "link": "https://www.skysports.com/football/wales-vs-denmark/report/554066",
+   "snippet": "Wales suffered a 1-0 Nations League defeat to Denmark as Rasmus Hojlund scored the game's only goal from the penalty spot.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-05T02:47:51.906Z",
+   "firstSeen": "2026-10-05T02:47:51.906Z"
+  },
+  {
+   "id": "38f43bc5a825",
+   "title": "Papers: Ronaldo to make Portugal return",
+   "link": "https://www.skysports.com/football/news/12040/13595152/cristiano-ronaldo-to-make-portugal-return-in-2027-paper-talk",
+   "snippet": "The top stories and transfer rumours from Monday's newspapers...",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-05T02:47:51.906Z",
+   "firstSeen": "2026-10-05T02:47:51.906Z"
+  },
+  {
+   "id": "e68c380e6715",
+   "title": "Republic of Ireland draw with Israel in second Nations League meeting",
+   "link": "https://www.skysports.com/football/republic-of-ireland-vs-israel/report/554064",
+   "snippet": "The Republic of Ireland drew 1-1 with Israel in the second controversial Nations League fixture between the sides.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-05T02:47:51.906Z",
+   "firstSeen": "2026-10-05T02:47:51.906Z"
+  },
+  {
+   "id": "60db31954f18",
+   "title": "Israel 'tried to intimidate' Irish amid spitting row - Hallgrimsson",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw4g14eg5p22o",
+   "snippet": "Republic of Ireland head coach Heimir Hallgrimsson says he felt Israel were \"trying to intimidate\" his team amid allegations of spitting during Sunday's Nations League draw.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-04T22:51:49.000Z",
+   "firstSeen": "2026-10-05T02:47:51.906Z"
+  },
+  {
+   "id": "9b3bac8bc1af",
+   "title": "No other team should go through this - Hallgrimsson",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqe8lv6m1nn3o",
+   "snippet": "Republic of Ireland manager Heimir Hallgrimsson says he is \"delighted\" this most trying of international windows is over and hopes \"no national team to go through what we have gone through over the last two weeks\".",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-04T22:43:10.000Z",
+   "firstSeen": "2026-10-05T02:47:51.906Z"
+  },
+  {
+   "id": "4ac4a4d87e83",
+   "title": "Bellamy bemoans new schedule after Denmark loss",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm93zyld4513o",
+   "snippet": "Craig Bellamy suggests the new four-match international window has counted against Wales after Sunday's Nations League defeat against Denmark.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-04T22:36:20.000Z",
+   "firstSeen": "2026-10-05T02:47:51.906Z"
+  },
+  {
+   "id": "627d3d30e773",
+   "title": "Clàudia Pina hits four as Barcelona score seven goals to demolish Real Madrid",
+   "link": "https://www.theguardian.com/football/2026/oct/04/claudia-pina-hits-four-as-barcelona-demolish-real-madrid",
+   "snippet": "Barcelona 7-0 Real Madrid Lead at the top stretched to five points Clàudia Pina smashed in four goals as Barcelona demolished Real Madrid 7-0 to earn a five point lead at the top of Liga F on Sunday over their rivals. The 25-year-old Spain…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-04T22:28:38.000Z",
+   "firstSeen": "2026-10-05T02:47:51.906Z"
+  },
+  {
+   "id": "140bc0ea9b0a",
+   "title": "Portugal boss says door open for Ronaldo return",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c3dxwry8vydvo",
+   "snippet": "Cristiano Ronaldo could still return for Portugal, according to boss Jorge Jesus.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-04T22:10:59.000Z",
+   "firstSeen": "2026-10-05T02:47:51.906Z"
+  },
+  {
+   "id": "b10c98b3832a",
+   "title": "Nations League roundup: Haaland limps off in Norway’s loss to Portugal",
+   "link": "https://www.theguardian.com/football/2026/oct/04/nations-league-roundup-haaland-limps-off-in-norways-loss-to-portugal",
+   "snippet": "Portugal victory seals place in quarter-finals Greece hold Germany to goalless draw Title-holders Portugal maintained their 100% record in the Nations League with a 2-1 home win over Norway on Sunday to seal a place in ⁠the March…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-04T21:42:23.000Z",
+   "firstSeen": "2026-10-05T02:47:51.906Z"
+  },
+  {
+   "id": "438d4571b0b0",
+   "title": "Man City fight back to beat struggling Arsenal",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c64g71j3dkw7o",
+   "snippet": "Manchester City twice came from behind to beat Arsenal 4-2 at the Etihad Stadium and increase the pressure on Gunners manager Renee Slegers.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-04T21:20:21.000Z",
+   "firstSeen": "2026-10-05T02:47:51.906Z"
+  },
+  {
+   "id": "5cacdda1301b",
+   "title": "Hallgrímsson calls on Uefa to keep Ireland and Israel apart in future after bad-tempered draw",
+   "link": "https://www.theguardian.com/football/2026/oct/04/republic-of-ireland-israel-nations-league-match-report",
+   "snippet": "The Republic of Ireland’s manager Heimir Hallgrímsson has called on Uefa to keep his side away from Israel in future draws after a pair of fixtures he admitted “has been tough on us all”. Ireland were pegged back to a draw in another…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-04T21:13:30.000Z",
+   "firstSeen": "2026-10-05T02:47:51.906Z"
+  },
+  {
+   "id": "45f6403648e7",
+   "title": "You are the Scotland boss - what would you do?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cr4g1q2w1g6zo",
+   "snippet": "Put yourself in the shoes of the new Scotland head coach Sebastien Pocognoli as he picks his XI to face Slovenia on Tuesday.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-04T21:06:47.000Z",
+   "firstSeen": "2026-10-05T02:47:51.906Z"
+  },
+  {
+   "id": "8dadf9fa7643",
+   "title": "Let’s stop doubting Thomas Tuchel: England are impressive and Euro 2028 is the target",
+   "link": "https://www.theguardian.com/football/2026/oct/04/thomas-tuchel-england-croatia-nations-league-euro-2028",
+   "snippet": "Coming third in the World Cup was really not a disaster, and Saturday’s rout of Croatia and building the team around Jude Bellingham are good signs Move fast and fix things. It has been a fine week so far for Thomas Tuchel as he attempts…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-04T21:00:37.000Z",
+   "firstSeen": "2026-10-05T02:47:51.906Z"
+  },
+  {
+   "id": "c766a0fd6483",
+   "title": "Denmark sink Wales as Rasmus Højlund makes Danny Ward pay for blunder",
+   "link": "https://www.theguardian.com/football/2026/oct/04/wales-denmark-nations-league-match-report",
+   "snippet": "Wales crave momentum but, a few days after surely the sweetest high of Craig Bellamy’s two-year reign, a sapping international window ended on a bum note. At least until Bellamy was informed Portugal’s comeback victory over Norway means…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-04T20:52:23.000Z",
+   "firstSeen": "2026-10-05T02:47:51.906Z"
+  },
+  {
    "id": "67795c854724",
    "title": "Hero to zero! Wales GK Ward makes huge errors to give Denmark lead LIVE!",
    "link": "https://www.skysports.com/football/wales-vs-denmark/live/554066",
@@ -32,6 +186,17 @@
    "section": "world",
    "published": "2026-10-04T20:35:37.493Z",
    "firstSeen": "2026-10-04T20:35:37.493Z"
+  },
+  {
+   "id": "597557a48f88",
+   "title": "Arsenal 10 points off WSL leaders - is Slegers' job at risk?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c9p8gmvlvp57o",
+   "snippet": "It is only five matches into the WSL season but Arsenal are already 10 points behind leaders Manchester City and manager Renee Slegers is coming under increasing scrutiny.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-04T20:34:17.000Z",
+   "firstSeen": "2026-10-05T02:47:51.906Z"
   },
   {
    "id": "3e09f78d3104",
@@ -7941,138 +8106,6 @@
    "section": "world",
    "published": "2026-09-28T05:00:00.000Z",
    "firstSeen": "2026-09-28T06:05:36.035Z"
-  },
-  {
-   "id": "24c38b277949",
-   "title": "Bellamy 'hurting' after Denmark beat Wales comfortably",
-   "link": "https://www.skysports.com/football/denmark-vs-wales/report/554008",
-   "snippet": "Craig Bellamy says he is “really hurting” after Wales were beaten 2-0 in Copenhagen by a dominant Denmark to leave them bottom of their Nations League group",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-28T00:07:07.068Z",
-   "firstSeen": "2026-09-28T00:07:07.068Z"
-  },
-  {
-   "id": "693374e5d1d3",
-   "title": "Papers: Barca monitoring as Estevao grows impatient with Chelsea role",
-   "link": "https://www.skysports.com/football/news/12040/13592576/barcelona-closely-monitoring-as-estevao-grows-impatient-over-chelsea-role-paper-talk",
-   "snippet": "The top stories and transfer rumours from Monday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-28T00:07:07.068Z",
-   "firstSeen": "2026-09-28T00:07:07.068Z"
-  },
-  {
-   "id": "99d6ebc822e7",
-   "title": "Medina stars for Man Utd, Liverpool end Anfield hoodoo, Arsenal's title hopes over?",
-   "link": "https://www.skysports.com/football/news/12040/13592442/wsl-talking-points",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-28T00:07:07.068Z",
-   "firstSeen": "2026-09-28T00:07:07.068Z"
-  },
-  {
-   "id": "d1d2f5da542b",
-   "title": "Republic of Ireland beat Israel in controversial Nations League meeting",
-   "link": "https://www.skysports.com/football/israel-vs-republic-of-ireland/report/554010",
-   "snippet": "The Republic of Ireland beat Israel 3-0 in their controversial Nations League fixture at a neutral venue in Hungary.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-28T00:07:07.068Z",
-   "firstSeen": "2026-09-28T00:07:07.068Z"
-  },
-  {
-   "id": "567beab3b869",
-   "title": "Republic of Ireland 'raised awareness worldwide' in Israel game",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo",
-   "snippet": "Republic of Ireland head coach Heimir Hallgrimsson says his players \"raised awareness worldwide\" after they chose not to engage in pre-match formalities with Israel.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-27T22:20:17.000Z",
-   "firstSeen": "2026-09-28T00:07:07.068Z"
-  },
-  {
-   "id": "9715c1936ead",
-   "title": "Seventeen titles in five years - why Spain are a dominant force",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c39elvrye40o",
-   "snippet": "We look at what's behind Spain's dominance of football with 17 titles in five years across all age groups and in the men's and women's game.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-27T22:13:19.000Z",
-   "firstSeen": "2026-09-28T00:07:07.068Z"
-  },
-  {
-   "id": "140690335b8d",
-   "title": "Nations League: Greece stun Klopp’s Germany, Netherlands sink Serbia but Gakpo hurt",
-   "link": "https://www.theguardian.com/football/2026/sep/27/nations-league-germany-greece-serbia-netherlands-norway-portugal",
-   "snippet": "Jürgen Klopp ‘unbothered’ despite 1-0 home defeat Gakpo goes off in 2-1 win, Portugal edge past Norway Greece stunned Germany 1-0 in Augsburg to go top of their Nations League group and spoil Jürgen Klopp’s debut in the home dugout.…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-09-27T22:03:36.000Z",
-   "firstSeen": "2026-09-28T00:07:07.068Z"
-  },
-  {
-   "id": "90a6244bace2",
-   "title": "McTominay’s role a poser for Pocognoli as Scotland offer positives in Slovenia",
-   "link": "https://www.theguardian.com/football/2026/sep/27/scott-mctominay-sebastien-pocognoli-scotland-switzerland-nations-league",
-   "snippet": "New coach still learning about his squad as they prepare to face Switzerland with the Napoli midfielder expected to return in November An elongated international window does not prevent Sébastien Pocognoli from glancing towards the next…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-09-27T21:30:15.000Z",
-   "firstSeen": "2026-09-28T00:07:07.068Z"
-  },
-  {
-   "id": "7429b1605ea4",
-   "title": "Republic of Ireland put controversy aside to earn impressive win over Israel",
-   "link": "https://www.theguardian.com/football/2026/sep/27/israel-republic-ireland-nations-league-group-3-match-report",
-   "snippet": "Football and politics are inseparable in the modern world, no matter how many people wish they were not. But whether the beautiful game can ease the ills of our age is another matter. After a week in which the issue of Irish support for…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-09-27T21:24:03.000Z",
-   "firstSeen": "2026-09-28T00:07:07.068Z"
-  },
-  {
-   "id": "9ad8522bc469",
-   "title": "Thompson goal enough to give Chelsea feisty derby win over Arsenal",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cmq8jnqxjx5no",
-   "snippet": "Chelsea beat Arsenal in a feisty encounter at Stamford Bridge to continue their steady start to the Women's Super League season.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-27T21:21:37.000Z",
-   "firstSeen": "2026-09-28T00:07:07.068Z"
-  },
-  {
-   "id": "40131b2c28d7",
-   "title": "Barcelona monitor Chelsea's Estevao - Monday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm74kp52d3xko",
-   "snippet": "Barcelona are monitoring Estevao, Erling Haaland attracts interests amid Man City uncertainty and Joao Felix could return to Europe, plus more.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-27T21:19:02.000Z",
-   "firstSeen": "2026-09-28T00:07:07.068Z"
-  },
-  {
-   "id": "fbfc5a15a361",
-   "title": "Denmark dominate Wales in Nations League to leave Bellamy ‘really hurting’",
-   "link": "https://www.theguardian.com/football/2026/sep/27/denmark-wales-nations-league-group-a4-match-report",
-   "snippet": "Wales wilted in Copenhagen as a 2-0 defeat to Denmark left them bottom of their Nations League group with no points or goals from their first two games. After a first half in which Wales were very much second-best and fortunate to reach…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-09-27T21:14:16.000Z",
-   "firstSeen": "2026-09-28T00:07:07.068Z"
   }
  ]
 }
