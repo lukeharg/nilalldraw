@@ -1,6 +1,17 @@
 {
  "stories": [
   {
+   "id": "27e73efa8742",
+   "title": "Mary Fowler ruled out of Matildas friendlies due to ‘personal circumstances’",
+   "link": "https://www.theguardian.com/football/2026/oct/06/mary-fowler-personal-circumstances-ruled-out-matildas-friendlies",
+   "snippet": "Manchester City attacker to miss Germany and Haiti games Charlton midfielder Leah Davidson called into Australia squad Matildas star Mary Fowler has been ruled out of upcoming friendly matches against Germany and Haiti due to personal…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-06T00:23:00.000Z",
+   "firstSeen": "2026-10-06T03:38:42.129Z"
+  },
+  {
    "id": "0148ffdb5403",
    "title": "Inside JJ Gabriel's Man Utd future and why he was in first-team squad photo",
    "link": "https://www.skysports.com/football/news/12040/13595519/jj-gabriel-man-utd-prodigy-still-expected-to-leave-despite-first-team-photo-inclusion-this-is-how-it-unfolded",
@@ -8062,61 +8073,6 @@
    "section": "world",
    "published": "2026-09-29T05:00:00.000Z",
    "firstSeen": "2026-09-29T06:04:28.608Z"
-  },
-  {
-   "id": "4df812472a95",
-   "title": "Man City CEO says fight against Premier League could take years to conclude",
-   "link": "https://www.skysports.com/football/news/12040/13593034/man-city-ceo-ferran-soriano-says-fight-against-premier-league-could-take-years-to-conclude-amid-reports-of-decision-in-115-charges-case",
-   "snippet": "Manchester City chief executive Ferran Soriano has told a meeting of fellow club chiefs their fight against the Premier League could take years to conclude, Sky News understands.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-29T00:07:18.215Z",
-   "firstSeen": "2026-09-29T00:07:18.215Z"
-  },
-  {
-   "id": "58c0b5744817",
-   "title": "Papers: Real Madrid defender rejected interest from Chelsea and Liverpool",
-   "link": "https://www.skysports.com/football/news/12040/13593048/real-madrid-defender-raul-asencio-rejected-transfer-interest-from-liverpool-and-chelsea-this-summer-paper-talk",
-   "snippet": "The top stories and transfer rumours from Tuesday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-29T00:07:18.215Z",
-   "firstSeen": "2026-09-29T00:07:18.215Z"
-  },
-  {
-   "id": "b9dc145f05fb",
-   "title": "Northern Ireland held to frustrating goalless drew with Hungary",
-   "link": "https://www.skysports.com/football/northern-ireland-vs-hungary/report/554018",
-   "snippet": "Northern Ireland were left frustrated in a 0-0 draw at home to Hungary that looked to be there for the taking.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-29T00:07:18.215Z",
-   "firstSeen": "2026-09-29T00:07:18.215Z"
-  },
-  {
-   "id": "eb4d0599469f",
-   "title": "Tuchel: On the ball, we were a danger to ourselves",
-   "link": "https://www.skysports.com/football/news/12040/13592651/england-thomas-tuchel-claims-three-lions-were-a-danger-to-themselves-in-possession-as-he-plays-down-defensive-frailties",
-   "snippet": "Thomas Tuchel believes England were a danger to themselves on the ball during their 3-2 defeat to Spain.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-29T00:07:18.215Z",
-   "firstSeen": "2026-09-29T00:07:18.215Z"
-  },
-  {
-   "id": "ccfad6b4addd",
-   "title": "The story of Manchester City and the 115 charges",
-   "link": "https://www.bbc.co.uk/sport/extra/x3s96hvhqb/the-story-of-manchester-city-and-115-charges",
-   "snippet": "It is the biggest disciplinary case in Premier League history. Here we piece together Man City's on-field endeavours with their alleged wrongdoings.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-09-29T00:00:00.000Z",
-   "firstSeen": "2026-09-29T12:03:51.208Z"
   }
  ]
 }
