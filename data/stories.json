@@ -1,6 +1,94 @@
 {
  "stories": [
   {
+   "id": "39f4535e3fe6",
+   "title": "No decision on JJ Gabriel future amid Barca, Real Madrid, Bayern & PSG interest",
+   "link": "https://www.skysports.com/football/news/12040/13595964/jj-gabriel-man-utd-prodigy-yet-to-make-decision-on-future-amid-interest-from-barcelona-real-madrid-bayern-munich-and-psg",
+   "snippet": "JJ Gabriel and his family are yet to make a decision on his future but it is increasingly likely his next club will be in Europe.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-07T03:05:17.966Z",
+   "firstSeen": "2026-10-07T03:05:17.966Z"
+  },
+  {
+   "id": "43ebcdb82c90",
+   "title": "Kane sums up England legacy on special night - but can he make that final step?",
+   "link": "https://www.skysports.com/football/news/12040/13595959/harry-kane-breaks-england-appearance-record-but-can-he-take-that-final-step-to-complete-his-career",
+   "snippet": "Some things are inevitable in life. Harry Kane delivering for England is always one of those inevitabilities. On his momentous, milestone match, he stuck to the script perfectly.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-07T03:05:17.966Z",
+   "firstSeen": "2026-10-07T03:05:17.966Z"
+  },
+  {
+   "id": "ca8d5429fbd9",
+   "title": "Lionel Messi bids a tearful farewell to Argentina after 3-0 win over Benin",
+   "link": "https://www.theguardian.com/football/2026/oct/06/lionel-messi-argentina-benin-international-retirement",
+   "snippet": "Messi nets PK and assists twice as Argentina cruises Match paused in 10th minute for round of applause Lionel Messi brought the curtain down on his 21-year international career on Tuesday, bidding farewell to adoring Argentina fans in an…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-07T02:38:51.000Z",
+   "firstSeen": "2026-10-07T03:05:17.966Z"
+  },
+  {
+   "id": "1892a4e9bcce",
+   "title": "Justin Ellis helps US cap a perfect international window with 1-0 win over Canada",
+   "link": "https://www.theguardian.com/football/2026/oct/06/usa-canada-report-justin-ellis",
+   "snippet": "A chippy and at times ugly friendly nonetheless gave Mauricio Pochettino’s side four wins out of four, with another young player making the difference. Before 1878, a referee trying to get players’ attention was left to waive a white…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-07T02:13:26.000Z",
+   "firstSeen": "2026-10-07T03:05:17.966Z"
+  },
+  {
+   "id": "5951e63bf5ab",
+   "title": "Total Midweek Kane: England’s icon delivers a classic on his way to footballing ultimacy | Barney Ronay",
+   "link": "https://www.theguardian.com/football/2026/oct/06/total-midweek-kane-englands-icon-delivers-a-classic-on-his-way-to-footballing-ultimacy",
+   "snippet": "On a night where he equalled Peter Shilton’s England appearance record, Harry Kane did what he always does It is a very Harry Kane kind of thing to equal a record. Respectful, no ego, all about the collective. On a room temperature night…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-06T22:56:09.000Z",
+   "firstSeen": "2026-10-07T03:05:17.966Z"
+  },
+  {
+   "id": "991e2f52e649",
+   "title": "Midfield options and a fab front four - what we've learned about England",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq62y431dj8vo",
+   "snippet": "From Trent Alexander-Arnold's return to Alex Scott's debut, Phil McNulty assesses what England have learned during this international window.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-06T22:34:46.000Z",
+   "firstSeen": "2026-10-07T03:05:17.966Z"
+  },
+  {
+   "id": "4d63fc41aeb9",
+   "title": "Honeymoon over as Pocognoli's Scotland suffer domestic disharmony",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5lye031jvgro",
+   "snippet": "Sebastien Pocognoli is left with questions to answer after an inert Scotland performance leaves him still searching for his first home win, writes Tom English.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-06T22:28:47.000Z",
+   "firstSeen": "2026-10-07T03:05:17.966Z"
+  },
+  {
+   "id": "87d82f0e8149",
+   "title": "'Outfought' and 'not good enough' - Robertson on Scotland defeat",
+   "link": "https://www.bbc.co.uk/sport/football/articles/crz98xv1e8nlo",
+   "snippet": "Scotland were \"outfought\" and simply \"not good enough\" in their 2-1 Nations League defeat by Slovenia, according to captain Andy Robertson.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-06T22:13:15.000Z",
+   "firstSeen": "2026-10-07T03:05:17.966Z"
+  },
+  {
    "id": "080a21cd7268",
    "title": "UEFA monitoring Man City case as it considers potential action",
    "link": "https://www.skysports.com/football/news/12040/13595795/man-city-charges-uefa-monitoring-premier-league-clubs-case-as-it-considers-potential-action",
@@ -87,6 +175,17 @@
    "section": "world",
    "published": "2026-10-06T21:58:02.684Z",
    "firstSeen": "2026-10-06T21:58:02.684Z"
+  },
+  {
+   "id": "3b5b5820b60f",
+   "title": "Football Daily",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pfbc3n",
+   "snippet": "What have we learn't about England during this international break?",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-06T21:56:00.000Z",
+   "firstSeen": "2026-10-07T03:05:17.966Z"
   },
   {
    "id": "94b6f2db62ab",
@@ -7897,138 +7996,6 @@
    "section": "world",
    "published": "2026-09-30T04:30:00.000Z",
    "firstSeen": "2026-09-30T06:04:11.299Z"
-  },
-  {
-   "id": "847c716a4c5f",
-   "title": "Ten-man Scotland beaten by Switzerland in Pocognoli's first home match",
-   "link": "https://www.skysports.com/football/scotland-vs-switzerland/report/554028",
-   "snippet": "Sebastien Pocognoli tasted defeat in his first match at Hampden as his 10-man Scotland side were comfortably beaten 3-0 by Switzerland in Nations League B.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-30T00:07:08.032Z",
-   "firstSeen": "2026-09-30T00:07:08.032Z"
-  },
-  {
-   "id": "8638fcb3d454",
-   "title": "Kick It Out receives record number of discrimination reports",
-   "link": "https://www.skysports.com/football/news/12040/13593231/kick-it-out-receives-record-1744-discrimination-reports-in-first-year-of-football-united-strategy",
-   "snippet": "Kick It Out received a record 1,744 discrimination reports across professional football, grassroots, and online during the first year of its Football United strategy.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-30T00:07:08.032Z",
-   "firstSeen": "2026-09-30T00:07:08.032Z"
-  },
-  {
-   "id": "8f34e12dc5c8",
-   "title": "Trent: I always believed I'd play for England again",
-   "link": "https://www.skysports.com/football/news/12040/13593475/trent-alexander-arnold-always-believed-he-would-play-for-england-again-after-first-start-in-over-two-years",
-   "snippet": "Trent Alexander-Arnold \"always believed\" he could play for England again following his period in the international wilderness under Thomas Tuchel.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-30T00:07:08.032Z",
-   "firstSeen": "2026-09-30T00:07:08.032Z"
-  },
-  {
-   "id": "b8e8c78c6b01",
-   "title": "Papers: Man City knew of guilty verdict in summer",
-   "link": "https://www.skysports.com/football/news/12040/13593423/man-city-guilty-premier-league-club-knew-of-independent-commissions-verdict-in-the-summer-paper-talk",
-   "snippet": "The top stories and transfer rumours from Wednesday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-30T00:07:08.032Z",
-   "firstSeen": "2026-09-30T00:07:08.032Z"
-  },
-  {
-   "id": "f06e3b67b9d4",
-   "title": "Disguised funding and 'dishonest' witnesses - key revelations from City verdict",
-   "link": "https://www.skysports.com/football/news/12040/13593407/man-city-charges-verdict-key-findings-the-fordham-arrangement-effectively-a-front-for-abu-dhabi-united-group",
-   "snippet": "In a damning 40-page document, an independent commission laid bare its findings into Manchester City's breaches of the Premier League's financial rules. Here, Sky Sports takes a look at the key revelations...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-30T00:07:08.032Z",
-   "firstSeen": "2026-09-30T00:07:08.032Z"
-  },
-  {
-   "id": "ff48a298f1b9",
-   "title": "Gordon-inspired England seal much-needed win over Czech Republic",
-   "link": "https://www.skysports.com/football/czech-republic-vs-england/report/554024",
-   "snippet": "Pavel Sulc's first-half red card helped England recover from a nervy start to register an Anthony Gordon-inspired 2-0 Nations League win over the Czech Republic in Prague.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-09-30T00:07:08.032Z",
-   "firstSeen": "2026-09-30T00:07:08.032Z"
-  },
-  {
-   "id": "24c55b36931a",
-   "title": "New coach, new players, but same old failings hamper Scotland",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmrl6g9nw5lyo",
-   "snippet": "Self-inflicted wounds cost Scotland on Sebastien Pocognoli's Hampden debut, writes Tom English.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-29T22:30:20.000Z",
-   "firstSeen": "2026-09-30T00:07:08.032Z"
-  },
-  {
-   "id": "b1c94a39b31a",
-   "title": "Tuchel praises Alexander-Arnold for ‘decisive’ display on England return",
-   "link": "https://www.theguardian.com/football/2026/sep/29/thomas-tuchel-trent-alexander-arnold-czechia-england-nations-league-match",
-   "snippet": "‘We need to keep focused, and Trent was a big help in this’ Alexander-Arnold set up opener in 2-0 win over Czechia Thomas Tuchel praised Trent ­Alexander-Arnold after the right-back impressed on his first England appearance since June…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-09-29T22:26:28.000Z",
-   "firstSeen": "2026-09-30T12:03:55.614Z"
-  },
-  {
-   "id": "20c136951907",
-   "title": "Alexander-Arnold proves his worth to England with trademark assist against Czechia | Jacob Steinberg",
-   "link": "https://www.theguardian.com/football/2026/sep/29/trent-alexander-arnold-england-czechia-thomas-tuchel-nations-league",
-   "snippet": "The full-back is one of the best passers England has produced: Thomas Tuchel must find a place for him It was the question nobody was asking: could Trent Alexander-Arnold do it against 10 game but limited Czechs on a mild Tuesday night in…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-09-29T22:22:18.000Z",
-   "firstSeen": "2026-09-30T00:07:08.032Z"
-  },
-  {
-   "id": "303099865e75",
-   "title": "Football Daily",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pd3b84",
-   "snippet": "It was a 2-0 win for Thomas Tuchel’s side",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-29T22:19:00.000Z",
-   "firstSeen": "2026-09-30T00:07:08.032Z"
-  },
-  {
-   "id": "e0bedf4be35e",
-   "title": "Hampden debut to forget but Pocognoli looks at bigger picture",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cw80483z2522o",
-   "snippet": "Scotland head coach Sebastien Pocognoli hopes \"we will remember this night differently later on\" as his Hampden bow ends with a 3-0 defeat by Switzerland.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-29T22:12:20.000Z",
-   "firstSeen": "2026-09-30T00:07:08.032Z"
-  },
-  {
-   "id": "e3f54be38ab7",
-   "title": "It is time for Tuchel to offer Alexander-Arnold some trust",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c8dx51r59xndo",
-   "snippet": "Having been overlooked for so long, Trent Alexander-Arnold produced a world-class moment on his return, writes Phil McNulty.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-09-29T22:06:30.000Z",
-   "firstSeen": "2026-09-30T00:07:08.032Z"
   }
  ]
 }
