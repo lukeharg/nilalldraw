@@ -1,6 +1,17 @@
 {
  "stories": [
   {
+   "id": "bbc6f5ed53be",
+   "title": "Premier League: 10 things to look out for this weekend",
+   "link": "https://www.theguardian.com/football/2026/oct/09/premier-league-10-things-to-look-out-for-this-weekend",
+   "snippet": "Michael Carrick is wary of ‘Dr Tottenham’, Oliver Glasner returns to Selhurst Park and will Manchester City summon a siege mentality at Anfield? Premier League top scorers | View the league table Declan Rice’s future role in England’s…",
+   "source": "The Guardian",
+   "sourceId": "guardian-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-08T23:01:31.000Z",
+   "firstSeen": "2026-10-09T03:27:02.364Z"
+  },
+  {
    "id": "10aafc6a086b",
    "title": "Man Utd held back as Spurs spent big - Different strategies collide on Saturday",
    "link": "https://www.skysports.com/football/news/12040/13595688/manchester-united-vs-tottenham-different-summer-transfer-strategies-collide-on-saturday-at-old-trafford",
@@ -7644,94 +7655,6 @@
    "section": "world",
    "published": "2026-10-02T05:00:00.000Z",
    "firstSeen": "2026-10-02T11:30:19.550Z"
-  },
-  {
-   "id": "10bf6c2fff0f",
-   "title": "Shaw earns Man City draw with late Real goal dramatically disallowed",
-   "link": "https://www.skysports.com/football/manchester-city-women-vs-real-madrid-women/report/578248",
-   "snippet": "Bunny Shaw and a dramatic last-gasp decision from the referee ensured Manchester City took a point off Real Madrid with a 1-1 draw in the Women's Champions League.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-02T02:55:17.895Z",
-   "firstSeen": "2026-10-02T02:55:17.895Z"
-  },
-  {
-   "id": "157969b5f55f",
-   "title": "Papers: Man City players could be entitled to rip up contracts",
-   "link": "https://www.skysports.com/football/news/12040/13594183/man-city-players-told-they-could-be-entitled-to-rip-up-contracts-after-guilty-verdict-in-premier-league-case-paper-talk",
-   "snippet": "The top stories and transfer rumours from Friday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-02T02:55:17.895Z",
-   "firstSeen": "2026-10-02T02:55:17.895Z"
-  },
-  {
-   "id": "34968794c574",
-   "title": "Ireland held by Austria despite Parrott double as protests interrupt game",
-   "link": "https://www.skysports.com/football/republic-of-ireland-vs-austria/report/554038",
-   "snippet": "Troy Parrott scored twice but the Republic of Ireland were forced to settle for a 2-2 draw after Austria came back in the second half of their Nations League encounter at the Aviva Stadium in Dublin.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-02T02:55:17.895Z",
-   "firstSeen": "2026-10-02T02:55:17.895Z"
-  },
-  {
-   "id": "8f504a23f000",
-   "title": "Arsenal latest: Tzolis hobbles off injured in Greece match",
-   "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-02T02:55:17.895Z",
-   "firstSeen": "2026-10-02T02:55:17.895Z"
-  },
-  {
-   "id": "aef3ea79a051",
-   "title": "Messi renews Ronaldo rivalry with acquisition of second-tier Spanish club",
-   "link": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-02T02:55:17.895Z",
-   "firstSeen": "2026-10-02T02:55:17.895Z"
-  },
-  {
-   "id": "b093c7f05c6e",
-   "title": "HMRC asked to explore tax implications of Man City case",
-   "link": "https://www.skysports.com/football/news/12040/13594084/man-city-charges-treasury-committee-writes-to-hmrc-to-ask-about-tax-implications-of-premier-league-investigation",
-   "snippet": "The Treasury Committee has written to the chief executive of HM Revenue and Customs (HMRC) to ask about the tax implications of the Premier League's investigation into Manchester City.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-02T02:55:17.895Z",
-   "firstSeen": "2026-10-02T02:55:17.895Z"
-  },
-  {
-   "id": "da9622484f7c",
-   "title": "Bellamy gets perfect response as Wales beat 10-man Norway",
-   "link": "https://www.skysports.com/football/wales-vs-norway/report/554040",
-   "snippet": "Wales responded to their disappointing defeat to Denmark with a spirited victory over Erling Haaland and 10-man Norway in Cardiff.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-02T02:55:17.895Z",
-   "firstSeen": "2026-10-02T02:55:17.895Z"
-  },
-  {
-   "id": "0f3d6d6e15ff",
-   "title": "Bellamy says Wales 'stick' hurt as Norway win lifts mood",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6zxzx1d484zo",
-   "snippet": "Head coach Craig Bellamy says he has been through a \"really difficult\" spell because of criticism aimed in his direction during Wales' winless run.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-01T22:56:09.000Z",
-   "firstSeen": "2026-10-02T02:55:17.895Z"
   }
  ]
 }
