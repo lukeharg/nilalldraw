@@ -1,6 +1,17 @@
 {
  "stories": [
   {
+   "id": "18798fe212f1",
+   "title": "Man City whistleblower to remain in witness protection",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq4g1xerk398o",
+   "snippet": "The computer hacker who released documents which helped trigger the Premier League investigation into Manchester City will remain under witness protection after authorities in Portugal suspend the decision to end it.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-09T22:59:32.000Z",
+   "firstSeen": "2026-10-10T03:06:46.366Z"
+  },
+  {
    "id": "01917a5b09e7",
    "title": "West Ham 1-1 QPR highlights",
    "link": "https://www.skysports.com/football/west-ham-united-vs-queens-park-rangers/live/560605",
@@ -7655,39 +7666,6 @@
    "section": "world",
    "published": "2026-10-03T05:00:51.000Z",
    "firstSeen": "2026-10-03T10:45:19.082Z"
-  },
-  {
-   "id": "1da17ac81b6f",
-   "title": "Papers: Man Utd to consider legal action if Gabriel leaves",
-   "link": "https://www.skysports.com/football/news/12040/13594537/man-utd-to-consider-legal-action-if-jj-gabriel-leaves-as-bayern-munich-barcelona-and-real-madrid-chase-youngster-paper-talk",
-   "snippet": "The top stories and transfer rumours from Saturday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-03T02:41:18.657Z",
-   "firstSeen": "2026-10-03T02:41:18.657Z"
-  },
-  {
-   "id": "9849a39e8ac3",
-   "title": "Aston Villa latest: Garnacho scores in Antonio Puerta Trophy win over Sevilla",
-   "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-03T02:41:18.657Z",
-   "firstSeen": "2026-10-03T02:41:18.657Z"
-  },
-  {
-   "id": "ca05b8031fdd",
-   "title": "Which clubs did Man City's 'inflated' money flow to in transfer market?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmew9w451vx8o",
-   "snippet": "BBC Sport follows the trail of transfer money flowing to other clubs during Manchester City's period of financial rule-breaking.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-02T22:30:24.000Z",
-   "firstSeen": "2026-10-03T02:41:18.657Z"
   }
  ]
 }
