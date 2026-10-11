@@ -1,6 +1,325 @@
 {
  "stories": [
   {
+   "id": "5bb5ebf43123",
+   "title": "Hits & Misses: Anderson and Wirtz offering opposite value for money",
+   "link": "https://www.skysports.com/football/news/12040/13597832/man-citys-elliot-anderson-deemed-a-bargain-while-florian-wirtz-fails-to-offer-return-on-liverpools-huge-investment-premier-league-hits-and-misses",
+   "snippet": "",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-11T21:10:16.295Z",
+   "firstSeen": "2026-10-11T21:10:16.295Z"
+  },
+  {
+   "id": "61ed7bce4b10",
+   "title": "Man City issue on-field statement by beating 10-man Liverpool",
+   "link": "https://www.skysports.com/football/liverpool-vs-manchester-city/report/559501",
+   "snippet": "Manchester City shut out all the noise and controversy to overcome a hostile Anfield atmosphere and beat 10-man Liverpool 3-0 on their return to Premier League action.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-11T21:10:16.295Z",
+   "firstSeen": "2026-10-11T21:10:16.295Z"
+  },
+  {
+   "id": "e4786c40e557",
+   "title": "'Barely a foul' - Carra criticises 'shocking' Gravenberch red card decision",
+   "link": "https://www.skysports.com/football/news/12040/13597935/liverpool-0-3-man-city-ryan-gravenberchs-sending-off-in-premier-league-defeat-criticised-by-jamie-carragher",
+   "snippet": "Ryan Gravenberch's sending off in Liverpool's 3-0 home defeat to Manchester City was a \"shocking decision\" by referee Chris Kavanagh, according to Sky Sports pundit Jamie Carragher.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-11T21:10:16.295Z",
+   "firstSeen": "2026-10-11T21:10:16.295Z"
+  },
+  {
+   "id": "fff2260a98c9",
+   "title": "Man City defiant and top of the table - but Anfield delivers its own verdict",
+   "link": "https://www.skysports.com/football/news/12040/13593871/liverpool-0-3-man-city-anfield-delivers-own-verdict-on-premier-league-ruling-but-city-are-defiant-and-top-of-the-table",
+   "snippet": "The chant from The Kop went up early. \"You haven't won a trophy since 1976.\" It was a reference to Manchester City's League Cup triumph, the last major honour that the club picked up prior to the period of ownership that now finds itself…",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-11T21:10:16.295Z",
+   "firstSeen": "2026-10-11T21:10:16.295Z"
+  },
+  {
+   "id": "971df128704f",
+   "title": "Kolo Muani: ‘Juventus better when Woltemade is on, gives me more freedom’",
+   "link": "https://football-italia.net/kolo-muani-juventus-better-when-woltemade-on/",
+   "snippet": "Randal Kolo Muani sends a warning to Juventus coach Luciano Spalletti after the equaliser against...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-11T21:00:51.000Z",
+   "firstSeen": "2026-10-11T21:10:16.295Z"
+  },
+  {
+   "id": "79105aa574e7",
+   "title": "Cagliari 1-1 Juventus ends in headloss as Spalletti and Pisacane see red",
+   "link": "https://football-italia.net/spalletti-pisacane-see-red-cagliari-1-1-juve/",
+   "snippet": "Luciano Spalletti and Fabio Pisacane were both sent off at the end of the 1-1...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-11T20:55:31.000Z",
+   "firstSeen": "2026-10-11T21:10:16.295Z"
+  },
+  {
+   "id": "87436f6ff0ee",
+   "title": "Serie A | Cagliari 1-1 Juventus: Kolo Muani first goal to rescue a point",
+   "link": "https://football-italia.net/serie-a-cagliari-1-1-juventus-kolomuani-rescue/",
+   "snippet": "Randal Kolo Muani’s first goal of the season rescued a point for toothless Juventus away...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-11T20:38:58.000Z",
+   "firstSeen": "2026-10-11T21:10:16.295Z"
+  },
+  {
+   "id": "9bbbe81509cc",
+   "title": "Man City's statement win has feeling of irrelevance with season in limbo",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmy0rd4pex7no",
+   "snippet": "Manchester City record what they will view as a statement win at Liverpool - but is it a statement that carries any weight during a Premier League season in limbo, asks Phil McNulty?",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-11T20:02:27.000Z",
+   "firstSeen": "2026-10-11T21:10:16.295Z"
+  },
+  {
+   "id": "f2c4c75fafe8",
+   "title": "Impervious City shrug off chaos and controversy to silence Anfield | Andy Hunter",
+   "link": "https://www.theguardian.com/football/2026/oct/11/impervious-city-shrug-off-chaos-and-controversy-to-silence-anfield",
+   "snippet": "What had been billed as a day of reckoning for the Premier League champions turned into a Sunday afternoon stroll Anfield welcomed Manchester City to their new reality, a sullied place where every touch is accompanied by cries of “cheat”,…",
+   "source": "The Guardian",
+   "sourceId": "guardian-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-11T20:02:08.000Z",
+   "firstSeen": "2026-10-11T21:10:16.295Z"
+  },
+  {
+   "id": "d344311ac6d5",
+   "title": "‘We make our own noise’: Maresca hails Manchester City after Liverpool triumph",
+   "link": "https://www.theguardian.com/football/2026/oct/11/enzo-maresca-manchester-city-liverpool-premier-league",
+   "snippet": "‘You cannot imagine how happy I am … I’m here to win’ City win 3-0 at Anfield in first game since guilty verdict Enzo Maresca praised Manchester City for “making their own noise” at Liverpool as they brushed aside the controversy and…",
+   "source": "The Guardian",
+   "sourceId": "guardian-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-11T19:43:59.000Z",
+   "firstSeen": "2026-10-11T21:10:16.295Z"
+  },
+  {
+   "id": "49f3350e5d2e",
+   "title": "Winless and an 'easy touch' - what's happened to the Anfield fear factor?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck5yn20wej62o",
+   "snippet": "Liverpool's struggles at Anfield continue as Iraola still awaits his first Premier League win at Anfield.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-11T19:41:17.000Z",
+   "firstSeen": "2026-10-11T21:10:16.295Z"
+  },
+  {
+   "id": "b75518fa4f50",
+   "title": "Montella sends message to supporters after Turkiye sack: ‘A special place in my heart’",
+   "link": "https://football-italia.net/montella-sends-message-after-turkiye-sack/",
+   "snippet": "Vincenzo Montella has taken to social media to thank the supporters of the Turkiye national...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-11T19:29:11.000Z",
+   "firstSeen": "2026-10-11T21:10:16.295Z"
+  },
+  {
+   "id": "637aed1fd03b",
+   "title": "Premier League returns in shadow of Manchester City’s judgment day | Jonathan Wilson",
+   "link": "https://www.theguardian.com/football/2026/oct/11/premier-league-returns-in-shadow-of-manchester-citys-judgment-day",
+   "snippet": "Football felt secondary on the first weekend of action since club were found guilty of breaking financial rules The Cimbri are heading menacingly south, but in Rome life goes on. The asteroid is definitely coming this way, but people go to…",
+   "source": "The Guardian",
+   "sourceId": "guardian-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-11T19:11:36.000Z",
+   "firstSeen": "2026-10-11T21:10:16.295Z"
+  },
+  {
+   "id": "5cd122ac7eb8",
+   "title": "Chiesa earns first minutes of 2026-27 season for Liverpool in 3-0 Man City defeat",
+   "link": "https://football-italia.net/chiesa-earns-first-minutes-of-2026-27-season/",
+   "snippet": "Federico Chiesa earned his first minutes of the 2026-27 season as a late substitute in...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-11T19:07:25.000Z",
+   "firstSeen": "2026-10-11T21:10:16.295Z"
+  },
+  {
+   "id": "9355c2a3df93",
+   "title": "Doku delights as Manchester City cruise past 10-man Liverpool",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6vgy2ll1zypo",
+   "snippet": "In their first match since being found guilty of breaching Premier League financial rules, Manchester City enjoyed a comfortable 3-0 win against Liverpool at Anfield to extend their perfect start to six matches, as they moved three points…",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-11T18:59:19.000Z",
+   "firstSeen": "2026-10-11T21:10:16.295Z"
+  },
+  {
+   "id": "0a1f558a2c37",
+   "title": "Hull continue good start with entertaining Everton draw",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c61mvdy2mdx9o",
+   "snippet": "Mohamed Belloumi scores a second-half leveller as Hull City and Everton continue their good starts to the season with an entertaining draw at MKM Stadium.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-11T18:59:04.000Z",
+   "firstSeen": "2026-10-11T21:10:16.295Z"
+  },
+  {
+   "id": "f97aa8d96328",
+   "title": "Glasner suffers loss on Selhurst return as Palace beat Forest",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cwz0zkj27greo",
+   "snippet": "Oliver Glasner endures a frustrating return to Crystal Palace with his Nottingham Forest side lets slip an early lead to lose to the Eagles.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-11T18:59:02.000Z",
+   "firstSeen": "2026-10-11T21:10:16.295Z"
+  },
+  {
+   "id": "a963f8b90c89",
+   "title": "'I didn't like the refereeing' - Iraola unhappy with Gravenberch red",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cj20v49vd4zro",
+   "snippet": "Andoni Iraola says he didn't agree with midfielder Ryan Gravenberch's red card in Liverpool's defeat to Manchester City at Anfield.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-11T18:46:34.000Z",
+   "firstSeen": "2026-10-11T21:10:16.295Z"
+  },
+  {
+   "id": "901477f50c8b",
+   "title": "Amorim: ‘Milan cannot concede that goal, sad for Gabbia injury’",
+   "link": "https://football-italia.net/amorim-milan-cannot-concede-goal-sad-gabbia/",
+   "snippet": "Ruben Amorim explains his Milan tactical changes, including the introduction of Luka Modric, but they...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-11T18:45:04.000Z",
+   "firstSeen": "2026-10-11T21:10:16.295Z"
+  },
+  {
+   "id": "6b5872183590",
+   "title": "'We deal with the noise' - Maresca 'proud' after Man City win",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cm62yzw2175yo",
+   "snippet": "Manchester City manager Enzo Maresca says his squad 'dealt with the noise' after they beat Liverpool 3-0 at Anfield in their first match since being found guilty of breaching Premier League financial rules.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-11T18:38:31.000Z",
+   "firstSeen": "2026-10-11T21:10:16.295Z"
+  },
+  {
+   "id": "9e7c7f97ac91",
+   "title": "Spalletti: ‘Kolo Muani needs to put his best skills into practice’",
+   "link": "https://football-italia.net/spalletti-kolo-muani-best-skills-into-practice/",
+   "snippet": "Luciano Spalletti says he hopes that Juventus have learned from their mistakes away against Cagliari...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-11T18:35:58.000Z",
+   "firstSeen": "2026-10-11T21:10:16.295Z"
+  },
+  {
+   "id": "bfe0b00fd696",
+   "title": "Aquilani impressed with Sassuolo ‘maturity’ in Milan draw",
+   "link": "https://football-italia.net/aquilani-impressed-sassuolo-maturity-milan/",
+   "snippet": "Alberto Aquilani admits Sassuolo ‘let Milan keep the initiative’ too much, but praised their ‘maturity’...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-11T18:25:26.000Z",
+   "firstSeen": "2026-10-11T21:10:16.295Z"
+  },
+  {
+   "id": "3ddd4b4c6dbf",
+   "title": "Serie A | Sassuolo 1-1 Milan: Not enough for Rabiot to celebrate",
+   "link": "https://football-italia.net/serie-a-sassuolo-1-1-milan-rabiot-not-enough/",
+   "snippet": "Adrien Rabiot’s rocket was cancelled out by Cas Odenthal, as Milan were held to a...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-11T18:02:52.000Z",
+   "firstSeen": "2026-10-11T21:10:16.295Z"
+  },
+  {
+   "id": "ffd476c506f3",
+   "title": "Burnham to release details of Man City meetings",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c962y5nd273no",
+   "snippet": "Andy Burnham has faced criticism for comments he made in the wake of Manchester City being found guilty of all charges related to breaches of the Premier League's financial rules.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-11T18:01:13.000Z",
+   "firstSeen": "2026-10-11T21:10:16.295Z"
+  },
+  {
+   "id": "da07a5ebfd55",
+   "title": "HENRY WINTER: Manchester City triumph with a 'pointless' Anfield win - and show they have the character to deal with the noise",
+   "link": "https://www.fourfourtwo.com/team/manchester-city-triumph-with-a-pointless-anfield-win-and-show-they-have-the-character-to-deal-with-the-noise",
+   "snippet": "Liverpool brought banners, Manchester City bananas, as the cloud over the Citizens lifts for a thumping victory on Merseyside",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-10-11T17:56:36.000Z",
+   "firstSeen": "2026-10-11T21:10:16.295Z"
+  },
+  {
+   "id": "f9bb5944dd85",
+   "title": "Cherki cracker caps Manchester City win at Liverpool in face of Anfield taunts",
+   "link": "https://www.theguardian.com/football/2026/oct/11/liverpool-manchester-city-premier-league-match-report",
+   "snippet": "It is a soundtrack that Manchester City have heard before but never for such sustained spells during a match. It came from the Liverpool support, first ringing out around Anfield before kick-off and coming at regular intervals thereafter.…",
+   "source": "The Guardian",
+   "sourceId": "guardian-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-11T17:42:02.000Z",
+   "firstSeen": "2026-10-11T21:10:16.295Z"
+  },
+  {
+   "id": "892f1faba5a9",
+   "title": "Serie A: Cagliari vs. Juventus – Confirmed line-ups",
+   "link": "https://football-italia.net/serie-a-cagliari-vs-juventus-official-line-ups/",
+   "snippet": "Cagliari are hoping to keep their impressive winning streak alive when they host Juventus, two...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-11T17:35:30.000Z",
+   "firstSeen": "2026-10-11T21:10:16.295Z"
+  },
+  {
+   "id": "5feb0ee76329",
+   "title": "Who 'simply has to do better'? Liverpool v Man City player ratings",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck87z1jjynyqo",
+   "snippet": "How Liverpool and Man City's players rated following their Premier League match.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-11T17:30:19.000Z",
+   "firstSeen": "2026-10-11T21:10:16.295Z"
+  },
+  {
+   "id": "ddd00d1314f6",
+   "title": "Only one defender in Europe’s top 5 leagues has more goal contributions than Calafiori",
+   "link": "https://football-italia.net/only-one-defender-more-goal-contribs-calafiori/",
+   "snippet": "Following his goal for Arsenal against Leeds in the Premier League on Saturday afternoon, Italy’s...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-11T17:06:29.000Z",
+   "firstSeen": "2026-10-11T21:10:16.295Z"
+  },
+  {
    "id": "2adf11efd2ca",
    "title": "Palace stun Forest on Glasner's Selhurst Park return",
    "link": "https://www.skysports.com/football/crystal-palace-vs-nottingham-forest/report/559498",
@@ -34,6 +353,17 @@
    "firstSeen": "2026-10-11T16:55:29.739Z"
   },
   {
+   "id": "6c4dc3dfc59c",
+   "title": "Jota comeback helps Celtic lift gloom in strong response",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqwy7nr5lry0o",
+   "snippet": "Jota's comeback from long-term injury and Celtic's convincing victory over Motherwell provide positivity following the club's recent acrimony.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-11T16:55:21.000Z",
+   "firstSeen": "2026-10-11T21:10:16.295Z"
+  },
+  {
    "id": "f309824295b0",
    "title": "Liverpool v Manchester City: Premier League – live",
    "link": "https://www.theguardian.com/football/live/2026/oct/11/liverpool-v-manchester-city-premier-league-live-score-updates",
@@ -54,6 +384,17 @@
    "section": "premier-league",
    "published": "2026-10-11T16:50:12.000Z",
    "firstSeen": "2026-10-11T16:55:29.739Z"
+  },
+  {
+   "id": "546fcb942175",
+   "title": "Reaction as Celtic bounce back and Aberdeen flounder",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pg5m3j",
+   "snippet": "Reaction to wins for Celtic and St Johnstone in the Scottish Premiership",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-11T16:45:00.000Z",
+   "firstSeen": "2026-10-11T21:10:16.295Z"
   },
   {
    "id": "05eba63f479f",
@@ -8271,215 +8612,6 @@
    "section": "world",
    "published": "2026-10-04T21:13:30.000Z",
    "firstSeen": "2026-10-05T02:47:51.906Z"
-  },
-  {
-   "id": "45f6403648e7",
-   "title": "You are the Scotland boss - what would you do?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cr4g1q2w1g6zo",
-   "snippet": "Put yourself in the shoes of the new Scotland head coach Sebastien Pocognoli as he picks his XI to face Slovenia on Tuesday.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-04T21:06:47.000Z",
-   "firstSeen": "2026-10-05T02:47:51.906Z"
-  },
-  {
-   "id": "8dadf9fa7643",
-   "title": "Let’s stop doubting Thomas Tuchel: England are impressive and Euro 2028 is the target",
-   "link": "https://www.theguardian.com/football/2026/oct/04/thomas-tuchel-england-croatia-nations-league-euro-2028",
-   "snippet": "Coming third in the World Cup was really not a disaster, and Saturday’s rout of Croatia and building the team around Jude Bellingham are good signs Move fast and fix things. It has been a fine week so far for Thomas Tuchel as he attempts…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-10-04T21:00:37.000Z",
-   "firstSeen": "2026-10-05T02:47:51.906Z"
-  },
-  {
-   "id": "c766a0fd6483",
-   "title": "Denmark sink Wales as Rasmus Højlund makes Danny Ward pay for blunder",
-   "link": "https://www.theguardian.com/football/2026/oct/04/wales-denmark-nations-league-match-report",
-   "snippet": "Wales crave momentum but, a few days after surely the sweetest high of Craig Bellamy’s two-year reign, a sapping international window ended on a bum note. At least until Bellamy was informed Portugal’s comeback victory over Norway means…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-10-04T20:52:23.000Z",
-   "firstSeen": "2026-10-05T02:47:51.906Z"
-  },
-  {
-   "id": "67795c854724",
-   "title": "Hero to zero! Wales GK Ward makes huge errors to give Denmark lead LIVE!",
-   "link": "https://www.skysports.com/football/wales-vs-denmark/live/554066",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-04T20:35:37.493Z",
-   "firstSeen": "2026-10-04T20:35:37.493Z"
-  },
-  {
-   "id": "950b79b3f6d4",
-   "title": "Slegers: Arsenal not in title conversation and in need of a review",
-   "link": "https://www.skysports.com/football/news/12040/13595107/renee-slegers-arsenal-are-not-in-wsl-title-race-as-under-pressure-boss-calls-for-review-after-man-city-loss",
-   "snippet": "Under-fire Arsenal boss Renee Slegers says her side are not in the conversation for this season's Women's Super League title after a 4-2 defeat to Man City left them languishing in tenth place in the table, 10 points adrift of the league…",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-04T20:35:37.493Z",
-   "firstSeen": "2026-10-04T20:35:37.493Z"
-  },
-  {
-   "id": "c749344fd8ea",
-   "title": "Republic of Ireland vs Israel latest score",
-   "link": "https://www.skysports.com/football/republic-of-ireland-vs-israel/7868547122330107232",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-04T20:35:37.493Z",
-   "firstSeen": "2026-10-04T20:35:37.493Z"
-  },
-  {
-   "id": "597557a48f88",
-   "title": "Arsenal 10 points off WSL leaders - is Slegers' job at risk?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c9p8gmvlvp57o",
-   "snippet": "It is only five matches into the WSL season but Arsenal are already 10 points behind leaders Manchester City and manager Renee Slegers is coming under increasing scrutiny.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-04T20:34:17.000Z",
-   "firstSeen": "2026-10-05T02:47:51.906Z"
-  },
-  {
-   "id": "3e09f78d3104",
-   "title": "Real Madrid join race for Scott - Monday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cke8r1v3jndlo",
-   "snippet": "Bournemouth's Alex Scott at the centre of a transfer tussle, Arsenal show interest in Juventus winger Kenan Yildiz, Real Betis rebuff speculation linking Troy Parrott with a move away, plus more.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-04T20:24:19.000Z",
-   "firstSeen": "2026-10-04T20:35:37.493Z"
-  },
-  {
-   "id": "873346599157",
-   "title": "Wales v Denmark, Republic of Ireland v Israel and more: Nations League – live",
-   "link": "https://www.theguardian.com/football/live/2026/oct/04/wales-v-denmark-republic-of-ireland-v-israel-and-more-nations-league-live",
-   "snippet": "⚽️ Nations League updates from 7.45pm kick-offs ⚽️ Live scoreboard | And mail Daniel Ronaldo may have thrown his toys out the cot and stormed off in a huff, but he remains the greatest player his country has ever produced. Bruno Fernandes…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-10-04T20:18:30.000Z",
-   "firstSeen": "2026-10-04T20:35:37.493Z"
-  },
-  {
-   "id": "d818a4fc2506",
-   "title": "How did legends cope with Tennent's Sixes revival?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwdd84emdjy5o",
-   "snippet": "Celtic beat Rangers in the final of the revived Tennent's Sixes, but how did the weekend go at Braehead Arena?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-04T19:42:19.000Z",
-   "firstSeen": "2026-10-04T20:35:37.493Z"
-  },
-  {
-   "id": "889c853c5832",
-   "title": "Montella: ‘Don’t want to think negatively, will not accept illogical criticism’",
-   "link": "https://football-italia.net/montella-dont-want-to-think-negatively-critics/",
-   "snippet": "Vincenzo Montella does ‘not want to think negatively’ ahead of Turkiye’s Nations League match against...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-04T19:34:51.000Z",
-   "firstSeen": "2026-10-04T20:35:37.493Z"
-  },
-  {
-   "id": "b12f16515777",
-   "title": "Meet the 51-year-old striker still playing who used to ‘bomb amphetamines’ in the 90s rave scene",
-   "link": "https://www.fourfourtwo.com/person/player/ill-surpass-1-100-games-by-christmas-because-i-take-good-care-of-myself-meet-the-51-year-old-striker-still-playing-who-used-to-bomb-amphetamines-in-the-90s-rave-scene",
-   "snippet": "The story of Jamie Cureton, a player who has scored all 10 levels of English football, is a remarkable one",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-10-04T18:50:52.000Z",
-   "firstSeen": "2026-10-04T20:35:37.493Z"
-  },
-  {
-   "id": "c1dab189af93",
-   "title": "'We fought for every ball' - Hemp on Man City's thrilling win",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cqly0lgy37z8o",
-   "snippet": "Two-goal Lauren Hemp says Manchester City showed passion and character in their 4-2 win over Arsenal in the WSL.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-04T18:20:05.000Z",
-   "firstSeen": "2026-10-04T20:35:37.493Z"
-  },
-  {
-   "id": "2b2eb15ecea8",
-   "title": "Shaw seals thrilling win over Arsenal to extend Manchester City’s 100% WSL start",
-   "link": "https://www.theguardian.com/football/2026/oct/04/manchester-city-arsenal-wsl-match-report",
-   "snippet": "Arsenal’s under-pressure head coach Renée Slegers still believes they will turn their form around, despite falling 10 points behind Manchester City with Sunday’s defeat in an absorbing six-goal thriller against the defending champions.…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-10-04T18:07:47.000Z",
-   "firstSeen": "2026-10-04T20:35:37.493Z"
-  },
-  {
-   "id": "e3bd334d883e",
-   "title": "Tuchel says Alex Scott’s emergence gives England – and Rice – ‘high level’ competition",
-   "link": "https://www.theguardian.com/football/2026/oct/04/alex-scott-declan-rice-thomas-tuchel-midfield-england-croatia-nations-league",
-   "snippet": "Tuchel praises Scott’s all-round display in Croatia win ‘We will not survive on two midfielders. More the better’ Thomas Tuchel warned that there is competition for Declan Rice’s place in England’s midfield after Alex Scott marked his…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-10-04T18:00:34.000Z",
-   "firstSeen": "2026-10-04T20:35:37.493Z"
-  },
-  {
-   "id": "40c34b6a90db",
-   "title": "Mancini: ‘Italy make changes, biggest mistake against Turkiye’",
-   "link": "https://football-italia.net/mancini-italy-changes-biggest-mistake-turkiye/",
-   "snippet": "Roberto Mancini confirms big Italy changes in their Nations League, while standing up for Turkiye...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-04T17:50:02.000Z",
-   "firstSeen": "2026-10-04T20:35:37.493Z"
-  },
-  {
-   "id": "143ea188fb64",
-   "title": "Barella: ‘I need more Italy goals, Mancini helps players feel peace’",
-   "link": "https://football-italia.net/barella-need-italy-goals-mancini-helps-players/",
-   "snippet": "Nicolò Barella insists he is ‘lacking a few goals’ for Italy and outlines how Roberto...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-04T17:30:02.000Z",
-   "firstSeen": "2026-10-04T20:35:37.493Z"
-  },
-  {
-   "id": "ed127c080635",
-   "title": "'It all clicked today' - Van de Donk and Putellas thrilled with 6-1 win against Spurs",
-   "link": "https://www.bbc.co.uk/sport/football/videos/ck86z91q4480o",
-   "snippet": "London City Lionesses' Danielle van de Donk and Alexia Putellas react to their team's 6-1 win against Tottenham Hotspur in the Women's Super League.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-04T17:18:22.000Z",
-   "firstSeen": "2026-10-04T20:35:37.493Z"
-  },
-  {
-   "id": "babad569742d",
-   "title": "Mancini: ‘Kean out for Italy, cannot underestimate Turkiye’",
-   "link": "https://football-italia.net/mancini-kean-out-italy-underestimate-turkiye/",
-   "snippet": "Moise Kean has left the Italy camp due to injury, so Roberto Mancini hints Atalanta...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-04T17:15:03.000Z",
-   "firstSeen": "2026-10-04T20:35:37.493Z"
   }
  ]
 }
