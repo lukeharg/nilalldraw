@@ -1,6 +1,94 @@
 {
  "stories": [
   {
+   "id": "0fc283a9d534",
+   "title": "Papers: Forest Green Rovers reveal unique plan to replace Savage",
+   "link": "https://www.skysports.com/football/news/12040/13597992/forest-green-rovers-to-operate-without-a-single-manager-after-robbie-savages-departure-to-peterborough-paper-talk",
+   "snippet": "The top stories and transfer rumours from Monday's newspapers...",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-12T03:02:46.711Z",
+   "firstSeen": "2026-10-12T03:02:46.711Z"
+  },
+  {
+   "id": "378a3f381cb9",
+   "title": "'Call it a day with VAR' - Rooney on Palace's controversial goal",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cqlyendmk7wyo",
+   "snippet": "Speaking on Match of the Day, Wayne Rooney says VAR made the wrong decision in awarding Crystal Palace their second goal, which saw the home side take the lead as they went on to beat Nottingham Forest 3-1 in the Premier League.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-11T23:31:42.000Z",
+   "firstSeen": "2026-10-12T03:02:46.711Z"
+  },
+  {
+   "id": "b0f2db77cbc5",
+   "title": "'It's a bad situation' - Why Man City win creates uncertainty",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cw073z5j55y9o",
+   "snippet": "Speaking on Match of the Day, Toby Alderweireld and Wayne Rooney discuss why Manchester City's 3-0 victory against Liverpool leaves the Premier League in limbo as the club awaits a potential punishment, which could include a points…",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-11T23:23:03.000Z",
+   "firstSeen": "2026-10-12T03:02:46.711Z"
+  },
+  {
+   "id": "64ce9d7e16ae",
+   "title": "'Big star' - How Doku delivered for Man City in win against Liverpool",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c8g47knxqvgdo",
+   "snippet": "Speaking on Match of the Day, Wayne Rooney and Toby Alderweireld analyse how Jeremy Doku changed the game in Manchester City's favour, after coming on as a substitute in his side's 3-0 win against Liverpool at Anfield.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-11T23:00:57.000Z",
+   "firstSeen": "2026-10-12T03:02:46.711Z"
+  },
+  {
+   "id": "81e481ddce48",
+   "title": "Rooney gives verdict on Gravenberch red card",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6ly0jdndez9o",
+   "snippet": "Speaking on Match of the Day, Wayne Rooney and Toby Alderweireld discuss whether Ryan Gravenberch should have been sent off, after he received two yellow cards in Liverpool 3-0 defeat to Manchester City in the Premier League.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-11T23:00:33.000Z",
+   "firstSeen": "2026-10-12T03:02:46.711Z"
+  },
+  {
+   "id": "4fc90356b4f6",
+   "title": "Pisacane: ‘If Juventus are worried about playing us, Cagliari are on the right track’",
+   "link": "https://football-italia.net/pisacane-juventus-worried-cagliari-right-track/",
+   "snippet": "Fabio Pisacane hits out at Juventus coach Luciano Spalletti after the 1-1 draw, noting ‘if...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-11T21:35:10.000Z",
+   "firstSeen": "2026-10-12T03:02:46.711Z"
+  },
+  {
+   "id": "ac6c7b1c464a",
+   "title": "Aston Villa planning Endrick move - Monday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5gm01j87jl7o",
+   "snippet": "Aston Villa are looking at signing Real Madrid striker Endrick, Liverpool are weighing up a move for Barcelona's Marc Bernal, Everton are leading the chase for Rennes striker Esteban Lepaul, plus more.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-11T21:32:39.000Z",
+   "firstSeen": "2026-10-12T03:02:46.711Z"
+  },
+  {
+   "id": "65adba9f894d",
+   "title": "Spalletti: ‘Juventus must seek victory, Cagliari good at wasting time’",
+   "link": "https://football-italia.net/spalletti-juventus-must-seek-victory-cagliari/",
+   "snippet": "Luciano Spalletti stands up for his Juventus choices after the 1-1 draw with Cagliari, critiques...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-11T21:19:40.000Z",
+   "firstSeen": "2026-10-12T03:02:46.711Z"
+  },
+  {
    "id": "5bb5ebf43123",
    "title": "Hits & Misses: Anderson and Wirtz offering opposite value for money",
    "link": "https://www.skysports.com/football/news/12040/13597832/man-citys-elliot-anderson-deemed-a-bargain-while-florian-wirtz-fails-to-offer-return-on-liverpools-huge-investment-premier-league-hits-and-misses",
@@ -120,6 +208,17 @@
    "section": "premier-league",
    "published": "2026-10-11T19:41:17.000Z",
    "firstSeen": "2026-10-11T21:10:16.295Z"
+  },
+  {
+   "id": "30db325d0979",
+   "title": "Football Daily",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pg61sx",
+   "snippet": "Rick Edwards, Luke Edwards and Clinton Morrison discuss the latest Premier League action.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-11T19:39:00.000Z",
+   "firstSeen": "2026-10-12T03:02:46.711Z"
   },
   {
    "id": "b75518fa4f50",
@@ -8491,127 +8590,6 @@
    "section": "world",
    "published": "2026-10-05T05:00:00.000Z",
    "firstSeen": "2026-10-05T12:53:46.646Z"
-  },
-  {
-   "id": "30b78d92d0b5",
-   "title": "Hojlund pen condemns Wales to third Nations League defeat in four",
-   "link": "https://www.skysports.com/football/wales-vs-denmark/report/554066",
-   "snippet": "Wales suffered a 1-0 Nations League defeat to Denmark as Rasmus Hojlund scored the game's only goal from the penalty spot.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-05T02:47:51.906Z",
-   "firstSeen": "2026-10-05T02:47:51.906Z"
-  },
-  {
-   "id": "38f43bc5a825",
-   "title": "Papers: Ronaldo to make Portugal return",
-   "link": "https://www.skysports.com/football/news/12040/13595152/cristiano-ronaldo-to-make-portugal-return-in-2027-paper-talk",
-   "snippet": "The top stories and transfer rumours from Monday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-05T02:47:51.906Z",
-   "firstSeen": "2026-10-05T02:47:51.906Z"
-  },
-  {
-   "id": "e68c380e6715",
-   "title": "Republic of Ireland draw with Israel in second Nations League meeting",
-   "link": "https://www.skysports.com/football/republic-of-ireland-vs-israel/report/554064",
-   "snippet": "The Republic of Ireland drew 1-1 with Israel in the second controversial Nations League fixture between the sides.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-05T02:47:51.906Z",
-   "firstSeen": "2026-10-05T02:47:51.906Z"
-  },
-  {
-   "id": "60db31954f18",
-   "title": "Israel 'tried to intimidate' Irish amid spitting row - Hallgrimsson",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cw4g14eg5p22o",
-   "snippet": "Republic of Ireland head coach Heimir Hallgrimsson says he felt Israel were \"trying to intimidate\" his team amid allegations of spitting during Sunday's Nations League draw.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-04T22:51:49.000Z",
-   "firstSeen": "2026-10-05T02:47:51.906Z"
-  },
-  {
-   "id": "9b3bac8bc1af",
-   "title": "No other team should go through this - Hallgrimsson",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqe8lv6m1nn3o",
-   "snippet": "Republic of Ireland manager Heimir Hallgrimsson says he is \"delighted\" this most trying of international windows is over and hopes \"no national team to go through what we have gone through over the last two weeks\".",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-04T22:43:10.000Z",
-   "firstSeen": "2026-10-05T02:47:51.906Z"
-  },
-  {
-   "id": "4ac4a4d87e83",
-   "title": "Bellamy bemoans new schedule after Denmark loss",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm93zyld4513o",
-   "snippet": "Craig Bellamy suggests the new four-match international window has counted against Wales after Sunday's Nations League defeat against Denmark.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-04T22:36:20.000Z",
-   "firstSeen": "2026-10-05T02:47:51.906Z"
-  },
-  {
-   "id": "627d3d30e773",
-   "title": "Clàudia Pina hits four as Barcelona score seven goals to demolish Real Madrid",
-   "link": "https://www.theguardian.com/football/2026/oct/04/claudia-pina-hits-four-as-barcelona-demolish-real-madrid",
-   "snippet": "Barcelona 7-0 Real Madrid Lead at the top stretched to five points Clàudia Pina smashed in four goals as Barcelona demolished Real Madrid 7-0 to earn a five point lead at the top of Liga F on Sunday over their rivals. The 25-year-old Spain…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-10-04T22:28:38.000Z",
-   "firstSeen": "2026-10-05T02:47:51.906Z"
-  },
-  {
-   "id": "140bc0ea9b0a",
-   "title": "Portugal boss says door open for Ronaldo return",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c3dxwry8vydvo",
-   "snippet": "Cristiano Ronaldo could still return for Portugal, according to boss Jorge Jesus.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-04T22:10:59.000Z",
-   "firstSeen": "2026-10-05T02:47:51.906Z"
-  },
-  {
-   "id": "b10c98b3832a",
-   "title": "Nations League roundup: Haaland limps off in Norway’s loss to Portugal",
-   "link": "https://www.theguardian.com/football/2026/oct/04/nations-league-roundup-haaland-limps-off-in-norways-loss-to-portugal",
-   "snippet": "Portugal victory seals place in quarter-finals Greece hold Germany to goalless draw Title-holders Portugal maintained their 100% record in the Nations League with a 2-1 home win over Norway on Sunday to seal a place in ⁠the March…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-10-04T21:42:23.000Z",
-   "firstSeen": "2026-10-05T02:47:51.906Z"
-  },
-  {
-   "id": "438d4571b0b0",
-   "title": "Man City fight back to beat struggling Arsenal",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c64g71j3dkw7o",
-   "snippet": "Manchester City twice came from behind to beat Arsenal 4-2 at the Etihad Stadium and increase the pressure on Gunners manager Renee Slegers.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-04T21:20:21.000Z",
-   "firstSeen": "2026-10-05T02:47:51.906Z"
-  },
-  {
-   "id": "5cacdda1301b",
-   "title": "Hallgrímsson calls on Uefa to keep Ireland and Israel apart in future after bad-tempered draw",
-   "link": "https://www.theguardian.com/football/2026/oct/04/republic-of-ireland-israel-nations-league-match-report",
-   "snippet": "The Republic of Ireland’s manager Heimir Hallgrímsson has called on Uefa to keep his side away from Israel in future draws after a pair of fixtures he admitted “has been tough on us all”. Ireland were pegged back to a draw in another…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-10-04T21:13:30.000Z",
-   "firstSeen": "2026-10-05T02:47:51.906Z"
   }
  ]
 }
