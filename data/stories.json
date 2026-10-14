@@ -1,6 +1,127 @@
 {
  "stories": [
   {
+   "id": "ccbb536e2a16",
+   "title": "EFL latest: Police investigating after Swansea's Eom targeted by alleged racist chanting",
+   "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+   "snippet": "",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-14T02:29:20.515Z",
+   "firstSeen": "2026-10-14T02:29:20.515Z"
+  },
+  {
+   "id": "ced650497de7",
+   "title": "Potter’s the present, not just the future after impressive England debut",
+   "link": "https://www.skysports.com/football/news/12040/13599032/lexi-potter-england-women-midfielder-the-present-not-just-the-future-after-impressive-debut-in-world-cup-play-off",
+   "snippet": "Lexi Potter could not have done more to prove she should not only be in England’s World Cup squad next summer, she could also be in the starting XI.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-14T02:29:20.515Z",
+   "firstSeen": "2026-10-14T02:29:20.515Z"
+  },
+  {
+   "id": "90f0c0010a37",
+   "title": "Saka responds to Arteta's challenge with 'huge impact'",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqrlyd1grwkko",
+   "snippet": "Bukayo Saka responds to the challenge set by Mikel Arteta as he comes off the bench to change the game against Lille in the Champions League.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-13T23:03:04.000Z",
+   "firstSeen": "2026-10-14T02:29:20.515Z"
+  },
+  {
+   "id": "866fc87f7180",
+   "title": "‘I expect more’: Lisandro Martínez hits out at Manchester United hierarchy",
+   "link": "https://www.theguardian.com/football/2026/oct/13/lisandro-martinez-hits-out-at-united-hierarchy-after-defeat-at-atletico-madrid",
+   "snippet": "Defeat to Atlético Madrid ‘reflects how our club is’ Argentinian says club has not invested enough in players Lisandro Martínez has hit out at the Manchester United hierarchy, blaming the lack of investment as their dismal start to the…",
+   "source": "The Guardian",
+   "sourceId": "guardian-champions-league",
+   "section": "champions-league",
+   "published": "2026-10-13T22:48:22.000Z",
+   "firstSeen": "2026-10-14T02:29:20.515Z"
+  },
+  {
+   "id": "681c527e87cc",
+   "title": "BBC Women's Football Weekly",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pgjk3h",
+   "snippet": "After two standout displays, has Le Tissier made a case to start alongside Bronze?",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-13T22:47:00.000Z",
+   "firstSeen": "2026-10-14T02:29:20.515Z"
+  },
+  {
+   "id": "d0ea47a6e0aa",
+   "title": "Everything Manchester United star Lisandro Martinez said, as defender rips into club directors in extraordinary interview",
+   "link": "https://www.fourfourtwo.com/person/player/everything-manchester-united-star-lisandro-martinez-said-as-defender-rips-into-club-directors-in-extraordinary-interview",
+   "snippet": "Manchester United defender Lisandro Martinez has pulled no punches after yet another Red Devils defeat",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-10-13T22:46:54.000Z",
+   "firstSeen": "2026-10-14T02:29:20.515Z"
+  },
+  {
+   "id": "6945a88941d5",
+   "title": "Swans' Eom the target of alleged racism at Millwall",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmdx3nk7kwwro",
+   "snippet": "Swansea City head coach Vitor Matos says the lengthy stoppage during their 1-0 win away at Millwall was a result of racist abuse aimed at winger Ji-sung Eom.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-13T22:23:48.000Z",
+   "firstSeen": "2026-10-14T02:29:20.515Z"
+  },
+  {
+   "id": "71c8cc095101",
+   "title": "McArdle 'really encouraged' despite Portugal loss",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmglwxd0d25xo",
+   "snippet": "Northern Ireland manager Michael McArdle says their play-off defeat by Portugal is \"the start of a new identity\" despite their heavy 7-1 aggregate loss.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-13T22:20:39.000Z",
+   "firstSeen": "2026-10-14T02:29:20.515Z"
+  },
+  {
+   "id": "46f30fd2afce",
+   "title": "'Unplayable' Stanway a free-scoring warrior for Lionesses",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm2kev8w934do",
+   "snippet": "Whatever the game, whatever the result, Georgia Stanway always seems to score for England.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-13T22:15:44.000Z",
+   "firstSeen": "2026-10-14T02:29:20.515Z"
+  },
+  {
+   "id": "f9852479557b",
+   "title": "Potter helps England find magic but World Cup playoff format needs rethink | Tom Garry",
+   "link": "https://www.theguardian.com/football/2026/oct/13/england-greece-women-world-cup-qualifying-playoffs",
+   "snippet": "Lexi Potter and Lauren James stole the show against Greece but England’s 8-1 aggregate win was one of many lopsided scorelines If there had been a vidiprinter at the King Power Stadium displaying the aggregate scorelines from the night’s…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-13T22:14:28.000Z",
+   "firstSeen": "2026-10-14T02:29:20.515Z"
+  },
+  {
+   "id": "3e41f6ad0908",
+   "title": "Champions League roundup: Tresoldi treble stuns Inter in Club Brugge win",
+   "link": "https://www.theguardian.com/football/2026/oct/13/champions-league-lens-sporting-inter-barcelona-bayern-napoli",
+   "snippet": "Inter 3-4 Club Brugge; Galatasaray 1-4 Barcelona Olise sent off as Bayern held 3-3 at Viking Stavanger Club Brugge and their young forward Nicolò Tresoldi shocked Inter 4-3 at San Siro in the Champions League’s result of the night.…",
+   "source": "The Guardian",
+   "sourceId": "guardian-champions-league",
+   "section": "champions-league",
+   "published": "2026-10-13T22:07:38.000Z",
+   "firstSeen": "2026-10-14T02:29:20.515Z"
+  },
+  {
    "id": "0c49915f0a62",
    "title": "Spurs latest: Outcast Richarlison scores for U21s in EFL trophy loss",
    "link": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
@@ -111,6 +232,17 @@
    "firstSeen": "2026-10-13T22:02:51.238Z"
   },
   {
+   "id": "5d939b90e5a3",
+   "title": "Championship roundup: racist chanting mars Swansea’s win at Millwall",
+   "link": "https://www.theguardian.com/football/2026/oct/13/championship-roundup-racist-chanting-mars-swanseas-win-at-millwall",
+   "snippet": "Ronald’s last-minute winner keeps Welsh side on top Middlesbrough edge Stoke in thriller; Watford gloom Substitute Ronald scored a last-minute winner to keep Swansea top of the Championship after their match at Millwall was held up for…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-13T21:52:41.000Z",
+   "firstSeen": "2026-10-14T02:29:20.515Z"
+  },
+  {
    "id": "a53f28827e07",
    "title": "Republic of Ireland to 'lock in' for World Cup dream",
    "link": "https://www.bbc.co.uk/sport/football/articles/c8x235vx1d49o",
@@ -186,6 +318,17 @@
    "section": "world",
    "published": "2026-10-13T21:27:38.000Z",
    "firstSeen": "2026-10-13T22:02:51.238Z"
+  },
+  {
+   "id": "133b91e8a2ae",
+   "title": "Leticia McKenna at the double as Matildas’ next generation help trounce Haiti 7-1",
+   "link": "https://www.theguardian.com/football/2026/oct/14/matildas-australia-haiti-international-womens-football-friendly-match-report",
+   "snippet": "Young midfielder scores twice in friendly held in France Galic, Foord, Wheeler and McNamara also on scoresheet A brace from young midfielder Leticia McKenna, a debut goal for Daniela Galic, and further strikes from Caitlin Foord, Clare…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-13T21:24:14.000Z",
+   "firstSeen": "2026-10-14T02:29:20.515Z"
   },
   {
    "id": "8e0b1fc3b56b",
@@ -604,6 +747,28 @@
    "section": "world",
    "published": "2026-10-13T16:00:00.000Z",
    "firstSeen": "2026-10-13T22:02:51.238Z"
+  },
+  {
+   "id": "08bbf8578559",
+   "title": "Cardiff's Bielik claims death threats over fan clash",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw98zgn41qlmo",
+   "snippet": "Cardiff defender Krystian Bielik claims his family received death threats amid the controversy that surrounded his altercation with a Portsmouth fan.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-13T15:57:13.000Z",
+   "firstSeen": "2026-10-14T02:29:20.515Z"
+  },
+  {
+   "id": "d8134e7b063c",
+   "title": "Celtic fan banned for two years over Shankland gesture",
+   "link": "https://www.bbc.co.uk/news/articles/cmqln6kvzk70o",
+   "snippet": "Liam Connolly, 37, entered the Celtic Park pitch after his side were victorious against the Edinburgh club on 16 May.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-13T15:26:30.000Z",
+   "firstSeen": "2026-10-14T02:29:20.515Z"
   },
   {
    "id": "73240dac1529",
@@ -8523,83 +8688,6 @@
    "sourceId": "guardian-football",
    "section": "world",
    "published": "2026-10-07T02:38:51.000Z",
-   "firstSeen": "2026-10-07T03:05:17.966Z"
-  },
-  {
-   "id": "1892a4e9bcce",
-   "title": "Justin Ellis helps US cap a perfect international window with 1-0 win over Canada",
-   "link": "https://www.theguardian.com/football/2026/oct/06/usa-canada-report-justin-ellis",
-   "snippet": "A chippy and at times ugly friendly nonetheless gave Mauricio Pochettino’s side four wins out of four, with another young player making the difference. Before 1878, a referee trying to get players’ attention was left to waive a white…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-10-07T02:13:26.000Z",
-   "firstSeen": "2026-10-07T03:05:17.966Z"
-  },
-  {
-   "id": "5fb2e91a6802",
-   "title": "More than the Score",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pf8h14",
-   "snippet": "What could the consequences of the Manchester City verdict be?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-07T00:00:00.000Z",
-   "firstSeen": "2026-10-07T22:23:00.106Z"
-  },
-  {
-   "id": "5951e63bf5ab",
-   "title": "Total Midweek Kane: England’s icon delivers a classic on his way to footballing ultimacy | Barney Ronay",
-   "link": "https://www.theguardian.com/football/2026/oct/06/total-midweek-kane-englands-icon-delivers-a-classic-on-his-way-to-footballing-ultimacy",
-   "snippet": "On a night where he equalled Peter Shilton’s England appearance record, Harry Kane did what he always does It is a very Harry Kane kind of thing to equal a record. Respectful, no ego, all about the collective. On a room temperature night…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-10-06T22:56:09.000Z",
-   "firstSeen": "2026-10-07T03:05:17.966Z"
-  },
-  {
-   "id": "991e2f52e649",
-   "title": "Midfield options and a fab front four - what we've learned about England",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq62y431dj8vo",
-   "snippet": "From Trent Alexander-Arnold's return to Alex Scott's debut, Phil McNulty assesses what England have learned during this international window.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-06T22:34:46.000Z",
-   "firstSeen": "2026-10-07T03:05:17.966Z"
-  },
-  {
-   "id": "4d63fc41aeb9",
-   "title": "Honeymoon over as Pocognoli's Scotland suffer domestic disharmony",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c5lye031jvgro",
-   "snippet": "Sebastien Pocognoli is left with questions to answer after an inert Scotland performance leaves him still searching for his first home win, writes Tom English.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-06T22:28:47.000Z",
-   "firstSeen": "2026-10-07T03:05:17.966Z"
-  },
-  {
-   "id": "571f06d23de5",
-   "title": "Jude Bellingham hails 125-cap Harry Kane as England’s best-ever player",
-   "link": "https://www.theguardian.com/football/2026/oct/06/jude-bellingham-hails-harry-kane-as-englands-best-ever-player",
-   "snippet": "Captain scores twice in 3-0 win over Czechia Kane equals Peter Shilton’s appearance record Jude Bellingham called Harry Kane England’s best-ever player after the captain equalled Peter Shilton’s record of 125 caps during Tuesday’s 3-0 win…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-10-06T22:25:01.000Z",
-   "firstSeen": "2026-10-07T22:23:00.106Z"
-  },
-  {
-   "id": "87d82f0e8149",
-   "title": "'Outfought' and 'not good enough' - Robertson on Scotland defeat",
-   "link": "https://www.bbc.co.uk/sport/football/articles/crz98xv1e8nlo",
-   "snippet": "Scotland were \"outfought\" and simply \"not good enough\" in their 2-1 Nations League defeat by Slovenia, according to captain Andy Robertson.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-06T22:13:15.000Z",
    "firstSeen": "2026-10-07T03:05:17.966Z"
   }
  ]
