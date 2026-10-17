@@ -1,6 +1,83 @@
 {
  "stories": [
   {
+   "id": "31d4ee49d250",
+   "title": "Papers: Liverpool set to raid Aston Villa for Manzambi",
+   "link": "https://www.skysports.com/football/news/12040/13600072/liverpool-set-to-raid-aston-villa-for-johan-manzambi-as-arsenal-eye-move-for-bayern-munich-defender-paper-talk",
+   "snippet": "The top stories and transfer rumours from Saturday's newspapers...",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-17T01:55:17.035Z",
+   "firstSeen": "2026-10-17T01:55:17.035Z"
+  },
+  {
+   "id": "8eb79eb62ce7",
+   "title": "How Glasner is trying to solve Forest’s scoring problem",
+   "link": "https://www.skysports.com/football/news/12040/13599639/oliver-glasner-how-nottingham-forest-head-coach-is-trying-to-solve-clubs-scoring-problem-ahead-of-arsenal-fixture",
+   "snippet": "The Premier League’s second-lowest scorers have, unsurprisingly, been working on their finishing in training this week. But when it came to giving advice on scoring goals, head coach Oliver Glasner knew when to hand over to an expert.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-17T01:55:17.035Z",
+   "firstSeen": "2026-10-17T01:55:17.035Z"
+  },
+  {
+   "id": "ed14147764b3",
+   "title": "Burnley’s winless run at home to pass one-year mark after Wolves fightback",
+   "link": "https://www.skysports.com/football/burnley-vs-wolverhampton-wanderers/report/560620",
+   "snippet": "Burnley's run without a home league win will continue beyond the one-year mark after the Clarets were beaten 2-1 by Wolves at Turf Moor.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-17T01:55:17.035Z",
+   "firstSeen": "2026-10-17T01:55:17.035Z"
+  },
+  {
+   "id": "5b0cb0510c50",
+   "title": "Bellingham agrees new Real deal - Saturday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck7vprzqmr56o",
+   "snippet": "Real Madrid midfielder Jude Bellingham ready to commit his future to La Liga club, Arsenal and Liverpool told price for Brentford's Kevin Schade, Man Utd and Chelsea among clubs monitoring Jules Kounde's future at Barcelona, plus more.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-16T21:57:37.000Z",
+   "firstSeen": "2026-10-17T01:55:17.035Z"
+  },
+  {
+   "id": "21f3ce59de7a",
+   "title": "Wolves’ Chirewa extends Burnley’s home woes as Vardy’s strike is in vain",
+   "link": "https://www.theguardian.com/football/2026/oct/16/wolves-chirewa-extends-burnleys-home-woes-as-vardys-strike-is-in-vain",
+   "snippet": "The Wolves substitute Tawanda Chirewa struck within seconds of coming off the bench as César Peixoto’s side came from behind to extend Burnley’s home misery at Turf Moor to 21 games without a win. Chirewa had just replaced Sean Neave in…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-16T21:45:35.000Z",
+   "firstSeen": "2026-10-17T01:55:17.035Z"
+  },
+  {
+   "id": "2c8710dbe2ad",
+   "title": "Ranking the Premier League's all-time greatest super subs",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqn73xe5eelgo",
+   "snippet": "Some players are destined to make their biggest impact off the bench, but who are the top 10 Premier League super subs of all time?",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-16T21:15:47.000Z",
+   "firstSeen": "2026-10-17T01:55:17.035Z"
+  },
+  {
+   "id": "84d305e91c96",
+   "title": "Serie A | Frosinone 4-2 Sassuolo: Hat-trick delight for Italy U21 star Raimondo",
+   "link": "https://football-italia.net/serie-a-frosinone-3-2-sassuolo-raimondo-treble/",
+   "snippet": "Frosinone have moved into the Serie A top four after an entertaining 4-2 victory at...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-16T20:40:34.000Z",
+   "firstSeen": "2026-10-17T01:55:17.035Z"
+  },
+  {
    "id": "298b0f723b30",
    "title": "Everton latest: Moyes confirms 'lull' in new contract talks",
    "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
@@ -9030,182 +9107,6 @@
    "section": "world",
    "published": "2026-10-10T05:14:17.000Z",
    "firstSeen": "2026-10-10T11:30:38.614Z"
-  },
-  {
-   "id": "18798fe212f1",
-   "title": "Man City whistleblower to remain in witness protection",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq4g1xerk398o",
-   "snippet": "The computer hacker who released documents which helped trigger the Premier League investigation into Manchester City will remain under witness protection after authorities in Portugal suspend the decision to end it.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-09T22:59:32.000Z",
-   "firstSeen": "2026-10-10T03:06:46.366Z"
-  },
-  {
-   "id": "01917a5b09e7",
-   "title": "West Ham 1-1 QPR highlights",
-   "link": "https://www.skysports.com/football/west-ham-united-vs-queens-park-rangers/live/560605",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-09T21:57:43.091Z",
-   "firstSeen": "2026-10-09T21:57:43.091Z"
-  },
-  {
-   "id": "3826f7f4251f",
-   "title": "England take control of World Cup play-off with win in Greece",
-   "link": "https://www.skysports.com/football/greece-women-vs-england-women/report/559077",
-   "snippet": "England are in control of their World Cup play-off with Greece after winning the first leg 3-1 in Crete.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-09T21:57:43.091Z",
-   "firstSeen": "2026-10-09T21:57:43.091Z"
-  },
-  {
-   "id": "69ef3e55aec2",
-   "title": "Arteta says conscience clear over time at Man City",
-   "link": "https://www.skysports.com/football/news/12040/13596973/man-city-charges-arsenal-boss-mikel-arteta-says-he-has-clear-conscience-over-his-time-at-etihad-after-serious-breaches-of-financial-rules",
-   "snippet": "Mikel Arteta has said he has a clear conscience over his former club Manchester City's serious breaches of financial rules.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-09T21:57:43.091Z",
-   "firstSeen": "2026-10-09T21:57:43.091Z"
-  },
-  {
-   "id": "82c1399e16c5",
-   "title": "Papers: Man Utd forced into transfer market in January?",
-   "link": "https://www.skysports.com/football/news/12040/13597035/man-utd-may-be-forced-into-transfer-market-in-january-paper-talk",
-   "snippet": "The top stories and transfer rumours from Saturday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-09T21:57:43.091Z",
-   "firstSeen": "2026-10-09T21:57:43.091Z"
-  },
-  {
-   "id": "888506aeb114",
-   "title": "Bowen's late penalty saved as West Ham held by QPR",
-   "link": "https://www.skysports.com/football/west-ham-united-vs-queens-park-rangers/report/560605",
-   "snippet": "Jarrod Bowen saw his 91st-minute penalty saved as West Ham missed the chance to move top of the Sky Bet Championship after a 1-1 draw with QPR.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-09T21:57:43.091Z",
-   "firstSeen": "2026-10-09T21:57:43.091Z"
-  },
-  {
-   "id": "b0acf2e88d60",
-   "title": "'I only found out this morning' - Moyes surprised Everton are up for sale",
-   "link": "https://www.skysports.com/football/news/12040/13596920/david-moyes-everton-manager-admits-surprise-at-seeing-the-club-being-put-up-for-sale-by-the-friedkin-group",
-   "snippet": "David Moyes has admitted his surprise at Everton being put up for sale by owners The Friedkin Group - even claiming he only found out on Friday morning when the statement was released to the supporters.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-09T21:57:43.091Z",
-   "firstSeen": "2026-10-09T21:57:43.091Z"
-  },
-  {
-   "id": "dbd4d0797dcd",
-   "title": "Middlesbrough vs Wolves: Predict the score!",
-   "link": "https://www.skysports.com/football/middlesbrough-vs-wolverhampton-wanderers/live/560598",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-09T21:57:43.091Z",
-   "firstSeen": "2026-10-09T21:57:43.091Z"
-  },
-  {
-   "id": "b21c6cac8d4a",
-   "title": "Arteta's conscience clear over Man City charges",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6d93ql8jvdko",
-   "snippet": "Mikel Arteta says his conscience is clear over Manchester City's rule breaches during a period when he was assistant manager at the club.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-10-09T21:30:52.000Z",
-   "firstSeen": "2026-10-09T21:57:43.091Z"
-  },
-  {
-   "id": "4e967f5a24ba",
-   "title": "Chelsea manager Alonso insists Cole Palmer is committed to playing for England",
-   "link": "https://www.theguardian.com/football/2026/oct/09/chelsea-xabi-alonso-cole-palmer-england-thomas-tuchel",
-   "snippet": "Palmer pulled out of England squad due to injury Attacker available for Chelsea’s game with Bournemouth Xabi Alonso has said Cole Palmer is committed to playing for England and revealed Chelsea’s No 10 missed this international break with…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-10-09T21:30:38.000Z",
-   "firstSeen": "2026-10-09T21:57:43.091Z"
-  },
-  {
-   "id": "60c319160ce5",
-   "title": "Managers react to Manchester City’s guilty verdict: ‘Uncertainty is not good for anyone’",
-   "link": "https://www.theguardian.com/football/2026/oct/09/premier-league-managers-reaction-manchester-city-verdict",
-   "snippet": "United manager Carrick rues missing out on ‘emotion in the moment’ while Iraola says he understands why Liverpool fans are angry",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-10-09T21:30:05.000Z",
-   "firstSeen": "2026-10-09T21:57:43.091Z"
-  },
-  {
-   "id": "c4d674a50369",
-   "title": "NI World Cup hopes gone from 'improbable to impossible'",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6gqw03lxxnno",
-   "snippet": "Michael McArdle admits Northern Ireland's chances of beating Portugal in a Women's World Cup play-off have \"gone from improbable to impossible\" after a 4-0 first leg defeat.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-09T21:24:28.000Z",
-   "firstSeen": "2026-10-09T21:57:43.091Z"
-  },
-  {
-   "id": "6755faf497df",
-   "title": "Arsenal eye deal for teenager Mora - Saturday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cxr5y36yml21o",
-   "snippet": "Arsenal eye deal for Mexico teenager Gilberto Mora, AC Milan in pole position for Endrick, Nottingham Forest braced for Murillo interest",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-09T21:19:35.000Z",
-   "firstSeen": "2026-10-09T21:57:43.091Z"
-  },
-  {
-   "id": "6201971b1a74",
-   "title": "West Ham’s penalty pain costs them top spot in Championship after QPR draw",
-   "link": "https://www.theguardian.com/football/2026/oct/09/west-ham-qpr-championship-report-penalties",
-   "snippet": "The QPR goalkeeper Pierce Charles made a stunning double save from a Jarrod Bowen penalty in stoppage time to secure a 1-1 draw at West Ham. The 21-year-old, who kept four clean sheets and saved a penalty for Northern Ireland over the…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-10-09T21:19:19.000Z",
-   "firstSeen": "2026-10-09T21:57:43.091Z"
-  },
-  {
-   "id": "1006a89764bb",
-   "title": "Greek takeaways: What did we learn from Lionesses' win?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwp8g1ry6rjlo",
-   "snippet": "England come away from Greece with a valuable first-leg lead in their Women's World Cup qualifying play-off - but who impressed in the 3-1 victory?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-09T21:15:24.000Z",
-   "firstSeen": "2026-10-09T21:57:43.091Z"
-  },
-  {
-   "id": "932dccd35d9a",
-   "title": "Sam Kerr on target but Matildas outclassed by youthful Germany in European friendly",
-   "link": "https://www.theguardian.com/football/2026/oct/10/matildas-australia-germany-sam-kerr-friendly-match-report",
-   "snippet": "Australia fall 4-2 to world No 3 side in Karlsruhe Holly McNamara joins Kerr on scoresheet for Matildas For a moment, it felt like the Matildas were back. Ellie Carpenter took off down the right wing, eating up the metres with the ball at…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-10-09T20:52:54.000Z",
-   "firstSeen": "2026-10-09T21:57:43.091Z"
   }
  ]
 }
