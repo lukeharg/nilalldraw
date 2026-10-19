@@ -1,6 +1,182 @@
 {
  "stories": [
   {
+   "id": "9e9684a0c68e",
+   "title": "Papers: Man Utd weigh up move for Ireland striker Parrott",
+   "link": "https://www.skysports.com/football/news/12040/13600790/manchester-united-weigh-up-stunning-move-for-real-betis-and-ex-tottenham-forward-troy-parrott-paper-talk",
+   "snippet": "The top stories and transfer rumours from Monday's newspapers...",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-19T02:11:33.345Z",
+   "firstSeen": "2026-10-19T02:11:33.345Z"
+  },
+  {
+   "id": "e0ce46c75cc8",
+   "title": "'Why not?' - are 'breathtaking' Brighton in title race?",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c679plrx05q7o",
+   "snippet": "Match of the Day pundits Shay Given and Dion Dublin analyse Brighton's emphatic 5-0 victory over Crystal Palace, with Dublin saying the Seagulls could be in the title race.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-18T22:59:46.000Z",
+   "firstSeen": "2026-10-19T02:11:33.345Z"
+  },
+  {
+   "id": "6bc10c7b4e95",
+   "title": "Football Daily",
+   "link": "https://www.bbc.co.uk/sounds/play/p0phbswc",
+   "snippet": "Paul Robinson joins to discuss Brighton and Lloyd making history, and Leeds v Man United.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-18T22:26:00.000Z",
+   "firstSeen": "2026-10-19T02:11:33.345Z"
+  },
+  {
+   "id": "0f7be82c4a77",
+   "title": "Bremer: ‘Cannot carry all Juventus players, some get scared and hide’",
+   "link": "https://football-italia.net/bremer-cannot-carry-juventus-players-scared/",
+   "snippet": "Gleison Bremer seemed to launch a broadside at his Juventus teammates after the 3-0 defeat...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-18T21:59:04.000Z",
+   "firstSeen": "2026-10-19T02:11:33.345Z"
+  },
+  {
+   "id": "f0f1d26008bc",
+   "title": "Mbappe scores twice as Real Madrid beat Sevilla",
+   "link": "https://www.bbc.co.uk/sport/football/videos/crp3g7z9x215o",
+   "snippet": "Kylian Mbappe scores twice as Real Madrid beat Sevilla 4-1 in La Liga to close the gap on Barcelona to six points ahead of next weekend's El Clasico.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-18T21:39:04.000Z",
+   "firstSeen": "2026-10-19T02:11:33.345Z"
+  },
+  {
+   "id": "1293ad884f01",
+   "title": "Spalletti: ‘Juventus inferior to Lazio, I was surprised by performance’",
+   "link": "https://football-italia.net/spalletti-juventus-inferior-to-lazio-surprised/",
+   "snippet": "Luciano Spalletti admits Juventus ‘were inferior’ in every way to Lazio in a 3-0 home...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-18T21:37:47.000Z",
+   "firstSeen": "2026-10-19T02:11:33.345Z"
+  },
+  {
+   "id": "810611f4ac1a",
+   "title": "Gattuso: ‘Lazio progress, we can surprise if we take it one game at a time’",
+   "link": "https://football-italia.net/gattuso-lazio-progress-we-can-surprise-people/",
+   "snippet": "Gennaro Gattuso sees Lazio progress in a 3-0 victory away to Juventus, but warns them...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-18T21:24:17.000Z",
+   "firstSeen": "2026-10-19T02:11:33.345Z"
+  },
+  {
+   "id": "c42114591a07",
+   "title": "What Juventus fans did after 0-3 home loss to Lazio, and why away supporters didn’t boycott",
+   "link": "https://football-italia.net/what-juventus-fans-did-3-0-home-loss-lazio/",
+   "snippet": "Most Juventus fans left the Allianz Stadium in the closing minutes of their 3-0 home...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-18T21:19:37.000Z",
+   "firstSeen": "2026-10-19T02:11:33.345Z"
+  },
+  {
+   "id": "d6b10d3297f7",
+   "title": "Provstgaard: ‘Lazio spirit something I never experienced, happy with Gattuso’",
+   "link": "https://football-italia.net/provstgaard-lazio-spirit-never-experienced/",
+   "snippet": "Oliver Provstgaard hails Gennaro Gattuso for transforming Lazio after their 3-0 victory away to Juventus....",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-18T21:04:38.000Z",
+   "firstSeen": "2026-10-19T02:11:33.345Z"
+  },
+  {
+   "id": "17a8576b4578",
+   "title": "'Four points is nothing' - O'Neill stays cool after statement win",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw0k0zn0lkjgo",
+   "snippet": "Amid supporter discontent, a recent protest against the major shareholder and a veteran manager deciding now is not the time to \"wrap things up\", as Martin O'Neill put it, you'd be forgiven for scratching your head when examining Celtic's…",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-18T20:50:09.000Z",
+   "firstSeen": "2026-10-19T02:11:33.345Z"
+  },
+  {
+   "id": "f87fc15096e3",
+   "title": "Serie A | Juventus 0-3 Lazio: Danish delight gives Old Lady tummy ache",
+   "link": "https://football-italia.net/serie-a-juventus-0-3-lazio-danish-delight-lady/",
+   "snippet": "Juventus crumbled 3-0 at home to Lazio, who stay joint top of the table thanks...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-18T20:38:24.000Z",
+   "firstSeen": "2026-10-19T02:11:33.345Z"
+  },
+  {
+   "id": "d084f11040cd",
+   "title": "Estupinan: Amorim reveals he blocked summer move for Aston Villa-linked defender",
+   "link": "https://football-italia.net/estupinan-amorim-blocked-summer-move-villa/",
+   "snippet": "Ruben Amorim admits he blocked Pervis Estupinan’s summer exit: ‘We had a list of clubs...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-18T20:26:12.000Z",
+   "firstSeen": "2026-10-19T02:11:33.345Z"
+  },
+  {
+   "id": "7342ce9c1932",
+   "title": "Ramos could make La Liga return - Monday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckjrw11dv5xjo",
+   "snippet": "Sergio Ramos could make a surprise return to football in Madrid, Bournemouth put a high price on Alex Scott, and Florian Wirtz is staying at Liverpool.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-18T20:21:54.000Z",
+   "firstSeen": "2026-10-19T02:11:33.345Z"
+  },
+  {
+   "id": "9d26ab5173b4",
+   "title": "Elite-level incompetence is Manchester United’s problem – not Michael Carrick | Barney Ronay",
+   "link": "https://www.theguardian.com/football/2026/oct/18/manchester-united-michael-carrick-omar-berrada-leeds-premier-league",
+   "snippet": "Getting rid of head coach is not going to solve the problems that led to his appointment. Perhaps it’s worth, for once, doing something different At the final whistle at Elland Road the TV cameras cut to a lingering shot of Manchester…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-18T19:56:30.000Z",
+   "firstSeen": "2026-10-19T02:11:33.345Z"
+  },
+  {
+   "id": "cdd5d0fe64cf",
+   "title": "Madueke's 'anger and conviction' shows he's more than a 'finisher'",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c3qjnyw8qe4do",
+   "snippet": "Noni Madueke may not have the role he wants at Arsenal but his winning goal against Nottingham Forest showed why he is one of Mikel Arteta's valued players.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-18T19:55:41.000Z",
+   "firstSeen": "2026-10-19T02:11:33.345Z"
+  },
+  {
+   "id": "b9b1b0964666",
+   "title": "Sage feels 'shame' at Palace thrashing with future in doubt",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq1kdzp093jwo",
+   "snippet": "Crystal Palace manage Pierre Sage says he feels \"shame\" at the Eagles' performance during their 5-0 thrashing by Brighton and does not know if he will be given time to save his job.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-18T19:51:22.000Z",
+   "firstSeen": "2026-10-19T02:11:33.345Z"
+  },
+  {
    "id": "1b6685dc449b",
    "title": "Ruthless Celtic hit seven past title rivals Hearts in emphatic win",
    "link": "https://www.skysports.com/football/celtic-vs-hearts/report/558382",
@@ -8997,193 +9173,6 @@
    "section": "world",
    "published": "2026-10-12T03:02:46.711Z",
    "firstSeen": "2026-10-12T03:02:46.711Z"
-  },
-  {
-   "id": "bb0063c072e2",
-   "title": "‘So, so grateful’: Nathan Cleary confirms reason behind Mary Fowler’s Matildas absence",
-   "link": "https://www.theguardian.com/football/2026/oct/12/nathan-cleary-mary-fowler-matildas-absence-sport",
-   "snippet": "Fowler pulled out of Australia squad for ‘personal reasons’ Attacker is now back in Australia with injured NRL star post-surgery Injured rugby league player Nathan Cleary has expressed deep appreciation to Matildas forward Mary Fowler, his…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-10-11T23:38:20.000Z",
-   "firstSeen": "2026-10-12T13:45:46.043Z"
-  },
-  {
-   "id": "378a3f381cb9",
-   "title": "'Call it a day with VAR' - Rooney on Palace's controversial goal",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cqlyendmk7wyo",
-   "snippet": "Speaking on Match of the Day, Wayne Rooney says VAR made the wrong decision in awarding Crystal Palace their second goal, which saw the home side take the lead as they went on to beat Nottingham Forest 3-1 in the Premier League.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-10-11T23:31:42.000Z",
-   "firstSeen": "2026-10-12T03:02:46.711Z"
-  },
-  {
-   "id": "b0f2db77cbc5",
-   "title": "'It's a bad situation' - Why Man City win creates uncertainty",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cw073z5j55y9o",
-   "snippet": "Speaking on Match of the Day, Toby Alderweireld and Wayne Rooney discuss why Manchester City's 3-0 victory against Liverpool leaves the Premier League in limbo as the club awaits a potential punishment, which could include a points…",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-10-11T23:23:03.000Z",
-   "firstSeen": "2026-10-12T03:02:46.711Z"
-  },
-  {
-   "id": "64ce9d7e16ae",
-   "title": "'Big star' - How Doku delivered for Man City in win against Liverpool",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c8g47knxqvgdo",
-   "snippet": "Speaking on Match of the Day, Wayne Rooney and Toby Alderweireld analyse how Jeremy Doku changed the game in Manchester City's favour, after coming on as a substitute in his side's 3-0 win against Liverpool at Anfield.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-10-11T23:00:57.000Z",
-   "firstSeen": "2026-10-12T03:02:46.711Z"
-  },
-  {
-   "id": "81e481ddce48",
-   "title": "Rooney gives verdict on Gravenberch red card",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c6ly0jdndez9o",
-   "snippet": "Speaking on Match of the Day, Wayne Rooney and Toby Alderweireld discuss whether Ryan Gravenberch should have been sent off, after he received two yellow cards in Liverpool 3-0 defeat to Manchester City in the Premier League.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-10-11T23:00:33.000Z",
-   "firstSeen": "2026-10-12T03:02:46.711Z"
-  },
-  {
-   "id": "4fc90356b4f6",
-   "title": "Pisacane: ‘If Juventus are worried about playing us, Cagliari are on the right track’",
-   "link": "https://football-italia.net/pisacane-juventus-worried-cagliari-right-track/",
-   "snippet": "Fabio Pisacane hits out at Juventus coach Luciano Spalletti after the 1-1 draw, noting ‘if...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-11T21:35:10.000Z",
-   "firstSeen": "2026-10-12T03:02:46.711Z"
-  },
-  {
-   "id": "ac6c7b1c464a",
-   "title": "Aston Villa planning Endrick move - Monday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c5gm01j87jl7o",
-   "snippet": "Aston Villa are looking at signing Real Madrid striker Endrick, Liverpool are weighing up a move for Barcelona's Marc Bernal, Everton are leading the chase for Rennes striker Esteban Lepaul, plus more.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-11T21:32:39.000Z",
-   "firstSeen": "2026-10-12T03:02:46.711Z"
-  },
-  {
-   "id": "65adba9f894d",
-   "title": "Spalletti: ‘Juventus must seek victory, Cagliari good at wasting time’",
-   "link": "https://football-italia.net/spalletti-juventus-must-seek-victory-cagliari/",
-   "snippet": "Luciano Spalletti stands up for his Juventus choices after the 1-1 draw with Cagliari, critiques...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-11T21:19:40.000Z",
-   "firstSeen": "2026-10-12T03:02:46.711Z"
-  },
-  {
-   "id": "5bb5ebf43123",
-   "title": "Hits & Misses: Anderson and Wirtz offering opposite value for money",
-   "link": "https://www.skysports.com/football/news/12040/13597832/man-citys-elliot-anderson-deemed-a-bargain-while-florian-wirtz-fails-to-offer-return-on-liverpools-huge-investment-premier-league-hits-and-misses",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-11T21:10:16.295Z",
-   "firstSeen": "2026-10-11T21:10:16.295Z"
-  },
-  {
-   "id": "61ed7bce4b10",
-   "title": "Man City issue on-field statement by beating 10-man Liverpool",
-   "link": "https://www.skysports.com/football/liverpool-vs-manchester-city/report/559501",
-   "snippet": "Manchester City shut out all the noise and controversy to overcome a hostile Anfield atmosphere and beat 10-man Liverpool 3-0 on their return to Premier League action.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-11T21:10:16.295Z",
-   "firstSeen": "2026-10-11T21:10:16.295Z"
-  },
-  {
-   "id": "e4786c40e557",
-   "title": "'Barely a foul' - Carra criticises 'shocking' Gravenberch red card decision",
-   "link": "https://www.skysports.com/football/news/12040/13597935/liverpool-0-3-man-city-ryan-gravenberchs-sending-off-in-premier-league-defeat-criticised-by-jamie-carragher",
-   "snippet": "Ryan Gravenberch's sending off in Liverpool's 3-0 home defeat to Manchester City was a \"shocking decision\" by referee Chris Kavanagh, according to Sky Sports pundit Jamie Carragher.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-11T21:10:16.295Z",
-   "firstSeen": "2026-10-11T21:10:16.295Z"
-  },
-  {
-   "id": "fff2260a98c9",
-   "title": "Man City defiant and top of the table - but Anfield delivers its own verdict",
-   "link": "https://www.skysports.com/football/news/12040/13593871/liverpool-0-3-man-city-anfield-delivers-own-verdict-on-premier-league-ruling-but-city-are-defiant-and-top-of-the-table",
-   "snippet": "The chant from The Kop went up early. \"You haven't won a trophy since 1976.\" It was a reference to Manchester City's League Cup triumph, the last major honour that the club picked up prior to the period of ownership that now finds itself…",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-11T21:10:16.295Z",
-   "firstSeen": "2026-10-11T21:10:16.295Z"
-  },
-  {
-   "id": "971df128704f",
-   "title": "Kolo Muani: ‘Juventus better when Woltemade is on, gives me more freedom’",
-   "link": "https://football-italia.net/kolo-muani-juventus-better-when-woltemade-on/",
-   "snippet": "Randal Kolo Muani sends a warning to Juventus coach Luciano Spalletti after the equaliser against...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-11T21:00:51.000Z",
-   "firstSeen": "2026-10-11T21:10:16.295Z"
-  },
-  {
-   "id": "79105aa574e7",
-   "title": "Cagliari 1-1 Juventus ends in headloss as Spalletti and Pisacane see red",
-   "link": "https://football-italia.net/spalletti-pisacane-see-red-cagliari-1-1-juve/",
-   "snippet": "Luciano Spalletti and Fabio Pisacane were both sent off at the end of the 1-1...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-11T20:55:31.000Z",
-   "firstSeen": "2026-10-11T21:10:16.295Z"
-  },
-  {
-   "id": "87436f6ff0ee",
-   "title": "Serie A | Cagliari 1-1 Juventus: Kolo Muani first goal to rescue a point",
-   "link": "https://football-italia.net/serie-a-cagliari-1-1-juventus-kolomuani-rescue/",
-   "snippet": "Randal Kolo Muani’s first goal of the season rescued a point for toothless Juventus away...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-11T20:38:58.000Z",
-   "firstSeen": "2026-10-11T21:10:16.295Z"
-  },
-  {
-   "id": "9bbbe81509cc",
-   "title": "Man City's statement win has feeling of irrelevance with season in limbo",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmy0rd4pex7no",
-   "snippet": "Manchester City record what they will view as a statement win at Liverpool - but is it a statement that carries any weight during a Premier League season in limbo, asks Phil McNulty?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-11T20:02:27.000Z",
-   "firstSeen": "2026-10-11T21:10:16.295Z"
-  },
-  {
-   "id": "f2c4c75fafe8",
-   "title": "Impervious City shrug off chaos and controversy to silence Anfield | Andy Hunter",
-   "link": "https://www.theguardian.com/football/2026/oct/11/impervious-city-shrug-off-chaos-and-controversy-to-silence-anfield",
-   "snippet": "What had been billed as a day of reckoning for the Premier League champions turned into a Sunday afternoon stroll Anfield welcomed Manchester City to their new reality, a sullied place where every touch is accompanied by cries of “cheat”,…",
-   "source": "The Guardian",
-   "sourceId": "guardian-premier-league",
-   "section": "premier-league",
-   "published": "2026-10-11T20:02:08.000Z",
-   "firstSeen": "2026-10-11T21:10:16.295Z"
   }
  ]
 }
