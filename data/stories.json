@@ -1,6 +1,50 @@
 {
  "stories": [
   {
+   "id": "a79050bba604",
+   "title": "Coventry latest: Lampard thought VAR would disallow Marmoush goal",
+   "link": "https://www.skysports.com/football/live-blog/12040/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+   "snippet": "",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-20T02:26:28.854Z",
+   "firstSeen": "2026-10-20T02:26:28.854Z"
+  },
+  {
+   "id": "c65b5e33c4cf",
+   "title": "Who has made Troy's Premier League team of the week?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqgm0zy4d23po",
+   "snippet": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-19T23:22:24.000Z",
+   "firstSeen": "2026-10-20T02:26:28.854Z"
+  },
+  {
+   "id": "fc7807c9a610",
+   "title": "Maddison's magic moment for Spurs - 18 months in the making",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwz0v8le7y3eo",
+   "snippet": "On his first start since May 2025, James Maddison provided the moment of magic Tottenham were waiting for in their 3-1 victory against Coventry, writes Phil McNulty.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-19T22:35:55.000Z",
+   "firstSeen": "2026-10-20T02:26:28.854Z"
+  },
+  {
+   "id": "e15cc65ff0c9",
+   "title": "Spurs 'lack confidence' but we are a good team - De Zerbi",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cqvgrn518d6jo",
+   "snippet": "Tottenham Hotspur head coach Roberto de Zerbi hails the spirit and attitude of his side following their first Premier League win of the season, as they beat Coventry City.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-19T21:59:30.000Z",
+   "firstSeen": "2026-10-20T02:26:28.854Z"
+  },
+  {
    "id": "26607ea1ecc1",
    "title": "Spurs beat Coventry to claim first win as Kulusevski makes long-awaited return",
    "link": "https://www.skysports.com/football/tottenham-hotspur-vs-coventry-city/report/559513",
@@ -76,6 +120,17 @@
    "section": "premier-league",
    "published": "2026-10-19T21:33:07.000Z",
    "firstSeen": "2026-10-19T21:48:42.477Z"
+  },
+  {
+   "id": "3565db83858d",
+   "title": "MNC: Palace thrashed 5-0 & trouble in the North East",
+   "link": "https://www.bbc.co.uk/sounds/play/p0phk7vv",
+   "snippet": "Is Sage to blame for Palace's thrashing? Why can't Forest score? And North-East troubles!",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-19T21:14:00.000Z",
+   "firstSeen": "2026-10-20T02:26:28.854Z"
   },
   {
    "id": "e1efa91463e5",
@@ -9327,83 +9382,6 @@
    "section": "world",
    "published": "2026-10-13T03:33:01.000Z",
    "firstSeen": "2026-10-13T13:05:06.052Z"
-  },
-  {
-   "id": "5776bd34b7cc",
-   "title": "Coventry thump Newcastle for first home win to move out of drop zone",
-   "link": "https://www.skysports.com/football/coventry-city-vs-newcastle-united/report/559497",
-   "snippet": "Coventry made it back-to-back Premier League wins with a thumping 4-1 home victory over Newcastle to move Frank Lampard's side out of the relegation zone.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-12T23:54:23.588Z",
-   "firstSeen": "2026-10-12T23:54:23.588Z"
-  },
-  {
-   "id": "94dea20ba7f3",
-   "title": "Jaissle sorry for Coventry loss as Carra says Newcastle 'beaten up' again",
-   "link": "https://www.skysports.com/football/news/12040/13598360/matthias-jaissle-newcastle-boss-apologises-for-coventry-loss-as-jamie-carragher-says-they-were-beaten-up",
-   "snippet": "Newcastle boss Matthias Jaissle has apologised to the travelling fans following their 4-1 loss at Coventry, as Jamie Carragher said they were \"beaten up\" once again on the road.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-12T23:54:23.588Z",
-   "firstSeen": "2026-10-12T23:54:23.588Z"
-  },
-  {
-   "id": "9dec6db9ada7",
-   "title": "Papers: Haaland and father buy properties on Man City's Abu Dhabi development",
-   "link": "https://www.skysports.com/football/news/12040/13598353/erling-haaland-man-city-star-and-father-buy-abu-dhabi-properties-on-premier-league-clubs-development-paper-talk",
-   "snippet": "The top stories and transfer rumours from Tuesday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-12T23:54:23.588Z",
-   "firstSeen": "2026-10-12T23:54:23.588Z"
-  },
-  {
-   "id": "7a10eb019796",
-   "title": "Coventry announce themselves back in the big time",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cw78p7l7rp30o",
-   "snippet": "Coventry climb out of the relegation zone after ending their 25-year wait for a top-flight goal and victory in front of their own fans.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-10-12T22:34:32.000Z",
-   "firstSeen": "2026-10-12T23:54:23.588Z"
-  },
-  {
-   "id": "ab8ad9696043",
-   "title": "Who has made Troy's Premier League team of the week?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cme36q1gnpnlo",
-   "snippet": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-10-12T22:25:57.000Z",
-   "firstSeen": "2026-10-12T23:54:23.588Z"
-  },
-  {
-   "id": "6cee6b8367da",
-   "title": "Ronaldo’s Asian Champions League match delayed by missile alert in Riyadh",
-   "link": "https://www.theguardian.com/football/2026/oct/12/al-nassr-asian-champions-league-delay-missile-fired-cristiano-ronaldo",
-   "snippet": "Kick-off put back by an hour after attack intercepted Portuguese forward scores in Al-Nassr’s 3-1 victory Cristiano Ronaldo’s Al-Nassr had their Asian Champions League match delayed by an hour on Monday after the Saudi-led military…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-10-12T22:11:56.000Z",
-   "firstSeen": "2026-10-12T23:54:23.588Z"
-  },
-  {
-   "id": "651ac2a75b77",
-   "title": "Abate: ‘Torino won a very tough game, now we want to spark the magic with our fans’",
-   "link": "https://football-italia.net/abate-torino-won-a-very-tough-game/",
-   "snippet": "Ignazio Abate hailed Torino’s spirit after a hard-fought 2-1 win over Udinese, and thanked the...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-12T22:00:00.000Z",
-   "firstSeen": "2026-10-12T23:54:23.588Z"
   }
  ]
 }
