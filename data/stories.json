@@ -1,6 +1,182 @@
 {
  "stories": [
   {
+   "id": "2906aff3ae4e",
+   "title": "Bournemouth seal historic win over Amorim's 10-man Milan",
+   "link": "https://www.skysports.com/football/bournemouth-vs-ac-milan/report/577779",
+   "snippet": "Amine Adli scored a fine free-kick to cap Bournemouth's historic 3-0 win over 10-man AC Milan, which continues their brilliant start to their first-ever European campaign.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-23T02:21:11.290Z",
+   "firstSeen": "2026-10-23T02:21:11.290Z"
+  },
+  {
+   "id": "869fb5d555e7",
+   "title": "PL Predictions: Delap's Ipswich reunion to get feisty",
+   "link": "https://www.skysports.com/football/news/12040/13602410/premier-league-predictions-jones-knows-best-bets-tottenham-vs-chelsea-brighton-vs-liverpool-man-utd-vs-bournemouth-and-much-more",
+   "snippet": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight for a busy weekend of Premier League action.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-23T02:21:11.290Z",
+   "firstSeen": "2026-10-23T02:21:11.290Z"
+  },
+  {
+   "id": "955623871cb6",
+   "title": "Palace latest: Sage chuffed for Mateta after goal on return to line-up",
+   "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+   "snippet": "",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-23T02:21:11.290Z",
+   "firstSeen": "2026-10-23T02:21:11.290Z"
+  },
+  {
+   "id": "9f4b66d2a154",
+   "title": "Celtic stunned by quick double in Europa League defeat to Celta Vigo",
+   "link": "https://www.skysports.com/football/celtic-vs-celta-vigo/report/577781",
+   "snippet": "Celtic's Europa League hopes took another blow as Celta Vigo came from behind to inflict their third straight defeat in the competition.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-23T02:21:11.290Z",
+   "firstSeen": "2026-10-23T02:21:11.290Z"
+  },
+  {
+   "id": "b2d76d20d270",
+   "title": "Mateta on target as Palace draw with Besiktas in Istanbul",
+   "link": "https://www.skysports.com/football/besiktas-vs-crystal-palace/report/577778",
+   "snippet": "Jean-Philippe Mateta scored his first goal since last season's UEFA Conference League final but Crystal Palace had to settle for a 2-2 draw away at 10-man Besiktas.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-23T02:21:11.290Z",
+   "firstSeen": "2026-10-23T02:21:11.290Z"
+  },
+  {
+   "id": "e505eda6152e",
+   "title": "Papers: Man Utd draw up five-man shortlist to replace Carrick",
+   "link": "https://www.skysports.com/football/news/12040/13602435/manchester-united-draw-up-five-man-shortlist-to-replace-michael-carrick-paper-talk",
+   "snippet": "The top stories and transfer rumours from Friday's newspapers...",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-23T02:21:11.290Z",
+   "firstSeen": "2026-10-23T02:21:11.290Z"
+  },
+  {
+   "id": "d6ec68a9a005",
+   "title": "Premier League: 10 things to look out for this weekend",
+   "link": "https://www.theguardian.com/football/2026/oct/23/premier-league-10-things-to-look-out-for-this-weekend",
+   "snippet": "Max Dowman may get a chance, Spurs need to find balance at Stamford Bridge and Axel Disasi must make amends Premier League top scorers After seven games, Nottingham Forest’s record is eerily similar to last season: five points, five goals…",
+   "source": "The Guardian",
+   "sourceId": "guardian-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-22T23:01:52.000Z",
+   "firstSeen": "2026-10-23T02:21:11.290Z"
+  },
+  {
+   "id": "46784d4c7301",
+   "title": "O'Neill bemoans marginal moments but are Celtic just not good enough?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqx287ekvvvpo",
+   "snippet": "Martin O'Neill spoke of refereeing decisions and near misses after the Europa League defeat against Celta Vigo. But is the reality more concerning?",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-22T22:52:52.000Z",
+   "firstSeen": "2026-10-23T02:21:11.290Z"
+  },
+  {
+   "id": "05efe040db22",
+   "title": "'Celtic are just not good enough at this level'",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pj515n",
+   "snippet": "Kenny Macintyre and the team reflect on a difficult night for Scottish clubs in Europe",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-22T22:22:00.000Z",
+   "firstSeen": "2026-10-23T02:21:11.290Z"
+  },
+  {
+   "id": "e72ce4aca9f5",
+   "title": "Superman at Como & is Conte right for Man Utd?",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pj4zqk",
+   "snippet": "Como gets some love after that scoreline against Man United midweek",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-22T21:58:00.000Z",
+   "firstSeen": "2026-10-23T02:21:11.290Z"
+  },
+  {
+   "id": "267fb9ef3ad0",
+   "title": "Di Gregorio: ‘Bournemouth mentality does not change, even against Milan’",
+   "link": "https://football-italia.net/di-gregorio-bournemouth-mentality-same-milan/",
+   "snippet": "Michele Di Gregorio is proud that Bournemouth ‘mentality does not change’ even against Milan in...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-22T21:53:23.000Z",
+   "firstSeen": "2026-10-23T02:21:11.290Z"
+  },
+  {
+   "id": "53c91917a943",
+   "title": "Sarri: ‘Atalanta more positive than negative, unexpected defeat to Ajax’",
+   "link": "https://football-italia.net/sarri-atalanta-more-positive-negative-ajax/",
+   "snippet": "Maurizio Sarri sees ‘more positives than negatives’ from Atalanta’s 2-0 Conference League loss to Ajax....",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-22T21:33:01.000Z",
+   "firstSeen": "2026-10-23T02:21:11.290Z"
+  },
+  {
+   "id": "3ad012ee8126",
+   "title": "Dream night for Bournemouth - win over Milan a sign of Premier League power",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6z981p24q1eo",
+   "snippet": "Bournemouth's 3-0 win against AC Milan further illustrated the dominance of Premier League sides against their European counterparts.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-22T21:30:31.000Z",
+   "firstSeen": "2026-10-23T02:21:11.290Z"
+  },
+  {
+   "id": "000e469240b0",
+   "title": "Amorim: ‘There was no game’ as 10-man Milan punished in Bournemouth",
+   "link": "https://football-italia.net/amorim-there-was-no-game-milan-bournemouth/",
+   "snippet": "Ruben Amorim insists ‘there was no game’ for Milan against Bournemouth, as the going down...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-22T21:18:58.000Z",
+   "firstSeen": "2026-10-23T02:21:11.290Z"
+  },
+  {
+   "id": "d7dab720f3b4",
+   "title": "Bournemouth enjoy night to remember as 10-man Milan fail to weather storm",
+   "link": "https://www.theguardian.com/football/2026/oct/22/bournemouth-milan-europa-league-match-report",
+   "snippet": "This was a momentous night in Bournemouth’s history, although the truth is they would have been given a far sterner examination by Coventry or Hull. Whatever this rotten impersonation of a Milan side was, it bore no relation to those that…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-22T21:00:49.000Z",
+   "firstSeen": "2026-10-23T02:21:11.290Z"
+  },
+  {
+   "id": "bddc9662c011",
+   "title": "UEL | Bournemouth 3-0 Milan: Sour cherries for naïve Rossoneri",
+   "link": "https://football-italia.net/uel-bournemouth-3-0-milan-sour-cherries-naive/",
+   "snippet": "Milan paid the price for two naïve early errors from Koni De Winter and Mike...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-22T20:57:27.000Z",
+   "firstSeen": "2026-10-23T02:21:11.290Z"
+  },
+  {
    "id": "09351a328c0d",
    "title": "Bournemouth thrash Milan, Palace level with Besiktas, Celtic beaten LIVE!",
    "link": "https://www.skysports.com/football/bournemouth-vs-ac-milan/live/577779",
@@ -560,6 +736,17 @@
    "section": "world",
    "published": "2026-10-22T15:13:22.000Z",
    "firstSeen": "2026-10-22T16:12:39.527Z"
+  },
+  {
+   "id": "25c98e1da9e0",
+   "title": "Emery and Nagelsmann are top targets if Manchester United sack Carrick",
+   "link": "https://www.theguardian.com/football/2026/oct/22/unai-emery-julian-nagelsmann-manchester-united-michael-carrick",
+   "snippet": "Carrick expected to be in charge for Bournemouth game Compensation could be obstacle for Aston Villa’s Emery Unai Emery and Julian Nagelsmann have emerged as leading targets to replace Michael Carrick as Manchester United’s head coach…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-22T15:06:26.000Z",
+   "firstSeen": "2026-10-23T02:21:11.290Z"
   },
   {
    "id": "b9bab91aafbd",
@@ -8942,171 +9129,6 @@
    "section": "premier-league",
    "published": "2026-10-16T05:44:29.000Z",
    "firstSeen": "2026-10-16T10:17:01.250Z"
-  },
-  {
-   "id": "0679b1915160",
-   "title": "O'Neill 'delighted' with second half despite heavy Celtic loss at Benfica",
-   "link": "https://www.skysports.com/football/benfica-vs-celtic/report/577760",
-   "snippet": "Celtic showed second-half fight but were ultimately outclassed away to Benfica as they were beaten 4-1 in the Europa League.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-16T02:01:06.840Z",
-   "firstSeen": "2026-10-16T02:01:06.840Z"
-  },
-  {
-   "id": "0beefc4888d3",
-   "title": "Bournemouth beat Sturm Graz in first ever home European game",
-   "link": "https://www.skysports.com/football/bournemouth-vs-sturm-graz/report/577761",
-   "snippet": "Bournemouth's history-making season continued on Thursday as they played - and won - their first-ever home European match, beating Sturm Graz 3-0 in the Europa League.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-16T02:01:06.840Z",
-   "firstSeen": "2026-10-16T02:01:06.840Z"
-  },
-  {
-   "id": "9e457eae6be0",
-   "title": "Brighton latest: Hinshelwood thrilled with goal in first game since August",
-   "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-16T02:01:06.840Z",
-   "firstSeen": "2026-10-16T02:01:06.840Z"
-  },
-  {
-   "id": "c2a45fbd7319",
-   "title": "Papers: Conte tells Man Utd he's ready to take over if Carrick sacked",
-   "link": "https://www.skysports.com/football/news/12040/13599794/manchester-united-latest-antonio-conte-tells-man-utd-hes-ready-to-take-over-if-michael-carrick-is-sacked-paper-talk",
-   "snippet": "The top stories and transfer rumours from Friday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-16T02:01:06.840Z",
-   "firstSeen": "2026-10-16T02:01:06.840Z"
-  },
-  {
-   "id": "c859c18efbd6",
-   "title": "Rutter scores twice as Brighton win big and go top in Conference League",
-   "link": "https://www.skysports.com/football/brighton-and-hove-albion-vs-kauno-zalgiris/report/577887",
-   "snippet": "Georginio Rutter scored twice and set up one as Brighton thrashed Kauno Zalgris 4-0 to get their Conference League campaign off to a winning start.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-16T02:01:06.840Z",
-   "firstSeen": "2026-10-16T02:01:06.840Z"
-  },
-  {
-   "id": "99d786afcfbc",
-   "title": "O'Neill defiant in defeat but Celtic's 'flat-track bullies' fail another big test",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwm243rxn1pxo",
-   "snippet": "Celtic have now lost two Europa League group games, as well as two derbies - but Martin O'Neill is adamant he can see positive signs.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-15T23:04:37.000Z",
-   "firstSeen": "2026-10-16T02:01:06.840Z"
-  },
-  {
-   "id": "1a1835d054f7",
-   "title": "Premier League: 10 things to look out for this weekend",
-   "link": "https://www.theguardian.com/football/2026/oct/16/premier-league-10-things-to-look-out-for-this-weekend",
-   "snippet": "Henderson back on Merseyside, Farke threatens more misery for Carrick and Forest are a threat to Arsenal Premier League top scorers | Follow us on TikTok A lively reception awaits the former Liverpool midfielders Jordan Henderson and Xabi…",
-   "source": "The Guardian",
-   "sourceId": "guardian-premier-league",
-   "section": "premier-league",
-   "published": "2026-10-15T23:01:44.000Z",
-   "firstSeen": "2026-10-16T02:01:06.840Z"
-  },
-  {
-   "id": "8aafb96779c4",
-   "title": "Minus 17 to European dreams as Bournemouth fairytale continues",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6lyez88m1n2o",
-   "snippet": "It was a night 127 years in the making as Bournemouth added another chapter to their fairytale with victory in their first-ever European home game.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-15T22:42:26.000Z",
-   "firstSeen": "2026-10-16T02:01:06.840Z"
-  },
-  {
-   "id": "b822048106c4",
-   "title": "Juventus talent Conceicao denies tantrum in Vigo: ‘I want to be clear’",
-   "link": "https://football-italia.net/juventus-talent-conceicao-denies-tantrum-celta/",
-   "snippet": "Francisco Conceicao denies reports he had a tantrum when substituted in the Juventus win at...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-15T22:01:18.000Z",
-   "firstSeen": "2026-10-16T02:01:06.840Z"
-  },
-  {
-   "id": "a09275b894d6",
-   "title": "Evanilson, Rayan and Rodríguez goals seal Bournemouth’s historic home win in Europe",
-   "link": "https://www.theguardian.com/football/2026/oct/15/bournemouth-sturm-graz-europa-league-match-report",
-   "snippet": "An impossible dream realised: the Vitality Stadium staging European football, where the Europa League is becoming an oasis for Bournemouth. No wins yet in the Premier League, but beating Sturm Graz following up winning away at Real…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-10-15T21:46:41.000Z",
-   "firstSeen": "2026-10-16T02:01:06.840Z"
-  },
-  {
-   "id": "0b0f6f1e892a",
-   "title": "Sarri pleased with Atalanta progress, but fury at ‘absurd’ fixture list",
-   "link": "https://football-italia.net/sarri-pleased-atalanta-progress-absurd-fixture/",
-   "snippet": "Maurizio Sarri sees further Atalanta progress in their 3-1 Conference League win over Pafos, but...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-15T21:45:15.000Z",
-   "firstSeen": "2026-10-16T02:01:06.840Z"
-  },
-  {
-   "id": "fea9fdacfd5e",
-   "title": "Spalletti: ‘Juventus took risks for victory, Conceicao angry with himself’",
-   "link": "https://football-italia.net/spalletti-juventus-risks-conceicao-angry-him/",
-   "snippet": "Luciano Spalletti is glad Juventus ‘took risks’ to overturn the Europa League trip to Celta...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-15T21:32:14.000Z",
-   "firstSeen": "2026-10-16T02:01:06.840Z"
-  },
-  {
-   "id": "3c0a0bcf0a7b",
-   "title": "Euro Leagues",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pgz2sp",
-   "snippet": "Are Barcelona and PSG the teams to beat in the Champions League?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-15T21:31:00.000Z",
-   "firstSeen": "2026-10-16T02:01:06.840Z"
-  },
-  {
-   "id": "7dd5e68c2372",
-   "title": "Woltemade: ‘My best game for Juventus, I enjoy playing with Kolo Muani’",
-   "link": "https://football-italia.net/woltemade-my-best-game-for-juventus-kolo-muani/",
-   "snippet": "Nick Woltemade feels the 2-1 win over Celta Vigo was his ‘best game for Juventus’...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-15T21:16:41.000Z",
-   "firstSeen": "2026-10-16T02:01:06.840Z"
-  },
-  {
-   "id": "365f830e553f",
-   "title": "UEL | Celta Vigo 1-2 Juventus: Kolo Muani completes special comeback",
-   "link": "https://football-italia.net/uel-celta-vigo-1-2-juventus-special-comeback/",
-   "snippet": "Juventus completed a remarkable comeback to beat Celta Vigo on Spanish soil with Nick Woltemade...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-15T20:58:17.000Z",
-   "firstSeen": "2026-10-16T02:01:06.840Z"
   }
  ]
 }
