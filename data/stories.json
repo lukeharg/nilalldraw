@@ -1,6 +1,138 @@
 {
  "stories": [
   {
+   "id": "3824d1cae450",
+   "title": "Lankshear at the double as Middlesbrough thump Bolton to go top",
+   "link": "https://www.skysports.com/football/bolton-wanderers-vs-middlesbrough/report/560631",
+   "snippet": "Middlesbrough moved to the Sky Bet Championship summit in emphatic fashion by thumping Bolton 5-1 at the Toughsheet Community Stadium.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-24T02:18:59.688Z",
+   "firstSeen": "2026-10-24T02:18:59.688Z"
+  },
+  {
+   "id": "cb9d05e56767",
+   "title": "Wasteful Forest held by Ipswich amid VAR controversy",
+   "link": "https://www.skysports.com/football/ipswich-town-vs-nottingham-forest/report/559520",
+   "snippet": "Nottingham Forest's woes in front of goal continued as they were held to a 1-1 draw at Ipswich despite dominating the game.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-24T02:18:59.688Z",
+   "firstSeen": "2026-10-24T02:18:59.688Z"
+  },
+  {
+   "id": "e02909c0d7ad",
+   "title": "Papers: Howe is Wilcox's choice if United replace Carrick",
+   "link": "https://www.skysports.com/football/news/12040/13602761/eddie-howe-is-jason-wilcoxs-choice-if-manchester-united-replace-michael-carrick-paper-talk",
+   "snippet": "The top stories and transfer rumours from Saturday's newspapers...",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-24T02:18:59.688Z",
+   "firstSeen": "2026-10-24T02:18:59.688Z"
+  },
+  {
+   "id": "e4f22866d964",
+   "title": "'A clear red' - Should Ipswich's Diop have been sent off?",
+   "link": "https://www.skysports.com/football/news/12040/13602915/ipswichs-issa-diop-escaped-a-red-card-for-a-foul-on-nottingham-forests-james-mcatee-but-was-it-the-right-call",
+   "snippet": "Issa Diop escaped what Oliver Glasner called \"a clear red card\" during Ipswich's 1-1 draw with Nottingham Forest - but the incident split opinion, so was it the right call or not?",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-24T02:18:59.688Z",
+   "firstSeen": "2026-10-24T02:18:59.688Z"
+  },
+  {
+   "id": "f581b52f9c6b",
+   "title": "'We had to scrap' - O'Neil praises Ipswich resilience after Forest draw",
+   "link": "https://www.bbc.co.uk/sport/football/videos/ckrey3ndyyw0o",
+   "snippet": "Ipswich manager Gary O'Neil praises his side's ability to \"dig in and fight\" as his side come from behind to earn a 1-1 draw against Nottingham Forest at Portman Road in the Premier League.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-23T22:21:51.000Z",
+   "firstSeen": "2026-10-24T02:18:59.688Z"
+  },
+  {
+   "id": "7bc57520fe86",
+   "title": "'It doesn't make sense' - Glasner confused after Diop avoids red card",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c8ly03l6klzpo",
+   "snippet": "Nottingham Forest manager Oliver Glasner admits he was left confused by the decision to not send off Issa Diop after a VAR check during his side's 1-1 draw at Ipswich Town, but praised his side's performance and urged them to 'stay…",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-23T22:15:29.000Z",
+   "firstSeen": "2026-10-24T02:18:59.688Z"
+  },
+  {
+   "id": "5923b89c9e07",
+   "title": "Forest left frustrated as winless run goes on after draw at Ipswich",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c9ly0dgy2r2eo",
+   "snippet": "Nottingham Forest ended a run of three successive league defeats but endured another night of missed chances as they drew 1-1 at Ipswich Town in the Premier League, but the result does move the away side out of the relegation zone on goal…",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-23T21:54:54.000Z",
+   "firstSeen": "2026-10-24T02:18:59.688Z"
+  },
+  {
+   "id": "70e5b66e07c0",
+   "title": "Borussia M'gladbach finally get first win after five-goal thriller",
+   "link": "https://www.bbc.co.uk/sport/football/videos/ck87zl4v2ld8o",
+   "snippet": "Bundesliga's bottom side Borussia Monchengladbach come from behind to beat Stuttgart 3-2, as the away side secure their first league win of the season, at the seventh attempt.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-23T21:37:41.000Z",
+   "firstSeen": "2026-10-24T02:18:59.688Z"
+  },
+  {
+   "id": "e0772b8128f0",
+   "title": "Villa could reconsider Garnacho deal - Saturday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwn73kzzr8veo",
+   "snippet": "Aston Villa have doubts on making Alejandro Garnacho deal a permanent move, Brighton to stand firm on Diego Gomez amid interest, Manchester United managerial candidates concern over players, plus more.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-23T21:32:04.000Z",
+   "firstSeen": "2026-10-24T02:18:59.688Z"
+  },
+  {
+   "id": "376e9bd9750d",
+   "title": "Premier League news: Spurs’ nine injuries ‘normal’, says De Zerbi; ‘emotional control’ keeps Blues red-free",
+   "link": "https://www.theguardian.com/football/2026/oct/23/premier-league-news-spurs-nine-injuries-normal-says-de-zerbi-emotional-control-keeps-blues-red-free",
+   "snippet": "Tottenham manager insists medical team not to blame as more key players drop out while Alonso happy with Chelsea’s new-found discipline",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-23T21:30:14.000Z",
+   "firstSeen": "2026-10-24T02:18:59.688Z"
+  },
+  {
+   "id": "839cc5bffb85",
+   "title": "Enciso rescues point in storm for Ipswich to deny Nottingham Forest",
+   "link": "https://www.theguardian.com/football/2026/oct/23/ipswich-nottingham-forest-premier-league-match-report",
+   "snippet": "Amid a Suffolk squall, winds whipping, a constant drum of rain, an encounter full of half-chances, mistakes, the obligatory refereeing controversy and searching questions. Do Ipswich possess the stones to deal with the big league? Perhaps…",
+   "source": "The Guardian",
+   "sourceId": "guardian-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-23T21:07:50.000Z",
+   "firstSeen": "2026-10-24T02:18:59.688Z"
+  },
+  {
+   "id": "b566b19f74a1",
+   "title": "Roma agree new Lulli contract to 2031 after breakthrough under Gasperini",
+   "link": "https://football-italia.net/roma-agree-new-lulli-contract-to-2031/",
+   "snippet": "Roma have reached an agreement with Emanuele Lulli to extend his contract until June 2031,...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-23T21:00:00.000Z",
+   "firstSeen": "2026-10-24T02:18:59.688Z"
+  },
+  {
    "id": "298fd2ef87d9",
    "title": "FNF: Forest pushing to retake lead at Ipswich after Diop escapes red LIVE!",
    "link": "https://www.skysports.com/football/ipswich-town-vs-nottingham-forest/live/559520",
@@ -43,6 +175,17 @@
    "section": "world",
    "published": "2026-10-23T20:42:49.000Z",
    "firstSeen": "2026-10-23T20:44:25.965Z"
+  },
+  {
+   "id": "aa3512bbeb20",
+   "title": "Serie A | Torino 3-2 Monza: Belghali stunner spoils Juric’s return",
+   "link": "https://football-italia.net/serie-a-torino-3-2-monza-belghali-stunner/",
+   "snippet": "Torino made it back-to-back Serie A wins as Kian Fitz-Jim, Rafik Belghali and Nikola Vlašić...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-23T20:42:49.000Z",
+   "firstSeen": "2026-10-24T02:18:59.688Z"
   },
   {
    "id": "3106212e352e",
@@ -109,6 +252,17 @@
    "section": "world",
    "published": "2026-10-23T19:25:20.000Z",
    "firstSeen": "2026-10-23T20:44:25.965Z"
+  },
+  {
+   "id": "6e9fd6f9ef18",
+   "title": "Change captain? Play the kids? How to solve the problems at Manchester United",
+   "link": "https://www.theguardian.com/football/2026/oct/23/change-captain-play-the-kids-how-to-solve-the-problems-at-manchester-united",
+   "snippet": "The beleaguered Michael Carrick’s job is on the line, but there are steps he can take to revive the stricken club The big question as Bournemouth arrive for Sunday’s 2pm kick-off at Old Trafford is whether Michael Carrick will show his…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-23T19:00:11.000Z",
+   "firstSeen": "2026-10-24T02:18:59.688Z"
   },
   {
    "id": "cd4fb8b0290e",
@@ -7811,6 +7965,17 @@
    "firstSeen": "2026-10-18T10:02:21.851Z"
   },
   {
+   "id": "7a3dcc605d24",
+   "title": "Do Manchester City have any grounds to win their appeal?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6je5lwxk5l0o",
+   "snippet": "Manchester City face \"substantial hurdles\" to overcome if they are to have any chance of winning their appeal after being found guilty of breaking the Premier League's financial rules, a leading lawyer has told BBC Sport.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-18T06:36:21.000Z",
+   "firstSeen": "2026-10-24T02:18:59.688Z"
+  },
+  {
    "id": "0068d0342537",
    "title": "Who am I? Guess WSL star No 8",
    "link": "https://www.bbc.co.uk/sport/football/articles/c8p3065w9y7po",
@@ -9349,72 +9514,6 @@
    "section": "world",
    "published": "2026-10-17T05:00:00.000Z",
    "firstSeen": "2026-10-17T09:50:37.322Z"
-  },
-  {
-   "id": "31d4ee49d250",
-   "title": "Papers: Liverpool set to raid Aston Villa for Manzambi",
-   "link": "https://www.skysports.com/football/news/12040/13600072/liverpool-set-to-raid-aston-villa-for-johan-manzambi-as-arsenal-eye-move-for-bayern-munich-defender-paper-talk",
-   "snippet": "The top stories and transfer rumours from Saturday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-17T01:55:17.035Z",
-   "firstSeen": "2026-10-17T01:55:17.035Z"
-  },
-  {
-   "id": "8eb79eb62ce7",
-   "title": "How Glasner is trying to solve Forest’s scoring problem",
-   "link": "https://www.skysports.com/football/news/12040/13599639/oliver-glasner-how-nottingham-forest-head-coach-is-trying-to-solve-clubs-scoring-problem-ahead-of-arsenal-fixture",
-   "snippet": "The Premier League’s second-lowest scorers have, unsurprisingly, been working on their finishing in training this week. But when it came to giving advice on scoring goals, head coach Oliver Glasner knew when to hand over to an expert.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-17T01:55:17.035Z",
-   "firstSeen": "2026-10-17T01:55:17.035Z"
-  },
-  {
-   "id": "ed14147764b3",
-   "title": "Burnley’s winless run at home to pass one-year mark after Wolves fightback",
-   "link": "https://www.skysports.com/football/burnley-vs-wolverhampton-wanderers/report/560620",
-   "snippet": "Burnley's run without a home league win will continue beyond the one-year mark after the Clarets were beaten 2-1 by Wolves at Turf Moor.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-17T01:55:17.035Z",
-   "firstSeen": "2026-10-17T01:55:17.035Z"
-  },
-  {
-   "id": "5b0cb0510c50",
-   "title": "Bellingham agrees new Real deal - Saturday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ck7vprzqmr56o",
-   "snippet": "Real Madrid midfielder Jude Bellingham ready to commit his future to La Liga club, Arsenal and Liverpool told price for Brentford's Kevin Schade, Man Utd and Chelsea among clubs monitoring Jules Kounde's future at Barcelona, plus more.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-16T21:57:37.000Z",
-   "firstSeen": "2026-10-17T01:55:17.035Z"
-  },
-  {
-   "id": "21f3ce59de7a",
-   "title": "Wolves’ Chirewa extends Burnley’s home woes as Vardy’s strike is in vain",
-   "link": "https://www.theguardian.com/football/2026/oct/16/wolves-chirewa-extends-burnleys-home-woes-as-vardys-strike-is-in-vain",
-   "snippet": "The Wolves substitute Tawanda Chirewa struck within seconds of coming off the bench as César Peixoto’s side came from behind to extend Burnley’s home misery at Turf Moor to 21 games without a win. Chirewa had just replaced Sean Neave in…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-10-16T21:45:35.000Z",
-   "firstSeen": "2026-10-17T01:55:17.035Z"
-  },
-  {
-   "id": "2c8710dbe2ad",
-   "title": "Ranking the Premier League's all-time greatest super subs",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqn73xe5eelgo",
-   "snippet": "Some players are destined to make their biggest impact off the bench, but who are the top 10 Premier League super subs of all time?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-10-16T21:15:47.000Z",
-   "firstSeen": "2026-10-17T01:55:17.035Z"
   }
  ]
 }
