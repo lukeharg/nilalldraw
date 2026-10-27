@@ -1,6 +1,270 @@
 {
  "stories": [
   {
+   "id": "d3c47f4affad",
+   "title": "Watch: Serie A - Scotland's Adams scores as Torino lead Como",
+   "link": "https://www.bbc.co.uk/iplayer/live/bbcalba",
+   "snippet": "We head to Turin for live Italian football as Torino face Como in Serie A.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-27T21:45:30.000Z",
+   "firstSeen": "2026-10-27T21:32:55.986Z"
+  },
+  {
+   "id": "bd57df7ea69a",
+   "title": "Fleetwood Town v Arsenal: Carabao Cup fourth round – live",
+   "link": "https://www.theguardian.com/football/live/2026/oct/27/fleetwood-town-v-arsenal-carabao-cup-fourth-round-live",
+   "snippet": "⚽ League Cup updates from the 8pm GMT kick-off ⚽ Game briefly delayed by drone over Highbury | Mail Niall Here’s the Fleetwood head coach, Matt Lawlor: “We’ve had to make changes, with the champions in town. But we’ve got a plan with…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-27T21:25:07.000Z",
+   "firstSeen": "2026-10-27T21:32:55.986Z"
+  },
+  {
+   "id": "8c2732117798",
+   "title": "Liverpool keen on Stuttgart defender Jeltsch - Wednesday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck7vpjqyd4pmo",
+   "snippet": "Liverpool are keen on Stuttgart's promising defender Finn Jeltsch, Chelsea still want to sign Bournemouth's Alex Scott; Arsenal, Tottenham and Newcastle are among the clubs keeping tabs on Germany striker Nicolo Tresoldi, plus more.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-27T21:10:47.000Z",
+   "firstSeen": "2026-10-27T21:32:55.986Z"
+  },
+  {
+   "id": "8e86f3c6d6af",
+   "title": "Carrick stays at Man Utd & Kane wins Ballon d’Or",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pjy46g",
+   "snippet": "Carrick stays at United. Kane wins Ballon d’Or, Putellas claims third Women’s award.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-27T20:46:00.000Z",
+   "firstSeen": "2026-10-27T21:32:55.986Z"
+  },
+  {
+   "id": "9bcc48e225df",
+   "title": "Fleetwood-Arsenal halted for eight minutes because of drone",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmqlngxw6lv3o",
+   "snippet": "Arsenal's match with Fleetwood Town in the last-16 of the Carabao Cup is delayed for more than eight minutes after a drone is spotted above the stadium during the match.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-27T20:26:31.000Z",
+   "firstSeen": "2026-10-27T21:32:55.986Z"
+  },
+  {
+   "id": "8ade7aa526dd",
+   "title": "Gattuso: ‘It helped that Sassuolo were down to 10, defensive block wasn’t very good’",
+   "link": "https://football-italia.net/gattuso-helped-that-sassuolo-were-down-to-10/",
+   "snippet": "Gennaro Gattuso has found flaws to pick at despite his Lazio side claiming an emphatic...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-27T20:21:08.000Z",
+   "firstSeen": "2026-10-27T21:32:55.986Z"
+  },
+  {
+   "id": "26d3da698cbd",
+   "title": "An unmanageable club? Carrick the latest to suffer in Manchester United’s faded grandeur",
+   "link": "https://www.theguardian.com/football/2026/oct/27/manchester-united-michael-carrick-faded-grandeur",
+   "snippet": "Only Matt Busby and Alex Ferguson have truly succeeded in the Old Trafford hot seat with each casting uneasy shadows Should any football club fit the Great Man theory of history it is Manchester United. In the past 100 years, only Matt…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-27T20:02:34.000Z",
+   "firstSeen": "2026-10-27T21:32:55.986Z"
+  },
+  {
+   "id": "619baf56f942",
+   "title": "Fabregas: ‘Some Como players understand the need for rotation less than others’",
+   "link": "https://football-italia.net/fabregas-some-players-understand-less-others/",
+   "snippet": "Cesc Fabregas has stressed the importance of making every player ‘feel important’ as Como name...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-27T19:45:46.000Z",
+   "firstSeen": "2026-10-27T21:32:55.986Z"
+  },
+  {
+   "id": "e1e3c5b2f350",
+   "title": "Gasperini: ‘Roma need to keep everyone in top shape, Castro decisive’",
+   "link": "https://football-italia.net/gasperini-roma-need-keep-everyone-in-top-shape/",
+   "snippet": "Gian Piero Gasperini explains his Roma changes against Cagliari, who reshuffle their own tactics, and...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-27T19:36:11.000Z",
+   "firstSeen": "2026-10-27T21:32:55.986Z"
+  },
+  {
+   "id": "2a2fd3d5a4f5",
+   "title": "Inter stars Stones and Spence send messages to Kane after 2026 Ballon d’Or victory",
+   "link": "https://football-italia.net/stones-spence-react-kane-ballon-dor/",
+   "snippet": "England internationals John Stones and Djed Spence were among the Serie A stars to congratulate...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-27T19:28:50.000Z",
+   "firstSeen": "2026-10-27T21:32:55.986Z"
+  },
+  {
+   "id": "138c49828e2e",
+   "title": "Serie A | Sassuolo 2-6 Lazio: Unstoppable Aquile hit six past 10 men",
+   "link": "https://football-italia.net/serie-a-sassuolo-2-6-lazio-amazing-aquile-hit/",
+   "snippet": "Lazio are cruising at the top of the Serie A standings after thrashing 10-man Sassuolo...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-27T19:26:32.000Z",
+   "firstSeen": "2026-10-27T21:32:55.986Z"
+  },
+  {
+   "id": "2a53cbcaa207",
+   "title": "'It crushed me' Former team-mate shares reflections and memories of Ballon d'Or winner Harry Kane's rise",
+   "link": "https://www.fourfourtwo.com/person/player/it-crushed-me-former-teammate-reveals-the-supercharged-development-of-ballon-dor-winner-harry-kane",
+   "snippet": "Kane was destined for the top from an early age, according to an ex-Tottenham Hotspur teammate",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-10-27T19:00:00.000Z",
+   "firstSeen": "2026-10-27T21:32:55.986Z"
+  },
+  {
+   "id": "e27395c0628d",
+   "title": "Serie A official line-ups: Torino vs. Como",
+   "link": "https://football-italia.net/serie-a-official-line-ups-torino-vs-como-wk9/",
+   "snippet": "Como bring Nico Paz back into the starting XI with Tasos Douvikas and Lucas Da...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-27T18:57:35.000Z",
+   "firstSeen": "2026-10-27T21:32:55.986Z"
+  },
+  {
+   "id": "cf4c3d6521f9",
+   "title": "Man Utd stick with Carrick - inside a turbulent 48 hours at Old Trafford",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwz0vgj35k7mo",
+   "snippet": "BBC Sport looks at the 48 hours that led to Manchester United deciding to keep under-pressure Michael Carrick as their head coach for Saturday's trip to Chelsea.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-27T18:56:36.000Z",
+   "firstSeen": "2026-10-27T21:32:55.986Z"
+  },
+  {
+   "id": "a175f0089539",
+   "title": "Serie A official line-ups: Roma vs. Cagliari",
+   "link": "https://football-italia.net/serie-a-official-line-ups-roma-vs-cagliari-wk9/",
+   "snippet": "Roma options are limited, so Santiago Castro, Nahuel Molina and Matias Soulé start against Cagliari,...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-27T18:51:35.000Z",
+   "firstSeen": "2026-10-27T21:32:55.986Z"
+  },
+  {
+   "id": "887288cca585",
+   "title": "Football Italia Show – No Serie A stop: Hidden traps & injury problems",
+   "link": "https://football-italia.net/football-italia-serie-a-stop-hidden-traps-prob/",
+   "snippet": "Lorenzo Bettoni and Richard Hall return with a new episode of the Football Italia Show...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-27T18:05:12.000Z",
+   "firstSeen": "2026-10-27T21:32:55.986Z"
+  },
+  {
+   "id": "e4cb472ac6bf",
+   "title": "Spalletti reacts to ‘frightening’ Kane’s 2026 Ballon d’Or award: ‘How it should be’",
+   "link": "https://football-italia.net/spalletti-reacts-to-kanes-2026-ballon-dor/",
+   "snippet": "Juventus head coach Luciano Spalletti has had his say on Harry Kane’s triumph at the...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-27T18:02:01.000Z",
+   "firstSeen": "2026-10-27T21:32:55.986Z"
+  },
+  {
+   "id": "2ae5d173cb96",
+   "title": "Real Madrid plot another Liverpool raid for marquee signing next summer: report",
+   "link": "https://www.fourfourtwo.com/transfer/real-madrid-plot-another-liverpool-raid-for-marquee-signing-next-summer-report",
+   "snippet": "Real Madrid president Florentino Perez 'once again' wants Liverpool star to be his big-name acquisition",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-10-27T18:00:00.000Z",
+   "firstSeen": "2026-10-27T21:32:55.986Z"
+  },
+  {
+   "id": "93105958ae0e",
+   "title": "Gattuso: ‘Make Lazio fans proud, but with 11 players like me, you won’t win much’",
+   "link": "https://football-italia.net/gattuso-make-lazio-fans-proud-but-with-11-me/",
+   "snippet": "Gennaro Gattuso is ‘proud’ so many Lazio fans made the trip for tonight’s Sassuolo match,...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-27T17:24:13.000Z",
+   "firstSeen": "2026-10-27T21:32:55.986Z"
+  },
+  {
+   "id": "1a868fafc478",
+   "title": "Wenger's 'daylight' offside trial unlikely to be extended",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwj342p373vzo",
+   "snippet": "Arsene Wenger's \"daylight\" offside trial is unlikely to be extended after receiving a lack of support at the Ifab assessment panels.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-27T17:21:26.000Z",
+   "firstSeen": "2026-10-27T21:32:55.986Z"
+  },
+  {
+   "id": "72bdaf267424",
+   "title": "Where are Celtic & O'Neill a year after Rodgers exit?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmj47zzy4778o",
+   "snippet": "How should Martin O'Neill and Celtic be assessed a year since his arrival in place of Brendan Rodgers as manager?",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-27T17:15:11.000Z",
+   "firstSeen": "2026-10-27T21:32:55.986Z"
+  },
+  {
+   "id": "d492ed89816c",
+   "title": "Captain Xhaka allowed to play for Switzerland again",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck3wvl2ygd77o",
+   "snippet": "Granit Xhaka and Breel Embolo will be allowed to return to action for Switzerland next month following an investigation into forged Covid-19 vaccination certificates.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-27T17:00:58.000Z",
+   "firstSeen": "2026-10-27T21:32:55.986Z"
+  },
+  {
+   "id": "698606b6d6a8",
+   "title": "Harry Kane has restored some much-needed credibility to Ballon d'Or - an award that desperately needed him to win it this year",
+   "link": "https://www.fourfourtwo.com/person/player/harry-kane-has-restored-some-much-needed-credibility-to-ballon-dor-an-award-that-desperately-needed-him-to-win-it-this-year",
+   "snippet": "Harry Kane is the best player in the world, and so deserves the Ballon d'Or. It's as simple as that - so why is it never that simple?",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-10-27T17:00:00.000Z",
+   "firstSeen": "2026-10-27T21:32:55.986Z"
+  },
+  {
+   "id": "8867591ff1f5",
+   "title": "How to watch Fleetwood Town vs Arsenal: live stream details and team news for Carabao Cup round of 16 tie",
+   "link": "https://www.fourfourtwo.com/competition/watch-fleetwood-town-vs-arsenal-carabao-cup-round-of-16-tie",
+   "snippet": "Here's how to watch Fleetwood Town vs Arsenal in the Carabao Cup 4th round online for free from anywhere in the world.",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-10-27T17:00:00.000Z",
+   "firstSeen": "2026-10-27T21:32:55.986Z"
+  },
+  {
    "id": "8a6cd3965291",
    "title": "When is the EFL Cup quarter-final draw?",
    "link": "https://www.bbc.co.uk/sport/football/articles/clyegmmvr4vo",
@@ -474,6 +738,17 @@
    "firstSeen": "2026-10-27T16:58:14.937Z"
   },
   {
+   "id": "f07c9df48dac",
+   "title": "Team success, the ‘Bundesliga tax’ and the World Cup: three takeaways from the 2026 Ballon d’Or",
+   "link": "https://www.theguardian.com/football/2026/oct/27/ballon-dor-harry-kane-takeaways",
+   "snippet": "There was plenty to learn from this year’s ceremony in London as Harry Kane took home the top honor It was an awards show that, as Michael Owen admitted, could have been a phone call – as it was in 2001 when he won. A quarter-century on, a…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-27T11:15:31.000Z",
+   "firstSeen": "2026-10-27T21:32:55.986Z"
+  },
+  {
    "id": "5ab05ac6998f",
    "title": "De Gea: Fiorentina goalkeeper posts picture in support of under-fire Carrick",
    "link": "https://football-italia.net/de-gea-fiorentina-support-man-united-carrick/",
@@ -859,6 +1134,17 @@
    "firstSeen": "2026-10-27T02:43:41.319Z"
   },
   {
+   "id": "8f504a23f000",
+   "title": "Arsenal latest: Nwaneri's brother Emerson scores winner in Jersey Mike's Trophy",
+   "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "snippet": "",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-26T21:56:00.000Z",
+   "firstSeen": "2026-10-27T21:32:55.986Z"
+  },
+  {
    "id": "e32299dd3564",
    "title": "Ballon d’Or 2026: updates from London as Lamine Yamal wins men’s young talent award – live",
    "link": "https://www.theguardian.com/football/live/2026/oct/26/ballon-dor-2026-updates-from-70th-edition-in-london-live",
@@ -1099,6 +1385,17 @@
    "section": "world",
    "published": "2026-10-26T17:18:00.000Z",
    "firstSeen": "2026-10-26T22:00:48.997Z"
+  },
+  {
+   "id": "8201b417f282",
+   "title": "Arsenal smuggle home equaliser at Fleetwood LIVE!",
+   "link": "https://www.skysports.com/football/fleetwood-town-vs-arsenal/live/578610",
+   "snippet": "",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-26T17:17:00.000Z",
+   "firstSeen": "2026-10-27T21:32:55.986Z"
   },
   {
    "id": "57e35011d4d3",
@@ -7118,6 +7415,17 @@
    "firstSeen": "2026-10-22T10:46:54.176Z"
   },
   {
+   "id": "6b26040857d1",
+   "title": "Who is close to a yellow card suspension in Champions League?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c54g1vpypgw3o",
+   "snippet": "BBC Sport's Ask Me Anything team explains what the rules are regarding yellow card suspensions in this season's Champions League",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-22T08:54:13.000Z",
+   "firstSeen": "2026-10-27T21:32:55.986Z"
+  },
+  {
    "id": "4e4637f76a29",
    "title": "Europa League: Bournemouth vs. Milan – probable line-ups, where to watch on TV",
    "link": "https://football-italia.net/europa-league-bournemouth-v-milan-line-ups-tv/",
@@ -8920,336 +9228,6 @@
    "section": "world",
    "published": "2026-10-20T21:42:47.000Z",
    "firstSeen": "2026-10-21T02:20:21.881Z"
-  },
-  {
-   "id": "a4ac6bcdf435",
-   "title": "Gasperini: ‘Roma in good shape, but worry for Pellegrini injury’",
-   "link": "https://football-italia.net/gasperini-roma-in-good-shape-worry-pellegrini/",
-   "snippet": "Gian Piero Gasperini was glad Roma got their first Champions League victory against Slovan Bratislava,...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-20T21:31:00.000Z",
-   "firstSeen": "2026-10-21T02:20:21.881Z"
-  },
-  {
-   "id": "8a1435a0c6b3",
-   "title": "Carrick wants more Man Utd clean sheets to turn season around",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cje362v35175o",
-   "snippet": "Manchester United boss Michael Carrick needs more clean sheets as he looks to change his team's fortunes, as they take on Como in the Champions League.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-champions-league",
-   "section": "champions-league",
-   "published": "2026-10-20T21:27:35.000Z",
-   "firstSeen": "2026-10-21T02:20:21.881Z"
-  },
-  {
-   "id": "cb26906689cc",
-   "title": "McTominay on first two Napoli goals and ‘amazing’ reason to celebrate",
-   "link": "https://football-italia.net/mctominay-napoli-goal-amazing-reason-celebrate/",
-   "snippet": "Scott McTominay feels he is ‘nearly there’ with his first goals since heart surgery in...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-20T21:18:57.000Z",
-   "firstSeen": "2026-10-21T02:20:21.881Z"
-  },
-  {
-   "id": "84cca1c32039",
-   "title": "Doué and Vitinha burn bright as brittle Barcelona come unstuck against PSG",
-   "link": "https://www.theguardian.com/football/2026/oct/20/paris-saint-germain-psg-barcelona-champions-league-match-report",
-   "snippet": "Fire, noise, fury, a sense of empty energy. And across town, a football match too. Do any of these randomly pitched autumnal Champions League fixtures mean anything? Probably not when you’re Paris Saint-Germain and Barcelona, and the only…",
-   "source": "The Guardian",
-   "sourceId": "guardian-champions-league",
-   "section": "champions-league",
-   "published": "2026-10-20T21:08:45.000Z",
-   "firstSeen": "2026-10-21T02:20:21.881Z"
-  },
-  {
-   "id": "60850bf4d34c",
-   "title": "Mac Allister double sparks Liverpool’s thrilling comeback win over Villarreal",
-   "link": "https://www.theguardian.com/football/2026/oct/20/liverpool-villarreal-champions-league-match-report",
-   "snippet": "Andoni Iraola and Iñigo Pérez parked a long and close friendship in the buildup to their first competitive confrontation as coaches. The old Athletic Bilbao teammates will have a humdinger of a Champions League contest to dissect once…",
-   "source": "The Guardian",
-   "sourceId": "guardian-champions-league",
-   "section": "champions-league",
-   "published": "2026-10-20T21:04:02.000Z",
-   "firstSeen": "2026-10-21T02:20:21.881Z"
-  },
-  {
-   "id": "a414b2db545a",
-   "title": "UCL | Napoli 4-3 Bodo/Glimt: McTominay to the rescue with first goals",
-   "link": "https://football-italia.net/ucl-napoli-4-3-bodo-glimt-mctominay-to-rescue/",
-   "snippet": "Scott McTominay came to the rescue with two goals, as Napoli got their first Champions...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-20T21:01:34.000Z",
-   "firstSeen": "2026-10-21T02:20:21.881Z"
-  },
-  {
-   "id": "6a1a206d02a1",
-   "title": "Foden hat-trick helps Manchester City cut through noise and crush AEK Athens",
-   "link": "https://www.theguardian.com/football/2026/oct/20/manchester-city-aek-athens-champions-league-match-report",
-   "snippet": "Phil Foden shouted the loudest on a quiet night at the Etihad Stadium, announcing his personal return to form with an instinctive hat-trick as Manchester City dispatched AEK Athens with little fuss. Enzo Maresca had called for City to make…",
-   "source": "The Guardian",
-   "sourceId": "guardian-champions-league",
-   "section": "champions-league",
-   "published": "2026-10-20T21:00:58.000Z",
-   "firstSeen": "2026-10-21T02:20:21.881Z"
-  },
-  {
-   "id": "17f1b3dcf19d",
-   "title": "Man City cruise against AEK Athens as Foden completes hat-trick LIVE!",
-   "link": "https://www.skysports.com/football/manchester-city-vs-aek-athens/live/577636",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-20T20:58:08.424Z",
-   "firstSeen": "2026-10-20T20:58:08.424Z"
-  },
-  {
-   "id": "2dffc3219127",
-   "title": "Webb backs Botman decision despite pundits' calls for red card",
-   "link": "https://www.skysports.com/football/news/12040/13601311/sven-botman-tackle-howard-webb-says-nothing-clearly-wrong-with-var-decision-to-not-send-newcastle-defender-off",
-   "snippet": "Referees' chief Howard Webb believes there was nothing \"clearly wrong\" with the decision not to send off Newcastle defender Sven Botman for his tackle on Aston Villa striker Nicolas Jackson.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-20T20:58:08.424Z",
-   "firstSeen": "2026-10-20T20:58:08.424Z"
-  },
-  {
-   "id": "37ddd0a3d15d",
-   "title": "Wirtz in on the act as Liverpool turn it around against Villarreal LIVE!",
-   "link": "https://www.skysports.com/football/liverpool-vs-villarreal/live/577635",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-20T20:58:08.424Z",
-   "firstSeen": "2026-10-20T20:58:08.424Z"
-  },
-  {
-   "id": "b5a949a576e9",
-   "title": "PSG beating Barcelona in epic clash LIVE!",
-   "link": "https://www.skysports.com/football/paris-saint-germain-vs-barcelona/live/577638",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-20T20:58:08.424Z",
-   "firstSeen": "2026-10-20T20:58:08.424Z"
-  },
-  {
-   "id": "eb08497dd5f9",
-   "title": "Portsmouth hit back to level late at Wolves LIVE!",
-   "link": "https://www.skysports.com/football/wolverhampton-wanderers-vs-portsmouth/live/560565",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-20T20:58:08.424Z",
-   "firstSeen": "2026-10-20T20:58:08.424Z"
-  },
-  {
-   "id": "a7db14ab1450",
-   "title": "Audit regulator looking into Manchester City accounting",
-   "link": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo",
-   "snippet": "No formal investigation has started, but the regulator is making inquiries into the case.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-10-20T20:56:53.000Z",
-   "firstSeen": "2026-10-21T02:20:21.881Z"
-  },
-  {
-   "id": "52cfd89724cb",
-   "title": "PSG v Barcelona, Manchester City v AEK Athens, and more: Champions League – live",
-   "link": "https://www.theguardian.com/football/live/2026/oct/20/psg-v-barcelona-manchester-city-v-aek-athens-and-more-champions-league-live",
-   "snippet": "⚽ Updates from Tuesday’s Champions League games ⚽ Liverpool v Villarreal | Live scores | Table | Mail Simon Peeeeeeeeep! The games have begun! Except for the one in Paris, which is running late. These are the final moments of pre-match…",
-   "source": "The Guardian",
-   "sourceId": "guardian-champions-league",
-   "section": "champions-league",
-   "published": "2026-10-20T20:56:40.000Z",
-   "firstSeen": "2026-10-20T20:58:08.424Z"
-  },
-  {
-   "id": "569e3300da6d",
-   "title": "Liverpool 4-3 Villarreal: Champions League – live reaction",
-   "link": "https://www.theguardian.com/football/live/2026/oct/20/liverpool-v-villarreal-champions-league-live",
-   "snippet": "⚽ Updates from the 8pm BST kick-off at Anfield ⚽ Football clockwatch | Live scores | Table | Mail Scott Villarreal kick off. They’re kicking towards the Kop in this first half. Both sets of fans give their all to this evening’s pre-match…",
-   "source": "The Guardian",
-   "sourceId": "guardian-champions-league",
-   "section": "champions-league",
-   "published": "2026-10-20T20:54:39.000Z",
-   "firstSeen": "2026-10-20T20:58:08.424Z"
-  },
-  {
-   "id": "202259107d51",
-   "title": "UCL | Roma 4-0 Slovan Bratislava: Giallorossi secure first victory",
-   "link": "https://football-italia.net/ucl-roma-4-0-slovan-bratislava-first-victory/",
-   "snippet": "Roma swept Slovan Bratislava aside 4-0 for their first Champions League victory, with Mario Hermoso,...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-20T20:51:53.000Z",
-   "firstSeen": "2026-10-20T20:58:08.424Z"
-  },
-  {
-   "id": "c7ce2270f802",
-   "title": "Arsenal criticism comes from very small minority - Arteta",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm8xzrwv5zpko",
-   "snippet": "David Raya says he does not know what to say when people call Arsenal's style of play \"boring or irritating\", as Mikel Arteta brushes off criticism.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-champions-league",
-   "section": "champions-league",
-   "published": "2026-10-20T20:33:27.000Z",
-   "firstSeen": "2026-10-20T20:58:08.424Z"
-  },
-  {
-   "id": "5d3c462eb6cf",
-   "title": "Man Utd revisit deal for Hall - Wednesday gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ck62yq0rd0vvo",
-   "snippet": "Manchester United targeting Lewis Hall and Adrien Truffert, Real Madrid remain interested in Riccardo Calafiori, Liverpool and Arsenal both keen on Xavi Espart, plus more.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-20T20:17:15.000Z",
-   "firstSeen": "2026-10-20T20:58:08.424Z"
-  },
-  {
-   "id": "bbecf1950c56",
-   "title": "McTominay scores twice as Napoli beat Bodo/Glimt",
-   "link": "https://www.bbc.co.ukundefined/",
-   "snippet": "Scott McTominay scores his first goals since undergoing heart surgery as Napoli claim a thrilling 4-3 victory over Bodo/Glimt.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-20T19:45:54.000Z",
-   "firstSeen": "2026-10-21T02:20:21.881Z"
-  },
-  {
-   "id": "a4d2a7e84838",
-   "title": "Champions League Liveblog: Roma vs. Slovan, Napoli vs. Bodo/Glimt",
-   "link": "https://football-italia.net/champions-league-live-roma-slovan-napoli-bodo/",
-   "snippet": "{rsn-live-v2}",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-20T18:48:00.000Z",
-   "firstSeen": "2026-10-20T20:58:08.424Z"
-  },
-  {
-   "id": "56b392e66748",
-   "title": "D’Amico: ‘Roma had 80 spectacular minutes with Real Madrid, will try’ for Endrick",
-   "link": "https://football-italia.net/damico-roma-80-spectacular-minutes-real-madrid/",
-   "snippet": "Roma director Tony D’Amico tries to focus on ’80 spectacular minutes’ against Real Madrid rather...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-20T18:46:06.000Z",
-   "firstSeen": "2026-10-20T20:58:08.424Z"
-  },
-  {
-   "id": "0516c36f7337",
-   "title": "Turkish FA bans 147 officials for breaching betting rules",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqdr86m4r36po",
-   "snippet": "Trabzonspor president Ertugrul Dogan is among 147 club officials given a 45-day ban by the Turkish Football Federation (TFF) for breaching betting rules.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-20T18:39:43.000Z",
-   "firstSeen": "2026-10-20T20:58:08.424Z"
-  },
-  {
-   "id": "6f8f48e1b0ba",
-   "title": "Manna: ‘Allegri absolutely not in doubt, Napoli wanted to be reassured’",
-   "link": "https://football-italia.net/manna-allegri-absolutely-not-in-doubt-napoli/",
-   "snippet": "Napoli director Giovanni Manna assures coach Max Allegri ‘is absolutely not in doubt,’ but President...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-20T18:34:20.000Z",
-   "firstSeen": "2026-10-20T20:58:08.424Z"
-  },
-  {
-   "id": "a52d4c28c730",
-   "title": "Allegri: ‘Napoli avoid anxiety and haste, need patience in Champions League’",
-   "link": "https://football-italia.net/allegri-napoli-avoid-anxiety-haste-patience/",
-   "snippet": "Max Allegri explains his Napoli choices against Bodo/Glimt and urges his team to ‘never lose...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-20T18:18:03.000Z",
-   "firstSeen": "2026-10-20T20:58:08.424Z"
-  },
-  {
-   "id": "ae3666707593",
-   "title": "Balerdi: ‘I feel good in any role’ as Roma transform back 3",
-   "link": "https://football-italia.net/balerdi-i-feel-good-in-any-role-roma-transform/",
-   "snippet": "Leonardo Balerdi confirms some radical changes to the Roma defence for tonight’s Champions League match...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-20T18:04:46.000Z",
-   "firstSeen": "2026-10-20T20:58:08.424Z"
-  },
-  {
-   "id": "0da1cc2f896a",
-   "title": "Champions League line-ups: Roma vs. Slovan Bratislava",
-   "link": "https://football-italia.net/champions-league-line-ups-roma-vs-slovan-brat/",
-   "snippet": "Roma seek their first Champions League victory by hosting Yaya Touré’s Slovan Bratislava with Donyell...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-20T17:53:27.000Z",
-   "firstSeen": "2026-10-20T20:58:08.424Z"
-  },
-  {
-   "id": "65c4b3a42c70",
-   "title": "Champions League line-ups: Napoli vs. Bodo/Glimt",
-   "link": "https://football-italia.net/champions-league-line-ups-napoli-vs-bodo-glimt/",
-   "snippet": "Napoli in crisis hope Kevin De Bruyne, Scott McTominay and Rasmus Hojlund can get them...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-20T17:50:30.000Z",
-   "firstSeen": "2026-10-20T20:58:08.424Z"
-  },
-  {
-   "id": "41f97dd251c1",
-   "title": "How to watch Manchester City vs AEK Athens: Live Streams",
-   "link": "https://www.fourfourtwo.com/competition/how-to-watch-manchester-city-vs-aek-athens-champions-league-2026-27",
-   "snippet": "Here's how to watch Manchester City vs AEK Athens from anywhere in the world as Enzo Maresca's side look to bounce back in the Champions League 2026/27.",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-10-20T17:00:00.000Z",
-   "firstSeen": "2026-10-20T20:58:08.424Z"
-  },
-  {
-   "id": "7194517bbbd4",
-   "title": "Alex Scott signs, with right-back and right wing switch-up: Liverpool’s dream January window",
-   "link": "https://www.fourfourtwo.com/team/alex-scott-signs-with-right-back-and-right-wing-switch-up-liverpools-dream-transfer-window",
-   "snippet": "Three players will arrive at Anfield for a combined fee of over £200 million in Liverpool’s dream January transfer window",
-   "source": "FourFourTwo",
-   "sourceId": "fourfourtwo",
-   "section": "world",
-   "published": "2026-10-20T17:00:00.000Z",
-   "firstSeen": "2026-10-20T20:58:08.424Z"
-  },
-  {
-   "id": "4d8b40ee7525",
-   "title": "Bastoni warning ‘Inter not the same as in Champions League Finals’",
-   "link": "https://football-italia.net/bastoni-warning-inter-not-champions-league/",
-   "snippet": "Alessandro Bastoni warns Inter ‘must be realistic’ on their Champions League ambitions as they host...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-20T16:59:39.000Z",
-   "firstSeen": "2026-10-20T20:58:08.424Z"
   }
  ]
 }
