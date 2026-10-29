@@ -1,6 +1,270 @@
 {
  "stories": [
   {
+   "id": "a511fd502f00",
+   "title": "'Stutter' penalty back in the spotlight after Barco miss costs Chelsea",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmp3g8vxd258o",
+   "snippet": "The stuttering run-up for penalties has been called 'naive' as players continue to try to deceive goalkeepers with a stop-start approach - but why?",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-29T00:17:48.000Z",
+   "firstSeen": "2026-10-29T03:15:44.102Z"
+  },
+  {
+   "id": "2e719675555a",
+   "title": "'He could be happier' - why is Estevao becoming Chelsea's forgotten man?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cv5ynwkndw61o",
+   "snippet": "Estevao faces limited opportunities at Chelsea as Pedro Neto’s form and competition for places in attack leave him struggling for game time under Xabi Alonso.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-29T00:05:21.000Z",
+   "firstSeen": "2026-10-29T03:15:44.102Z"
+  },
+  {
+   "id": "50fa69f9bf2e",
+   "title": "Scottish Premiership: McInnes booed in Rangers draw at Hearts, Celtic held at home",
+   "link": "https://www.theguardian.com/football/2026/oct/28/scottish-premiership-makhanya-late-header-rangers-point-at-hearts-celtic-draw",
+   "snippet": "Derek McInnes returns to Tynecastle for 2-2 draw Martin O’Neill ‘disappointed’ by Dundee United result Olwethu Makhanya scored a late equaliser as Rangers earned a 2-2 draw with Hearts on the much-hyped Tynecastle return for Derek McInnes.…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-28T23:25:10.000Z",
+   "firstSeen": "2026-10-29T03:15:44.102Z"
+  },
+  {
+   "id": "dc5ed3c328f0",
+   "title": "Papers: Liverpool make contact with Monaco midfielder Camara",
+   "link": "https://www.skysports.com/football/news/12040/13605140/liverpool-transfer-news-reds-make-contact-with-lamine-camara-camp-ahead-of-proposed-january-move-for-monaco-midfielder-paper-talk",
+   "snippet": "The top stories and transfer rumours from Thursday's newspapers...",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-28T23:20:00.000Z",
+   "firstSeen": "2026-10-29T03:15:44.102Z"
+  },
+  {
+   "id": "caed67f66191",
+   "title": "How unbeaten Chelsea are getting back to their best",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c8wy9wenqd01o",
+   "snippet": "Chelsea are getting back to their best following their 2-0 Women's Champions League win over Roma - so how have they built success in their unbeaten run?",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-28T23:17:33.000Z",
+   "firstSeen": "2026-10-29T03:15:44.102Z"
+  },
+  {
+   "id": "37d0e000a0e0",
+   "title": "Carabao Cup roundup: Bournemouth thrash Villa, Sunderland salvo stings Bees",
+   "link": "https://www.theguardian.com/football/2026/oct/28/carabao-cup-fouth-round-bournemouth-aston-villa-sunderland-brentford",
+   "snippet": "Cherries win 3-0 to set up Anfield visit in last eight Wearsiders resist Brentford fightback in 3-2 success Bournemouth continued their impressive run of results by thumping Aston Villa 3-0 to reach the Carabao Cup quarter-finals for the…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-28T23:15:01.000Z",
+   "firstSeen": "2026-10-29T03:15:44.102Z"
+  },
+  {
+   "id": "06f9472023e9",
+   "title": "'He knows his role' - Rulli provides heroics but no worries for Donnarumma",
+   "link": "https://www.bbc.co.uk/sport/articles/cqrky1jnpy1no",
+   "snippet": "Geronimo Rulli's penalty shootout heroics may have put the pressure on Gianluigi Donnarumma at Manchester City, but manager Enzo Maresca has no doubt about his number one.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-28T23:10:06.000Z",
+   "firstSeen": "2026-10-29T03:15:44.102Z"
+  },
+  {
+   "id": "a6d15fdc55ef",
+   "title": "Worrying stats raise questions over Juventus’ attack",
+   "link": "https://football-italia.net/juventus-worrying-stats-attack-26-27-questions/",
+   "snippet": "Juventus have the second-weakest attack among the top ten in Serie A and rank 18th...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-28T22:57:30.000Z",
+   "firstSeen": "2026-10-29T03:15:44.102Z"
+  },
+  {
+   "id": "1e353e04b6a2",
+   "title": "Juric saw positive Monza performance ‘until we started to gift Napoli goals’",
+   "link": "https://football-italia.net/juric-saw-positive-monza-until-gifting-napoli/",
+   "snippet": "Ivan Juric insists Monza had an ‘excellent first half, but then started gifting goals’ in...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-28T22:52:55.000Z",
+   "firstSeen": "2026-10-29T03:15:44.102Z"
+  },
+  {
+   "id": "bade413220ae",
+   "title": "Fleetwood to face Everton or Newcastle in last eight",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmp3glnle0wdo",
+   "snippet": "League Two Fleetwood Town will face Everton or Newcastle United at Highbury in the quarter-finals of the EFL Cup.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-28T22:45:35.000Z",
+   "firstSeen": "2026-10-29T03:15:44.102Z"
+  },
+  {
+   "id": "5573095b300b",
+   "title": "McKennie explains Juventus’ defeat: ‘Nothing to do with tactics’",
+   "link": "https://football-italia.net/mckennie-juventus-defeat-nothing-do-tactics/",
+   "snippet": "Weston McKennie insists Juventus’ 2-0 loss against Genoa has ‘nothing to do’ with tactics: ‘In...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-28T22:41:14.000Z",
+   "firstSeen": "2026-10-29T03:15:44.102Z"
+  },
+  {
+   "id": "e072e5d6decb",
+   "title": "Kompany discharged from hospital after collapsing at training",
+   "link": "https://www.skysports.com/football/news/12040/13605014/vincent-kompany-bayern-munich-head-coach-discharged-from-hospital-after-collapsing-at-training",
+   "snippet": "Bayern Munich head coach Vincent Kompany has ‌been discharged from hospital following his collapse in training last week ‌due to a meningeal irritation, board member for ​sports Max Eberl said on Wednesday.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-28T22:40:00.000Z",
+   "firstSeen": "2026-10-29T03:15:44.102Z"
+  },
+  {
+   "id": "22b9aba7fbd0",
+   "title": "Spalletti: ‘Juventus lost duels all over the place, not ready to do battle’",
+   "link": "https://football-italia.net/spalletti-juventus-lost-duels-all-over-place/",
+   "snippet": "Luciano Spalletti warns Juventus ‘lost duels all over the place’ in their 2-0 loss to...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-28T22:37:28.000Z",
+   "firstSeen": "2026-10-29T03:15:44.102Z"
+  },
+  {
+   "id": "d60f36fc8e62",
+   "title": "Liverpool beat Chelsea on penalties yet again to secure Carabao Cup progress",
+   "link": "https://www.theguardian.com/football/2026/oct/28/liverpool-chelsea-carabao-cup-fourth-round-match-report",
+   "snippet": "Chelsea must have been resigned to their fate as soon as the shootout arrived at Anfield. Four times they had faced Liverpool on penalties previously and four times they had lost. Number five was confirmed when Wesley Fofana’s wild effort…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-28T22:30:20.000Z",
+   "firstSeen": "2026-10-29T03:15:44.102Z"
+  },
+  {
+   "id": "585d6abc2717",
+   "title": "De Rossi joy at beating mentor Spalletti: ‘Genoa showed heart and spirit’",
+   "link": "https://football-italia.net/de-rossi-joy-at-beating-mentor-spalletti-genoa/",
+   "snippet": "Daniele De Rossi admits it ‘means a lot’ for him to beat mentor Luciano Spalletti,...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-28T22:23:41.000Z",
+   "firstSeen": "2026-10-29T03:15:44.102Z"
+  },
+  {
+   "id": "03517e934fac",
+   "title": "Arsenal’s Slegers hails ‘role model’ Russo after historic hat-trick sinks Benfica",
+   "link": "https://www.theguardian.com/football/2026/oct/28/arsenal-v-benfica-womens-champions-league-match-report",
+   "snippet": "Alessia Russo wrote herself into the history books once more as she became the highest English goalscorer in the Women’s Champions League. Her hat-trick gave Arsenal a vital 3-0 win against Benfica to send the Gunners up to second in the…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-28T22:21:52.000Z",
+   "firstSeen": "2026-10-29T03:15:44.102Z"
+  },
+  {
+   "id": "23e170c42bc3",
+   "title": "Russo scores hat-trick as Arsenal beat Benfica",
+   "link": "https://www.bbc.co.uk/sport/football/videos/crd6dzxwlqjlo",
+   "snippet": "Alessia Russo becomes England's all-time leading goalscorer in the Women's Champions League with a hat-trick in Arsenal's 3-0 win over Benfica.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-28T22:19:57.000Z",
+   "firstSeen": "2026-10-29T03:15:44.102Z"
+  },
+  {
+   "id": "a06861f6973e",
+   "title": "Modric says Milan ‘deserved’ defeat against Bologna: ‘We didn’t expect it’",
+   "link": "https://football-italia.net/modric-milan-deserve-defeat-bologna-not-expect/",
+   "snippet": "Milan star Luka Modric admits the Rossoneri deserved to lose to Bologna, especially after their...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-28T22:18:35.000Z",
+   "firstSeen": "2026-10-29T03:15:44.102Z"
+  },
+  {
+   "id": "9dd27f8d31bf",
+   "title": "History-maker Russo scores hat-trick as Arsenal dismiss Benfica",
+   "link": "https://www.skysports.com/football/arsenal-women-vs-benfica-women/report/578250",
+   "snippet": "Alessia Russo became the highest-ever English goalscorer in Women's Champions League history with a hat-trick against Benfica as Arsenal won 3-0 in their league phase match.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-28T22:10:00.000Z",
+   "firstSeen": "2026-10-29T03:15:44.102Z"
+  },
+  {
+   "id": "5a7bedc591e7",
+   "title": "Landucci: ‘The critics always complain about Napoli, lost Lobotka for a while’",
+   "link": "https://football-italia.net/landucci-the-critics-always-complain-napoli/",
+   "snippet": "Max Allegri’s assistant manager Marco Landucci defended Napoli’s tactics after a 4-1 victory away to...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-28T22:06:40.000Z",
+   "firstSeen": "2026-10-29T03:15:44.102Z"
+  },
+  {
+   "id": "e004e0263a68",
+   "title": "Rulli’s heroics earn Manchester City shootout success against Brighton",
+   "link": "https://www.theguardian.com/football/2026/oct/28/manchester-city-brighton-carabao-cup-fourth-round-match-report",
+   "snippet": "After Jérémy Doku’s second-half substitute appearance transformed Manchester City into a high-octane proposition, the smart money was on the momentum continuing into a victorious penalty shootout. So it proved as Enzo Maresca’s men…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-28T21:58:14.000Z",
+   "firstSeen": "2026-10-29T03:15:44.102Z"
+  },
+  {
+   "id": "444b9b70904a",
+   "title": "Nketiah takes Crystal Palace past Fulham and earns Sage breathing space",
+   "link": "https://www.theguardian.com/football/2026/oct/28/fulham-crystal-palace-carabao-cup-fourth-round-match-report",
+   "snippet": "“Can we play you every week?” chanted the Crystal Palace fans as they celebrated a fifth victory over Fulham on their own patch in the space of 18 months. Eddie Nketiah’s first-half goal against the run of play eased some of the growing…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-28T21:53:27.000Z",
+   "firstSeen": "2026-10-29T03:15:44.102Z"
+  },
+  {
+   "id": "8212c0d41a59",
+   "title": "Liverpool beat Chelsea on penalties to reach last eight",
+   "link": "https://www.skysports.com/football/liverpool-vs-chelsea/report/578612",
+   "snippet": "Wesley Fofana missed the decisive spot kick as Liverpool beat Chelsea on penalties to set up a Carabao Cup quarter-final against Andoni Iraola's former side Bournemouth.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-28T21:50:00.000Z",
+   "firstSeen": "2026-10-29T03:15:44.102Z"
+  },
+  {
+   "id": "9a4551c9f303",
+   "title": "Rangers score late to snatch draw on McInnes' Hearts return",
+   "link": "https://www.skysports.com/football/hearts-vs-rangers/report/558396",
+   "snippet": "Rangers snatched a point on Derek McInnes' Tynecastle return as Hearts held onto their formidable unbeaten home record.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-28T21:50:00.000Z",
+   "firstSeen": "2026-10-29T03:15:44.102Z"
+  },
+  {
    "id": "f6463d87f701",
    "title": "Liverpool v Chelsea: Carabao Cup fourth round – live",
    "link": "https://www.theguardian.com/football/live/2026/oct/28/liverpool-v-chelsea-carabao-cup-fourth-round-live",
@@ -56,6 +320,17 @@
    "firstSeen": "2026-10-28T21:58:20.505Z"
   },
   {
+   "id": "a16321556e86",
+   "title": "Celtic miss chance to go six points clear at top in Dundee United draw",
+   "link": "https://www.skysports.com/football/celtic-vs-dundee-united/report/558394",
+   "snippet": "Celtic lost the opportunity to go six points clear at the top of the Scottish Premiership as they drew 2-2 with Dundee United.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-28T21:35:00.000Z",
+   "firstSeen": "2026-10-29T03:15:44.102Z"
+  },
+  {
    "id": "718210a39d48",
    "title": "Sancho rejects Getafe - Thursday's gossip",
    "link": "https://www.bbc.co.uk/sport/football/articles/ckyvr1q72v84o",
@@ -87,6 +362,17 @@
    "section": "world",
    "published": "2026-10-28T21:23:56.000Z",
    "firstSeen": "2026-10-28T21:58:20.505Z"
+  },
+  {
+   "id": "6d2a1483db50",
+   "title": "Man City dump Brighton out of Carabao Cup after shoot-out victory",
+   "link": "https://www.skysports.com/football/manchester-city-vs-brighton-and-hove-albion/report/578614",
+   "snippet": "Carabao Cup holders Manchester City needed penalties to progress past Brighton and into the quarter-finals after battling from behind to draw the game 2-2 at the Etihad.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-28T21:19:00.000Z",
+   "firstSeen": "2026-10-29T03:15:44.102Z"
   },
   {
    "id": "d67c63b73ccd",
@@ -452,6 +738,17 @@
    "firstSeen": "2026-10-28T17:33:06.245Z"
   },
   {
+   "id": "2e8a6c3c8c88",
+   "title": "‘This isn’t supposed to happen’: giant-slaying Fleetwood revels in fairytale Arsenal win",
+   "link": "https://www.theguardian.com/football/2026/oct/28/this-isnt-supposed-to-happen-giant-slaying-fleetwood-revels-in-fairytale-win",
+   "snippet": "Fishing town in disbelief the morning after its footballing minnows beat mighty Arsenal on penalties On a wet and windy night on the north-west coast of England, a League Two side sensationally knocked the Premier League champions out of…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-28T16:52:23.000Z",
+   "firstSeen": "2026-10-29T03:15:44.102Z"
+  },
+  {
    "id": "d34208def846",
    "title": "Hero Haughey's 'surreal moment' after Arsenal shock",
    "link": "https://www.bbc.co.uk/sport/football/articles/c6m2dr41x9vko",
@@ -516,6 +813,17 @@
    "section": "world",
    "published": "2026-10-28T16:23:12.000Z",
    "firstSeen": "2026-10-28T17:33:06.245Z"
+  },
+  {
+   "id": "84f71c63318c",
+   "title": "Liverpool draw Bournemouth in Carabao Cup quarters",
+   "link": "https://www.skysports.com/football/news/12040/13604920/carabao-cup-quarter-final-draw-liverpool-host-bournemouth-as-bradford-and-fleetwood-get-home-ties-against-premier-league-opposition",
+   "snippet": "Liverpool will play Bournemouth in the Carabao Cup quarter-finals while League One Bradford City will host Manchester City.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-28T16:11:00.000Z",
+   "firstSeen": "2026-10-29T03:15:44.102Z"
   },
   {
    "id": "379c033a8109",
@@ -3057,6 +3365,17 @@
    "section": "world",
    "published": "2026-10-26T13:27:30.000Z",
    "firstSeen": "2026-10-26T17:47:52.413Z"
+  },
+  {
+   "id": "d958d8a52516",
+   "title": "Sunderland's first-half blitz sends them past Brentford into quarters",
+   "link": "https://www.skysports.com/football/sunderland-vs-brentford/report/578613",
+   "snippet": "Three goals in 13 first-half minutes saw Sunderland blitz past Brentford and into the Carabao Cup quarter-finals with a 3-2 win at the Stadium of Light.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-26T13:23:00.000Z",
+   "firstSeen": "2026-10-29T03:15:44.102Z"
   },
   {
    "id": "37bf1c5e92a6",
@@ -8942,149 +9261,6 @@
    "section": "world",
    "published": "2026-10-22T03:38:58.000Z",
    "firstSeen": "2026-10-22T10:46:54.176Z"
-  },
-  {
-   "id": "1b2fc5f715ad",
-   "title": "Alysson stars as Villa beat Viking to make it three wins from three in Europe",
-   "link": "https://www.skysports.com/football/aston-villa-vs-viking/report/577642",
-   "snippet": "Aston Villa made it three wins from three in the Champions League with a 3-1 win over Viking at Villa Park.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-22T02:15:11.903Z",
-   "firstSeen": "2026-10-22T02:15:11.903Z"
-  },
-  {
-   "id": "1bb77a47c1ca",
-   "title": "WSL latest: Five-star Man Utd beat Liverpool in Subway Players Cup",
-   "link": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-22T02:15:11.903Z",
-   "firstSeen": "2026-10-22T02:15:11.903Z"
-  },
-  {
-   "id": "4d6ef33ed6ce",
-   "title": "Papers: Brighton boss Hurzeler would be Shearer's pick to replace Carrick",
-   "link": "https://www.skysports.com/football/news/12040/13602091/manchester-united-should-appoint-fabio-hurzeler-if-they-replace-michel-carrick-says-former-premier-league-winner-alan-shearer-paper-talk",
-   "snippet": "The top stories and transfer rumours from Wednesday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-22T02:15:11.903Z",
-   "firstSeen": "2026-10-22T02:15:11.903Z"
-  },
-  {
-   "id": "b4966ea81be4",
-   "title": "Arsenal fight back to draw against Bayern Munich",
-   "link": "https://www.skysports.com/football/bayern-munich-vs-arsenal/report/577643",
-   "snippet": "Declan Rice scored a superb 82nd-minute equaliser as Arsenal fought back to draw 2-2 with Bayern Munich in a thrilling Champions League encounter at the Allianz Arena.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-22T02:15:11.903Z",
-   "firstSeen": "2026-10-22T02:15:11.903Z"
-  },
-  {
-   "id": "ccbb536e2a16",
-   "title": "EFL latest: Bertrand leading consortium looking into AFC Wimbledon investment",
-   "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-22T02:15:11.903Z",
-   "firstSeen": "2026-10-22T02:15:11.903Z"
-  },
-  {
-   "id": "6b6f2e47fd46",
-   "title": "Football Daily",
-   "link": "https://www.bbc.co.uk/sounds/play/p0phxkv1",
-   "snippet": "Reaction as Manchester United lose 4-1 at Como in the Champions League",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-21T23:25:00.000Z",
-   "firstSeen": "2026-10-22T10:46:54.176Z"
-  },
-  {
-   "id": "aee1d32d9304",
-   "title": "Goal, assist... goal-kick - Kane underlines Ballon d'Or credentials",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ck79p7qq1q9ro",
-   "snippet": "Why Declan Rice backs his England team-mate Harry Kane to win the Ballon d'Or after Arsenal's draw with Bayern Munich in the Champions League.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-champions-league",
-   "section": "champions-league",
-   "published": "2026-10-21T23:11:06.000Z",
-   "firstSeen": "2026-10-22T02:15:11.903Z"
-  },
-  {
-   "id": "20c956d887a3",
-   "title": "‘It doesn’t look good’: Arteta concerned as Saka limps off against Bayern Munich",
-   "link": "https://www.theguardian.com/football/2026/oct/21/champions-league-bayern-munich-arsenal-mikel-arteta-bukayo-saka-injury",
-   "snippet": "‘A player off with really sharp pain is never good news’ Winger forced off 10 minutes into Arsenal’s 2-2 draw Mikel Arteta made no attempt to conceal his concern over the quad injury that forced Bukayo Saka out of Arsenal’s 2-2 Champions…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-10-21T22:56:42.000Z",
-   "firstSeen": "2026-10-22T10:46:54.176Z"
-  },
-  {
-   "id": "d3dd8e84a087",
-   "title": "Saka injury 'does not look good' - how will Arsenal cope?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckg5j1zdn4m3o",
-   "snippet": "Mikel Arteta says the quadriceps injury Arsenal's Bukayo Saka picked up in the Champions League draw with Bayern Munich \"does not look good at all\".",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-10-21T22:51:56.000Z",
-   "firstSeen": "2026-10-22T02:15:11.903Z"
-  },
-  {
-   "id": "ef5eaef0b956",
-   "title": "Is it 'phenomenal' Kane's year to lift the Ballon d'Or?",
-   "link": "https://www.bbc.co.uk/sport/football/videos/crpdg21y070jo",
-   "snippet": "Stephen Warnock, Nedum Onuoha and Lars Sivertsen look at whether England captain and Bayern Munich forward Harry Kane should lift the Ballon d'Or following a \"phenomenal\" season.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-champions-league",
-   "section": "champions-league",
-   "published": "2026-10-21T22:41:53.000Z",
-   "firstSeen": "2026-10-22T02:15:11.903Z"
-  },
-  {
-   "id": "c466adc7b76f",
-   "title": "'Simply not good enough - Warnock on Man Utd's Como display",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c8040gdrdlwwo",
-   "snippet": "Match of the Day pundits Nedum Onuoha and Stephen Warnock analyse Manchester United's performance after their 4-1 Champions League defeat to Como, and discuss midfielder Bruno Fernandes' criticism of team tactics.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-champions-league",
-   "section": "champions-league",
-   "published": "2026-10-21T22:36:23.000Z",
-   "firstSeen": "2026-10-22T02:15:11.903Z"
-  },
-  {
-   "id": "7207a458e517",
-   "title": "Champions League: Silva sparks Real Madrid’s demolition of Leipzig as Lask stun Sporting",
-   "link": "https://www.theguardian.com/football/2026/oct/21/champions-league-roundup-real-madrid-leipzig-inter-shakhtar-sporting-lask-brugge-lens-betis-feyenoord",
-   "snippet": "Bernardo Silva opens scoring as Madrid win 4-1 Galatasaray sweep past Lille; 10-man Inter edge Shakhtar Real Madrid claimed a third Champions League victory in as many games by thrashing RB Leipzig 4-1 on Wednesday, with Kylian Mbappé and…",
-   "source": "The Guardian",
-   "sourceId": "guardian-champions-league",
-   "section": "champions-league",
-   "published": "2026-10-21T22:25:12.000Z",
-   "firstSeen": "2026-10-22T02:15:11.903Z"
-  },
-  {
-   "id": "16ecd8911769",
-   "title": "Club Brugge ease to comfortable win over Lens",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c50me40n871zo",
-   "snippet": "Club Brugge pick up their second straight win in the Champions League with an impressive 3-0 victory over Lens.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-champions-league",
-   "section": "champions-league",
-   "published": "2026-10-21T22:03:46.000Z",
-   "firstSeen": "2026-10-22T02:15:11.903Z"
   }
  ]
 }
