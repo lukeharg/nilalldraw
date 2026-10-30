@@ -1,6 +1,138 @@
 {
  "stories": [
   {
+   "id": "c5e4101c27b8",
+   "title": "Can Robinson work Hampden magic against McInnes' Rangers?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwx281x2p28do",
+   "snippet": "Under-pressure Aberdeen manager Stephen Robinson has an excellent record in Hampden semi-finals. But is Saturday's meeting with Rangers a bridge too far?",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-30T21:26:10.000Z",
+   "firstSeen": "2026-10-30T21:45:16.439Z"
+  },
+  {
+   "id": "5d534108c0d3",
+   "title": "Suspicious bets returning £149,000 for predicting Ballon d’Or under investigation",
+   "link": "https://www.theguardian.com/football/2026/oct/30/ballon-dor-betting-suspicious-cryptocurrency-investigation",
+   "snippet": "Bets predicted exact top-five men’s finishing order Organisers France Football have contacted police A series of suspicious bets that correctly predicted the exact top-five finishing order of this year’s Ballon d’Or and generated almost…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-30T21:12:33.000Z",
+   "firstSeen": "2026-10-30T21:45:16.439Z"
+  },
+  {
+   "id": "7fea4c3bd1ec",
+   "title": "Arteta can take inspiration from George Graham to expunge painful Anfield memories",
+   "link": "https://www.theguardian.com/football/2026/oct/30/mikel-arteta-arsenal-inspiration-george-graham-anfield-liverpool",
+   "snippet": "Arsenal have not won at Liverpool for 13 league games but Gunners’ win in 1989 remains one of club’s greatest nights Mikel Arteta used a Spanish word to describe what it felt like to be helpless at Anfield while playing for Everton in…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-30T20:00:23.000Z",
+   "firstSeen": "2026-10-30T21:45:16.439Z"
+  },
+  {
+   "id": "ac473365f8b7",
+   "title": "How can playing for Manchester City fit into Marc Guéhi’s moral universe? | Barney Ronay",
+   "link": "https://www.theguardian.com/football/2026/oct/30/manchester-city-financial-charges-guilty-marc-guehi-premier-league",
+   "snippet": "Club’s predicament raises interesting questions about principles, both for individuals and the Premier League I felt unbelievably ponderous. My head was made of Aztec stone. I realised I didn’t want to be with all these people. Somebody…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-30T20:00:22.000Z",
+   "firstSeen": "2026-10-30T21:45:16.439Z"
+  },
+  {
+   "id": "0bca989b9a17",
+   "title": "Akanji: ‘Inter can’t afford a poor start vs. Milan, they have to work hard if they want to score’",
+   "link": "https://football-italia.net/akanji-inter-cant-afford-a-poor-start-vs-milan/",
+   "snippet": "Manuel Akanji has urged his Inter teammates to avoid having a slow start against rivals...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-30T19:31:09.000Z",
+   "firstSeen": "2026-10-30T21:45:16.439Z"
+  },
+  {
+   "id": "a71358f6ec54",
+   "title": "Sheff Utd still leading Wrexham LIVE!",
+   "link": "https://www.skysports.com/football/sheffield-united-vs-wrexham/live/560648",
+   "snippet": "",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-30T19:00:00.000Z",
+   "firstSeen": "2026-10-30T21:45:16.439Z"
+  },
+  {
+   "id": "efde22b5996c",
+   "title": "Italy talent Zoma among Napoli targets heading into January transfer window",
+   "link": "https://football-italia.net/italy-talent-zoma-among-napoli-january-targets/",
+   "snippet": "Friday’s reports suggest that recently-capped Italy winger Mohamed Ali Zoma is among the targets being...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-30T18:58:09.000Z",
+   "firstSeen": "2026-10-30T21:45:16.439Z"
+  },
+  {
+   "id": "f054e9307881",
+   "title": "Milan lose Tomori for one month after injury in 4-2 Bologna defeat",
+   "link": "https://football-italia.net/milan-lose-tomori-for-one-month-after-bologna/",
+   "snippet": "Milan will have to do without defender Fikayo Tomori until after the November international break,...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-30T18:32:26.000Z",
+   "firstSeen": "2026-10-30T21:45:16.439Z"
+  },
+  {
+   "id": "3fb70d463372",
+   "title": "Hearts & Hibs brace for 'all or nothing' semi-final",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6reypq3vjdvo",
+   "snippet": "Hearts and Hibernian are braced for a winner-takes-all League Cup semi-final. But the Edinburgh rivals arrive at Hampden in very different moods.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-30T18:26:20.000Z",
+   "firstSeen": "2026-10-30T21:45:16.439Z"
+  },
+  {
+   "id": "357c4280a4db",
+   "title": "Ballon d'Or winner Harry Kane baulks at 'weird' knighthood recognition",
+   "link": "https://www.fourfourtwo.com/person/player/ballon-dor-winner-harry-kane-baulks-at-weird-knighthood-recognition",
+   "snippet": "Kane won the Ballon d'Or after a sensational season of scoring for Bayern Munich",
+   "source": "FourFourTwo",
+   "sourceId": "fourfourtwo",
+   "section": "world",
+   "published": "2026-10-30T18:00:00.000Z",
+   "firstSeen": "2026-10-30T21:45:16.439Z"
+  },
+  {
+   "id": "ac7b6ccedf7b",
+   "title": "Why has Caf abandoned plans to hold Afcon every four years?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm3el25ez88yo",
+   "snippet": "The Africa Cup of Nations will remain on a two-year cycle after the Confederation of African Football performed a U-turn on a decision taken last December.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-30T17:33:02.000Z",
+   "firstSeen": "2026-10-30T21:45:16.439Z"
+  },
+  {
+   "id": "0c52d82873ab",
+   "title": "Official: Roma confirm 22-man squad for Udinese trip including five teenagers",
+   "link": "https://football-italia.net/official-roma-confirm-22-man-squad-for-udinese/",
+   "snippet": "Gian Piero Gasperini has named a squad of 22 players including five teenagers for Roma’s...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-30T17:21:55.000Z",
+   "firstSeen": "2026-10-30T21:45:16.439Z"
+  },
+  {
    "id": "39cb5b8b300a",
    "title": "Are Liverpool in the title race? Their match against Arsenal will tell us a lot",
    "link": "https://www.theguardian.com/football/who-scored-blog/2026/oct/30/liverpool-matches-title-contenders-andoni-iraola-arsenal",
@@ -23,6 +155,28 @@
    "firstSeen": "2026-10-30T17:22:53.671Z"
   },
   {
+   "id": "1bb77a47c1ca",
+   "title": "Bompastor: WSL rivals are too strong to allow Chelsea squad rotation",
+   "link": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
+   "snippet": "",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-30T17:00:00.000Z",
+   "firstSeen": "2026-10-30T21:45:16.439Z"
+  },
+  {
+   "id": "6a846a55b938",
+   "title": "Liverpool latest: The more we win, the better we'll become, says Iraola",
+   "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "snippet": "",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-30T17:00:00.000Z",
+   "firstSeen": "2026-10-30T21:45:16.439Z"
+  },
+  {
    "id": "9306aaaf62a9",
    "title": "Manchester United head coach Michael Carrick gets clear dressing room backing after avoiding the sack",
    "link": "https://www.fourfourtwo.com/team/manchester-united-head-coach-michael-carrick-gets-clear-dressing-room-backing-after-avoiding-the-sack",
@@ -32,6 +186,17 @@
    "section": "world",
    "published": "2026-10-30T17:00:00.000Z",
    "firstSeen": "2026-10-30T17:22:53.671Z"
+  },
+  {
+   "id": "f1aad6a94aac",
+   "title": "Grealish could have been Everton’s poster boy of a new era. Now his career is in limbo",
+   "link": "https://www.theguardian.com/football/2026/oct/30/jack-grealish-dropped-disclipline-everton-newcastle-carabao-cup-david-moyes",
+   "snippet": "After being dropped for ‘a breach of club discipline’, the winger must face the same questions about respect and self-awareness For the biggest game in Manchester City’s history, Jack Grealish was given a starting berth while Phil Foden,…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-30T16:50:09.000Z",
+   "firstSeen": "2026-10-30T21:45:16.439Z"
   },
   {
    "id": "bd52d47009c4",
@@ -8689,237 +8854,6 @@
    "section": "world",
    "published": "2026-10-23T21:54:54.000Z",
    "firstSeen": "2026-10-24T02:18:59.688Z"
-  },
-  {
-   "id": "70e5b66e07c0",
-   "title": "Borussia M'gladbach finally get first win after five-goal thriller",
-   "link": "https://www.bbc.co.uk/sport/football/videos/ck87zl4v2ld8o",
-   "snippet": "Bundesliga's bottom side Borussia Monchengladbach come from behind to beat Stuttgart 3-2, as the away side secure their first league win of the season, at the seventh attempt.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-23T21:37:41.000Z",
-   "firstSeen": "2026-10-24T02:18:59.688Z"
-  },
-  {
-   "id": "e0772b8128f0",
-   "title": "Villa could reconsider Garnacho deal - Saturday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwn73kzzr8veo",
-   "snippet": "Aston Villa have doubts on making Alejandro Garnacho deal a permanent move, Brighton to stand firm on Diego Gomez amid interest, Manchester United managerial candidates concern over players, plus more.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-23T21:32:04.000Z",
-   "firstSeen": "2026-10-24T02:18:59.688Z"
-  },
-  {
-   "id": "376e9bd9750d",
-   "title": "Premier League news: Spurs’ nine injuries ‘normal’, says De Zerbi; ‘emotional control’ keeps Blues red-free",
-   "link": "https://www.theguardian.com/football/2026/oct/23/premier-league-news-spurs-nine-injuries-normal-says-de-zerbi-emotional-control-keeps-blues-red-free",
-   "snippet": "Tottenham manager insists medical team not to blame as more key players drop out while Alonso happy with Chelsea’s new-found discipline",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-10-23T21:30:14.000Z",
-   "firstSeen": "2026-10-24T02:18:59.688Z"
-  },
-  {
-   "id": "839cc5bffb85",
-   "title": "Enciso rescues point in storm for Ipswich to deny Nottingham Forest",
-   "link": "https://www.theguardian.com/football/2026/oct/23/ipswich-nottingham-forest-premier-league-match-report",
-   "snippet": "Amid a Suffolk squall, winds whipping, a constant drum of rain, an encounter full of half-chances, mistakes, the obligatory refereeing controversy and searching questions. Do Ipswich possess the stones to deal with the big league? Perhaps…",
-   "source": "The Guardian",
-   "sourceId": "guardian-premier-league",
-   "section": "premier-league",
-   "published": "2026-10-23T21:07:50.000Z",
-   "firstSeen": "2026-10-24T02:18:59.688Z"
-  },
-  {
-   "id": "b566b19f74a1",
-   "title": "Roma agree new Lulli contract to 2031 after breakthrough under Gasperini",
-   "link": "https://football-italia.net/roma-agree-new-lulli-contract-to-2031/",
-   "snippet": "Roma have reached an agreement with Emanuele Lulli to extend his contract until June 2031,...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-23T21:00:00.000Z",
-   "firstSeen": "2026-10-24T02:18:59.688Z"
-  },
-  {
-   "id": "298fd2ef87d9",
-   "title": "FNF: Forest pushing to retake lead at Ipswich after Diop escapes red LIVE!",
-   "link": "https://www.skysports.com/football/ipswich-town-vs-nottingham-forest/live/559520",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-23T20:44:25.965Z",
-   "firstSeen": "2026-10-23T20:44:25.965Z"
-  },
-  {
-   "id": "fc81af0b4135",
-   "title": "When Carra met Chelsea boss Alonso",
-   "link": "https://www.skysports.com/football/news/12040/13602758/xabi-alonso-chelsea-manager-sits-down-with-former-liverpool-team-mate-jamie-carragher-for-new-boss-youtube-series",
-   "snippet": "Sky Sports' Jamie Carragher sat down for a wide-ranging interview with Chelsea manager Xabi Alonso in which the pair discussed his appointment at Stamford Bridge and his aims for the season, as well as looking back at their time playing…",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-23T20:44:25.965Z",
-   "firstSeen": "2026-10-23T20:44:25.965Z"
-  },
-  {
-   "id": "6029566752d4",
-   "title": "Ipswich v Nottingham Forest: Premier League – live",
-   "link": "https://www.theguardian.com/football/live/2026/oct/23/ipswich-v-nottingham-forest-premier-league-live",
-   "snippet": "⚽ Updates from the 8pm BST kick-off at Portman Road ⚽ Ten things to look out for | How they stand | Mail Scott 2 min: It’s windy in Suffolk. Walton batters a clearance upfield as best he can. Forest very much playing with the wind at their…",
-   "source": "The Guardian",
-   "sourceId": "guardian-premier-league",
-   "section": "premier-league",
-   "published": "2026-10-23T20:43:44.000Z",
-   "firstSeen": "2026-10-23T20:44:25.965Z"
-  },
-  {
-   "id": "9474fc830909",
-   "title": "Serie A | Torino 3-2 Monza: Belghali stunner spoils Juric’s return",
-   "link": "https://football-italia.net/serie-a-torino-3-1-monza-belghali-stunner/",
-   "snippet": "Torino made it back-to-back Serie A wins as Kian Fitz-Jim, Rafik Belghali and Nikola Vlašić...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-23T20:42:49.000Z",
-   "firstSeen": "2026-10-23T20:44:25.965Z"
-  },
-  {
-   "id": "aa3512bbeb20",
-   "title": "Serie A | Torino 3-2 Monza: Belghali stunner spoils Juric’s return",
-   "link": "https://football-italia.net/serie-a-torino-3-2-monza-belghali-stunner/",
-   "snippet": "Torino made it back-to-back Serie A wins as Kian Fitz-Jim, Rafik Belghali and Nikola Vlašić...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-23T20:42:49.000Z",
-   "firstSeen": "2026-10-24T02:18:59.688Z"
-  },
-  {
-   "id": "3106212e352e",
-   "title": "Kaio Jorge: ‘Without the injury I’d still be at Juventus, I’d do much better now’",
-   "link": "https://football-italia.net/kaio-jorge-without-injury-still-be-at-juventus/",
-   "snippet": "Former Juventus striker Kaio Jorge believes he would still be at the club if not...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-23T20:29:53.000Z",
-   "firstSeen": "2026-10-23T20:44:25.965Z"
-  },
-  {
-   "id": "9ee12995eb01",
-   "title": "Pioli spotted in Naples on the eve of Allegri’s crunch clash with Roma",
-   "link": "https://football-italia.net/pioli-spotted-in-naples-eve-of-allegri-roma/",
-   "snippet": "Stefano Pioli has been spotted in Naples on the eve of Napoli’s Serie A clash...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-23T20:15:00.000Z",
-   "firstSeen": "2026-10-23T20:44:25.965Z"
-  },
-  {
-   "id": "2a9e27d7a78c",
-   "title": "Italy could lose Caprile to Albania after Cagliari goalkeeper gains citizenship",
-   "link": "https://football-italia.net/italy-could-lose-caprile-to-albania-cagliari/",
-   "snippet": "Cagliari goalkeeper Elia Caprile has been granted Albanian citizenship, opening the door to a possible...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-23T20:00:00.000Z",
-   "firstSeen": "2026-10-23T20:44:25.965Z"
-  },
-  {
-   "id": "68a8214ccec9",
-   "title": "Gattuso: ‘Tell me if you had a night out, but nobody ruins my training sessions’",
-   "link": "https://football-italia.net/gattuso-tell-me-if-you-had-a-night-out/",
-   "snippet": "Gennaro Gattuso says he values honesty from his Lazio players, even if they’ve had a...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-23T19:45:00.000Z",
-   "firstSeen": "2026-10-23T20:44:25.965Z"
-  },
-  {
-   "id": "f225a3c8a318",
-   "title": "Sampdoria snub Giampaolo and appoint D’Angelo: ‘It was easy to say yes’",
-   "link": "https://football-italia.net/sampdoria-appoint-dangelo/",
-   "snippet": "Sampdoria have appointed Luca D’Angelo as their new coach, overlooking Marco Giampaolo after sacking Bernardo...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-23T19:26:48.000Z",
-   "firstSeen": "2026-10-23T20:44:25.965Z"
-  },
-  {
-   "id": "7fd8326f8acd",
-   "title": "NWSL drops controversial criteria around ‘Rodman Rule’ in settlement with NWSLPA",
-   "link": "https://www.theguardian.com/football/2026/oct/23/nwsl-rodman-rule-hip-rule-changes",
-   "snippet": "Any player will be eligible for High Impact Player status Requirements had included top 100, marketability lists Sides also resolve grievance on Rodman contract refusal The NWSL and the NWSL Players Association have reached a settlement to…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-10-23T19:25:20.000Z",
-   "firstSeen": "2026-10-23T20:44:25.965Z"
-  },
-  {
-   "id": "6e9fd6f9ef18",
-   "title": "Change captain? Play the kids? How to solve the problems at Manchester United",
-   "link": "https://www.theguardian.com/football/2026/oct/23/change-captain-play-the-kids-how-to-solve-the-problems-at-manchester-united",
-   "snippet": "The beleaguered Michael Carrick’s job is on the line, but there are steps he can take to revive the stricken club The big question as Bournemouth arrive for Sunday’s 2pm kick-off at Old Trafford is whether Michael Carrick will show his…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-10-23T19:00:11.000Z",
-   "firstSeen": "2026-10-24T02:18:59.688Z"
-  },
-  {
-   "id": "cd4fb8b0290e",
-   "title": "Milan condemn ‘unacceptable’ racist abuse of Maignan after Bournemouth red card",
-   "link": "https://football-italia.net/milan-condemn-racist-abuse-maignan/",
-   "snippet": "Milan have condemned the racist abuse aimed at Mike Maignan on social media following his...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-23T18:38:24.000Z",
-   "firstSeen": "2026-10-23T20:44:25.965Z"
-  },
-  {
-   "id": "3b0f102cfc0d",
-   "title": "Serie A official line-ups: Torino vs. Monza",
-   "link": "https://football-italia.net/torino-monza-serie-a-lineups/",
-   "snippet": "Kian Fitz-Jim replaces Daniel Bragança in the Torino midfield, while Lorenzo Lucchesi returns from suspension...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-23T17:53:50.000Z",
-   "firstSeen": "2026-10-23T20:44:25.965Z"
-  },
-  {
-   "id": "63e8348d79be",
-   "title": "Who are Ravenna? Everything you need to know about Ronaldinho’s Serie C club",
-   "link": "https://football-italia.net/who-are-ravenna-everything-you-need-to-know/",
-   "snippet": "Ronaldinho will make his long-awaited Ravenna debut in the Serie C derby against Forlì on...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-23T17:30:00.000Z",
-   "firstSeen": "2026-10-23T20:44:25.965Z"
-  },
-  {
-   "id": "7927613ad175",
-   "title": "Spygate put me in difficult position - Southampton technical director",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmjrwjl1j27do",
-   "snippet": "Southampton group technical director Johannes Spors says that the Spygate scandal put him in a \"difficult position\" over the summer.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-23T17:23:21.000Z",
-   "firstSeen": "2026-10-23T20:44:25.965Z"
   }
  ]
 }
