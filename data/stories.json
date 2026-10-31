@@ -1,6 +1,94 @@
 {
  "stories": [
   {
+   "id": "a209e96b76cf",
+   "title": "Aston Villa to take legal action against Jamie Carragher for ‘unacceptable insults’",
+   "link": "https://www.theguardian.com/football/2026/oct/30/aston-villa-to-take-legal-action-against-jamie-carragher-for-unacceptable-insults",
+   "snippet": "Villa chair announces plan on social media Carragher said club will ‘never be Man United’ Aston Villa have announced plans to take legal action against Jamie Carragher following his “unacceptable insults” about the club and its supporters.…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-30T23:55:37.000Z",
+   "firstSeen": "2026-10-31T03:01:53.010Z"
+  },
+  {
+   "id": "860be7b3d27e",
+   "title": "Man Utd target Barcelona's Lopez - Saturday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck3r52vn758xo",
+   "snippet": "Manchester United target Barcelona's Fermin Lopez, Lisandro Martinez is attracting interest from the La Liga side, Arsenal eye Club Brugge striker Nicolo Tresoldi, plus more.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-30T23:08:16.000Z",
+   "firstSeen": "2026-10-31T03:01:53.010Z"
+  },
+  {
+   "id": "c1ca9017032e",
+   "title": "Villa to sue Carragher over 'unacceptable insults'",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqd09p3kppyvo",
+   "snippet": "Aston Villa say they will initiate legal action against Jamie Carragher over what the club branded as \"unacceptable insults\".",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-30T23:05:45.000Z",
+   "firstSeen": "2026-10-31T03:01:53.010Z"
+  },
+  {
+   "id": "90ebbc471214",
+   "title": "From WiFi to 'relief' - how was Ferguson's Irish League debut?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cj5ynr23rg4ro",
+   "snippet": "After a 1-1 draw in his first match as Glentoran manager, Duncan Ferguson speaks of his \"relief\" in a week filled with WiFi and homework.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-30T22:52:32.000Z",
+   "firstSeen": "2026-10-31T03:01:53.010Z"
+  },
+  {
+   "id": "c000301cfd17",
+   "title": "Xabi Alonso rules out January loan move for Chelsea winger Estêvão Willian",
+   "link": "https://www.theguardian.com/football/2026/oct/30/xabi-alonso-rules-out-january-loan-move-estevao-willian-chelsea-manchester-united-premier-league",
+   "snippet": "‘No discussions about that … Everyone has to be ready’ Brazilian has started only twice in 11 games this season Xabi Alonso has ruled out a January move for Estêvão Willian but has said the Chelsea youngster must adapt to his style of play…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-30T22:30:26.000Z",
+   "firstSeen": "2026-10-31T03:01:53.010Z"
+  },
+  {
+   "id": "4ebfc0249ce0",
+   "title": "Carrick tells players ‘hard truth’ in attempt to turn Manchester United’s season around",
+   "link": "https://www.theguardian.com/football/2026/oct/30/michael-carrick-tells-players-hard-truth-manchester-united",
+   "snippet": "Head coach reflects on ‘not always rosy’ conversations Players ‘hurting’ after eight games without a win Michael Carrick said he has had difficult conversations with the Manchester United hierarchy and his players during their turbulent…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-30T22:30:25.000Z",
+   "firstSeen": "2026-10-31T03:01:53.010Z"
+  },
+  {
+   "id": "c843e85753b3",
+   "title": "Papers: Martinez seeking summer Man Utd departure",
+   "link": "https://www.skysports.com/football/news/12040/13605928/lisandro-martinez-wants-to-leave-man-utd-in-the-summer-with-atletico-madrid-interested-paper-talk",
+   "snippet": "The top stories and transfer rumours from Saturday's newspapers...",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-30T22:17:00.000Z",
+   "firstSeen": "2026-10-31T03:01:53.010Z"
+  },
+  {
+   "id": "69f2200579b3",
+   "title": "Sheff Utd win first league game against Wrexham in 44 years",
+   "link": "https://www.skysports.com/football/sheffield-united-vs-wrexham/report/560648",
+   "snippet": "Sheffield United shook off a 44-year hoodoo by beating Wrexham 1-0 in the Championship, winning against the Welsh side in the league for the first time since October 1982.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-30T22:00:00.000Z",
+   "firstSeen": "2026-10-31T03:01:53.010Z"
+  },
+  {
    "id": "c5e4101c27b8",
    "title": "Can Robinson work Hampden magic against McInnes' Rangers?",
    "link": "https://www.bbc.co.uk/sport/football/articles/cwx281x2p28do",
@@ -8755,105 +8843,6 @@
    "section": "world",
    "published": "2026-10-24T05:41:29.000Z",
    "firstSeen": "2026-10-24T09:56:08.467Z"
-  },
-  {
-   "id": "3824d1cae450",
-   "title": "Lankshear at the double as Middlesbrough thump Bolton to go top",
-   "link": "https://www.skysports.com/football/bolton-wanderers-vs-middlesbrough/report/560631",
-   "snippet": "Middlesbrough moved to the Sky Bet Championship summit in emphatic fashion by thumping Bolton 5-1 at the Toughsheet Community Stadium.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-24T02:18:59.688Z",
-   "firstSeen": "2026-10-24T02:18:59.688Z"
-  },
-  {
-   "id": "cb9d05e56767",
-   "title": "Wasteful Forest held by Ipswich amid VAR controversy",
-   "link": "https://www.skysports.com/football/ipswich-town-vs-nottingham-forest/report/559520",
-   "snippet": "Nottingham Forest's woes in front of goal continued as they were held to a 1-1 draw at Ipswich despite dominating the game.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-24T02:18:59.688Z",
-   "firstSeen": "2026-10-24T02:18:59.688Z"
-  },
-  {
-   "id": "e02909c0d7ad",
-   "title": "Papers: Howe is Wilcox's choice if United replace Carrick",
-   "link": "https://www.skysports.com/football/news/12040/13602761/eddie-howe-is-jason-wilcoxs-choice-if-manchester-united-replace-michael-carrick-paper-talk",
-   "snippet": "The top stories and transfer rumours from Saturday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-24T02:18:59.688Z",
-   "firstSeen": "2026-10-24T02:18:59.688Z"
-  },
-  {
-   "id": "e4f22866d964",
-   "title": "'A clear red' - Should Ipswich's Diop have been sent off?",
-   "link": "https://www.skysports.com/football/news/12040/13602915/ipswichs-issa-diop-escaped-a-red-card-for-a-foul-on-nottingham-forests-james-mcatee-but-was-it-the-right-call",
-   "snippet": "Issa Diop escaped what Oliver Glasner called \"a clear red card\" during Ipswich's 1-1 draw with Nottingham Forest - but the incident split opinion, so was it the right call or not?",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-24T02:18:59.688Z",
-   "firstSeen": "2026-10-24T02:18:59.688Z"
-  },
-  {
-   "id": "59c6036ca020",
-   "title": "Football Daily",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pj7y5v",
-   "snippet": "Kelly Somers speaks to Sean Dyche.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-24T00:00:00.000Z",
-   "firstSeen": "2026-10-24T09:56:08.467Z"
-  },
-  {
-   "id": "ac4064a0a78b",
-   "title": "'Best team in the Championship' - Boro lay down marker",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c65ynq95xdw5o",
-   "snippet": "Middlesbrough thrash Bolton 5-1 to go top of the Championship and confirm their place among the promotion favourites.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-23T23:14:00.000Z",
-   "firstSeen": "2026-10-24T09:56:08.467Z"
-  },
-  {
-   "id": "f581b52f9c6b",
-   "title": "'We had to scrap' - O'Neil praises Ipswich resilience after Forest draw",
-   "link": "https://www.bbc.co.uk/sport/football/videos/ckrey3ndyyw0o",
-   "snippet": "Ipswich manager Gary O'Neil praises his side's ability to \"dig in and fight\" as his side come from behind to earn a 1-1 draw against Nottingham Forest at Portman Road in the Premier League.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-23T22:21:51.000Z",
-   "firstSeen": "2026-10-24T02:18:59.688Z"
-  },
-  {
-   "id": "7bc57520fe86",
-   "title": "'It doesn't make sense' - Glasner confused after Diop avoids red card",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c8ly03l6klzpo",
-   "snippet": "Nottingham Forest manager Oliver Glasner admits he was left confused by the decision to not send off Issa Diop after a VAR check during his side's 1-1 draw at Ipswich Town, but praised his side's performance and urged them to 'stay…",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-23T22:15:29.000Z",
-   "firstSeen": "2026-10-24T02:18:59.688Z"
-  },
-  {
-   "id": "5923b89c9e07",
-   "title": "Forest left frustrated as winless run goes on after draw at Ipswich",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c9ly0dgy2r2eo",
-   "snippet": "Nottingham Forest ended a run of three successive league defeats but endured another night of missed chances as they drew 1-1 at Ipswich Town in the Premier League, but the result does move the away side out of the relegation zone on goal…",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-23T21:54:54.000Z",
-   "firstSeen": "2026-10-24T02:18:59.688Z"
   }
  ]
 }
