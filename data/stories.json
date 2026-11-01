@@ -1,6 +1,336 @@
 {
  "stories": [
   {
+   "id": "041524754152",
+   "title": "How 'brave & balanced' Brighton beat Man City",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cmx23wyk769eo",
+   "snippet": "Match of the Day pundits Danny Murphy and Stephan Warnock analyse Brighton's impressive 1-0 victory over Manchester City, with Warnock praising the balance of the Seagulls squad.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-31T23:59:24.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
+  },
+  {
+   "id": "2e119072ed49",
+   "title": "Has Martinez become a liability for Man Utd?",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c9vgrjej28dvo",
+   "snippet": "Match of the Day pundits Danny Murphy and Stephan Warnock analyse Lisandro Martinez's performance in Manchester United's 2-0 defeat to Chelsea, where the Argentinian defender was sent off.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-31T23:59:22.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
+  },
+  {
+   "id": "da15c06f8dd6",
+   "title": "Are Manchester United really at risk of a relegation scrap?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo",
+   "snippet": "Manchester United's current tally of nine points from seven games would not even get them 30 points if it was continued for the full season.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-31T23:52:28.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
+  },
+  {
+   "id": "d72d1ad5cab2",
+   "title": "Coventry, Ipswich, Hull - promoted trio enjoy positive starts",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck5ynzv8404ro",
+   "snippet": "The three teams have collected a respectable 31 points in total after nine games, and all currently sit above the relegation zone.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-31T23:08:07.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
+  },
+  {
+   "id": "560870c30f12",
+   "title": "Kane misses Bayern penalty before late Dortmund goal earns draw",
+   "link": "https://www.bbc.co.uk/sport/football/videos/ckpdg3eq06z5o",
+   "snippet": "Harry Kane misses from the spot as Bayern Muich are held to a 2-2 draw with Borussia Dortmund in Der Klassiker after Fabio Silva's late equaliser.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-31T23:05:55.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
+  },
+  {
+   "id": "9849a39e8ac3",
+   "title": "Aston Villa latest: Emery admits work to do ahead of Barcelona and Man Utd",
+   "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "snippet": "",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-31T23:01:00.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
+  },
+  {
+   "id": "5a1c1847e3a7",
+   "title": "Chivu: ‘Inter forced into Milan changes, but still had wrong attitude for a derby’",
+   "link": "https://football-italia.net/chivu-inter-forced-milan-change-wrong-attitude/",
+   "snippet": "Cristian Chivu reveals he was ‘forced’ to make his unusual choices by a flu bug...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-31T22:51:11.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
+  },
+  {
+   "id": "5c11457e6a4f",
+   "title": "Fulham latest: We can beat anyone, says Arbeloa",
+   "link": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+   "snippet": "",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-31T22:51:00.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
+  },
+  {
+   "id": "b314f49977b8",
+   "title": "Modric: ‘Maybe Milan’s best game of the season, we deserved the victory’",
+   "link": "https://football-italia.net/modric-maybe-milans-best-game-of-the-season/",
+   "snippet": "Luka Modric feels that Milan put in their best performance of the season when they...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-31T22:47:58.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
+  },
+  {
+   "id": "30c4f6dd44b8",
+   "title": "McInnes demands more after delivering Rangers' trophy chance",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c83vqypr511po",
+   "snippet": "Derek McInnes knows there is room for improvement as he steers in-form Rangers to the Premier Sports Cup final with a 1-0 win over Aberdeen.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-31T22:40:38.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
+  },
+  {
+   "id": "b4aeee9e3acd",
+   "title": "Amorim: ‘An amazing Milan night, but we’ll have bad moments too’",
+   "link": "https://football-italia.net/amorim-an-amazing-milan-night-bad-moments-too/",
+   "snippet": "Ruben Amorim admits his first Derby della Madonnina was beyond expectations, but warns Milan fans...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-31T22:35:57.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
+  },
+  {
+   "id": "5fcb2bc59ce0",
+   "title": "Chelsea beat 10-man Man Utd to pile more pressure on Carrick",
+   "link": "https://www.bbc.co.uk/sport/football/videos/ckn8w20nn9g7o",
+   "snippet": "Lisandro Martinez is sent off for Manchester United as they suffer a 2-0 defeat against Chelsea at Stamford Bridge to pile more pressure on under-fire manager Michael Carrick.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-31T22:30:16.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
+  },
+  {
+   "id": "96dc69c4b814",
+   "title": "Brighton pick up first away league victory over Man City",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cqx28l2gdepxo",
+   "snippet": "Brighton pick up their first away league victory at Manchester City, winning 1-0 to condemn City to a second successive Premier League defeat.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-31T22:30:05.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
+  },
+  {
+   "id": "233afd8ca13a",
+   "title": "Video: Kaka reduced to tears after being inducted into Milan hall of fame",
+   "link": "https://football-italia.net/video-kaka-reduced-to-tears-milan-hall-of-fame/",
+   "snippet": "The Derby della Madonnina was a particularly emotional experience for former Rossoneri midfielder Kaka, who...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-31T22:29:55.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
+  },
+  {
+   "id": "ee0d3108a8b2",
+   "title": "Coventry out of bottom three after win over struggling Sunderland",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cm93zv0zkjqlo",
+   "snippet": "Frank Lampard's Coventry City lift themselves out of the relegation zone after beating struggling Sunderland, who remain rooted to the bottom of the Premier League table.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-31T22:29:50.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
+  },
+  {
+   "id": "b43a29b8fd92",
+   "title": "Enciso's stunning goal earns Ipswich draw at Hull",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c8qln4qq2656o",
+   "snippet": "Julio Enciso scores the equalising goal for Ipswich as they draw 2-2 with Hull at the MKM Stadium.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-31T22:29:40.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
+  },
+  {
+   "id": "ddf5451327cb",
+   "title": "Spurs revival continues with victory over 10-man Crystal Palace",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cxvgdrg33m72o",
+   "snippet": "Jean-Philippe Mateta was shown an early red card as Crystal Palace lose 2-0 at Tottenham to increase the pressure on manager Pierre Sage.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-31T22:29:29.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
+  },
+  {
+   "id": "bd8c0f685435",
+   "title": "Evanilson scores again as Bournemouth beat Leeds",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6zxj1vzwx1xo",
+   "snippet": "Forward Evanilson continues his fine goalscoring form by netting in a fourth Premier League match in a row to help Bournemouth defeat Leeds United at the Vitality Stadium.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-31T22:29:21.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
+  },
+  {
+   "id": "427a501c3eb8",
+   "title": "Thiago on target as Brentford beat Forest",
+   "link": "https://www.bbc.co.uk/sport/football/videos/ck1l3z063n8vo",
+   "snippet": "Igor Thiago's second-half goal helps Brentford to their first win in five as they beat Nottingham Forest 2-0 at the Gtech Community Stadium.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-31T22:29:11.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
+  },
+  {
+   "id": "fae2c21f3455",
+   "title": "Suzuki mistake gifts Fulham point at Villa",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cmwy9rylr0e6o",
+   "snippet": "Aston Villa goalkeeper Zion Suzuki's second-half mistake sees Fulham secure a 1-1 draw at Villa Park after Nicolas Jackson had given the hosts the lead.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-31T22:29:02.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
+  },
+  {
+   "id": "c1ed2a7ee281",
+   "title": "Barella: ‘Inter paid for individual and collective mistakes, needed to do better’",
+   "link": "https://football-italia.net/barella-inter-paid-for-individual-mistakes/",
+   "snippet": "Nicolo Barella feels that Inter were punished for ‘individual and collective mistakes’ in their 3-1...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-31T22:17:23.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
+  },
+  {
+   "id": "4df10c9c6e82",
+   "title": "Zion Suzuki horror own goal haunts Aston Villa to hand Fulham a point",
+   "link": "https://www.theguardian.com/football/2026/oct/31/aston-villa-fulham-premier-league-match-report",
+   "snippet": "Fulham helped cement Jamie Carragher’s argument that Aston Villa will never be Manchester United. No, they know how to grind out a point on a bad day and can go to Barcelona on Tuesday with some confidence. Villa’s goalkeeper Zion Suzuki…",
+   "source": "The Guardian",
+   "sourceId": "guardian-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-31T22:15:33.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
+  },
+  {
+   "id": "bf7467b91299",
+   "title": "Man Utd enquire about Toney - Sunday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/crz98lwn3pvzo",
+   "snippet": "Manchester United enquire about Ivan Toney's availability, Barcelona are tracking Chelsea winger Estevao Willian, Jean-Philippe Mateta is set to leave Crystal Palace in January, plus more.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-31T22:14:36.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
+  },
+  {
+   "id": "d7500bfbc1d6",
+   "title": "Moreira on best game ‘so far’ for Milan, while Pulisic is lucky charm against Inter",
+   "link": "https://football-italia.net/moreira-on-best-game-so-far-for-milan-pulisic/",
+   "snippet": "Diego Moreira admits this was his best Milan performance ‘for now’ after a goal and...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-31T22:03:43.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
+  },
+  {
+   "id": "7d957849a478",
+   "title": "Papers: Carrick to be given at least two more games in charge at Man Utd",
+   "link": "https://www.skysports.com/football/news/12040/13606527/manchester-united-michael-carrick-to-be-given-at-least-two-more-matches-in-charge-despite-overseeing-worst-run-in-nearly-40-years-paper-talk",
+   "snippet": "The top stories and transfer rumours from Sunday's newspapers...",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-31T22:00:00.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
+  },
+  {
+   "id": "97e97bff68ba",
+   "title": "AC Milan score three first-half goals to seal derby victory over Inter",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cmqln15wdyxgo",
+   "snippet": "Christian Pulisic, Adrien Rabiot and Diego Moreira score in the first-half to help AC Milan to a 3-1 victory over city rivals Inter Milan in the first Milan derby of the season in Serie A.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-31T21:58:09.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
+  },
+  {
+   "id": "fad2a3231ef5",
+   "title": "Suzuki makes string of saves before conceding own goal in draw with Fulham",
+   "link": "https://www.skysports.com/football/aston-villa-vs-fulham/report/559524",
+   "snippet": "Nicolas Jackson scored his eighth goal in 10 games but an error from goalkeeper Zion Suzuki meant Aston Villa had to settle for a 1-1 draw at home to Fulham.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-31T21:45:00.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
+  },
+  {
+   "id": "bf817c998fba",
+   "title": "Serie A | Milan 3-1 Inter: Diego Moreira inspiration for derby success",
+   "link": "https://football-italia.net/serie-a-milan-3-1-inter-diego-moreira-derby/",
+   "snippet": "Diego Moreira inspired Milan’s fourth consecutive Derby della Madonnina victory with a goal and assists...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-10-31T21:43:24.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
+  },
+  {
+   "id": "6c00d632a9c0",
+   "title": "Are De Zerbi's Spurs finding elusive consistency?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6n04v897qe4o",
+   "snippet": "Are Spurs finally finding elusive consistency under Roberto de Zerbi after a third successive Premier League win, asks chief football writer Phil McNulty?",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-31T21:16:11.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
+  },
+  {
+   "id": "21b1444cf998",
+   "title": "Watch Saturday's Sportscene highlights on iPlayer",
+   "link": "https://www.bbc.co.uk/iplayer/episode/m0033wb7",
+   "snippet": "Highlights from Kilmarnock v St Johnstone and Motherwell v St Mirren.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-31T20:51:42.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
+  },
+  {
    "id": "56247c263612",
    "title": "Verbruggen spreads belief as impressive Brighton beat Man City",
    "link": "https://www.bbc.co.uk/sport/football/articles/c6d7qwnz1jnjo",
@@ -10,6 +340,17 @@
    "section": "premier-league",
    "published": "2026-10-31T20:36:26.000Z",
    "firstSeen": "2026-10-31T20:45:01.525Z"
+  },
+  {
+   "id": "e6273547173a",
+   "title": "Naderi breaks Aberdeen’s resistance as Rangers reach Premier Sports Cup final",
+   "link": "https://www.theguardian.com/football/2026/oct/31/rangers-aberdeen-scottish-league-cup-semi-final-match-report",
+   "snippet": "Ryan Naderi’s dramatic late strike broke down Aberdeen’s stubborn resistance to earn Rangers a place in the Premier Sports Cup final. Aberdeen restricted Rangers to one shot on target in a low quality first half, but Derek McInnes’s side…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-31T20:36:08.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
   },
   {
    "id": "7268f35587c3",
@@ -32,6 +373,17 @@
    "section": "world",
    "published": "2026-10-31T20:26:15.000Z",
    "firstSeen": "2026-10-31T20:45:01.525Z"
+  },
+  {
+   "id": "2b10b31e4133",
+   "title": "More goals for Lankshear, home woes for Hammers - Aaron McLean's EFL Takeaways",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cv369yp2451lo",
+   "snippet": "BBC Final Score pundit Aaron McLean looks at the weekend's talking points in the EFL, including Middlesbrough and West Ham United.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-31T20:24:50.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
   },
   {
    "id": "5261a8f93a76",
@@ -199,6 +551,17 @@
    "firstSeen": "2026-10-31T20:45:01.525Z"
   },
   {
+   "id": "ce0bc0010260",
+   "title": "'Always under pressure' - patience for Nuno wanes at West Ham",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqkgj70zr6e0o",
+   "snippet": "West Ham United head coach Nuno Espirito Santo says he is under pressure every day as West Brom win intensifies criticism of him.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-10-31T19:23:02.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
+  },
+  {
    "id": "f312d9f752cb",
    "title": "Naderi strikes late to send Rangers into League Cup final",
    "link": "https://www.skysports.com/football/news/12040/13605283/rangers-1-0-aberdeen-ryan-naderi-strikes-late-to-send-gers-into-premier-sports-cup-final",
@@ -307,6 +670,17 @@
    "section": "world",
    "published": "2026-10-31T18:41:00.000Z",
    "firstSeen": "2026-10-31T20:45:01.525Z"
+  },
+  {
+   "id": "83856ed4dd5a",
+   "title": "Enzo Maresca rues ‘silly’ errors after Manchester City defeat against Brighton",
+   "link": "https://www.theguardian.com/football/2026/oct/31/enzo-maresca-manchester-city-brighton-premier-league",
+   "snippet": "Matheus Nunes mistake lets in Yasin Ayari for winner Maresca: ‘We are conceding silly goals that we can avoid’ Enzo Maresca said “silly goals” and individual errors are costing Manchester City after Matheus Nunes’ mistake allowed Yasin…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-31T18:38:43.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
   },
   {
    "id": "42221d837917",
@@ -593,6 +967,17 @@
    "section": "world",
    "published": "2026-10-31T16:45:00.000Z",
    "firstSeen": "2026-10-31T20:45:01.525Z"
+  },
+  {
+   "id": "403fc7259e54",
+   "title": "Michael Carrick insists he will still be in charge of Manchester United against Roma",
+   "link": "https://www.theguardian.com/football/2026/oct/31/michael-carrick-chelsea-manchester-united-roma-premier-league",
+   "snippet": "Defeat against Chelsea extends winless run to nine games Carrick clinging on to job after club’s worst run since 1988 Michael Carrick insisted he would still be in charge when Manchester United face Roma in the Champions League on Tuesday,…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-10-31T16:43:37.000Z",
+   "firstSeen": "2026-11-01T02:57:31.264Z"
   },
   {
    "id": "f160a21c906c",
@@ -8788,171 +9173,6 @@
    "section": "premier-league",
    "published": "2026-10-25T06:17:46.000Z",
    "firstSeen": "2026-10-25T10:18:35.744Z"
-  },
-  {
-   "id": "12575b76276b",
-   "title": "Alonso 'out-coached', 'petulant' Palmer and Penders howler: Chelsea's horror night",
-   "link": "https://www.skysports.com/football/news/12040/13603342/chelsea-cole-palmer-red-card-mike-penders-howler-and-out-coached-by-roberto-de-zerbi-on-horror-night-for-xabi-alonso",
-   "snippet": "They say bad things come in threes. That was certainly the case for Chelsea on a miserable evening at Stamford Bridge as they lost 2-0 to Tottenham and were described as \"awful\" by Gary Neville.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-25T02:05:27.404Z",
-   "firstSeen": "2026-10-25T02:05:27.404Z"
-  },
-  {
-   "id": "1366e880a9de",
-   "title": "Arteta collating evidence of other managers stepping out of technical area",
-   "link": "https://www.skysports.com/football/news/12040/13603372/arsenal-boss-mikel-arteta-reveals-he-clips-up-premier-league-managers-stepping-out-of-technical-area",
-   "snippet": "Arsenal boss Mikel Arteta says he is compiling footage of rival Premier League managers repeatedly leaving their technical areas after receiving his second yellow card of the season in his side’s 2-0 win over Everton.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-25T02:05:27.404Z",
-   "firstSeen": "2026-10-25T02:05:27.404Z"
-  },
-  {
-   "id": "431788488a92",
-   "title": "Hits and misses: De Zerbi's 'complete team' and 'genius' Emery impress",
-   "link": "https://www.skysports.com/football/news/12040/13602922/roberto-de-zerbis-spurs-a-complete-team-unai-emery-works-magic-on-nicolas-jackson-premier-league-hits-and-misses",
-   "snippet": "",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-25T02:05:27.404Z",
-   "firstSeen": "2026-10-25T02:05:27.404Z"
-  },
-  {
-   "id": "9f6c98678a39",
-   "title": "Papers: Sancho could land in Spain as Getafe offer winger shock deal",
-   "link": "https://www.skysports.com/football/news/12040/13603391/jadon-sancho-offered-shock-deal-by-la-liga-side-getafe-riccardo-calafiori-adds-to-arsenal-injury-woes-paper-talk",
-   "snippet": "The top stories and transfer rumours from Sunday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-25T02:05:27.404Z",
-   "firstSeen": "2026-10-25T02:05:27.404Z"
-  },
-  {
-   "id": "f6fd8cb7e345",
-   "title": "Should Palmer have been sent off earlier than he was?",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cmd93enq4z20o",
-   "snippet": "Match of the Day pundit Martin Keown looks at the red card shown to Cole Palmer during Chelsea's 2-0 defeat to Tottenham, with the former Arsenal defender agreeing with the decision and suggesting Palmer was lucky not to receive a straight…",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-10-24T22:43:33.000Z",
-   "firstSeen": "2026-10-25T02:05:27.404Z"
-  },
-  {
-   "id": "ef4e4a9f6425",
-   "title": "How 'special talent' Jackson inspired Villa to victory over Man City",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cmzxj1r8j7p2o",
-   "snippet": "Match of the Day pundits Martin Keown and Steph Houghton look at the impact Aston Villa forward Nicolas Jackson had with his two goals in their 2-1 victory over Manchester City, with Keown describing him as a \"special talent\".",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-10-24T22:43:17.000Z",
-   "firstSeen": "2026-10-25T02:05:27.404Z"
-  },
-  {
-   "id": "ac48290b6655",
-   "title": "Watch Match of the Day on iPlayer",
-   "link": "https://www.bbc.co.uk/iplayer/episode/m0033jlx",
-   "snippet": "With Chelsea v Spurs, Arsenal v Everton, Villa v Man City and Coventry v Fulham",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-24T22:40:55.000Z",
-   "firstSeen": "2026-10-25T02:05:27.404Z"
-  },
-  {
-   "id": "208c08775967",
-   "title": "Symonds scores screamer as Brighton beat West Ham",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cmjrwjlx5q3wo",
-   "snippet": "Maisie Symonds scores a 'goal of the season' contender to help Brighton beat West Ham 3-0, securing just their second league win of the season in the Women's Super League.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-24T22:23:48.000Z",
-   "firstSeen": "2026-10-25T02:05:27.404Z"
-  },
-  {
-   "id": "2aeece32e897",
-   "title": "What happened when furious Allegri was sent off in Napoli 3-3 Roma",
-   "link": "https://football-italia.net/what-happened-when-furious-allegri-sent-off/",
-   "snippet": "Max Allegri insisted he did nothing wrong for his red card in the 3-3 draw...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-24T21:56:57.000Z",
-   "firstSeen": "2026-10-25T02:05:27.404Z"
-  },
-  {
-   "id": "c46fe7545cc5",
-   "title": "Man Utd not an unmanageable club - Carrick",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c9ly0dxxgp7lo",
-   "snippet": "Michael Carrick says it is possible to manage Manchester United effectively as he clings on to his job with Bournemouth visiting Old Trafford on Sunday.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-10-24T21:34:19.000Z",
-   "firstSeen": "2026-10-25T02:05:27.404Z"
-  },
-  {
-   "id": "3a304a5325dd",
-   "title": "Gattuso: ‘Lazio frankly don’t belong up there’ at top of Serie A table",
-   "link": "https://football-italia.net/gattuso-lazio-frankly-dont-belong-top-table/",
-   "snippet": "Gennaro Gattuso sees Lazio progress in the 2-1 victory over Parma, but refuses to talk...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-24T21:33:29.000Z",
-   "firstSeen": "2026-10-25T02:05:27.404Z"
-  },
-  {
-   "id": "885c125f8e99",
-   "title": "Gilardino: ‘Parma conceded far too easily, but must keep positive attitude’",
-   "link": "https://football-italia.net/gilardino-parma-conceded-far-too-easily-lazio/",
-   "snippet": "Alberto Gilardino admits Parma ‘conceded the goals far too easily’ in their third consecutive defeat...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-24T21:15:39.000Z",
-   "firstSeen": "2026-10-25T02:05:27.404Z"
-  },
-  {
-   "id": "9de8e3735d02",
-   "title": "The candid meeting that 'changed' Spurs - are they finally on way back?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqev38dz34vxo",
-   "snippet": "Tottenham end Saturday's Premier League action in 12th place, their highest league position since 2 January. Are they finally on their way back?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-10-24T21:14:42.000Z",
-   "firstSeen": "2026-10-25T02:05:27.404Z"
-  },
-  {
-   "id": "3f0cc3223600",
-   "title": "Nashville SC seal first MLS Supporters’ Shield with 2-0 win over CF Montreal",
-   "link": "https://www.theguardian.com/football/2026/oct/24/nashville-sc-supporters-shield-mls-cf-montreal-surridge-mukhtar",
-   "snippet": "Surridge and Mukhtar fire Nashville to 2-0 victory Nashville extend unbeaten streak to seven matches Montreal teenager Keita impresses on MLS debut Nashville SC scored twice in the second half to claim the Supporters’ Shield as the top…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-10-24T21:07:15.000Z",
-   "firstSeen": "2026-10-25T02:05:27.404Z"
-  },
-  {
-   "id": "6740587c83a8",
-   "title": "Glitch in Chelsea’s coding costs Alonso while resurgent Spurs are all systems go | Barney Ronay",
-   "link": "https://www.theguardian.com/football/2026/oct/24/chelsea-tottenham-premier-league-austin-macphee-mike-penders-roberto-de-zerbi",
-   "snippet": "Home side broke the game open with some unique corner routines, but a goalkeeping error ruined the plan There was an odd interlude at Stamford Bridge with 76 minutes gone and the score still 0-0, one of those moments where suddenly your…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-10-24T20:59:57.000Z",
-   "firstSeen": "2026-10-25T02:05:27.404Z"
   }
  ]
 }
