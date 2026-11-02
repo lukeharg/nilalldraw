@@ -1,6 +1,149 @@
 {
  "stories": [
   {
+   "id": "4f8bcd16a1e3",
+   "title": "Rice is a rounded midfielder, but could be more selfish - Murphy",
+   "link": "https://www.bbc.co.uk/sport/football/videos/ck9dz227v751o",
+   "snippet": "BBC Sport's Kelly Cates and Micah Richards discuss how rounded Declan Rice has become in Arsenal's midfield, while Danny Murphy argues that if he was more selfish he would score more goals.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-11-02T00:00:21.000Z",
+   "firstSeen": "2026-11-02T03:06:02.681Z"
+  },
+  {
+   "id": "e2d0e05a9815",
+   "title": "'He's been fantastic' - how Konsa has fitted in seamlessly at Arsenal",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cmwy4000q97ro",
+   "snippet": "BBC Sport's Kelly Cates, Danny Murphy and Micah Richards analyse how good Ezri Konsa has been for Arsenal after signing from Aston Villa in the summer, especially in their 1-0 Premier League win against Liverpool at Anfield.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-11-02T00:00:11.000Z",
+   "firstSeen": "2026-11-02T03:06:02.681Z"
+  },
+  {
+   "id": "e357fd1c5c59",
+   "title": "Were Arsenal 'lucky' not to concede penalty at Liverpool?",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o",
+   "snippet": "BBC Sport's Kelly Cates, Danny Murphy and Micah Richards discuss Liverpool's denied penalty claim for a pull on Alexander Isak's shirt by Arsenal defender Jurrien Timber and whether the Reds can feel hard done by.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-11-02T00:00:03.000Z",
+   "firstSeen": "2026-11-02T03:06:02.681Z"
+  },
+  {
+   "id": "c1b9318605bd",
+   "title": "Man Utd eye Barcelona's Balde - Monday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqkgk0l3zpnyo",
+   "snippet": "Alejandro Balde could leave Barcelona, sparking interest from Manchester United, Liverpool shortlist want Murillo and Nico Schlotterbeck, Real Madrid eye Bart Verbruggen, plus more.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-11-01T23:00:21.000Z",
+   "firstSeen": "2026-11-02T03:06:02.681Z"
+  },
+  {
+   "id": "cb85a4bfdb6e",
+   "title": "Defensive 'masterclass' and elite Rice - how Arsenal ended Anfield torment",
+   "link": "https://www.skysports.com/football/news/12040/13606815/arsenals-defensive-masterclass-praised-in-liverpool-win-as-jamie-carragher-salutes-world-class-declan-rice",
+   "snippet": "Not since 2012 - when current boss Mikel Arteta was commanding Arsenal's midfield on the pitch - had the Gunners won on Liverpool’s patch. That curse has finally been broken.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-11-01T23:00:00.000Z",
+   "firstSeen": "2026-11-02T03:06:02.681Z"
+  },
+  {
+   "id": "4de671ae787f",
+   "title": "Rice relishing title race 'anxiety' after win at Liverpool",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cxly47pyy8j6o",
+   "snippet": "Declan Rice joins BBC Sport's Kelly Cates, Danny Murphy and Micah Richards to analyse how Arsenal earned their first Premier League victory at Liverpool in 14 years.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-premier-league",
+   "section": "premier-league",
+   "published": "2026-11-01T22:50:05.000Z",
+   "firstSeen": "2026-11-02T03:06:02.681Z"
+  },
+  {
+   "id": "e75c83e7a893",
+   "title": "Spalletti: ‘Juventus players deserve credit for victory, but we need fans by our side’",
+   "link": "https://football-italia.net/spalletti-juventus-players-deserve-credit-fans/",
+   "snippet": "Luciano Spalletti said Juventus players ‘deserve all the credit’ for the 2-0 win over Napoli,...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-11-01T22:40:14.000Z",
+   "firstSeen": "2026-11-02T03:06:02.681Z"
+  },
+  {
+   "id": "86a21232f963",
+   "title": "Injury concerns after McKennie, De Bruyne and Di Lorenzo substitutions in Juventus 2-0 Napoli",
+   "link": "https://football-italia.net/injury-updates-mckennie-de-bruyne-di-lorenzo/",
+   "snippet": "Napoli star Kevin De Bruyne was subbed off in an away game against Juventus with...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-11-01T22:34:29.000Z",
+   "firstSeen": "2026-11-02T03:06:02.681Z"
+  },
+  {
+   "id": "bbb8c92c7ecb",
+   "title": "Di Lorenzo: ‘Napoli struggle with consistency, I was forced to go off’",
+   "link": "https://football-italia.net/di-lorenzo-napoli-struggle-with-consistency/",
+   "snippet": "Giovanni Di Lorenzo confirms he was ‘forced’ to come off for Napoli at half-time in...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-11-01T22:23:46.000Z",
+   "firstSeen": "2026-11-02T03:06:02.681Z"
+  },
+  {
+   "id": "16310b42ae5b",
+   "title": "Landucci: ‘Napoli had a bad second half, Juventus deserved win, but new injury problems’",
+   "link": "https://football-italia.net/landucci-napoli-had-a-bad-second-half-juventus/",
+   "snippet": "Max Allegri’s assistant Marco Landucci reveals new Napoli injury problems, but ‘we had a bad...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-11-01T22:09:30.000Z",
+   "firstSeen": "2026-11-02T03:06:02.681Z"
+  },
+  {
+   "id": "1ccd61b35107",
+   "title": "Serie A Round 10 table: Lazio back on top after 16 years, Juventus overtake Napoli",
+   "link": "https://football-italia.net/serie-a-round-10-table-lazio-juventus-napoli/",
+   "snippet": "Lazio are alone at the top of the Serie A table after Round 10, while...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-11-01T21:41:58.000Z",
+   "firstSeen": "2026-11-02T03:06:02.681Z"
+  },
+  {
+   "id": "70cbb672f531",
+   "title": "Serie A | Juventus 2-0 Napoli: Alajbegovic and Boga magic revives Juve",
+   "link": "https://football-italia.net/serie-a-juventus-2-0-napoli-alajbegovic-boga/",
+   "snippet": "Juventus got back on track by beating 10-man Napoli 2-0 thanks to a pair of...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-11-01T21:39:16.000Z",
+   "firstSeen": "2026-11-02T03:06:02.681Z"
+  },
+  {
+   "id": "7c191c6292c5",
+   "title": "Video: Alajbegovic first Serie A goal is a stunner for Juventus",
+   "link": "https://football-italia.net/video-alajbegovic-first-serie-a-goal-juventus/",
+   "snippet": "Watch as Kerim Alajbegovic scores a screamer of a debut Serie A goal to give...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-11-01T21:29:01.000Z",
+   "firstSeen": "2026-11-02T03:06:02.681Z"
+  },
+  {
    "id": "9263396a5370",
    "title": "‘We have to tell them to go down’: Iraola responds to Isak penalty denial for Liverpool",
    "link": "https://www.theguardian.com/football/2026/nov/01/andoni-iraola-responds-liverpool-penalty-denial-arsenal-premier-league",
@@ -1024,6 +1167,17 @@
    "firstSeen": "2026-11-01T02:57:31.264Z"
   },
   {
+   "id": "581cdb6bfaf8",
+   "title": "Premier League top scorers 2026-27: who is leading race for the golden boot?",
+   "link": "https://www.theguardian.com/football/2026/sep/10/premier-league-top-scorers-2026-27-race-for-golden-boot",
+   "snippet": "Find out which of the English top-flight’s sharp shooters are firing their way up the goalscoring charts",
+   "source": "The Guardian",
+   "sourceId": "guardian-premier-league",
+   "section": "premier-league",
+   "published": "2026-10-31T22:42:48.000Z",
+   "firstSeen": "2026-11-02T03:06:02.681Z"
+  },
+  {
    "id": "30c4f6dd44b8",
    "title": "McInnes demands more after delivering Rangers' trophy chance",
    "link": "https://www.bbc.co.uk/sport/football/articles/c83vqypr511po",
@@ -1187,6 +1341,17 @@
    "section": "world",
    "published": "2026-10-31T22:03:43.000Z",
    "firstSeen": "2026-11-01T02:57:31.264Z"
+  },
+  {
+   "id": "23a0217852ed",
+   "title": "Papers: Ten Hag warns Man Utd could be relegated",
+   "link": "https://www.skysports.com/football/news/12040/13606869/erik-ten-hag-warns-manchester-united-could-be-relegated-after-slipping-to-17th-in-the-premier-league-paper-talk",
+   "snippet": "The top stories and transfer rumours from Monday's newspapers...",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-10-31T22:00:00.000Z",
+   "firstSeen": "2026-11-02T03:06:02.681Z"
   },
   {
    "id": "7d957849a478",
@@ -8810,171 +8975,6 @@
    "section": "world",
    "published": "2026-10-26T06:00:00.000Z",
    "firstSeen": "2026-10-26T11:45:47.200Z"
-  },
-  {
-   "id": "3b4e173e1085",
-   "title": "Football Daily",
-   "link": "https://www.bbc.co.uk/sounds/play/p0phzkpn",
-   "snippet": "Rick & Lloyd are joined by Oliver Kay & Joe Smith after a surreal day at Old Trafford.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-26T00:08:00.000Z",
-   "firstSeen": "2026-10-26T11:45:47.200Z"
-  },
-  {
-   "id": "eae5b860906f",
-   "title": "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo",
-   "snippet": "Kylian Mbappe's two goals at Barcelona have opened up La Liga, as Jose Mourinho's Real Madrid leave Camp Nou with a victory.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-26T00:07:16.000Z",
-   "firstSeen": "2026-10-26T02:06:36.491Z"
-  },
-  {
-   "id": "75fb6b4433b7",
-   "title": "Man City's perfect start over after draw at rivals Man Utd",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cj3vq1ggw247o",
-   "snippet": "Manchester City's perfect record in the Women's Super League is ended by rivals Manchester United after Elisabeth Terland scores a late equaliser to snatch a 1-1 draw.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-25T23:52:55.000Z",
-   "firstSeen": "2026-10-26T02:06:36.491Z"
-  },
-  {
-   "id": "bb63dfb1af72",
-   "title": "Man Utd lacked intensity & fight - Alderweireld",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c6wyrg2vwjmgo",
-   "snippet": "Match of the Day pundits Toby Alderweireld and Ashley Williams analyse Manchester United's 3-0 defeat by Bournemouth, with Alderweireld suggesting there is no \"togetherness\" amongst the United squad.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-10-25T23:51:22.000Z",
-   "firstSeen": "2026-10-26T02:06:36.491Z"
-  },
-  {
-   "id": "4a5351231564",
-   "title": "How Liverpool's attack impressed against Brighton",
-   "link": "https://www.bbc.co.uk/sport/football/videos/ckq6nvp2ldz5o",
-   "snippet": "Match of the Day pundits Toby Alderweireld and Ashley Williams analyse Liverpool's impressive attacking display in their 2-0 win against Brighton at Anfield.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-10-25T23:49:41.000Z",
-   "firstSeen": "2026-10-26T02:06:36.491Z"
-  },
-  {
-   "id": "ac9215f4376c",
-   "title": "Pulisic ‘job’ when Modric has the ball, Hutchinson gift after ‘massive’ first Milan goal",
-   "link": "https://football-italia.net/pulisic-job-modric-ball-hutchinson-milan-goal/",
-   "snippet": "Christian Pulisic reveals his ‘job’ when seeing Luka Modric get the ball, while Omari Hutchinson...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-25T22:47:49.000Z",
-   "firstSeen": "2026-10-26T02:06:36.491Z"
-  },
-  {
-   "id": "f45508294700",
-   "title": "Runjaic: ‘Udinese full of life, not the right time to talk about my future’",
-   "link": "https://football-italia.net/runjaic-udinese-full-of-life-not-right-time/",
-   "snippet": "Kosta Runjaic insists Udinese are ‘full of life’ even after a sixth consecutive Serie A...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-25T22:28:09.000Z",
-   "firstSeen": "2026-10-26T02:06:36.491Z"
-  },
-  {
-   "id": "c38db6700db1",
-   "title": "Bartesaghi: ‘I feel in good shape, I am able to play in both phases’",
-   "link": "https://football-italia.net/bartesaghi-i-am-able-to-play-in-both-phases/",
-   "snippet": "Davide Bartesaghi says that he felt ‘at ease’ playing on the left of Milan’s midfield...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-25T22:22:16.000Z",
-   "firstSeen": "2026-10-26T02:06:36.491Z"
-  },
-  {
-   "id": "37d2ab3cafdc",
-   "title": "Who has made Troy's Premier League team of the week?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c804013klnn0o",
-   "snippet": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-10-25T22:16:14.000Z",
-   "firstSeen": "2026-10-26T02:06:36.491Z"
-  },
-  {
-   "id": "bd7b524e5ef7",
-   "title": "Mbappé double secures Real Madrid late victory at Barcelona after Raphinha leveller",
-   "link": "https://www.theguardian.com/football/2026/oct/25/barcelona-real-madrid-el-clasico-la-liga-match-report",
-   "snippet": "Thirteen years later, José Mourinho led Real Madrid into the Camp Nou as one team and them out again as another having secured the kind of late victory he loves and which opens up a whole new world. With just three minutes and the final…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-10-25T22:12:20.000Z",
-   "firstSeen": "2026-10-26T02:06:36.491Z"
-  },
-  {
-   "id": "27292d15e547",
-   "title": "Amorim: ‘Really proud of Milan, Bartesaghi better offensively than defensively’",
-   "link": "https://football-italia.net/amorim-really-proud-of-milan-bartesaghi-better/",
-   "snippet": "Ruben Amorim feels ‘really happy and proud’ with Milan’s 2-0 victory away to Udinese, revealing...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-25T22:07:27.000Z",
-   "firstSeen": "2026-10-26T02:06:36.491Z"
-  },
-  {
-   "id": "375463173725",
-   "title": "Mbappe's late strike earns Mourinho and Real Clasico glory at Barca",
-   "link": "https://www.skysports.com/football/barcelona-vs-real-madrid/report/563017",
-   "snippet": "Kylian Mbappe's double took Real Madrid to a famous 2-1 Clasico win, which had Jose Mourinho sliding on his knees in celebration in Barcelona.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-25T22:00:00.000Z",
-   "firstSeen": "2026-10-26T02:06:36.491Z"
-  },
-  {
-   "id": "753fc2d0e14a",
-   "title": "Serie A | Udinese 0-2 Milan: Pulisic and Hutchinson celebrate in Udine",
-   "link": "https://football-italia.net/serie-a-udinese-0-2-milan-pulisic-hutchinson/",
-   "snippet": "Milan took all three points with Christian Pulisic and the first Omari Hutchinson goal for...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-25T21:36:20.000Z",
-   "firstSeen": "2026-10-26T02:06:36.491Z"
-  },
-  {
-   "id": "90287cf1700a",
-   "title": "Video: Hutchinson nets first goal of Milan career in 2-0 Udinese victory",
-   "link": "https://football-italia.net/video-hutchinson-nets-first-goal-milan-career/",
-   "snippet": "Omari Hutchinson has opened his account for Milan, netting the first goal of his Rossoneri...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-25T21:34:14.000Z",
-   "firstSeen": "2026-10-26T02:06:36.491Z"
-  },
-  {
-   "id": "4d52a1ac2a5a",
-   "title": "Papers: Dyche emerges as frontrunner for Palace job if Sage departs",
-   "link": "https://www.skysports.com/football/news/12040/13603802/crystal-palace-sean-dyche-emerges-as-frontrunner-for-eagles-job-if-pierre-sage-leaves-paper-talk",
-   "snippet": "The top stories and transfer rumours from Monday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-25T21:30:00.000Z",
-   "firstSeen": "2026-10-26T02:06:36.491Z"
   }
  ]
 }
