@@ -1,6 +1,127 @@
 {
  "stories": [
   {
+   "id": "d37e45f98377",
+   "title": "Fernandes critical of media 'lies' about Carrick relationship",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o",
+   "snippet": "Bruno Fernandes says \"a lot of lies\" have been reported about his relationship with Manchester United head coach Michael Carrick.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-champions-league",
+   "section": "champions-league",
+   "published": "2026-11-04T00:45:33.000Z",
+   "firstSeen": "2026-11-04T03:42:00.173Z"
+  },
+  {
+   "id": "5919d4e338ac",
+   "title": "A half-time speech, a retaken penalty - and a win to save Carrick's job?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6q8n98y4023o",
+   "snippet": "At 2-0 down Michael Carrick's position as Manchester United head coach looked terminal - but will the win over Roma prove a turning point?",
+   "source": "BBC Sport",
+   "sourceId": "bbc-champions-league",
+   "section": "champions-league",
+   "published": "2026-11-04T00:27:37.000Z",
+   "firstSeen": "2026-11-04T03:42:00.173Z"
+  },
+  {
+   "id": "c95dd5ccda11",
+   "title": "Emery takes positives, but Villa 'have work to do' to reach Barca level",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cjwy9496qe7ko",
+   "snippet": "Aston Villa boss Unai Emery says his team have \"work to do\" to reach Barcelona's level after a 3-0 Champions League defeat at the Nou Camp.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-champions-league",
+   "section": "champions-league",
+   "published": "2026-11-03T23:58:22.000Z",
+   "firstSeen": "2026-11-04T03:42:00.173Z"
+  },
+  {
+   "id": "5ea370ef2351",
+   "title": "Mainoo and Lacey raise the spirits but systemic change still required at Manchester United | Nick Ames",
+   "link": "https://www.theguardian.com/football/2026/nov/03/michael-carrick-manchester-united-roma-old-trafford-champions-league",
+   "snippet": "There were protests at Old Trafford and even though two academy products stood out, Michael Carrick’s future is far from safe Green and yellow balloons bobbed around the Stretford End. Tennis balls rained down on the pitch in protest at…",
+   "source": "The Guardian",
+   "sourceId": "guardian-champions-league",
+   "section": "champions-league",
+   "published": "2026-11-03T23:57:56.000Z",
+   "firstSeen": "2026-11-04T03:42:00.173Z"
+  },
+  {
+   "id": "b96ab43f4024",
+   "title": "Asian Cup postponement leaves Socceroos, FA and coach Tony Popovic at crossroads | Joey Lynch",
+   "link": "https://www.theguardian.com/football/blog/2026/nov/04/asian-cup-afc-postponed-socceroos-football-australia-tony-popovich",
+   "snippet": "The most immediate question thrown up by the delay of the tournament in Saudi Arabia is what it now means for Popovic Confirmation that the Asian Cup has been postponed until December 2027 would have caught few by surprise. But the timing…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-11-03T23:54:13.000Z",
+   "firstSeen": "2026-11-04T03:42:00.173Z"
+  },
+  {
+   "id": "8c528948071d",
+   "title": "‘I wasn’t performing’: Bruno Fernandes says Carrick was right to drop him after criticism",
+   "link": "https://www.theguardian.com/football/2026/nov/03/bruno-fernandes-manchester-united-michael-carrick-roma-champions-league",
+   "snippet": "‘If it was punishment for the words, it was right’ Carrick hails ‘magical’ Old Trafford after comeback win Bruno Fernandes said Michael ­Carrick was correct to drop him last month as he reflected on a remarkable Manchester United comeback…",
+   "source": "The Guardian",
+   "sourceId": "guardian-champions-league",
+   "section": "champions-league",
+   "published": "2026-11-03T23:49:09.000Z",
+   "firstSeen": "2026-11-04T03:42:00.173Z"
+  },
+  {
+   "id": "c82dc290ae10",
+   "title": "Football world mourns Tenerife striker De Miguel",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6djv011mzlyo",
+   "snippet": "Tributes were paid across Tuesday's Champions League fixtures to Tenerife striker Jesus de Miguel, who died following collision on the pitch.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-11-03T23:37:12.000Z",
+   "firstSeen": "2026-11-04T03:42:00.173Z"
+  },
+  {
+   "id": "c9718fdbb9b0",
+   "title": "Man Utd beat Roma - the other great Champions League comebacks",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko",
+   "snippet": "Manchester United come from two goals down to beat Roma 3-2 - but what are the other best fightbacks in Champions League history?",
+   "source": "BBC Sport",
+   "sourceId": "bbc-champions-league",
+   "section": "champions-league",
+   "published": "2026-11-03T23:25:20.000Z",
+   "firstSeen": "2026-11-04T03:42:00.173Z"
+  },
+  {
+   "id": "a2c1e3a9dc7d",
+   "title": "Papers: Man Utd keen on signing Man City defender Ait-Nouri",
+   "link": "https://www.skysports.com/football/news/12040/13607697/manchester-united-keen-on-signing-manchester-city-defender-rayan-ait-nouri-who-is-open-to-crossing-divide-in-january-paper-talk",
+   "snippet": "The top stories and transfer rumours from Wednesday's newspapers...",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-11-03T23:10:00.000Z",
+   "firstSeen": "2026-11-04T03:42:00.173Z"
+  },
+  {
+   "id": "ace743083540",
+   "title": "Bruno Fernandes confession: ‘I was lucky on first penalty, then made a decision’",
+   "link": "https://football-italia.net/bruno-fernandes-confession-lucky-first-penalty/",
+   "snippet": "Bruno Fernandes explained what went through his mind when retaking that penalty to revive Manchester...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-11-03T22:58:40.000Z",
+   "firstSeen": "2026-11-04T03:42:00.173Z"
+  },
+  {
+   "id": "66c0271868da",
+   "title": "Chivu: ‘Inter were the best version of ourselves’ in 3-0 victory at Feyenoord",
+   "link": "https://football-italia.net/chivu-inter-were-the-best-version-of-ourselves/",
+   "snippet": "Cristian Chivu feels Inter were ‘the best version of ourselves’ in tonight’s 3-0 Champions League...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-11-03T22:42:40.000Z",
+   "firstSeen": "2026-11-04T03:42:00.173Z"
+  },
+  {
    "id": "5eaf69a591a9",
    "title": "Gasperini: ‘Roma will learn more from Man Utd defeat than Real Madrid’",
    "link": "https://football-italia.net/gasperini-roma-will-learn-more-man-utd-defeat/",
@@ -43,6 +164,17 @@
    "section": "world",
    "published": "2026-11-03T22:28:05.000Z",
    "firstSeen": "2026-11-03T22:39:25.922Z"
+  },
+  {
+   "id": "8f1c0098c31d",
+   "title": "Fernandes claims players don't need to save Carrick's job, but did they?",
+   "link": "https://www.skysports.com/football/news/12040/13607700/manchester-united-3-2-roma-bruno-fernandes-claims-players-dont-need-to-save-michael-carricks-job-after-first-win-in-10-games",
+   "snippet": "Manchester United captain Bruno Fernandes has come out in support of head coach Michael Carrick, but reiterated that the players didn't need to save his job in their 3-2 comeback win against Roma.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-11-03T22:28:00.000Z",
+   "firstSeen": "2026-11-04T03:42:00.173Z"
   },
   {
    "id": "078a8604d26c",
@@ -8975,105 +9107,6 @@
    "section": "world",
    "published": "2026-10-28T06:00:00.000Z",
    "firstSeen": "2026-10-28T11:46:22.178Z"
-  },
-  {
-   "id": "997cb930ed25",
-   "title": "'Biggest night in the club's history' for fearless Fleetwood",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo",
-   "snippet": "A whopping 83 league places separated Fleetwood from Arsenal, yet the hosts booked their place in the Carabao Cup quarter-final thanks to their penalty shootout win over the Gunners.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-28T00:39:30.000Z",
-   "firstSeen": "2026-10-28T02:52:18.621Z"
-  },
-  {
-   "id": "0d7ca4759828",
-   "title": "Dowman sees red as Arsenal dumped out, but did Arteta go too far?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmg47g7dngxlo",
-   "snippet": "A shocking defeat, a red card card, a penalty-shootout and a drone tell the story of Arsenal's dramatic loss to League Two Fleetwood Town in the last-16 of the Carabao Cup.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-28T00:34:31.000Z",
-   "firstSeen": "2026-10-28T02:52:18.621Z"
-  },
-  {
-   "id": "c7261e7e67b3",
-   "title": "‘What you live for’: Fleetwood revel in seismic Arsenal shock after Dowman sees red",
-   "link": "https://www.theguardian.com/football/2026/oct/27/that-was-what-you-live-for-fleetwood-revel-in-unbelievably-special-arsenal-win",
-   "snippet": "Manager Lawlor reflects on ‘unbelievably special’ night Arsenal youngster sent off for retaliation before shootout Fleetwood’s manager, Matt Lawlor, hailed the club’s victory as one for all football after his side shocked the Premier…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-10-27T23:52:21.000Z",
-   "firstSeen": "2026-10-28T11:46:22.178Z"
-  },
-  {
-   "id": "77e8d37aefab",
-   "title": "Where does Fleetwood beating Arsenal rank in biggest cup upsets?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo",
-   "snippet": "BBC Sport looks at the history of the biggest FA Cup and League Cup upsets after Fleetwood Town's shock win against Arsenal.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-27T23:35:11.000Z",
-   "firstSeen": "2026-10-28T02:52:18.621Z"
-  },
-  {
-   "id": "fe90b879ff91",
-   "title": "Barcelona fined £503 over their approach for Atlético Madrid star Álvarez",
-   "link": "https://www.theguardian.com/football/2026/oct/27/barcelona-fined-503-over-their-approach-for-atletico-madrid-star-alvarez",
-   "snippet": "Atlético accused Barcelona during summer chase Striker now rebuilding his reputation with fans Barcelona’s pursuit of Julián Álvarez came at a modest cost ⁠on Tuesday after the Spanish FA fined the club €602 (£503) following a complaint by…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-10-27T23:18:47.000Z",
-   "firstSeen": "2026-10-28T02:52:18.621Z"
-  },
-  {
-   "id": "d7171d99ff6c",
-   "title": "Arteta explains reaction to Dowman red card amid criticism",
-   "link": "https://www.skysports.com/football/news/12040/13604637/max-dowman-red-card-mikel-arteta-explains-what-he-said-to-16-year-old-after-sending-off-in-carabao-cup-exit-to-fleetwood-town",
-   "snippet": "Mikel Arteta has explained his reaction to Max Dowman as the 16-year-old went down the tunnel after being sent off in Arsenal's shock Carabao Cup exit to Fleetwood Town.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-27T23:11:00.000Z",
-   "firstSeen": "2026-10-28T02:52:18.621Z"
-  },
-  {
-   "id": "2382711779b4",
-   "title": "Cagliari joy as Trepy returns 2 months after nearly drowning",
-   "link": "https://football-italia.net/cagliari-trepy-return-2-months-nearly-drowning/",
-   "snippet": "Cagliari may have lost 4-2 to Roma, but the most important success story of the...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-27T23:01:48.000Z",
-   "firstSeen": "2026-10-28T02:52:18.621Z"
-  },
-  {
-   "id": "19ac0a90c2b2",
-   "title": "Abate ‘a little angry’ at Torino 3-1 defeat to Como after leading for so long",
-   "link": "https://football-italia.net/abate-a-little-angry-at-torino-3-1-defeat-como/",
-   "snippet": "Ignazio Abate admits the Torino collapse late in the game to lose 3-1 against Como...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-10-27T22:51:27.000Z",
-   "firstSeen": "2026-10-28T02:52:18.621Z"
-  },
-  {
-   "id": "96c2dc4b094a",
-   "title": "Papers: Carrick's job saved by failure to agree on replacement",
-   "link": "https://www.skysports.com/football/news/12040/13604626/manchester-united-failure-to-agree-on-michael-carricks-successor-buys-under-pressure-head-coach-more-time",
-   "snippet": "The top stories and transfer rumours from Wednesday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-27T22:45:00.000Z",
-   "firstSeen": "2026-10-28T02:52:18.621Z"
   }
  ]
 }
