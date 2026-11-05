@@ -1,6 +1,72 @@
 {
  "stories": [
   {
+   "id": "da684d1e978c",
+   "title": "Brugge up to ninth with win over PSV",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c8r4y5ky6nk2o",
+   "snippet": "Carlos Forbs scores the winning goal as Club Brugge keep up their push for knockout stage qualification, beating PSV 2-1 away on matchday four of the UEFA Champions League group phase.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-champions-league",
+   "section": "champions-league",
+   "published": "2026-11-04T23:24:52.000Z",
+   "firstSeen": "2026-11-05T04:00:12.805Z"
+  },
+  {
+   "id": "c1acb7881cb6",
+   "title": "Why Iraola's Liverpool are still a work in progress",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c9rky37kx37lo",
+   "snippet": "Champions League analyst Stephen Warnock and Guillem Balague believe Liverpool's defensive weaknesses combined with the experimentation of playing Bradley Barcola up front, highlight Andoni Iraola's team are still trying to find their…",
+   "source": "BBC Sport",
+   "sourceId": "bbc-champions-league",
+   "section": "champions-league",
+   "published": "2026-11-04T23:22:35.000Z",
+   "firstSeen": "2026-11-05T04:00:12.805Z"
+  },
+  {
+   "id": "4c47a568b776",
+   "title": "World record 51 red cards shown in Brazilian youth game",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo",
+   "snippet": "A world record of 43 players and eight members of staff were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-11-04T23:22:27.000Z",
+   "firstSeen": "2026-11-05T04:00:12.805Z"
+  },
+  {
+   "id": "df15abff146d",
+   "title": "Scotland U21 boss hails Donovan, Miller and Wilson attitude",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckyvrzgl9dqgo",
+   "snippet": "Under-21s head coach Tony Docherty is delighted with the buy-in from the three players who have dropped down from Scotland's senior squad.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-11-04T23:18:03.000Z",
+   "firstSeen": "2026-11-05T04:00:12.805Z"
+  },
+  {
+   "id": "3719625bcd1c",
+   "title": "Viking run riot against Sabah to boost qualification hopes",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cv8ezggrg24yo",
+   "snippet": "Viking come from behind to beat 10-man Sabah and get their first win of the league phase in this season's Champions League.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-champions-league",
+   "section": "champions-league",
+   "published": "2026-11-04T23:17:54.000Z",
+   "firstSeen": "2026-11-05T04:00:12.805Z"
+  },
+  {
+   "id": "3a46a43aef62",
+   "title": "Politano: ‘Napoli cannot have this attitude, only Italians take responsibility’",
+   "link": "https://football-italia.net/politano-napoli-only-italians-responsibility/",
+   "snippet": "Matteo Politano seemed to launch a broadside at his Napoli teammates after the 4-1 defeat...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-11-04T23:00:34.000Z",
+   "firstSeen": "2026-11-05T04:00:12.805Z"
+  },
+  {
    "id": "4aa8d1cd4c20",
    "title": "Como score nine to make Champions League history",
    "link": "https://www.bbc.co.uk/sport/football/videos/c6wyr8gzzr1zo",
@@ -153,6 +219,17 @@
    "section": "champions-league",
    "published": "2026-11-04T22:04:13.000Z",
    "firstSeen": "2026-11-04T22:57:58.801Z"
+  },
+  {
+   "id": "630a1eebfcf9",
+   "title": "Bodo/Glimt and Lille take a point apiece in goalless draw",
+   "link": "https://www.bbc.co.uk/sport/football/videos/ckwy4g1d5dpjo",
+   "snippet": "Norway's Bodo/Glimt play out a goalless draw at home against French side Lille in the Champions League, leaving both sides in the bottom half of the league phase following an uninspiring affair.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-champions-league",
+   "section": "champions-league",
+   "published": "2026-11-04T22:04:11.000Z",
+   "firstSeen": "2026-11-05T04:00:12.805Z"
   },
   {
    "id": "9a39cb2de910",
@@ -637,6 +714,17 @@
    "section": "world",
    "published": "2026-11-04T16:26:15.000Z",
    "firstSeen": "2026-11-04T22:57:58.801Z"
+  },
+  {
+   "id": "6570c6cd9c57",
+   "title": "72+: The EFL Podcast",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pl9kk6",
+   "snippet": "Aaron, Jobi and Lyle Taylor talk Scott Parker's taking over West Ham and Derby's issues.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-11-04T16:15:00.000Z",
+   "firstSeen": "2026-11-05T04:00:12.805Z"
   },
   {
    "id": "019ceb274029",
@@ -1275,6 +1363,17 @@
    "section": "world",
    "published": "2026-11-03T23:10:00.000Z",
    "firstSeen": "2026-11-04T03:42:00.173Z"
+  },
+  {
+   "id": "ac3b5726e268",
+   "title": "Papers: Arteta using NASA to help fix Arsenal's injury woes",
+   "link": "https://www.skysports.com/football/news/12040/13608204/mikel-arteta-is-using-nasa-to-help-fix-arsenals-injury-woes-with-google-and-apple-helping-too-paper-talk",
+   "snippet": "The top stories and transfer rumours from Thursday's newspapers...",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-11-03T23:10:00.000Z",
+   "firstSeen": "2026-11-05T04:00:12.805Z"
   },
   {
    "id": "ace743083540",
@@ -8799,94 +8898,6 @@
    "section": "world",
    "published": "2026-10-29T06:00:00.000Z",
    "firstSeen": "2026-10-29T11:54:45.704Z"
-  },
-  {
-   "id": "a511fd502f00",
-   "title": "'Stutter' penalty back in the spotlight after Barco miss costs Chelsea",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmp3g8vxd258o",
-   "snippet": "The stuttering run-up for penalties has been called 'naive' as players continue to try to deceive goalkeepers with a stop-start approach - but why?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-29T00:17:48.000Z",
-   "firstSeen": "2026-10-29T03:15:44.102Z"
-  },
-  {
-   "id": "2e719675555a",
-   "title": "'He could be happier' - why is Estevao becoming Chelsea's forgotten man?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cv5ynwkndw61o",
-   "snippet": "Estevao faces limited opportunities at Chelsea as Pedro Neto’s form and competition for places in attack leave him struggling for game time under Xabi Alonso.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-29T00:05:21.000Z",
-   "firstSeen": "2026-10-29T03:15:44.102Z"
-  },
-  {
-   "id": "4c29938d82fb",
-   "title": "Watch: Sportscene - all of Wednesday's Premiership goals",
-   "link": "https://www.bbc.co.uk/iplayer/episode/m0033mbx",
-   "snippet": "With Hearts v Rangers, Celtic v Dundee Utd and masses of midweek action",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-28T23:58:05.000Z",
-   "firstSeen": "2026-10-29T11:54:45.704Z"
-  },
-  {
-   "id": "50fa69f9bf2e",
-   "title": "Scottish Premiership: McInnes booed in Rangers draw at Hearts, Celtic held at home",
-   "link": "https://www.theguardian.com/football/2026/oct/28/scottish-premiership-makhanya-late-header-rangers-point-at-hearts-celtic-draw",
-   "snippet": "Derek McInnes returns to Tynecastle for 2-2 draw Martin O’Neill ‘disappointed’ by Dundee United result Olwethu Makhanya scored a late equaliser as Rangers earned a 2-2 draw with Hearts on the much-hyped Tynecastle return for Derek McInnes.…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-10-28T23:25:10.000Z",
-   "firstSeen": "2026-10-29T03:15:44.102Z"
-  },
-  {
-   "id": "dc5ed3c328f0",
-   "title": "Papers: Liverpool make contact with Monaco midfielder Camara",
-   "link": "https://www.skysports.com/football/news/12040/13605140/liverpool-transfer-news-reds-make-contact-with-lamine-camara-camp-ahead-of-proposed-january-move-for-monaco-midfielder-paper-talk",
-   "snippet": "The top stories and transfer rumours from Thursday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-10-28T23:20:00.000Z",
-   "firstSeen": "2026-10-29T03:15:44.102Z"
-  },
-  {
-   "id": "caed67f66191",
-   "title": "How unbeaten Chelsea are getting back to their best",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c8wy9wenqd01o",
-   "snippet": "Chelsea are getting back to their best following their 2-0 Women's Champions League win over Roma - so how have they built success in their unbeaten run?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-28T23:17:33.000Z",
-   "firstSeen": "2026-10-29T03:15:44.102Z"
-  },
-  {
-   "id": "37d0e000a0e0",
-   "title": "Carabao Cup roundup: Bournemouth thrash Villa, Sunderland salvo stings Bees",
-   "link": "https://www.theguardian.com/football/2026/oct/28/carabao-cup-fouth-round-bournemouth-aston-villa-sunderland-brentford",
-   "snippet": "Cherries win 3-0 to set up Anfield visit in last eight Wearsiders resist Brentford fightback in 3-2 success Bournemouth continued their impressive run of results by thumping Aston Villa 3-0 to reach the Carabao Cup quarter-finals for the…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-10-28T23:15:01.000Z",
-   "firstSeen": "2026-10-29T03:15:44.102Z"
-  },
-  {
-   "id": "06f9472023e9",
-   "title": "'He knows his role' - Rulli provides heroics but no worries for Donnarumma",
-   "link": "https://www.bbc.co.uk/sport/articles/cqrky1jnpy1no",
-   "snippet": "Geronimo Rulli's penalty shootout heroics may have put the pressure on Gianluigi Donnarumma at Manchester City, but manager Enzo Maresca has no doubt about his number one.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-28T23:10:06.000Z",
-   "firstSeen": "2026-10-29T03:15:44.102Z"
   }
  ]
 }
