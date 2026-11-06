@@ -1,6 +1,72 @@
 {
  "stories": [
   {
+   "id": "8e908305639e",
+   "title": "Duran & Osmand spark Celtic into life - but where does that leave Hogh?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwd099ez7z4yo",
+   "snippet": "Martin O'Neill has previously said he is unsure of his best team, but it is now obvious that Camilo Duran is Celtic's best option through the middle.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-11-06T00:10:28.000Z",
+   "firstSeen": "2026-11-06T03:58:25.519Z"
+  },
+  {
+   "id": "8f7b14f89fad",
+   "title": "Premier League: 10 things to look out for this weekend",
+   "link": "https://www.theguardian.com/football/2026/nov/06/premier-league-10-things-to-look-out-for-this-weekend",
+   "snippet": "Lampard appreciation at Everton, Glasner sparking Forest fire, Zubimendi and Kroupi in spotlight and Carrick v Emery Premier League top scorers Nothing better encapsulates the dysfunction that was Everton under Farhad Moshiri than the idea…",
+   "source": "The Guardian",
+   "sourceId": "guardian-premier-league",
+   "section": "premier-league",
+   "published": "2026-11-06T00:01:37.000Z",
+   "firstSeen": "2026-11-06T03:58:25.519Z"
+  },
+  {
+   "id": "ba7a510a0cd8",
+   "title": "Hearts bruised by Thun in self-inflicted Conference League defeat",
+   "link": "https://www.skysports.com/football/fc-thun-vs-hearts/report/577935",
+   "snippet": "Depleted Hearts' Conference League bruising was almost totally self-inflicted in a 3-1 defeat by Thun in Switzerland.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-11-05T23:40:00.000Z",
+   "firstSeen": "2026-11-06T03:58:25.519Z"
+  },
+  {
+   "id": "e8bdc8200082",
+   "title": "Papers: Deschamps turns down Man Utd offer to replace Carrick",
+   "link": "https://www.skysports.com/football/news/12040/13608662/didier-deschamps-turns-down-manchester-united-offer-to-replace-michael-carrick-paper-talk",
+   "snippet": "The top stories and transfer rumours from Friday's newspapers...",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-11-05T23:05:00.000Z",
+   "firstSeen": "2026-11-06T03:58:25.519Z"
+  },
+  {
+   "id": "eb256dcb223b",
+   "title": "Amorim blasts dire Milan: ‘We have to improve, otherwise it’s over’",
+   "link": "https://football-italia.net/amorim-milan-have-improve-otherwise-its-over/",
+   "snippet": "Ruben Amorim sent a strong message to his Milan players after their shocking 2-0 Europa...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-11-05T23:02:38.000Z",
+   "firstSeen": "2026-11-06T03:58:25.519Z"
+  },
+  {
+   "id": "a71afc682c9f",
+   "title": "'He'll regret it': The day Alex Ferguson quit Aberdeen for Man Utd",
+   "link": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o",
+   "snippet": "It's 40 years since the legendary manager left the Dons after eight trophy-laden years.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-11-05T23:00:10.000Z",
+   "firstSeen": "2026-11-06T03:58:25.519Z"
+  },
+  {
    "id": "b4b4b2ef014b",
    "title": "Deschamps not interested in Man Utd job - Friday's gossip",
    "link": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro",
@@ -626,6 +692,17 @@
    "section": "world",
    "published": "2026-11-05T13:32:02.000Z",
    "firstSeen": "2026-11-05T22:58:51.096Z"
+  },
+  {
+   "id": "7138c18ba909",
+   "title": "Six tournaments, 11 goals - Ronaldo's World Cup legacy",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cwr5y0yj716do",
+   "snippet": "Portugal legend Cristiano Ronaldo retires from international football having scored 146 goals and 234 caps for his country. Here's a look back at his 11 World Cup goals, across six tournaments since 2006.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-11-05T13:15:21.000Z",
+   "firstSeen": "2026-11-06T03:58:25.519Z"
   },
   {
    "id": "645b98c847a4",
@@ -2144,6 +2221,17 @@
    "section": "world",
    "published": "2026-11-04T11:25:46.000Z",
    "firstSeen": "2026-11-04T13:24:45.240Z"
+  },
+  {
+   "id": "9cfe73d24eab",
+   "title": "Fans pay respects to Tenerife's De Miguel",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c862yezg92qqo",
+   "snippet": "Fans gathered to pay their respects to Tenerife striker Jesus de Miguel who died after suffered a serious injury during a Spanish second-division match.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-11-04T11:05:16.000Z",
+   "firstSeen": "2026-11-06T03:58:25.519Z"
   },
   {
    "id": "15fc0c595ee7",
@@ -8809,28 +8897,6 @@
    "sourceId": "bbc-football",
    "section": "world",
    "published": "2026-10-30T04:12:07.000Z",
-   "firstSeen": "2026-10-30T11:47:51.050Z"
-  },
-  {
-   "id": "470f1dd77707",
-   "title": "Premier League: 10 things to look out for this weekend",
-   "link": "https://www.theguardian.com/football/2026/oct/30/premier-league-10-things-to-look-out-for-this-weekend",
-   "snippet": "Bruno Fernandes owes Manchester United a performance, Mathys Tel has arrived at Spurs and Liverpool are improving Premier League top scorers Michael Carrick and Bruno Fernandes held clear-the-air talks this week. Fernandes was an unused…",
-   "source": "The Guardian",
-   "sourceId": "guardian-premier-league",
-   "section": "premier-league",
-   "published": "2026-10-30T00:01:38.000Z",
-   "firstSeen": "2026-10-30T03:18:34.252Z"
-  },
-  {
-   "id": "f9cb6e87d80b",
-   "title": "China made Mbappé apologise - but many don't know exactly what he said",
-   "link": "https://www.bbc.co.uk/news/articles/cm3wv36d603yo",
-   "snippet": "His comment about Chinese leader Mao sparked anger but censorship left many wondering what exactly happened.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-10-29T23:03:15.000Z",
    "firstSeen": "2026-10-30T11:47:51.050Z"
   }
  ]
