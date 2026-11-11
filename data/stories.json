@@ -1,6 +1,50 @@
 {
  "stories": [
   {
+   "id": "2b28ca6636a4",
+   "title": "Arsenal eye Real's Endrick - Wednesday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq8jzjz9x23jo",
+   "snippet": "Real Madrid forward Endrick is on Arsenal's radar, Liverpool right-back Jeremie Frimpong is not headed for the Anfield exit door, Newcastle and Sunderland among the clubs interested in Croatian striker Dion Beljo, plus more.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-11-10T23:08:35.000Z",
+   "firstSeen": "2026-11-11T03:33:47.733Z"
+  },
+  {
+   "id": "ffa41bc747bb",
+   "title": "Papers: Berrada and Wilcox set to remain at Old Trafford",
+   "link": "https://www.skysports.com/football/news/12040/13610742/omar-berrada-and-jason-wilcox-set-to-remain-at-man-utd-with-michael-carricks-future-in-doubt-paper-talk",
+   "snippet": "The top stories and transfer rumours from Wednesday's newspapers...",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-11-10T22:44:00.000Z",
+   "firstSeen": "2026-11-11T03:33:47.733Z"
+  },
+  {
+   "id": "79627b91fb6e",
+   "title": "72+: The EFL Podcast",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pmc96j",
+   "snippet": "Former Bromley boss Andy Woodman joins Aaron and Jobi.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-11-10T22:29:00.000Z",
+   "firstSeen": "2026-11-11T03:33:47.733Z"
+  },
+  {
+   "id": "69ca29695359",
+   "title": "Leicester and Brentford U21 into EFL Trophy knockout stages",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cjqlnllkyzd5o",
+   "snippet": "Brentford U21 and League One side Leicester City move into the knockout stages of the Jersey Mike's Trophy with vital victories.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-11-10T22:17:53.000Z",
+   "firstSeen": "2026-11-11T03:33:47.733Z"
+  },
+  {
    "id": "598aabc0430d",
    "title": "Fujino’s double sparks WCL comeback win for Manchester City against Inter",
    "link": "https://www.theguardian.com/football/2026/nov/10/inter-manchester-city-womens-champions-league-match-report",
@@ -8656,138 +8700,6 @@
    "section": "world",
    "published": "2026-11-04T06:00:00.000Z",
    "firstSeen": "2026-11-04T13:24:45.240Z"
-  },
-  {
-   "id": "d37e45f98377",
-   "title": "Fernandes critical of media 'lies' about Carrick relationship",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o",
-   "snippet": "Bruno Fernandes says \"a lot of lies\" have been reported about his relationship with Manchester United head coach Michael Carrick.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-champions-league",
-   "section": "champions-league",
-   "published": "2026-11-04T00:45:33.000Z",
-   "firstSeen": "2026-11-04T03:42:00.173Z"
-  },
-  {
-   "id": "5919d4e338ac",
-   "title": "A half-time speech, a retaken penalty - and a win to save Carrick's job?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6q8n98y4023o",
-   "snippet": "At 2-0 down Michael Carrick's position as Manchester United head coach looked terminal - but will the win over Roma prove a turning point?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-champions-league",
-   "section": "champions-league",
-   "published": "2026-11-04T00:27:37.000Z",
-   "firstSeen": "2026-11-04T03:42:00.173Z"
-  },
-  {
-   "id": "c95dd5ccda11",
-   "title": "Emery takes positives, but Villa 'have work to do' to reach Barca level",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cjwy9496qe7ko",
-   "snippet": "Aston Villa boss Unai Emery says his team have \"work to do\" to reach Barcelona's level after a 3-0 Champions League defeat at the Nou Camp.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-champions-league",
-   "section": "champions-league",
-   "published": "2026-11-03T23:58:22.000Z",
-   "firstSeen": "2026-11-04T03:42:00.173Z"
-  },
-  {
-   "id": "5ea370ef2351",
-   "title": "Mainoo and Lacey raise the spirits but systemic change still required at Manchester United | Nick Ames",
-   "link": "https://www.theguardian.com/football/2026/nov/03/michael-carrick-manchester-united-roma-old-trafford-champions-league",
-   "snippet": "There were protests at Old Trafford and even though two academy products stood out, Michael Carrick’s future is far from safe Green and yellow balloons bobbed around the Stretford End. Tennis balls rained down on the pitch in protest at…",
-   "source": "The Guardian",
-   "sourceId": "guardian-champions-league",
-   "section": "champions-league",
-   "published": "2026-11-03T23:57:56.000Z",
-   "firstSeen": "2026-11-04T03:42:00.173Z"
-  },
-  {
-   "id": "b96ab43f4024",
-   "title": "Asian Cup postponement leaves Socceroos, FA and coach Tony Popovic at crossroads | Joey Lynch",
-   "link": "https://www.theguardian.com/football/blog/2026/nov/04/asian-cup-afc-postponed-socceroos-football-australia-tony-popovich",
-   "snippet": "The most immediate question thrown up by the delay of the tournament in Saudi Arabia is what it now means for Popovic Confirmation that the Asian Cup has been postponed until December 2027 would have caught few by surprise. But the timing…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-11-03T23:54:13.000Z",
-   "firstSeen": "2026-11-04T03:42:00.173Z"
-  },
-  {
-   "id": "8c528948071d",
-   "title": "‘I wasn’t performing’: Bruno Fernandes says Carrick was right to drop him after criticism",
-   "link": "https://www.theguardian.com/football/2026/nov/03/bruno-fernandes-manchester-united-michael-carrick-roma-champions-league",
-   "snippet": "‘If it was punishment for the words, it was right’ Carrick hails ‘magical’ Old Trafford after comeback win Bruno Fernandes said Michael ­Carrick was correct to drop him last month as he reflected on a remarkable Manchester United comeback…",
-   "source": "The Guardian",
-   "sourceId": "guardian-champions-league",
-   "section": "champions-league",
-   "published": "2026-11-03T23:49:09.000Z",
-   "firstSeen": "2026-11-04T03:42:00.173Z"
-  },
-  {
-   "id": "c82dc290ae10",
-   "title": "Football world mourns Tenerife striker De Miguel",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6djv011mzlyo",
-   "snippet": "Tributes were paid across Tuesday's Champions League fixtures to Tenerife striker Jesus de Miguel, who died following collision on the pitch.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-11-03T23:37:12.000Z",
-   "firstSeen": "2026-11-04T03:42:00.173Z"
-  },
-  {
-   "id": "c9718fdbb9b0",
-   "title": "Man Utd beat Roma - the other great Champions League comebacks",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko",
-   "snippet": "Manchester United come from two goals down to beat Roma 3-2 - but what are the other best fightbacks in Champions League history?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-champions-league",
-   "section": "champions-league",
-   "published": "2026-11-03T23:25:20.000Z",
-   "firstSeen": "2026-11-04T03:42:00.173Z"
-  },
-  {
-   "id": "a2c1e3a9dc7d",
-   "title": "Papers: Man Utd keen on signing Man City defender Ait-Nouri",
-   "link": "https://www.skysports.com/football/news/12040/13607697/manchester-united-keen-on-signing-manchester-city-defender-rayan-ait-nouri-who-is-open-to-crossing-divide-in-january-paper-talk",
-   "snippet": "The top stories and transfer rumours from Wednesday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-11-03T23:10:00.000Z",
-   "firstSeen": "2026-11-04T03:42:00.173Z"
-  },
-  {
-   "id": "ac3b5726e268",
-   "title": "Papers: Arteta using NASA to help fix Arsenal's injury woes",
-   "link": "https://www.skysports.com/football/news/12040/13608204/mikel-arteta-is-using-nasa-to-help-fix-arsenals-injury-woes-with-google-and-apple-helping-too-paper-talk",
-   "snippet": "The top stories and transfer rumours from Thursday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-11-03T23:10:00.000Z",
-   "firstSeen": "2026-11-05T04:00:12.805Z"
-  },
-  {
-   "id": "ace743083540",
-   "title": "Bruno Fernandes confession: ‘I was lucky on first penalty, then made a decision’",
-   "link": "https://football-italia.net/bruno-fernandes-confession-lucky-first-penalty/",
-   "snippet": "Bruno Fernandes explained what went through his mind when retaking that penalty to revive Manchester...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-11-03T22:58:40.000Z",
-   "firstSeen": "2026-11-04T03:42:00.173Z"
-  },
-  {
-   "id": "66c0271868da",
-   "title": "Chivu: ‘Inter were the best version of ourselves’ in 3-0 victory at Feyenoord",
-   "link": "https://football-italia.net/chivu-inter-were-the-best-version-of-ourselves/",
-   "snippet": "Cristian Chivu feels Inter were ‘the best version of ourselves’ in tonight’s 3-0 Champions League...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-11-03T22:42:40.000Z",
-   "firstSeen": "2026-11-04T03:42:00.173Z"
   }
  ]
 }
