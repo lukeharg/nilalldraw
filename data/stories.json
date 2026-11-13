@@ -1,6 +1,83 @@
 {
  "stories": [
   {
+   "id": "dfb5899beaff",
+   "title": "It’s Happy Harry Kane day as England’s finest seizes his moment in style | Barney Ronay",
+   "link": "https://www.theguardian.com/football/2026/nov/13/happy-harry-kane-day-englands-finest-seizes-his-moment-croatia-nations-league",
+   "snippet": "The Ballon d’Or validated the forward’s career and he extended his incredible record for England with yet another goal on his 126th appearance Happy Harry Kane day! And many happy Harry returns. There is a process in clinical psychology…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-11-13T00:01:56.000Z",
+   "firstSeen": "2026-11-13T03:55:21.813Z"
+  },
+  {
+   "id": "d7580c70e30e",
+   "title": "Fernandes rejects second Man Utd contract offer",
+   "link": "https://www.skysports.com/football/news/12040/13611749/bruno-fernandes-rejects-second-manchester-united-contract-offer",
+   "snippet": "Manchester United captain Bruno Fernandes has rejected a second contract offer from the club, with his current deal due to expire at the end of the season.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-11-12T23:39:00.000Z",
+   "firstSeen": "2026-11-13T03:55:21.813Z"
+  },
+  {
+   "id": "fefba6ec6c38",
+   "title": "Football Daily",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pmqwrn",
+   "snippet": "Harry Kane becomes the most-capped England men's player in history.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-11-12T23:37:00.000Z",
+   "firstSeen": "2026-11-13T03:55:21.813Z"
+  },
+  {
+   "id": "25cd6fe5b1ee",
+   "title": "Morgan Rogers says ‘it’s a lie’ that Cole Palmer does not want to play for England",
+   "link": "https://www.theguardian.com/football/2026/nov/12/morgan-rogers-says-its-a-lie-that-cole-palmer-does-not-want-to-play-for-england",
+   "snippet": "Forward springs to defence of Chelsea teammate ‘He wanted to come and represent his country’ Morgan Rogers has said accusations that his Chelsea teammate Cole Palmer is not committed to playing for England are “a lie”. Palmer, who was left…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-11-12T23:17:46.000Z",
+   "firstSeen": "2026-11-13T03:55:21.813Z"
+  },
+  {
+   "id": "4f4e6c37f2e4",
+   "title": "'A lie' & 'nonsense' - Palmer committed to England, says Rogers",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo",
+   "snippet": "Morgan Rogers says any suggestion Cole Palmer is not committed to England \"is a lie\" and \"nonsense\".",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-11-12T23:09:07.000Z",
+   "firstSeen": "2026-11-13T03:55:21.813Z"
+  },
+  {
+   "id": "e0e105f99f6a",
+   "title": "Zidane: ‘Italy played better in France, but they won tonight’",
+   "link": "https://football-italia.net/zidane-italy-played-better-france-won-tonight/",
+   "snippet": "Zinedine Zidane feels Italy ‘played better in Paris, but they won this evening’ when inflicting...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-11-12T23:02:04.000Z",
+   "firstSeen": "2026-11-13T03:55:21.813Z"
+  },
+  {
+   "id": "41a1bb4b1074",
+   "title": "Pochettino agrees two-and-a-half-year deal to become Man Utd boss",
+   "link": "https://www.skysports.com/football/news/12040/13611745/mauricio-pochettino-manchester-united-agree-two-and-a-half-year-deal-with-usa-manager-to-replace-michael-carrick",
+   "snippet": "Manchester United and Mauricio Pochettino have agreed a deal for him to become the club's next head coach.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-11-12T23:00:00.000Z",
+   "firstSeen": "2026-11-13T03:55:21.813Z"
+  },
+  {
    "id": "c5ae4c36cbd2",
    "title": "Mancini: ‘Esposito brothers got confused, Italy always play to win’",
    "link": "https://football-italia.net/mancini-esposito-brothers-got-confused-italy/",
@@ -252,6 +329,17 @@
    "section": "world",
    "published": "2026-11-12T19:23:51.000Z",
    "firstSeen": "2026-11-12T22:56:27.324Z"
+  },
+  {
+   "id": "e23ab6dee8be",
+   "title": "How will the USMNT replace Mauricio Pochettino? There’s no clear answer",
+   "link": "https://www.theguardian.com/football/2026/nov/12/mauricio-pochettino-replacements-usmnt-manchester-united",
+   "snippet": "The USMNT head coach is on the verge of sealing a move to Manchester United, but it’s hard to know who could be in the chair next Sign up for our free newsletter here Even before the 2026 World Cup, the US Soccer Federation projected an…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-11-12T19:20:01.000Z",
+   "firstSeen": "2026-11-13T03:55:21.813Z"
   },
   {
    "id": "2d6855851f78",
@@ -6568,6 +6656,17 @@
    "firstSeen": "2026-11-07T21:11:04.424Z"
   },
   {
+   "id": "8f504a23f000",
+   "title": "Arsenal latest: White won't walk away from England boos, says Tuchel",
+   "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "snippet": "",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-11-07T18:20:00.000Z",
+   "firstSeen": "2026-11-13T03:55:21.813Z"
+  },
+  {
    "id": "6519cb9cc196",
    "title": "FA Cup roundup: non-league Kidderminster stun Doncaster as Exeter upset Huddersfield",
    "link": "https://www.theguardian.com/football/2026/nov/07/fa-cup-roundup-non-league-kidderminster-doncaster-exeter-huddersfield",
@@ -8414,83 +8513,6 @@
    "section": "world",
    "published": "2026-11-06T06:00:00.000Z",
    "firstSeen": "2026-11-06T13:23:03.403Z"
-  },
-  {
-   "id": "b78e97ab8043",
-   "title": "Cape Verde captain Ryan Mendes cleared of rape allegation as woman charged with false statement",
-   "link": "https://www.theguardian.com/football/2026/nov/06/cape-verde-football-ryan-mendes-sexual-assault-allegation-dismissed-ntwnfb",
-   "snippet": "New Zealand police dismiss claim of sexual assault at Auckland hotel Incident alleged to have occurred after football friendly in March New Zealand police have dismissed a rape allegation against Cape Verde football captain Ryan Mendes and…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-11-06T03:37:32.000Z",
-   "firstSeen": "2026-11-06T13:23:03.403Z"
-  },
-  {
-   "id": "8e908305639e",
-   "title": "Duran & Osmand spark Celtic into life - but where does that leave Hogh?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwd099ez7z4yo",
-   "snippet": "Martin O'Neill has previously said he is unsure of his best team, but it is now obvious that Camilo Duran is Celtic's best option through the middle.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-11-06T00:10:28.000Z",
-   "firstSeen": "2026-11-06T03:58:25.519Z"
-  },
-  {
-   "id": "8f7b14f89fad",
-   "title": "Premier League: 10 things to look out for this weekend",
-   "link": "https://www.theguardian.com/football/2026/nov/06/premier-league-10-things-to-look-out-for-this-weekend",
-   "snippet": "Lampard appreciation at Everton, Glasner sparking Forest fire, Zubimendi and Kroupi in spotlight and Carrick v Emery Premier League top scorers Nothing better encapsulates the dysfunction that was Everton under Farhad Moshiri than the idea…",
-   "source": "The Guardian",
-   "sourceId": "guardian-premier-league",
-   "section": "premier-league",
-   "published": "2026-11-06T00:01:37.000Z",
-   "firstSeen": "2026-11-06T03:58:25.519Z"
-  },
-  {
-   "id": "ba7a510a0cd8",
-   "title": "Hearts bruised by Thun in self-inflicted Conference League defeat",
-   "link": "https://www.skysports.com/football/fc-thun-vs-hearts/report/577935",
-   "snippet": "Depleted Hearts' Conference League bruising was almost totally self-inflicted in a 3-1 defeat by Thun in Switzerland.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-11-05T23:40:00.000Z",
-   "firstSeen": "2026-11-06T03:58:25.519Z"
-  },
-  {
-   "id": "e8bdc8200082",
-   "title": "Papers: Deschamps turns down Man Utd offer to replace Carrick",
-   "link": "https://www.skysports.com/football/news/12040/13608662/didier-deschamps-turns-down-manchester-united-offer-to-replace-michael-carrick-paper-talk",
-   "snippet": "The top stories and transfer rumours from Friday's newspapers...",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-11-05T23:05:00.000Z",
-   "firstSeen": "2026-11-06T03:58:25.519Z"
-  },
-  {
-   "id": "eb256dcb223b",
-   "title": "Amorim blasts dire Milan: ‘We have to improve, otherwise it’s over’",
-   "link": "https://football-italia.net/amorim-milan-have-improve-otherwise-its-over/",
-   "snippet": "Ruben Amorim sent a strong message to his Milan players after their shocking 2-0 Europa...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-11-05T23:02:38.000Z",
-   "firstSeen": "2026-11-06T03:58:25.519Z"
-  },
-  {
-   "id": "a71afc682c9f",
-   "title": "'He'll regret it': The day Alex Ferguson quit Aberdeen for Man Utd",
-   "link": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o",
-   "snippet": "It's 40 years since the legendary manager left the Dons after eight trophy-laden years.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-11-05T23:00:10.000Z",
-   "firstSeen": "2026-11-06T03:58:25.519Z"
   }
  ]
 }
