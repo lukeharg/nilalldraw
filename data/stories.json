@@ -1,6 +1,28 @@
 {
  "stories": [
   {
+   "id": "15243c14ffb3",
+   "title": "Nations League: Germany set up Netherlands clash after beating Serbia",
+   "link": "https://www.theguardian.com/football/2026/nov/13/nations-league-germany-set-up-netherlands-clash-serbia-greece",
+   "snippet": "Florian Wirtz on target in Germany’s 3-1 win in Serbia Tijjani Reijnders hat-trick as Netherlands hammer Greece Germany cruised to a 3-1 win against Serbia in Belgrade on Friday, setting up a crunch encounter with the Netherlands in Berlin…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-11-13T23:14:45.000Z",
+   "firstSeen": "2026-11-14T03:53:06.485Z"
+  },
+  {
+   "id": "ca831fb89810",
+   "title": "Ferguson 'made up' with first win as Glentoran boss",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c95y10z6rpj8o",
+   "snippet": "Glentoran manager Duncan Ferguson said he is \"made up\" with his first three points on his home debut, after a 2-1 win over Bangor.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-11-13T22:54:49.000Z",
+   "firstSeen": "2026-11-14T03:53:06.485Z"
+  },
+  {
    "id": "834c7064868d",
    "title": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
    "link": "https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo",
@@ -10,6 +32,17 @@
    "section": "premier-league",
    "published": "2026-11-13T22:53:17.000Z",
    "firstSeen": "2026-11-13T22:58:38.107Z"
+  },
+  {
+   "id": "fd5d32cf1df3",
+   "title": "Papers: Man Utd eyeing move for Como star Paz",
+   "link": "https://www.skysports.com/football/news/12040/13611965/man-utd-transfer-news-como-star-nico-paz-emerges-as-target-ahead-of-summer-transfer-window-paper-talk",
+   "snippet": "The top stories and transfer rumours from Saturday's newspapers...",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-11-13T22:51:00.000Z",
+   "firstSeen": "2026-11-14T03:53:06.485Z"
   },
   {
    "id": "fcfbd39949b4",
@@ -8392,61 +8425,6 @@
    "section": "world",
    "published": "2026-11-07T06:00:05.000Z",
    "firstSeen": "2026-11-07T12:01:21.844Z"
-  },
-  {
-   "id": "1e7af97ae7a9",
-   "title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go",
-   "snippet": "Kiernan Dewsbury-Hall responds to his England omission by scoring a stunning goal to inspire Everton's 3-1 comeback victory over Coventry City.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-11-06T23:53:06.000Z",
-   "firstSeen": "2026-11-07T03:33:53.392Z"
-  },
-  {
-   "id": "c01a47939b52",
-   "title": "Leicester hold nerve to knock out sixth-tier Oxford City",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c8qlnn4dvp3yo",
-   "snippet": "League One side, and 2021 champions, Leicester City avoid an upset as they beat sixth-tier Oxford City 4-2 at the MGroup Stadium, to reach the second round of the FA Cup.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-11-06T23:37:23.000Z",
-   "firstSeen": "2026-11-07T03:33:53.392Z"
-  },
-  {
-   "id": "5bbab2535efd",
-   "title": "Bristol Rovers shock Cambridge United to reach round two",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cxdd88g97lm7o",
-   "snippet": "League Two side Bristol Rovers end a run of six matches without a win, as they shock League One side Cambridge United, beating them 2-0 at the Memorial Stadium, to reach the second round of the FA Cup.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-11-06T23:26:39.000Z",
-   "firstSeen": "2026-11-07T03:33:53.392Z"
-  },
-  {
-   "id": "25495e66a95b",
-   "title": "Lampard feels hair pull should have led to Coventry penalty",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cr15jj0yy8xeo",
-   "snippet": "Coventry had a trio of decisions go against them in defeat at Everton, with Frank Lampard suggesting a hair pull should have been a penalty.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-11-06T23:22:21.000Z",
-   "firstSeen": "2026-11-07T03:33:53.392Z"
-  },
-  {
-   "id": "3cf2819e91b0",
-   "title": "Lampard: VAR didn't do its job",
-   "link": "https://www.skysports.com/football/news/12040/13609067/everton-3-1-coventry-frank-lampard-says-var-didnt-do-its-job-after-three-incidents-went-against-sky-blues-in-premier-league-defeat",
-   "snippet": "Coventry boss Frank Lampard says VAR 'didn't do its job' in his side's defeat to Everton as three reviews controversially went against his side.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-11-06T23:20:00.000Z",
-   "firstSeen": "2026-11-07T03:33:53.392Z"
   }
  ]
 }
