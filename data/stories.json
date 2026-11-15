@@ -1,6 +1,83 @@
 {
  "stories": [
   {
+   "id": "0414f66466f0",
+   "title": "The 'manager's dream' who has put NI one game from history",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c84gn2dl4zleo",
+   "snippet": "After scoring his first international goal in the 1-0 win over Ukraine, Northern Ireland boss Michael O'Neill says Terry Devlin is \"a bit of a dream\" to manage.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-11-14T23:21:45.000Z",
+   "firstSeen": "2026-11-15T03:35:06.261Z"
+  },
+  {
+   "id": "42930c8fb12c",
+   "title": "Liverpool put three past Brighton to end winless run",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6p3ewwezqy2o",
+   "snippet": "A Beata Olsson double helps Liverpool to an impressive 3-0 victory away to Brighton to end their five-game winless run in the Women's Super League.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-11-14T23:00:29.000Z",
+   "firstSeen": "2026-11-15T03:35:06.261Z"
+  },
+  {
+   "id": "d0979ce2d6c0",
+   "title": "Hallgrimsson rues 'painful' defeat for Republic of Ireland",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cr15e4w75wxpo",
+   "snippet": "Republic of Ireland boss Heimir Hallgrimsson says their 1-0 defeat against Austria in their penultimate Nations League game was \"painful\".",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-11-14T22:40:02.000Z",
+   "firstSeen": "2026-11-15T03:35:06.261Z"
+  },
+  {
+   "id": "71f861ecff2f",
+   "title": "Devlin nets winner as NI top Nations League group",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6z9dxk71538o",
+   "snippet": "Watch highlights as Northern Ireland beat Ukraine 1-0 at Windsor Park in the Nations League.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-11-14T22:38:02.000Z",
+   "firstSeen": "2026-11-15T03:35:06.261Z"
+  },
+  {
+   "id": "c2c43313a241",
+   "title": "Arsenal target Nusa could cost £66m - Sunday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6e9kgn532gxo",
+   "snippet": "Arsenal could have to pay £66m for RB Leipzig's Antonio Nusa, Real Betis reject Chelsea's bid for Jose Morante, plus more.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-11-14T21:48:45.000Z",
+   "firstSeen": "2026-11-15T03:35:06.261Z"
+  },
+  {
+   "id": "4e7da0f4f32b",
+   "title": "Kalajdzic scores late as Republic of Ireland taste defeat in Austria",
+   "link": "https://www.skysports.com/football/austria-vs-republic-of-ireland/report/554103",
+   "snippet": "Sasa Kalajdzic dealt the Republic of Ireland a late blow in Linz with the only goal in Austria's 1-0 Nations League victory at the Raiffeisen Arena.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-11-14T21:35:00.000Z",
+   "firstSeen": "2026-11-15T03:35:06.261Z"
+  },
+  {
+   "id": "9a4413b9235b",
+   "title": "Devlin nets first international goal as Northern Ireland beat Ukraine",
+   "link": "https://www.skysports.com/football/northern-ireland-vs-ukraine/report/554106",
+   "snippet": "Terry Devlin's first international goal kept Northern Ireland top of their Nations League group as a 1-0 win over Ukraine set up a promotion decider away to Hungary on Tuesday.",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-11-14T21:35:00.000Z",
+   "firstSeen": "2026-11-15T03:35:06.261Z"
+  },
+  {
    "id": "3eed8f27128c",
    "title": "Tuchel unhappy as anti-racism protocol questions overshadow Spain clash",
    "link": "https://www.skysports.com/football/news/12040/13612301/thomas-tuchel-england-boss-unhappy-as-anti-racism-protocol-questions-overshadow-nations-league-test-in-spain",
@@ -7019,6 +7096,17 @@
    "firstSeen": "2026-11-08T21:26:19.578Z"
   },
   {
+   "id": "581cdb6bfaf8",
+   "title": "Premier League top scorers 2026-27: who is leading race for the golden boot?",
+   "link": "https://www.theguardian.com/football/2026/sep/10/premier-league-top-scorers-2026-27-race-for-golden-boot",
+   "snippet": "Find out which of the English top-flight’s sharp shooters are firing their way up the goalscoring charts",
+   "source": "The Guardian",
+   "sourceId": "guardian-premier-league",
+   "section": "premier-league",
+   "published": "2026-11-08T19:08:17.000Z",
+   "firstSeen": "2026-11-15T03:35:06.261Z"
+  },
+  {
    "id": "54eb2d857ac6",
    "title": "Serie A | Inter 2-0 Como: Fabregas cannot crack Chivu code",
    "link": "https://football-italia.net/serie-a-inter-2-0-como-fabregas-crack-chivu/",
@@ -7930,237 +8018,6 @@
    "section": "world",
    "published": "2026-11-08T06:28:56.000Z",
    "firstSeen": "2026-11-08T12:21:36.170Z"
-  },
-  {
-   "id": "961d05202095",
-   "title": "Messi claims second straight Golden Boot as Nashville set points record on MLS Decision Day",
-   "link": "https://www.theguardian.com/football/2026/nov/07/lionel-messi-mls-golden-boot-inter-miami-charlotte-nashville-playoffs",
-   "snippet": "Messi first to win consecutive MLS Golden Boots Inter Miami surrender 3-0 lead in dramatic draw Nashville set new league record with 77 points Lionel Messi won his second consecutive MLS Golden Boot award on Saturday, but Inter Miami…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-11-08T03:31:47.000Z",
-   "firstSeen": "2026-11-08T12:21:36.170Z"
-  },
-  {
-   "id": "76826620cdaa",
-   "title": "'The worst conditions in my 35-year career' - commentating in the FA Cup fog",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o",
-   "snippet": "BBC Sport commentator Steve Bower gives an insight into trying to commentate when thick fog engulfs a stadium and you can barely see the action.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-11-08T00:17:56.000Z",
-   "firstSeen": "2026-11-08T03:04:06.499Z"
-  },
-  {
-   "id": "11973c55293d",
-   "title": "'It's Savage junior's night' - Charlie scores against dad Robbie's side",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cmx2d76znxe1o",
-   "snippet": "Robbie Savage's son Charlie scores for Reading against Peterborough United, the side his father manages in the first round of the FA Cup.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-11-08T00:13:34.000Z",
-   "firstSeen": "2026-11-08T03:04:06.499Z"
-  },
-  {
-   "id": "509395797376",
-   "title": "Charlie Savage shines for Reading to beat dad Robbie's Peterborough",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cqx29ey1m9zpo",
-   "snippet": "Charlie Savage scores his first goal of the season and puts in a man-of-the-match performance for Reading who knock out dad Robbie's Peterborough United in the FA Cup first round.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-11-08T00:12:24.000Z",
-   "firstSeen": "2026-11-08T03:04:06.499Z"
-  },
-  {
-   "id": "1f0a14633865",
-   "title": "'Wonderful goal' - Crewe's McNeill scores from halfway line",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cmkgekn1007qo",
-   "snippet": "Charlie McNeill scores from the halfway line in the 12th minute to open the scoring for Crewe Alexandra against AFC Wimbledon in the first round of the FA Cup.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-11-08T00:07:11.000Z",
-   "firstSeen": "2026-11-08T03:04:06.499Z"
-  },
-  {
-   "id": "e6d6c14683fd",
-   "title": "'Curtains for Robinson' or can floundering Aberdeen boss survive?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/crlyk582kpn1o",
-   "snippet": "Will the \"unacceptable\" 4-0 home defeat to fellow strugglers Hibernian signal the end of Stephen Robinson's Aberdeen tenure?",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-11-08T00:04:00.000Z",
-   "firstSeen": "2026-11-08T03:04:06.499Z"
-  },
-  {
-   "id": "84ec8260214c",
-   "title": "Was Leeds' Bogle lucky to escape red card?",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c6lyl7qvq8ejo",
-   "snippet": "Match of the Day's Steph Houghton and Danny Murphy assess whether a challenge from Leeds United's Jayden Bogle on Tottenham's Mathys Tel was worthy of a red card.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-11-08T00:00:26.000Z",
-   "firstSeen": "2026-11-08T03:04:06.499Z"
-  },
-  {
-   "id": "1cee5644e003",
-   "title": "Forest win over Man City 'a turning point' - Murphy",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c893zr4rlzp1o",
-   "snippet": "Match of the Day's Danny Murphy breaks down Nottingham Forest's impressive 3-1 win over Manchester City, a victory that he believes could be \"a turning point\" in Forest's first season under Oliver Glasner.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-11-08T00:00:14.000Z",
-   "firstSeen": "2026-11-08T03:04:06.499Z"
-  },
-  {
-   "id": "74461630559e",
-   "title": "Arsenal should have been awarded penalty against Hull - Cann",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cr4g1n21vgp3o",
-   "snippet": "Former Premier League assistant referee Darren Cann explains why Arsenal should have been awarded a penalty for a foul on Kai Havertz in the Premier League champions' 1-0 win over Hull City.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-11-08T00:00:09.000Z",
-   "firstSeen": "2026-11-08T03:04:06.499Z"
-  },
-  {
-   "id": "c80d19c1c9fe",
-   "title": "York score after 10 seconds against Northampton following unique kick-off",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c893zrl4p7npo",
-   "snippet": "Ollie Pearce scores after 10 seconds as York City see off Northampton Town in a 4-0 win to reach the second round of the FA Cup.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-11-07T23:38:38.000Z",
-   "firstSeen": "2026-11-08T03:04:06.499Z"
-  },
-  {
-   "id": "200c2882aeeb",
-   "title": "Listen: Premiership reaction as pressure mounts on Robinson",
-   "link": "https://www.bbc.co.uk/sounds/play/p0plvx32",
-   "snippet": "Big wins for Rangers, St Johnstone and Hibs as Robinson's Aberdeen ship 4 goals at home.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-11-07T23:15:00.000Z",
-   "firstSeen": "2026-11-08T03:04:06.499Z"
-  },
-  {
-   "id": "c20b8919ba4e",
-   "title": "Highlights: Exeter shock League One leaders Huddersfield",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cq8rz7lyl5g8o",
-   "snippet": "League Two Exeter City pull off an upset 2-1 win away to League One leaders Huddersfield Town to progress into the second round of the FA Cup.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-11-07T23:08:32.000Z",
-   "firstSeen": "2026-11-08T03:04:06.499Z"
-  },
-  {
-   "id": "71a022993ba6",
-   "title": "McNeill's superb halfway goal sparks Crewe upset over Wimbledon",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cv5yn15k5pz0o",
-   "snippet": "Charlie McNeill's strike from the halfway line helps League Two frontrunners Crewe progress to the second round of the FA Cup, with a 2-1 win over League One AFC Wimbledon.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-11-07T23:05:36.000Z",
-   "firstSeen": "2026-11-08T03:04:06.499Z"
-  },
-  {
-   "id": "840b928111f1",
-   "title": "Aquilani at risk of Sassuolo dismissal: ‘I have to be judged on results’",
-   "link": "https://football-italia.net/aquilani-at-risk-sassuolo-judged-on-results/",
-   "snippet": "There are several reports that Sassuolo are ready to fire Alberto Aquilani after five consecutive...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-11-07T22:50:04.000Z",
-   "firstSeen": "2026-11-08T03:04:06.499Z"
-  },
-  {
-   "id": "efae4a5dbe60",
-   "title": "'Bruno's as good as ever' - Carrick backs Man Utd captain",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckj0l542v7pvo",
-   "snippet": "Manchester United head coach Michael Carrick says captain Bruno Fernandes' commitment to the club is \"undoubted\" and the midfielder is \"as good as ever\".",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-11-07T22:44:20.000Z",
-   "firstSeen": "2026-11-08T03:04:06.499Z"
-  },
-  {
-   "id": "14018cf10c80",
-   "title": "Report Cagliari fan in hospital after fall from stands",
-   "link": "https://football-italia.net/cagliari-fan-in-hospital-fall-from-stands/",
-   "snippet": "There was an unfortunate incident after Cagliari’s 1-0 victory over Frosinone, as a supporter fell...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-11-07T22:37:21.000Z",
-   "firstSeen": "2026-11-08T03:04:06.499Z"
-  },
-  {
-   "id": "711b972a34a6",
-   "title": "Rodrigo Mora: ‘Football is crazy sometimes, Cristiano Ronaldo my idol’",
-   "link": "https://football-italia.net/rodrigo-mora-football-crazy-cristiano-ronaldo/",
-   "snippet": "Rodrigo Mora concedes ‘football is crazy’ after scoring his third consecutive Serie A goal for...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-11-07T22:24:26.000Z",
-   "firstSeen": "2026-11-08T03:04:06.499Z"
-  },
-  {
-   "id": "916807f84308",
-   "title": "Gasperini: ‘Roma in the mix for Scudetto race, great performance in Manchester’",
-   "link": "https://football-italia.net/gasperini-roma-in-the-mix-for-scudetto-race/",
-   "snippet": "Gian Piero Gasperini admits Roma ‘are in the mix’ for the Scudetto race after thumping...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-11-07T22:16:05.000Z",
-   "firstSeen": "2026-11-08T03:04:06.499Z"
-  },
-  {
-   "id": "de9490f468e2",
-   "title": "Scottish roundup: Naderi fires Rangers past St Mirren to keep pressure on Celtic",
-   "link": "https://www.theguardian.com/football/2026/nov/07/scottish-premiership-roundup-rangers-st-mirren-aberdeen-hibernian-dundee-united-motherwell-st-johnstone",
-   "snippet": "Rangers win 2-0 to go one point off top spot Aberdeen slump to 4-0 defeat against Hibernian Rangers banished their recent away day blues with a solid 2-0 win at St Mirren. Draws against Dundee and Hearts in their last two Scottish…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-11-07T22:08:26.000Z",
-   "firstSeen": "2026-11-08T03:04:06.499Z"
-  },
-  {
-   "id": "4412ff6e1aba",
-   "title": "Liverpool considering Verbruggen move - Sunday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c54g1nepgr28o",
-   "snippet": "Liverpool consider move for Brighton keeper Bart Verbruggen, Bayern Munich remain in talks with Rio Ngumoha's camp, Tottenham midfielder Conor Gallagher monitored by rival Premier League clubs, plus more.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-11-07T22:05:40.000Z",
-   "firstSeen": "2026-11-08T03:04:06.499Z"
-  },
-  {
-   "id": "58e87884716d",
-   "title": "Rangers end winless away run with comfortable victory at St Mirren",
-   "link": "https://www.skysports.com/football/st-mirren-vs-rangers/report/558409",
-   "snippet": "Rangers moved one point behind Scottish Premiership leaders Celtic thanks to goals from Ryan Naderi and Dan Neil in a 2-0 win over St Mirren.",
-   "source": "Sky Sports",
-   "sourceId": "sky-sports",
-   "section": "world",
-   "published": "2026-11-07T21:50:00.000Z",
-   "firstSeen": "2026-11-08T03:04:06.499Z"
   }
  ]
 }
