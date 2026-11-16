@@ -1,6 +1,127 @@
 {
  "stories": [
   {
+   "id": "ddf9ab660cca",
+   "title": "How did England cling on against Spain and what did Tuchel do differently?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6742l4z91lwo",
+   "snippet": "Trying to protect a lead in the closing stages, England have been here before - so how did they cling on against Spain?",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-11-16T00:02:22.000Z",
+   "firstSeen": "2026-11-16T03:34:32.426Z"
+  },
+  {
+   "id": "963690083af9",
+   "title": "60 minutes of perfection, 30 minutes of chaos - an England win for the ages",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c933ge310n33o",
+   "snippet": "England's stunning win in Spain had everything - and was their best under Thomas Tuchel, writes Phil McNulty.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-11-15T23:52:43.000Z",
+   "firstSeen": "2026-11-16T03:34:32.426Z"
+  },
+  {
+   "id": "d36d2aeea29b",
+   "title": "Three Lions’ win over Spain comes in two acts: the first superb, the second heroic | Sid Lowe",
+   "link": "https://www.theguardian.com/football/2026/nov/15/england-superb-heroic-spain-nations-league",
+   "snippet": "Visitors take game to world champions and, though their hold on possession plummets, their rearguard is outstanding In the final, absurdly tense moments before England finally did it and Spain finally fell, when Dan Burn had been sent on…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-11-15T23:50:31.000Z",
+   "firstSeen": "2026-11-16T03:34:32.426Z"
+  },
+  {
+   "id": "8a3ac4ecc123",
+   "title": "Football Daily",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pn5rdk",
+   "snippet": "Reaction to England’s 3-2 win over Spain in the Nations League.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-11-15T23:16:00.000Z",
+   "firstSeen": "2026-11-16T03:34:32.426Z"
+  },
+  {
+   "id": "706e4abcf5a0",
+   "title": "Van Bommel: ‘Belgium would score six without Donnarumma, my advice to De Bruyne’",
+   "link": "https://football-italia.net/van-bommel-belgium-donnarumma-de-bruyne/",
+   "snippet": "Mark van Bommel insists Belgium ‘would’ve scored six if not for Gianluigi Donnarumma’ in goal...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-11-15T23:04:17.000Z",
+   "firstSeen": "2026-11-16T03:34:32.426Z"
+  },
+  {
+   "id": "a87e796f6cc0",
+   "title": "Hopkins’ late stunner sends Kansas City past Gotham and into NWSL final",
+   "link": "https://www.theguardian.com/football/2026/nov/15/kansas-city-current-gotham-fc-nwsl-semi-final-haley-hopkins",
+   "snippet": "Hopkins’ 89th-minute volley seals dramatic 2-1 upset Bethune scores stunning free kick against top seeds Current to face Washington Spirit for first NWSL title After a week dominated by a headline-grabbing stadium imbroglio, Gotham FC and…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-11-15T23:03:38.000Z",
+   "firstSeen": "2026-11-16T03:34:32.426Z"
+  },
+  {
+   "id": "546cedbd6d9a",
+   "title": "Donnarumma: ‘Italy paid for exhilarating France win, nobody expected this run’",
+   "link": "https://football-italia.net/donnarumma-italy-paid-exhilarating-france-win/",
+   "snippet": "Gianluigi Donnarumma feels Italy were carrying a hangover from the ‘exhilarating’ victory over France, but...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-11-15T22:46:23.000Z",
+   "firstSeen": "2026-11-16T03:34:32.426Z"
+  },
+  {
+   "id": "99ceeefe6a0c",
+   "title": "Papers: Guardiola to reject USA approach to replace Pochettino",
+   "link": "https://www.skysports.com/football/news/12040/13612630/pep-guardiola-usa-approach-to-replace-mauricio-pochettino-to-be-rejected-by-ex-man-city-boss-paper-talk",
+   "snippet": "The top stories and transfer rumours from Monday's newspapers...",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-11-15T22:45:00.000Z",
+   "firstSeen": "2026-11-16T03:34:32.426Z"
+  },
+  {
+   "id": "75bd7d68ea5a",
+   "title": "Why Italy will be top seeds in EURO 2028 qualifying draw",
+   "link": "https://football-italia.net/italy-top-seeds-euro-2028-qualifying-draw/",
+   "snippet": "Italy did not reach the Nations League quarter-finals, but there is still some good news,...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-11-15T22:28:17.000Z",
+   "firstSeen": "2026-11-16T03:34:32.426Z"
+  },
+  {
+   "id": "0ea54e366609",
+   "title": "Barella: ‘Italy have more regret on first Belgium game, must keep tempo up’",
+   "link": "https://football-italia.net/barella-italy-have-more-regret-first-belgium/",
+   "snippet": "Nicolò Barella insists Italy feel ‘more regret’ over the first Nations League defeat to Belgium...",
+   "source": "Football Italia",
+   "sourceId": "football-italia",
+   "section": "world",
+   "published": "2026-11-15T22:16:43.000Z",
+   "firstSeen": "2026-11-16T03:34:32.426Z"
+  },
+  {
+   "id": "8b4c6264d7c4",
+   "title": "Who swaggered around like he owned the place? Spain v England ratings",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cjg46lrpllrpo",
+   "snippet": "Spanish football reporter Elizabeth Conway and senior football correspondent Sami Mokbel give their player ratings for Spain v England.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-11-15T22:12:55.000Z",
+   "firstSeen": "2026-11-16T03:34:32.426Z"
+  },
+  {
    "id": "bdefa0b73478",
    "title": "London City earn point in thrilling draw against Arsenal",
    "link": "https://www.bbc.co.uk/sport/football/videos/cqy7rd2e400jo",
@@ -43,6 +164,17 @@
    "section": "world",
    "published": "2026-11-15T21:52:59.000Z",
    "firstSeen": "2026-11-15T22:13:22.999Z"
+  },
+  {
+   "id": "ad51fbb371e3",
+   "title": "England talking points: Tuchel learns Argentina lesson as full-backs shine",
+   "link": "https://www.skysports.com/football/news/12040/13612611/spain-2-3-england-talking-points-thomas-tuchel-learns-lessons-from-argentina-as-harry-kane-ben-white-and-lewis-hall-shine",
+   "snippet": "After England beat Spain in their own back yard in a statement result, we look at the main talking points from a memorable moment in Madrid...",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-11-15T21:52:00.000Z",
+   "firstSeen": "2026-11-16T03:34:32.426Z"
   },
   {
    "id": "8045827fbd3f",
@@ -7501,105 +7633,6 @@
    "section": "world",
    "published": "2026-11-09T06:00:00.000Z",
    "firstSeen": "2026-11-10T13:53:49.068Z"
-  },
-  {
-   "id": "7fa6f62323af",
-   "title": "Four 'huge mistakes' that show Man Utd's defensive problems",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c64g1n1wezvyo",
-   "snippet": "After Manchester United consed four preventable goal against Aston Villa in the Premier League Dion Dublin and Leon Osman brake down what is going wrong on Match of the Day.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-11-08T23:53:20.000Z",
-   "firstSeen": "2026-11-09T03:26:08.047Z"
-  },
-  {
-   "id": "456191fac3ea",
-   "title": "Why defenders hate playing against brilliant Brobbey",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c69qz8z2d3yqo",
-   "snippet": "Match of the Day's Dion Dublin breaks down the physical performance of Sunderland striker Brian Brobbey in the Black Cats' 1-0 win over Chelsea.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-11-08T23:53:15.000Z",
-   "firstSeen": "2026-11-09T03:26:08.047Z"
-  },
-  {
-   "id": "f9b8d4bd2764",
-   "title": "'A horrible place to be' - What's gone wrong for Palace?",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cm62ypyydqg4o",
-   "snippet": "Match of the Day's Dion Dublin and Leon Osman discuss the problems that have led to Crystal Palace being bottom of Premier League, after a couple of seasons of unprecedented success for the club.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-premier-league",
-   "section": "premier-league",
-   "published": "2026-11-08T23:53:08.000Z",
-   "firstSeen": "2026-11-09T03:26:08.047Z"
-  },
-  {
-   "id": "786279caa84b",
-   "title": "Barcelona fight back to beat Atleti as Fermin scores twice",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cx1l30319580o",
-   "snippet": "Fermin Lopez scores twice as Barcelona come from behind to claim a gritty win over Atletico Madrid and maintain their advantage at the top of La Liga.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-11-08T23:41:30.000Z",
-   "firstSeen": "2026-11-09T03:26:08.047Z"
-  },
-  {
-   "id": "f918eb274c97",
-   "title": "Rabiot fury at refereeing decision: ‘Lying won’t help, Italian football pays the consequences’",
-   "link": "https://football-italia.net/rabiot-fury-referee-decision-lying-wont-help/",
-   "snippet": "Adrien Rabiot has raged against refereeing decisions after Milan’s 2-1 victory away to Genoa. ‘Mistakes...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-11-08T22:56:38.000Z",
-   "firstSeen": "2026-11-09T03:26:08.047Z"
-  },
-  {
-   "id": "67b3bf5ec05f",
-   "title": "Vanoli: ‘Fiorentina ought to feel angry at 2-2 Juventus draw’",
-   "link": "https://football-italia.net/vanoli-fiorentina-ought-to-feel-angry-juventus/",
-   "snippet": "Paolo Vanoli insists Fiorentina ‘ought to feel angry’ they only drew 2-2 with Juventus after...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-11-08T22:37:46.000Z",
-   "firstSeen": "2026-11-09T03:26:08.047Z"
-  },
-  {
-   "id": "287692d79d60",
-   "title": "Barcelona move clear at the top after Fermín López’s double stuns Atlético Madrid",
-   "link": "https://www.theguardian.com/football/2026/nov/08/atletico-madrid-barcelona-la-liga-match-report",
-   "snippet": "They had been in a battle, they had been behind and they had been on edge, but Barcelona found a way through, holding on to their place at the top of the table and holding the doubts at bay for another day. A fortnight in which they were…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-11-08T22:27:50.000Z",
-   "firstSeen": "2026-11-09T03:26:08.047Z"
-  },
-  {
-   "id": "db231da4d891",
-   "title": "Spalletti: ‘Juventus wallow in doubt and lose confidence’",
-   "link": "https://football-italia.net/spalletti-juventus-wallow-in-doubt-fiorentina/",
-   "snippet": "Luciano Spalletti reiterated Juventus ‘can’t seem to be consistent’ and ‘lose confidence, so we wallow...",
-   "source": "Football Italia",
-   "sourceId": "football-italia",
-   "section": "world",
-   "published": "2026-11-08T22:23:43.000Z",
-   "firstSeen": "2026-11-09T03:26:08.047Z"
-  },
-  {
-   "id": "3cd9eb7111fa",
-   "title": "Falkirk add goals and grit to McGlynn's guile on rapid rise",
-   "link": "https://www.bbc.co.uk/sport/football/articles/crwyd4q0k8ddo",
-   "snippet": "Falkirk continue to excel under the canny guidance of John McGlynn as a run of five successive victories takes them up to third in the Scottish Premiership.",
-   "source": "BBC Sport",
-   "sourceId": "bbc-football",
-   "section": "world",
-   "published": "2026-11-08T22:14:38.000Z",
-   "firstSeen": "2026-11-09T03:26:08.047Z"
   }
  ]
 }
