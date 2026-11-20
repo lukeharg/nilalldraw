@@ -1,6 +1,39 @@
 {
  "stories": [
   {
+   "id": "0451c5b6bf02",
+   "title": "Socceroos’ future looks bright as Australia stun Argentina in U17 World Cup",
+   "link": "https://www.theguardian.com/football/2026/nov/20/joeys-australia-stun-argentina-in-u17-world-cup",
+   "snippet": "Akol Akon sealed a 2-0 win over football powerhouse in Qatar Joeys mark return to tournament for first time in seven years Sydney FC prodigy Akol Akon has demonstrated why he’s one of the most exciting talents in Australian football,…",
+   "source": "The Guardian",
+   "sourceId": "guardian-football",
+   "section": "world",
+   "published": "2026-11-20T01:31:38.000Z",
+   "firstSeen": "2026-11-20T05:47:08.809Z"
+  },
+  {
+   "id": "20213a7f57ef",
+   "title": "Premier League: 10 things to look out for this weekend",
+   "link": "https://www.theguardian.com/football/2026/nov/20/premier-league-10-things-to-look-out-for-this-weekend",
+   "snippet": "Bruno Guimarães to feel the heat on Tyneside, Alex Scott’s return further cheers Cherries and Manchester City face favourite whipping boys After three Premier League defeats on the spin, Manchester City need something or someone to come…",
+   "source": "The Guardian",
+   "sourceId": "guardian-premier-league",
+   "section": "premier-league",
+   "published": "2026-11-20T00:00:15.000Z",
+   "firstSeen": "2026-11-20T05:47:08.809Z"
+  },
+  {
+   "id": "ca1ce2662d11",
+   "title": "Arsenal 'have ingredients' but Europe's elite on another level",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm4gnxz8dvx1o",
+   "snippet": "In a difficult defeat by French giants Lyon, Arsenal were shown the gap they need to bridge to challenge for the Champions League.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-11-19T23:57:54.000Z",
+   "firstSeen": "2026-11-20T05:47:08.809Z"
+  },
+  {
    "id": "b261833c4ce3",
    "title": "Lyon outclass Arsenal for Champions League win",
    "link": "https://www.bbc.co.uk/sport/football/videos/c3dx1n4xp1xxo",
@@ -7358,17 +7391,6 @@
    "section": "world",
    "published": "2026-11-13T06:00:00.000Z",
    "firstSeen": "2026-11-13T13:33:22.668Z"
-  },
-  {
-   "id": "dfb5899beaff",
-   "title": "It’s Happy Harry Kane day as England’s finest seizes his moment in style | Barney Ronay",
-   "link": "https://www.theguardian.com/football/2026/nov/13/happy-harry-kane-day-englands-finest-seizes-his-moment-croatia-nations-league",
-   "snippet": "The Ballon d’Or validated the forward’s career and he extended his incredible record for England with yet another goal on his 126th appearance Happy Harry Kane day! And many happy Harry returns. There is a process in clinical psychology…",
-   "source": "The Guardian",
-   "sourceId": "guardian-football",
-   "section": "world",
-   "published": "2026-11-13T00:01:56.000Z",
-   "firstSeen": "2026-11-13T03:55:21.813Z"
   }
  ]
 }
