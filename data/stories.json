@@ -1,6 +1,17 @@
 {
  "stories": [
   {
+   "id": "020780867fea",
+   "title": "Papers: Osimhen ready to listen to Man Utd offers",
+   "link": "https://www.skysports.com/football/news/12040/13614555/x-paper-talk",
+   "snippet": "The top stories and transfer rumours from Saturday's newspapers...",
+   "source": "Sky Sports",
+   "sourceId": "sky-sports",
+   "section": "world",
+   "published": "2026-11-20T23:30:00.000Z",
+   "firstSeen": "2026-11-21T04:37:31.343Z"
+  },
+  {
    "id": "2d5a84aaaa0a",
    "title": "Cost of Man Utd hiring and firing managers nears £100m",
    "link": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o",
@@ -1407,6 +1418,17 @@
    "section": "world",
    "published": "2026-11-19T18:00:00.000Z",
    "firstSeen": "2026-11-19T23:58:49.287Z"
+  },
+  {
+   "id": "dedf642de316",
+   "title": "All done deals from September-November 2026",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo",
+   "snippet": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+   "source": "BBC Sport",
+   "sourceId": "bbc-football",
+   "section": "world",
+   "published": "2026-11-19T17:54:30.000Z",
+   "firstSeen": "2026-11-21T04:37:31.343Z"
   },
   {
    "id": "4857842566b6",
